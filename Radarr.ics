@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+NAME:Radarr Movies Calendar
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Radarr Movies Calendar
+BEGIN:VEVENT
+CATEGORIES:Universal Pictures
+DESCRIPTION:While vacationing at a remote cabin\, a young girl and her par
+ ents are taken hostage by four armed strangers who demand that the family
+  make an unthinkable choice to avert the apocalypse. With limited access 
+ to the outside world\, the family must decide what they believe before al
+ l is lost.
+DTEND;VALUE=DATE:20230202
+DTSTAMP:20230112T063457Z
+DTSTART;VALUE=DATE:20230201
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Knock at the Cabin (Theatrical Release)
+UID:Radarr_movie_429_cinemas
+END:VEVENT
+END:VCALENDAR
