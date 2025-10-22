@@ -6,6 +6,11 @@
     <description>Recently added Movies 2 from Emby</description>
     <language>en-us</language>
     <item>
+      <title>Test</title>
+      <link>https://blacklungindustries.ddns.net/mattflix//web/index.html#!/item?id=12345</link>
+      <description>Library: Movies 2</description>
+    </item>
+    <item>
       <title>Dogtooth</title>
       <link>https://blacklungindustries.ddns.net/mattflix//web/index.html#!/item?id=248600</link>
       <description>Library: Movies 2</description>
