@@ -3,21 +3,21 @@
   <channel>
     <title>Library: Stand-up</title>
     <link>https://blacklungindustries.ddns.net/mattflix/</link>
-    <description>Recently added Stand-up from Emby</description>
+    <description>Recently added Stand-up from mattflix</description>
     <language>en-us</language>
     <item>
       <title>Shane Gillis: Beautiful Dogs</title>
-      <link>https://blacklungindustries.ddns.net/mattflix//web/index.html#!/item?id=212108</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=212108</link>
       <description>Library: Stand-up</description>
     </item>
     <item>
       <title>DAVE CHAPPELLE: The Dreamer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix//web/index.html#!/item?id=63445</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=63445</link>
       <description>Library: Stand-up</description>
     </item>
     <item>
       <title>Jimmy O. Yang: Good Deal</title>
-      <link>https://blacklungindustries.ddns.net/mattflix//web/index.html#!/item?id=48352</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=48352</link>
       <description>Library: Stand-up</description>
     </item>
   </channel>

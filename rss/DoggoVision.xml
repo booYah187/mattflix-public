@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Library: DoggoVision</title>
+    <link>https://blacklungindustries.ddns.net/mattflix/</link>
+    <description>Recently added DoggoVision from mattflix</description>
+    <language>en-us</language>
+    <item>
+      <title>12 hours of Dogs</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=64093</link>
+      <description>Library: DoggoVision</description>
+    </item>
+    <item>
+      <title>12 hours of Creatures</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=60111</link>
+      <description>Library: DoggoVision</description>
+    </item>
+  </channel>
+</rss>
