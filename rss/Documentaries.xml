@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>New York Presbyterian</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248604</link>
+      <description>Library: Documentaries</description>
+    </item>
+    <item>
       <title>Time Warp: The Greatest Cult Films of All Time</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248392</link>
       <description>Library: Documentaries</description>
@@ -123,11 +128,6 @@
     <item>
       <title>Spotlight on the Troubles: A Secret History</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=217438</link>
-      <description>Library: Documentaries</description>
-    </item>
-    <item>
-      <title>Inmate #1: The Rise of Danny Trejo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=215963</link>
       <description>Library: Documentaries</description>
     </item>
   </channel>
