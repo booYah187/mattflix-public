@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Good Boy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248619</link>
+      <description>Library: Movies</description>
+    </item>
+    <item>
       <title>Dogtooth</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248600</link>
       <description>Library: Movies</description>
@@ -123,11 +128,6 @@
     <item>
       <title>Kill Me Again</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248286</link>
-      <description>Library: Movies</description>
-    </item>
-    <item>
-      <title>HIM</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248280</link>
       <description>Library: Movies</description>
     </item>
   </channel>
