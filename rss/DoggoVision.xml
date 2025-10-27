@@ -2,18 +2,18 @@
 <rss version="2.0">
   <channel>
     <title>Library: DoggoVision</title>
-    <link>https://blacklungindustries.ddns.net/mattflix/</link>
+    <link>https://blacklungindustries.ddns.net/mattflix</link>
     <description>Recently added DoggoVision from mattflix</description>
     <language>en-us</language>
     <item>
       <title>12 hours of Dogs</title>
-      <link>https://blacklungindustries.ddns.net/mattflix//web/index.html#!/item?id=64093</link>
-      <description><![CDATA[Library: DoggoVision -  <img src=https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/12_hours_of_Dogs-poster.jpg alt='12 hours of Dogs poster' />]]></description>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=64093</link>
+      <description><![CDATA[Library: DoggoVision<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/12_hours_of_Dogs-poster.jpg" alt="12 hours of Dogs poster" />]]></description>
     </item>
     <item>
       <title>12 hours of Creatures</title>
-      <link>https://blacklungindustries.ddns.net/mattflix//web/index.html#!/item?id=60111</link>
-      <description><![CDATA[Library: DoggoVision -  <img src=https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/12_hours_of_Creatures-poster.jpg alt='12 hours of Creatures poster' />]]></description>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=60111</link>
+      <description><![CDATA[Library: DoggoVision<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/12_hours_of_Creatures-poster.jpg" alt="12 hours of Creatures poster" />]]></description>
     </item>
   </channel>
 </rss>
