@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Warlock</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248632</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Warlock-poster.jpg" alt="Warlock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098622/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Dogs of War</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248627</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Dogs_of_War-poster.jpg" alt="The Dogs of War poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080641/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Good Boy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248619</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Boy-poster.jpg" alt="Good Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt35521922/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Flypaper</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248292</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Flypaper-poster.jpg" alt="Flypaper poster" /><br/><br/><a href="https://www.imdb.com/title/tt1541160/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Watch the Skies</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248293</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Watch_the_Skies-poster.jpg" alt="Watch the Skies poster" /><br/><br/><a href="https://www.imdb.com/title/tt14807348/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kill Me Again</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248286</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kill_Me_Again-poster.jpg" alt="Kill Me Again poster" /><br/><br/><a href="https://www.imdb.com/title/tt30332302/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
