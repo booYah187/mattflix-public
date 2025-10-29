@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Brothers in Arms</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248641</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brothers_in_Arms-poster.jpg" alt="Brothers in Arms poster" /><br/><br/><a href="https://www.imdb.com/title/tt6111980/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>New York Presbyterian</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248604</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/New_York_Presbyterian-poster.jpg" alt="New York Presbyterian poster" />]]></description>
@@ -124,11 +129,6 @@
       <title>Medieval Times: The Making of Army of Darkness</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=217786</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Medieval_Times_The_Making_of_Army_of_Darkness-poster.jpg" alt="Medieval Times: The Making of Army of Darkness poster" /><br/><br/><a href="https://www.imdb.com/title/tt6071068/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spotlight on the Troubles: A Secret History</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=217438</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spotlight_on_the_Troubles_A_Secret_History-poster.jpg" alt="Spotlight on the Troubles: A Secret History poster" /><br/><br/><a href="https://www.imdb.com/title/tt10934254/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

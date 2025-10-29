@@ -6,6 +6,41 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Heretic</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248671</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Heretic-poster.jpg" alt="Heretic poster" /><br/><br/><a href="https://www.imdb.com/title/tt28015403/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Mind Snatchers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248652</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mind_Snatchers-poster.jpg" alt="The Mind Snatchers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0068677/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Catch-22</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248651</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Catch-22-poster.jpg" alt="Catch-22 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0065528/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Brainstorm</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248650</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brainstorm-poster.jpg" alt="Brainstorm poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085271/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Brothers in Arms</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248641</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brothers_in_Arms-poster.jpg" alt="Brothers in Arms poster" /><br/><br/><a href="https://www.imdb.com/title/tt6111980/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Touch</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248648</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Touch-poster.jpg" alt="Touch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120357/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dark Horse</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248635</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark_Horse-poster.jpg" alt="Dark Horse poster" /><br/><br/><a href="https://www.imdb.com/title/tt1690455/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Warlock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248632</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Warlock-poster.jpg" alt="Warlock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098622/">View on IMDb</a>]]></description>
@@ -469,41 +504,6 @@
       <title>Lemmy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246259</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lemmy-poster.jpg" alt="Lemmy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1236472/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Weapons</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246242</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Weapons-poster.jpg" alt="Weapons poster" /><br/><br/><a href="https://www.imdb.com/title/tt26581740/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nobody 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246169</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nobody_2-poster.jpg" alt="Nobody 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt28996126/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Entourage</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245620</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Entourage-poster.jpg" alt="Entourage poster" /><br/><br/><a href="https://www.imdb.com/title/tt0387199/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Saw IX: Spiral</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245597</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Saw_IX_Spiral-poster.jpg" alt="Saw IX: Spiral poster" /><br/><br/><a href="https://www.imdb.com/title/tt10342730/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Saw V</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245577</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Saw_V-poster.jpg" alt="Saw V poster" /><br/><br/><a href="https://www.imdb.com/title/tt1132626/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Saw III</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245564</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Saw_III-poster.jpg" alt="Saw III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0489270/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Saw</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245553</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Saw-poster.jpg" alt="Saw poster" /><br/><br/><a href="https://www.imdb.com/title/tt0387564/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

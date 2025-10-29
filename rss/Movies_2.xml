@@ -6,6 +6,36 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Heretic</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248671</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Heretic-poster.jpg" alt="Heretic poster" /><br/><br/><a href="https://www.imdb.com/title/tt28015403/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Mind Snatchers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248652</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mind_Snatchers-poster.jpg" alt="The Mind Snatchers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0068677/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Catch-22</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248651</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Catch-22-poster.jpg" alt="Catch-22 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0065528/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Brainstorm</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248650</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brainstorm-poster.jpg" alt="Brainstorm poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085271/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Touch</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248648</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Touch-poster.jpg" alt="Touch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120357/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dark Horse</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248635</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark_Horse-poster.jpg" alt="Dark Horse poster" /><br/><br/><a href="https://www.imdb.com/title/tt1690455/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Warlock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248632</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Warlock-poster.jpg" alt="Warlock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098622/">View on IMDb</a>]]></description>
@@ -99,36 +129,6 @@
       <title>Hallow Road</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248409</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hallow_Road-poster.jpg" alt="Hallow Road poster" /><br/><br/><a href="https://www.imdb.com/title/tt19403516/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Ice Storm</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248399</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Ice_Storm-poster.jpg" alt="The Ice Storm poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119349/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Monster's Ball</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248390</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Monster's_Ball-poster.jpg" alt="Monster's Ball poster" /><br/><br/><a href="https://www.imdb.com/title/tt0285742/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Waiting...</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248371</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Waiting...-poster.jpg" alt="Waiting... poster" /><br/><br/><a href="https://www.imdb.com/title/tt0348333/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Strangers: Chapter 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248366</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Strangers_Chapter_2-poster.jpg" alt="The Strangers: Chapter 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt28671344/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Killing Faith</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248362</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Killing_Faith-poster.jpg" alt="Killing Faith poster" /><br/><br/><a href="https://www.imdb.com/title/tt29101725/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Flypaper</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248292</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Flypaper-poster.jpg" alt="Flypaper poster" /><br/><br/><a href="https://www.imdb.com/title/tt1541160/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
