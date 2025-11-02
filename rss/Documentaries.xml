@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Something from Nothing: The Art of Rap</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248738</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_from_Nothing_The_Art_of_Rap-poster.jpg" alt="Something from Nothing: The Art of Rap poster" /><br/><br/><a href="https://www.imdb.com/title/tt2062996/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Brothers in Arms</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248641</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brothers_in_Arms-poster.jpg" alt="Brothers in Arms poster" /><br/><br/><a href="https://www.imdb.com/title/tt6111980/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Institute</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=217988</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Institute-poster.jpg" alt="The Institute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2386327/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Medieval Times: The Making of Army of Darkness</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=217786</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Medieval_Times_The_Making_of_Army_of_Darkness-poster.jpg" alt="Medieval Times: The Making of Army of Darkness poster" /><br/><br/><a href="https://www.imdb.com/title/tt6071068/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Something from Nothing: The Art of Rap</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248738</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_from_Nothing_The_Art_of_Rap-poster.jpg" alt="Something from Nothing: The Art of Rap poster" /><br/><br/><a href="https://www.imdb.com/title/tt2062996/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Heretic</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248671</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Heretic-poster.jpg" alt="Heretic poster" /><br/><br/><a href="https://www.imdb.com/title/tt28015403/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Eden</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246243</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Eden-poster.jpg" alt="Eden poster" /><br/><br/><a href="https://www.imdb.com/title/tt23149780/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lemmy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246259</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lemmy-poster.jpg" alt="Lemmy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1236472/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
