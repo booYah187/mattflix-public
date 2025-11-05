@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>I Know This Much Is True</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249427</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Know_This_Much_Is_True-poster.jpg" alt="I Know This Much Is True poster" /><br/><br/><a href="https://www.imdb.com/title/tt0425118/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Made For Love</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248179</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Made_For_Love-poster.jpg" alt="Made For Love poster" /><br/><br/><a href="https://www.imdb.com/title/tt7808566/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Tales from the Crypt</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=218005</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tales_from_the_Crypt-poster.jpg" alt="Tales from the Crypt poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096708/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Pantheon</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=217898</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pantheon-poster.jpg" alt="Pantheon poster" /><br/><br/><a href="https://www.imdb.com/title/tt11680642/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
