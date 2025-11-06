@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Lowdown (2025)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249470</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Lowdown_(2025)-poster.jpg" alt="The Lowdown (2025) poster" /><br/><br/><a href="https://www.imdb.com/title/tt31289994/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Black Phone 2</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249467</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Phone_2-poster.jpg" alt="Black Phone 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt29644189/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Primitive War</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248032</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primitive_War-poster.jpg" alt="Primitive War poster" /><br/><br/><a href="https://www.imdb.com/title/tt18312380/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Caught Stealing</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248021</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Caught_Stealing-poster.jpg" alt="Caught Stealing poster" /><br/><br/><a href="https://www.imdb.com/title/tt1493274/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
