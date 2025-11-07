@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Last Rhinos: A New Hope</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249504</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Rhinos_A_New_Hope-poster.jpg" alt="The Last Rhinos: A New Hope poster" /><br/><br/><a href="https://www.imdb.com/title/tt37748266/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Code Is Law</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249501</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Code_Is_Law-poster.jpg" alt="Code Is Law poster" /><br/><br/><a href="https://www.imdb.com/title/tt35931420/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Lowdown (2025)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249470</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Lowdown_(2025)-poster.jpg" alt="The Lowdown (2025) poster" /><br/><br/><a href="https://www.imdb.com/title/tt31289994/">View on IMDb</a>]]></description>
@@ -176,14 +186,14 @@
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Amazing_Spider-Man_2-poster.jpg" alt="The Amazing Spider-Man 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt1872181/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>Iron Man 3</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249038</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Man_3-poster.jpg" alt="Iron Man 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt1300854/">View on IMDb</a>]]></description>
-    </item>
-    <item>
       <title>Thor: The Dark World</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249360</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thor_The_Dark_World-poster.jpg" alt="Thor: The Dark World poster" /><br/><br/><a href="https://www.imdb.com/title/tt1981115/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Iron Man 3</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249038</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Man_3-poster.jpg" alt="Iron Man 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt1300854/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>The Avengers</title>
@@ -494,16 +504,6 @@
       <title>William Tell</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248047</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/William_Tell-poster.jpg" alt="William Tell poster" /><br/><br/><a href="https://www.imdb.com/title/tt22478818/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rabbit Trap</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248043</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rabbit_Trap-poster.jpg" alt="Rabbit Trap poster" /><br/><br/><a href="https://www.imdb.com/title/tt29567402/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Primitive War</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248032</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primitive_War-poster.jpg" alt="Primitive War poster" /><br/><br/><a href="https://www.imdb.com/title/tt18312380/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,16 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Last Rhinos: A New Hope</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249504</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Rhinos_A_New_Hope-poster.jpg" alt="The Last Rhinos: A New Hope poster" /><br/><br/><a href="https://www.imdb.com/title/tt37748266/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Code Is Law</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249501</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Code_Is_Law-poster.jpg" alt="Code Is Law poster" /><br/><br/><a href="https://www.imdb.com/title/tt35931420/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Something from Nothing: The Art of Rap</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248738</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_from_Nothing_The_Art_of_Rap-poster.jpg" alt="Something from Nothing: The Art of Rap poster" /><br/><br/><a href="https://www.imdb.com/title/tt2062996/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Red Army</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243189</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Army-poster.jpg" alt="Red Army poster" /><br/><br/><a href="https://www.imdb.com/title/tt3264102/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Weapon of the 20th Century</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=218308</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Weapon_of_the_20th_Century-poster.jpg" alt="Weapon of the 20th Century poster" /><br/><br/><a href="https://www.imdb.com/title/tt26248952/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Institute</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=217988</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Institute-poster.jpg" alt="The Institute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2386327/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
