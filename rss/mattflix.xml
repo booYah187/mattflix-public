@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Traumatika</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249519</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Traumatika-poster.jpg" alt="Traumatika poster" /><br/><br/><a href="https://www.imdb.com/title/tt32903867/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Good Fortune</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249511</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Fortune-poster.jpg" alt="Good Fortune poster" /><br/><br/><a href="https://www.imdb.com/title/tt27543578/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Frankenstein</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249510</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Frankenstein-poster.jpg" alt="Frankenstein poster" /><br/><br/><a href="https://www.imdb.com/title/tt1312221/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Last Rhinos: A New Hope</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249504</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Rhinos_A_New_Hope-poster.jpg" alt="The Last Rhinos: A New Hope poster" /><br/><br/><a href="https://www.imdb.com/title/tt37748266/">View on IMDb</a>]]></description>
@@ -36,14 +51,14 @@
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Smashing_Machine-poster.jpg" alt="The Smashing Machine poster" /><br/><br/><a href="https://www.imdb.com/title/tt11214558/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>Captain America: Brave New World</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248951</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_America_Brave_New_World-poster.jpg" alt="Captain America: Brave New World poster" /><br/><br/><a href="https://www.imdb.com/title/tt14513804/">View on IMDb</a>]]></description>
-    </item>
-    <item>
       <title>Thunderbolts*</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249361</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thunderbolts*-poster.jpg" alt="Thunderbolts* poster" /><br/><br/><a href="https://www.imdb.com/title/tt20969586/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Captain America: Brave New World</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248951</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_America_Brave_New_World-poster.jpg" alt="Captain America: Brave New World poster" /><br/><br/><a href="https://www.imdb.com/title/tt14513804/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Deadpool &amp; Wolverine</title>
@@ -66,11 +81,6 @@
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ant-Man_and_the_Wasp_Quantumania-poster.jpg" alt="Ant-Man and the Wasp: Quantumania poster" /><br/><br/><a href="https://www.imdb.com/title/tt10954600/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>Doctor Strange in the Multiverse of Madness</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249036</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Doctor_Strange_in_the_Multiverse_of_Madness-poster.jpg" alt="Doctor Strange in the Multiverse of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt9419884/">View on IMDb</a>]]></description>
-    </item>
-    <item>
       <title>Black Panther: Wakanda Forever</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248825</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Panther_Wakanda_Forever-poster.jpg" alt="Black Panther: Wakanda Forever poster" /><br/><br/><a href="https://www.imdb.com/title/tt9114286/">View on IMDb</a>]]></description>
@@ -79,6 +89,11 @@
       <title>Thor: Love and Thunder</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249305</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thor_Love_and_Thunder-poster.jpg" alt="Thor: Love and Thunder poster" /><br/><br/><a href="https://www.imdb.com/title/tt10648342/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Doctor Strange in the Multiverse of Madness</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249036</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Doctor_Strange_in_the_Multiverse_of_Madness-poster.jpg" alt="Doctor Strange in the Multiverse of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt9419884/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Eternals</title>
@@ -166,14 +181,14 @@
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_America_Civil_War-poster.jpg" alt="Captain America: Civil War poster" /><br/><br/><a href="https://www.imdb.com/title/tt3498820/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>Avengers: Age of Ultron</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249214</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Avengers_Age_of_Ultron-poster.jpg" alt="Avengers: Age of Ultron poster" /><br/><br/><a href="https://www.imdb.com/title/tt2395427/">View on IMDb</a>]]></description>
-    </item>
-    <item>
       <title>Ant-Man</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248781</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ant-Man-poster.jpg" alt="Ant-Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0478970/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Avengers: Age of Ultron</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249214</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Avengers_Age_of_Ultron-poster.jpg" alt="Avengers: Age of Ultron poster" /><br/><br/><a href="https://www.imdb.com/title/tt2395427/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Captain America: The Winter Soldier</title>
@@ -489,21 +504,6 @@
       <title>Made For Love</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248179</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Made_For_Love-poster.jpg" alt="Made For Love poster" /><br/><br/><a href="https://www.imdb.com/title/tt7808566/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Trick 'r Treat</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248056</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Trick_'r_Treat-poster.jpg" alt="Trick 'r Treat poster" /><br/><br/><a href="https://www.imdb.com/title/tt0862856/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Conjuring: Last Rites</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248054</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Conjuring_Last_Rites-poster.jpg" alt="The Conjuring: Last Rites poster" /><br/><br/><a href="https://www.imdb.com/title/tt22898462/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>William Tell</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248047</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/William_Tell-poster.jpg" alt="William Tell poster" /><br/><br/><a href="https://www.imdb.com/title/tt22478818/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
