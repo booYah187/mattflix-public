@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bang Bang</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249533</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bang_Bang-poster.jpg" alt="Bang Bang poster" /><br/><br/><a href="https://www.imdb.com/title/tt7132924/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Traumatika</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249519</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Traumatika-poster.jpg" alt="Traumatika poster" /><br/><br/><a href="https://www.imdb.com/title/tt32903867/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Black Panther</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248824</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Panther-poster.jpg" alt="Black Panther poster" /><br/><br/><a href="https://www.imdb.com/title/tt1825683/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ant-Man and the Wasp</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248782</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ant-Man_and_the_Wasp-poster.jpg" alt="Ant-Man and the Wasp poster" /><br/><br/><a href="https://www.imdb.com/title/tt5095030/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

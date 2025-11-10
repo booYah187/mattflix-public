@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Bang Bang</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249533</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bang_Bang-poster.jpg" alt="Bang Bang poster" /><br/><br/><a href="https://www.imdb.com/title/tt7132924/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Traumatika</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249519</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Traumatika-poster.jpg" alt="Traumatika poster" /><br/><br/><a href="https://www.imdb.com/title/tt32903867/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Licorice Pizza</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248176</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Licorice_Pizza-poster.jpg" alt="Licorice Pizza poster" /><br/><br/><a href="https://www.imdb.com/title/tt11271038/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Made For Love</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248179</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Made_For_Love-poster.jpg" alt="Made For Love poster" /><br/><br/><a href="https://www.imdb.com/title/tt7808566/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
