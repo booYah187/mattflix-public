@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Orwell: 2+2=5</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249584</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orwell_2+2=5-poster.jpg" alt="Orwell: 2+2=5 poster" /><br/><br/><a href="https://www.imdb.com/title/tt27052428/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Last Rhinos: A New Hope</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249504</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Rhinos_A_New_Hope-poster.jpg" alt="The Last Rhinos: A New Hope poster" /><br/><br/><a href="https://www.imdb.com/title/tt37748266/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Gilgo Beach Killer: House of Secrets</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243464</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gilgo_Beach_Killer_House_of_Secrets-poster.jpg" alt="The Gilgo Beach Killer: House of Secrets poster" /><br/><br/><a href="https://www.imdb.com/title/tt36884297/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Red Army</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243189</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Army-poster.jpg" alt="Red Army poster" /><br/><br/><a href="https://www.imdb.com/title/tt3264102/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
