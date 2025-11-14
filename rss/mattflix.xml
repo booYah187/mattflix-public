@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>One Battle After Another</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249693</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Battle_After_Another-poster.jpg" alt="One Battle After Another poster" /><br/><br/><a href="https://www.imdb.com/title/tt30144839/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Orwell: 2+2=5</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249584</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orwell_2+2=5-poster.jpg" alt="Orwell: 2+2=5 poster" /><br/><br/><a href="https://www.imdb.com/title/tt27052428/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Labyrinth</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248251</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Labyrinth-poster.jpg" alt="Labyrinth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091369/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Be Water</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248240</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Be_Water-poster.jpg" alt="Be Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt11394168/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

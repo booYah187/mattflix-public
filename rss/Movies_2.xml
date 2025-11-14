@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>One Battle After Another</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249693</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Battle_After_Another-poster.jpg" alt="One Battle After Another poster" /><br/><br/><a href="https://www.imdb.com/title/tt30144839/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Roofman</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249583</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Roofman-poster.jpg" alt="Roofman poster" /><br/><br/><a href="https://www.imdb.com/title/tt4627382/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Once Upon a Deadpool</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249113</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Once_Upon_a_Deadpool-poster.jpg" alt="Once Upon a Deadpool poster" /><br/><br/><a href="https://www.imdb.com/title/tt31050020/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deadpool 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248982</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deadpool_2-poster.jpg" alt="Deadpool 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt5463162/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
