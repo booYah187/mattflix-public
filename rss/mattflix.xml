@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Real Steel</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249694</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Real_Steel-poster.jpg" alt="Real Steel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0433035/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>One Battle After Another</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249693</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Battle_After_Another-poster.jpg" alt="One Battle After Another poster" /><br/><br/><a href="https://www.imdb.com/title/tt30144839/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>ZZ Top: That Little Ol' Band from Texas</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248258</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ZZ_Top_That_Little_Ol'_Band_from_Texas-poster.jpg" alt="ZZ Top: That Little Ol' Band from Texas poster" /><br/><br/><a href="https://www.imdb.com/title/tt9015306/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Labyrinth</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248251</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Labyrinth-poster.jpg" alt="Labyrinth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091369/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

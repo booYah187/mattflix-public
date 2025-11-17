@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Real Steel</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249694</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Real_Steel-poster.jpg" alt="Real Steel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0433035/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>One Battle After Another</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249693</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Battle_After_Another-poster.jpg" alt="One Battle After Another poster" /><br/><br/><a href="https://www.imdb.com/title/tt30144839/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Captain Marvel</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248980</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_Marvel-poster.jpg" alt="Captain Marvel poster" /><br/><br/><a href="https://www.imdb.com/title/tt4154664/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Once Upon a Deadpool</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249113</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Once_Upon_a_Deadpool-poster.jpg" alt="Once Upon a Deadpool poster" /><br/><br/><a href="https://www.imdb.com/title/tt31050020/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
