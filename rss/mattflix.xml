@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>If I Had Legs I’d Kick You</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249712</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/If_I_Had_Legs_I’d_Kick_You-poster.jpg" alt="If I Had Legs I’d Kick You poster" /><br/><br/><a href="https://www.imdb.com/title/tt18382850/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Violent Ends</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249713</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Violent_Ends-poster.jpg" alt="Violent Ends poster" /><br/><br/><a href="https://www.imdb.com/title/tt6902560/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Real Steel</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249694</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Real_Steel-poster.jpg" alt="Real Steel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0433035/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Crime and Punishment</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248277</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crime_and_Punishment-poster.jpg" alt="Crime and Punishment poster" /><br/><br/><a href="https://www.imdb.com/title/tt0064839/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Coherence</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248265</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Coherence-poster.jpg" alt="Coherence poster" /><br/><br/><a href="https://www.imdb.com/title/tt2866360/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>ZZ Top: That Little Ol' Band from Texas</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248258</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ZZ_Top_That_Little_Ol'_Band_from_Texas-poster.jpg" alt="ZZ Top: That Little Ol' Band from Texas poster" /><br/><br/><a href="https://www.imdb.com/title/tt9015306/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>If I Had Legs I’d Kick You</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249712</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/If_I_Had_Legs_I’d_Kick_You-poster.jpg" alt="If I Had Legs I’d Kick You poster" /><br/><br/><a href="https://www.imdb.com/title/tt18382850/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Violent Ends</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249713</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Violent_Ends-poster.jpg" alt="Violent Ends poster" /><br/><br/><a href="https://www.imdb.com/title/tt6902560/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Real Steel</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249694</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Real_Steel-poster.jpg" alt="Real Steel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0433035/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Black Widow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248826</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Widow-poster.jpg" alt="Black Widow poster" /><br/><br/><a href="https://www.imdb.com/title/tt3480822/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Man: Far From Home</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249155</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_Far_From_Home-poster.jpg" alt="Spider-Man: Far From Home poster" /><br/><br/><a href="https://www.imdb.com/title/tt6320628/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Captain Marvel</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248980</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_Marvel-poster.jpg" alt="Captain Marvel poster" /><br/><br/><a href="https://www.imdb.com/title/tt4154664/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
