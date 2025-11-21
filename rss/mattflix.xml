@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Puffin Rock</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249728</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Puffin_Rock-poster.jpg" alt="Puffin Rock poster" /><br/><br/><a href="https://www.imdb.com/title/tt3590338/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>If I Had Legs I’d Kick You</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249712</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/If_I_Had_Legs_I’d_Kick_You-poster.jpg" alt="If I Had Legs I’d Kick You poster" /><br/><br/><a href="https://www.imdb.com/title/tt18382850/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>HIM</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248280</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/HIM-poster.jpg" alt="HIM poster" /><br/><br/><a href="https://www.imdb.com/title/tt20990442/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Crime and Punishment</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248277</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crime_and_Punishment-poster.jpg" alt="Crime and Punishment poster" /><br/><br/><a href="https://www.imdb.com/title/tt0064839/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
