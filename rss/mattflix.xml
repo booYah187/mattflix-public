@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Battle of the Sexes</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249850</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Battle_of_the_Sexes-poster.jpg" alt="Battle of the Sexes poster" /><br/><br/><a href="https://www.imdb.com/title/tt4622512/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Train Dreams</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249849</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Train_Dreams-poster.jpg" alt="Train Dreams poster" /><br/><br/><a href="https://www.imdb.com/title/tt29768334/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Goin' South</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249841</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Goin'_South-poster.jpg" alt="Goin' South poster" /><br/><br/><a href="https://www.imdb.com/title/tt0077621/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Anniversary</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249836</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Anniversary-poster.jpg" alt="Anniversary poster" /><br/><br/><a href="https://www.imdb.com/title/tt12583926/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dope Thief</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249758</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dope_Thief-poster.jpg" alt="Dope Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt21638826/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Puffin Rock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249728</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Puffin_Rock-poster.jpg" alt="Puffin Rock poster" /><br/><br/><a href="https://www.imdb.com/title/tt3590338/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>John Candy: I like Me</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248347</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/John_Candy_I_like_Me-poster.jpg" alt="John Candy: I like Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt26683420/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>DMX: Don't Try to Understand</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248341</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DMX_Don't_Try_to_Understand-poster.jpg" alt="DMX: Don't Try to Understand poster" /><br/><br/><a href="https://www.imdb.com/title/tt11817822/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Flypaper</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248292</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Flypaper-poster.jpg" alt="Flypaper poster" /><br/><br/><a href="https://www.imdb.com/title/tt1541160/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Watch the Skies</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248293</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Watch_the_Skies-poster.jpg" alt="Watch the Skies poster" /><br/><br/><a href="https://www.imdb.com/title/tt14807348/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kill Me Again</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248286</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kill_Me_Again-poster.jpg" alt="Kill Me Again poster" /><br/><br/><a href="https://www.imdb.com/title/tt30332302/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>HIM</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248280</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/HIM-poster.jpg" alt="HIM poster" /><br/><br/><a href="https://www.imdb.com/title/tt20990442/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

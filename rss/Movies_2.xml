@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Battle of the Sexes</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249850</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Battle_of_the_Sexes-poster.jpg" alt="Battle of the Sexes poster" /><br/><br/><a href="https://www.imdb.com/title/tt4622512/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Train Dreams</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249849</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Train_Dreams-poster.jpg" alt="Train Dreams poster" /><br/><br/><a href="https://www.imdb.com/title/tt29768334/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Goin' South</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249841</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Goin'_South-poster.jpg" alt="Goin' South poster" /><br/><br/><a href="https://www.imdb.com/title/tt0077621/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Anniversary</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249836</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Anniversary-poster.jpg" alt="Anniversary poster" /><br/><br/><a href="https://www.imdb.com/title/tt12583926/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>If I Had Legs I’d Kick You</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249712</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/If_I_Had_Legs_I’d_Kick_You-poster.jpg" alt="If I Had Legs I’d Kick You poster" /><br/><br/><a href="https://www.imdb.com/title/tt18382850/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Eternals</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249037</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Eternals-poster.jpg" alt="Eternals poster" /><br/><br/><a href="https://www.imdb.com/title/tt9032400/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Shang-Chi and the Legend of the Ten Rings</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249114</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shang-Chi_and_the_Legend_of_the_Ten_Rings-poster.jpg" alt="Shang-Chi and the Legend of the Ten Rings poster" /><br/><br/><a href="https://www.imdb.com/title/tt9376612/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Venom: Let There Be Carnage</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249363</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Venom_Let_There_Be_Carnage-poster.jpg" alt="Venom: Let There Be Carnage poster" /><br/><br/><a href="https://www.imdb.com/title/tt7097896/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Man: No Way Home</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249186</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_No_Way_Home-poster.jpg" alt="Spider-Man: No Way Home poster" /><br/><br/><a href="https://www.imdb.com/title/tt10872600/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Black Widow</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248826</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Widow-poster.jpg" alt="Black Widow poster" /><br/><br/><a href="https://www.imdb.com/title/tt3480822/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

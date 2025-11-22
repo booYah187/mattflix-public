@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Dope Thief</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249758</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dope_Thief-poster.jpg" alt="Dope Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt21638826/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Lowdown (2025)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249470</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Lowdown_(2025)-poster.jpg" alt="The Lowdown (2025) poster" /><br/><br/><a href="https://www.imdb.com/title/tt31289994/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Drunk History</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243043</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Drunk_History-poster.jpg" alt="Drunk History poster" /><br/><br/><a href="https://www.imdb.com/title/tt2712612/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dispatches from Elsewhere</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=218235</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dispatches_from_Elsewhere-poster.jpg" alt="Dispatches from Elsewhere poster" /><br/><br/><a href="https://www.imdb.com/title/tt8965666/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
