@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Cooties</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249859</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cooties-poster.jpg" alt="Cooties poster" /><br/><br/><a href="https://www.imdb.com/title/tt2490326/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Battle of the Sexes</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249850</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Battle_of_the_Sexes-poster.jpg" alt="Battle of the Sexes poster" /><br/><br/><a href="https://www.imdb.com/title/tt4622512/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Doctor Strange in the Multiverse of Madness</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249036</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Doctor_Strange_in_the_Multiverse_of_Madness-poster.jpg" alt="Doctor Strange in the Multiverse of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt9419884/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Eternals</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249037</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Eternals-poster.jpg" alt="Eternals poster" /><br/><br/><a href="https://www.imdb.com/title/tt9032400/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

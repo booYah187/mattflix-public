@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Cooties</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249859</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cooties-poster.jpg" alt="Cooties poster" /><br/><br/><a href="https://www.imdb.com/title/tt2490326/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Battle of the Sexes</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249850</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Battle_of_the_Sexes-poster.jpg" alt="Battle of the Sexes poster" /><br/><br/><a href="https://www.imdb.com/title/tt4622512/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Genghis Khan: The Secret History of the Mongols</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248353</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Genghis_Khan_The_Secret_History_of_the_Mongols-poster.jpg" alt="Genghis Khan: The Secret History of the Mongols poster" /><br/><br/><a href="https://www.imdb.com/title/tt36118991/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>John Candy: I like Me</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248347</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/John_Candy_I_like_Me-poster.jpg" alt="John Candy: I like Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt26683420/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
