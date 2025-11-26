@@ -6,6 +6,21 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Whole</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249918</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Whole-poster.jpg" alt="Whole poster" /><br/><br/><a href="https://www.imdb.com/title/tt0429245/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Iceman Tapes: Conversations with a Killer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249917</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Iceman_Tapes_Conversations_with_a_Killer-poster.jpg" alt="The Iceman Tapes: Conversations with a Killer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0874289/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Telemarketers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249907</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Telemarketers-poster.jpg" alt="Telemarketers poster" /><br/><br/><a href="https://www.imdb.com/title/tt28498129/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Orwell: 2+2=5</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249584</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orwell_2+2=5-poster.jpg" alt="Orwell: 2+2=5 poster" /><br/><br/><a href="https://www.imdb.com/title/tt27052428/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Space Jump: How Red Bull Stratos Captured The Worlds Attention</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243731</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Space_Jump_How_Red_Bull_Stratos_Captured_The_Worlds_Attention-poster.jpg" alt="Space Jump: How Red Bull Stratos Captured The Worlds Attention poster" />]]></description>
-    </item>
-    <item>
-      <title>Cocaine Bear: The True Story</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243591</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cocaine_Bear_The_True_Story-poster.jpg" alt="Cocaine Bear: The True Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt27508655/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Psycho: The Lost Tapes of Ed Gein</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243480</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Psycho_The_Lost_Tapes_of_Ed_Gein-poster.jpg" alt="Psycho: The Lost Tapes of Ed Gein poster" /><br/><br/><a href="https://www.imdb.com/title/tt27980902/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Gilgo Beach Killer: House of Secrets</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243464</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gilgo_Beach_Killer_House_of_Secrets-poster.jpg" alt="The Gilgo Beach Killer: House of Secrets poster" /><br/><br/><a href="https://www.imdb.com/title/tt36884297/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Conversation</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249922</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Conversation-poster.jpg" alt="The Conversation poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071360/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>No Other Choice</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249901</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/No_Other_Choice-poster.jpg" alt="No Other Choice poster" /><br/><br/><a href="https://www.imdb.com/title/tt1527793/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bugonia</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249900</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bugonia-poster.jpg" alt="Bugonia poster" /><br/><br/><a href="https://www.imdb.com/title/tt12300742/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Cooties</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249859</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cooties-poster.jpg" alt="Cooties poster" /><br/><br/><a href="https://www.imdb.com/title/tt2490326/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Ant-Man and the Wasp: Quantumania</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248783</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ant-Man_and_the_Wasp_Quantumania-poster.jpg" alt="Ant-Man and the Wasp: Quantumania poster" /><br/><br/><a href="https://www.imdb.com/title/tt10954600/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Black Panther: Wakanda Forever</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248825</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Panther_Wakanda_Forever-poster.jpg" alt="Black Panther: Wakanda Forever poster" /><br/><br/><a href="https://www.imdb.com/title/tt9114286/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Thor: Love and Thunder</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249305</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thor_Love_and_Thunder-poster.jpg" alt="Thor: Love and Thunder poster" /><br/><br/><a href="https://www.imdb.com/title/tt10648342/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Doctor Strange in the Multiverse of Madness</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249036</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Doctor_Strange_in_the_Multiverse_of_Madness-poster.jpg" alt="Doctor Strange in the Multiverse of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt9419884/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
