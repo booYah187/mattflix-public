@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Devil</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264084</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil-poster.jpg" alt="Devil poster" /><br/><br/><a href="https://www.imdb.com/title/tt1314655/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Conversation</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249922</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Conversation-poster.jpg" alt="The Conversation poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071360/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Marvels</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249302</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Marvels-poster.jpg" alt="The Marvels poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676048/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ant-Man and the Wasp: Quantumania</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248783</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ant-Man_and_the_Wasp_Quantumania-poster.jpg" alt="Ant-Man and the Wasp: Quantumania poster" /><br/><br/><a href="https://www.imdb.com/title/tt10954600/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
