@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Men</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264394</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men-poster.jpg" alt="Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt13841850/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Devil</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264084</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil-poster.jpg" alt="Devil poster" /><br/><br/><a href="https://www.imdb.com/title/tt1314655/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Venom: The Last Dance</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249364</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Venom_The_Last_Dance-poster.jpg" alt="Venom: The Last Dance poster" /><br/><br/><a href="https://www.imdb.com/title/tt16366836/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Marvels</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249302</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Marvels-poster.jpg" alt="The Marvels poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676048/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

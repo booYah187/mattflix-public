@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264378</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chicago_Bears_The_Super_Bowl_Shuffle_(20th_Anniversary_Collector's_Edition)-poster.jpg" alt="Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition) poster" /><br/><br/><a href="https://www.imdb.com/title/tt35599556/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Whole</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249918</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Whole-poster.jpg" alt="Whole poster" /><br/><br/><a href="https://www.imdb.com/title/tt0429245/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>I Am Evel Knievel</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=244151</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Am_Evel_Knievel-poster.jpg" alt="I Am Evel Knievel poster" /><br/><br/><a href="https://www.imdb.com/title/tt3663644/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Space Jump: How Red Bull Stratos Captured The Worlds Attention</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243731</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Space_Jump_How_Red_Bull_Stratos_Captured_The_Worlds_Attention-poster.jpg" alt="Space Jump: How Red Bull Stratos Captured The Worlds Attention poster" /><br/><br/><a href="https://www.imdb.com/title/tt22479654/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Men</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264394</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men-poster.jpg" alt="Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt13841850/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264378</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chicago_Bears_The_Super_Bowl_Shuffle_(20th_Anniversary_Collector's_Edition)-poster.jpg" alt="Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition) poster" /><br/><br/><a href="https://www.imdb.com/title/tt35599556/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Devil</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264084</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil-poster.jpg" alt="Devil poster" /><br/><br/><a href="https://www.imdb.com/title/tt1314655/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>The Rocky Horror Picture Show</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248469</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rocky_Horror_Picture_Show-poster.jpg" alt="The Rocky Horror Picture Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073629/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hellraiser</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248468</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hellraiser-poster.jpg" alt="Hellraiser poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093177/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hallow Road</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248409</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hallow_Road-poster.jpg" alt="Hallow Road poster" /><br/><br/><a href="https://www.imdb.com/title/tt19403516/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
