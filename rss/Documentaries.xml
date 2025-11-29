@@ -6,23 +6,28 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Prehistoric Planet</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312838</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Prehistoric_Planet-poster.jpg" alt="Prehistoric Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt10324164/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264378</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291405</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chicago_Bears_The_Super_Bowl_Shuffle_(20th_Anniversary_Collector's_Edition)-poster.jpg" alt="Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition) poster" /><br/><br/><a href="https://www.imdb.com/title/tt35599556/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Whole</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249918</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291404</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Whole-poster.jpg" alt="Whole poster" /><br/><br/><a href="https://www.imdb.com/title/tt0429245/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>The Iceman Tapes: Conversations with a Killer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249917</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291403</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Iceman_Tapes_Conversations_with_a_Killer-poster.jpg" alt="The Iceman Tapes: Conversations with a Killer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0874289/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Telemarketers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249907</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291406</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Telemarketers-poster.jpg" alt="Telemarketers poster" /><br/><br/><a href="https://www.imdb.com/title/tt28498129/">View on IMDb</a>]]></description>
     </item>
     <item>
@@ -124,11 +129,6 @@
       <title>The Joy of Painting With Bob Ross</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=244634</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Joy_of_Painting_With_Bob_Ross-poster.jpg" alt="The Joy of Painting With Bob Ross poster" /><br/><br/><a href="https://www.imdb.com/title/tt0383795/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>I Am Evel Knievel</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=244151</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Am_Evel_Knievel-poster.jpg" alt="I Am Evel Knievel poster" /><br/><br/><a href="https://www.imdb.com/title/tt3663644/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

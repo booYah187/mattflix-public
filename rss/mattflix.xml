@@ -6,53 +6,58 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Prehistoric Planet</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312838</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Prehistoric_Planet-poster.jpg" alt="Prehistoric Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt10324164/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264394</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305298</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men-poster.jpg" alt="Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt13841850/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264378</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291405</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chicago_Bears_The_Super_Bowl_Shuffle_(20th_Anniversary_Collector's_Edition)-poster.jpg" alt="Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition) poster" /><br/><br/><a href="https://www.imdb.com/title/tt35599556/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Devil</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=264084</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305297</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil-poster.jpg" alt="Devil poster" /><br/><br/><a href="https://www.imdb.com/title/tt1314655/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>The Conversation</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249922</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305296</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Conversation-poster.jpg" alt="The Conversation poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071360/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Whole</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249918</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291404</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Whole-poster.jpg" alt="Whole poster" /><br/><br/><a href="https://www.imdb.com/title/tt0429245/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>The Iceman Tapes: Conversations with a Killer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249917</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291403</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Iceman_Tapes_Conversations_with_a_Killer-poster.jpg" alt="The Iceman Tapes: Conversations with a Killer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0874289/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Telemarketers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249907</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291406</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Telemarketers-poster.jpg" alt="Telemarketers poster" /><br/><br/><a href="https://www.imdb.com/title/tt28498129/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>No Other Choice</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249901</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305295</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/No_Other_Choice-poster.jpg" alt="No Other Choice poster" /><br/><br/><a href="https://www.imdb.com/title/tt1527793/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Bugonia</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249900</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305294</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bugonia-poster.jpg" alt="Bugonia poster" /><br/><br/><a href="https://www.imdb.com/title/tt12300742/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Cooties</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249859</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305293</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cooties-poster.jpg" alt="Cooties poster" /><br/><br/><a href="https://www.imdb.com/title/tt2490326/">View on IMDb</a>]]></description>
     </item>
     <item>
@@ -499,11 +504,6 @@
       <title>31</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248512</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/31-poster.jpg" alt="31 poster" /><br/><br/><a href="https://www.imdb.com/title/tt3835080/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Rocky Horror Picture Show</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248469</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rocky_Horror_Picture_Show-poster.jpg" alt="The Rocky Horror Picture Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073629/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
