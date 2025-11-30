@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Age of Disclosure </title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312953</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Age_of_Disclosure_-poster.jpg" alt="The Age of Disclosure  poster" /><br/><br/><a href="https://www.imdb.com/title/tt35520315/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Prehistoric Planet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312838</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Prehistoric_Planet-poster.jpg" alt="Prehistoric Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt10324164/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>3 from Hell</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248511</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_from_Hell-poster.jpg" alt="3 from Hell poster" /><br/><br/><a href="https://www.imdb.com/title/tt8134742/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>31</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248512</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/31-poster.jpg" alt="31 poster" /><br/><br/><a href="https://www.imdb.com/title/tt3835080/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

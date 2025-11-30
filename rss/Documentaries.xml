@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Age of Disclosure </title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312953</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Age_of_Disclosure_-poster.jpg" alt="The Age of Disclosure  poster" /><br/><br/><a href="https://www.imdb.com/title/tt35520315/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Prehistoric Planet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312838</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Prehistoric_Planet-poster.jpg" alt="Prehistoric Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt10324164/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Baby Sharks</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245287</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Baby_Sharks-poster.jpg" alt="Baby Sharks poster" /><br/><br/><a href="https://www.imdb.com/title/tt21271008/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Joy of Painting With Bob Ross</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=244634</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Joy_of_Painting_With_Bob_Ross-poster.jpg" alt="The Joy of Painting With Bob Ross poster" /><br/><br/><a href="https://www.imdb.com/title/tt0383795/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
