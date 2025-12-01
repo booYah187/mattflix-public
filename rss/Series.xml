@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Those About to Die</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313023</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Those_About_to_Die-poster.jpg" alt="Those About to Die poster" /><br/><br/><a href="https://www.imdb.com/title/tt10569934/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dope Thief</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249758</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dope_Thief-poster.jpg" alt="Dope Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt21638826/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Looming Tower</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243233</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Looming_Tower-poster.jpg" alt="The Looming Tower poster" /><br/><br/><a href="https://www.imdb.com/title/tt6474236/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Drunk History</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243043</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Drunk_History-poster.jpg" alt="Drunk History poster" /><br/><br/><a href="https://www.imdb.com/title/tt2712612/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
