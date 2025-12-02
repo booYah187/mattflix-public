@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Tron: Ares</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313783</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tron_Ares-poster.jpg" alt="Tron: Ares poster" /><br/><br/><a href="https://www.imdb.com/title/tt6604188/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Formula 51</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313351</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Formula_51-poster.jpg" alt="Formula 51 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0227984/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Violent Ends</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249713</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Violent_Ends-poster.jpg" alt="Violent Ends poster" /><br/><br/><a href="https://www.imdb.com/title/tt6902560/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Real Steel</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249694</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Real_Steel-poster.jpg" alt="Real Steel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0433035/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

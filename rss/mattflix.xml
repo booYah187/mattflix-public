@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Chair Company</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313786</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Chair_Company-poster.jpg" alt="The Chair Company poster" /><br/><br/><a href="https://www.imdb.com/title/tt31987295/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Tron: Ares</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313783</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tron_Ares-poster.jpg" alt="Tron: Ares poster" /><br/><br/><a href="https://www.imdb.com/title/tt6604188/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Formula 51</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313351</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Formula_51-poster.jpg" alt="Formula 51 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0227984/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Warlock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248632</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Warlock-poster.jpg" alt="Warlock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098622/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Dogs of War</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248627</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Dogs_of_War-poster.jpg" alt="The Dogs of War poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080641/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Good Boy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248619</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Boy-poster.jpg" alt="Good Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt35521922/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

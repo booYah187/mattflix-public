@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Chair Company</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313786</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Chair_Company-poster.jpg" alt="The Chair Company poster" /><br/><br/><a href="https://www.imdb.com/title/tt31987295/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Those About to Die</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313023</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Those_About_to_Die-poster.jpg" alt="Those About to Die poster" /><br/><br/><a href="https://www.imdb.com/title/tt10569934/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Studio (2025)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243323</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Studio_(2025)-poster.jpg" alt="The Studio (2025) poster" /><br/><br/><a href="https://www.imdb.com/title/tt23649128/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Looming Tower</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243233</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Looming_Tower-poster.jpg" alt="The Looming Tower poster" /><br/><br/><a href="https://www.imdb.com/title/tt6474236/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
