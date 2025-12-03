@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Howard the Duck</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313798</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Howard_the_Duck-poster.jpg" alt="Howard the Duck poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091225/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Tron: Ares</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313783</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tron_Ares-poster.jpg" alt="Tron: Ares poster" /><br/><br/><a href="https://www.imdb.com/title/tt6604188/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>If I Had Legs I’d Kick You</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249712</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/If_I_Had_Legs_I’d_Kick_You-poster.jpg" alt="If I Had Legs I’d Kick You poster" /><br/><br/><a href="https://www.imdb.com/title/tt18382850/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Violent Ends</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249713</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Violent_Ends-poster.jpg" alt="Violent Ends poster" /><br/><br/><a href="https://www.imdb.com/title/tt6902560/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

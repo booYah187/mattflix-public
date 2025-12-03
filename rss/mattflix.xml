@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Howard the Duck</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313798</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Howard_the_Duck-poster.jpg" alt="Howard the Duck poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091225/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Chair Company</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313786</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Chair_Company-poster.jpg" alt="The Chair Company poster" /><br/><br/><a href="https://www.imdb.com/title/tt31987295/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Dark Horse</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248635</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark_Horse-poster.jpg" alt="Dark Horse poster" /><br/><br/><a href="https://www.imdb.com/title/tt1690455/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Warlock</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248632</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Warlock-poster.jpg" alt="Warlock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098622/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
