@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>A Ghost Story</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313904</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Ghost_Story-poster.jpg" alt="A Ghost Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt6265828/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Ingrid Goes West</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313903</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ingrid_Goes_West-poster.jpg" alt="Ingrid Goes West poster" /><br/><br/><a href="https://www.imdb.com/title/tt5962210/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>It Comes at Night</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313899</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/It_Comes_at_Night-poster.jpg" alt="It Comes at Night poster" /><br/><br/><a href="https://www.imdb.com/title/tt4695012/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Howard the Duck</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313798</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Howard_the_Duck-poster.jpg" alt="Howard the Duck poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091225/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Brainstorm</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248650</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brainstorm-poster.jpg" alt="Brainstorm poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085271/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Brothers in Arms</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248641</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brothers_in_Arms-poster.jpg" alt="Brothers in Arms poster" /><br/><br/><a href="https://www.imdb.com/title/tt6111980/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Touch</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248648</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Touch-poster.jpg" alt="Touch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120357/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dark Horse</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248635</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark_Horse-poster.jpg" alt="Dark Horse poster" /><br/><br/><a href="https://www.imdb.com/title/tt1690455/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

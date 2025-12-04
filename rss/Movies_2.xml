@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>A Ghost Story</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313904</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Ghost_Story-poster.jpg" alt="A Ghost Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt6265828/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Ingrid Goes West</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313903</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ingrid_Goes_West-poster.jpg" alt="Ingrid Goes West poster" /><br/><br/><a href="https://www.imdb.com/title/tt5962210/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>It Comes at Night</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313899</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/It_Comes_at_Night-poster.jpg" alt="It Comes at Night poster" /><br/><br/><a href="https://www.imdb.com/title/tt4695012/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Howard the Duck</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313798</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Howard_the_Duck-poster.jpg" alt="Howard the Duck poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091225/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Train Dreams</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249849</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Train_Dreams-poster.jpg" alt="Train Dreams poster" /><br/><br/><a href="https://www.imdb.com/title/tt29768334/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Goin' South</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249841</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Goin'_South-poster.jpg" alt="Goin' South poster" /><br/><br/><a href="https://www.imdb.com/title/tt0077621/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Anniversary</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249836</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Anniversary-poster.jpg" alt="Anniversary poster" /><br/><br/><a href="https://www.imdb.com/title/tt12583926/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>If I Had Legs I’d Kick You</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249712</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/If_I_Had_Legs_I’d_Kick_You-poster.jpg" alt="If I Had Legs I’d Kick You poster" /><br/><br/><a href="https://www.imdb.com/title/tt18382850/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
