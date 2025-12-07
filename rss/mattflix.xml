@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Musketeers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313962</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Musketeers-poster.jpg" alt="The Musketeers poster" /><br/><br/><a href="https://www.imdb.com/title/tt2733252/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>All Her Fault</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313910</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/All_Her_Fault-poster.jpg" alt="All Her Fault poster" /><br/><br/><a href="https://www.imdb.com/title/tt31314751/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>The Mind Snatchers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248652</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mind_Snatchers-poster.jpg" alt="The Mind Snatchers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0068677/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Catch-22</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248651</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Catch-22-poster.jpg" alt="Catch-22 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0065528/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
