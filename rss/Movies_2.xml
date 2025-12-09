@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Demolition Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314062</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Demolition_Man-poster.jpg" alt="Demolition Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106697/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Ghost Story</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313904</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Ghost_Story-poster.jpg" alt="A Ghost Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt6265828/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Battle of the Sexes</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249850</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Battle_of_the_Sexes-poster.jpg" alt="Battle of the Sexes poster" /><br/><br/><a href="https://www.imdb.com/title/tt4622512/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Train Dreams</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249849</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Train_Dreams-poster.jpg" alt="Train Dreams poster" /><br/><br/><a href="https://www.imdb.com/title/tt29768334/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

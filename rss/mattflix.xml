@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Demolition Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314062</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Demolition_Man-poster.jpg" alt="Demolition Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106697/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Musketeers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313962</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Musketeers-poster.jpg" alt="The Musketeers poster" /><br/><br/><a href="https://www.imdb.com/title/tt2733252/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Heretic</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248671</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Heretic-poster.jpg" alt="Heretic poster" /><br/><br/><a href="https://www.imdb.com/title/tt28015403/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Mind Snatchers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248652</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mind_Snatchers-poster.jpg" alt="The Mind Snatchers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0068677/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
