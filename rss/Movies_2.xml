@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Predator: Badlands</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314072</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator_Badlands-poster.jpg" alt="Predator: Badlands poster" /><br/><br/><a href="https://www.imdb.com/title/tt31227572/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Keeper</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314067</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Keeper-poster.jpg" alt="Keeper poster" /><br/><br/><a href="https://www.imdb.com/title/tt32332404/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Die My Love</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314066</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Die_My_Love-poster.jpg" alt="Die My Love poster" /><br/><br/><a href="https://www.imdb.com/title/tt9362736/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Demolition Man</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314062</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Demolition_Man-poster.jpg" alt="Demolition Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106697/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>No Other Choice</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305295</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/No_Other_Choice-poster.jpg" alt="No Other Choice poster" /><br/><br/><a href="https://www.imdb.com/title/tt1527793/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bugonia</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305294</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bugonia-poster.jpg" alt="Bugonia poster" /><br/><br/><a href="https://www.imdb.com/title/tt12300742/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cooties</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305293</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cooties-poster.jpg" alt="Cooties poster" /><br/><br/><a href="https://www.imdb.com/title/tt2490326/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Battle of the Sexes</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249850</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Battle_of_the_Sexes-poster.jpg" alt="Battle of the Sexes poster" /><br/><br/><a href="https://www.imdb.com/title/tt4622512/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

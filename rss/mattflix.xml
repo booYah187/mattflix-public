@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Predator: Badlands</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314072</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator_Badlands-poster.jpg" alt="Predator: Badlands poster" /><br/><br/><a href="https://www.imdb.com/title/tt31227572/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Keeper</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314067</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Keeper-poster.jpg" alt="Keeper poster" /><br/><br/><a href="https://www.imdb.com/title/tt32332404/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Die My Love</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314066</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Die_My_Love-poster.jpg" alt="Die My Love poster" /><br/><br/><a href="https://www.imdb.com/title/tt9362736/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Demolition Man</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314062</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Demolition_Man-poster.jpg" alt="Demolition Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106697/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Spider-Man 2</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249137</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_2-poster.jpg" alt="Spider-Man 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0316654/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249136</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man-poster.jpg" alt="Spider-Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0145487/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Something from Nothing: The Art of Rap</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248738</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_from_Nothing_The_Art_of_Rap-poster.jpg" alt="Something from Nothing: The Art of Rap poster" /><br/><br/><a href="https://www.imdb.com/title/tt2062996/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Heretic</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248671</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Heretic-poster.jpg" alt="Heretic poster" /><br/><br/><a href="https://www.imdb.com/title/tt28015403/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
