@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Christy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314077</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Christy-poster.jpg" alt="Christy poster" /><br/><br/><a href="https://www.imdb.com/title/tt32323252/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Predator: Badlands</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314072</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator_Badlands-poster.jpg" alt="Predator: Badlands poster" /><br/><br/><a href="https://www.imdb.com/title/tt31227572/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Spider-Man 3</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249154</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_3-poster.jpg" alt="Spider-Man 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0413300/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Man 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249137</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_2-poster.jpg" alt="Spider-Man 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0316654/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
