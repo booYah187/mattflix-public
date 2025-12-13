@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Wake Up Dead Man: A Knives Out Mystery</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314080</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wake_Up_Dead_Man_A_Knives_Out_Mystery-poster.jpg" alt="Wake Up Dead Man: A Knives Out Mystery poster" /><br/><br/><a href="https://www.imdb.com/title/tt14364480/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Christy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314077</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Christy-poster.jpg" alt="Christy poster" /><br/><br/><a href="https://www.imdb.com/title/tt32323252/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Iron Man</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248747</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Man-poster.jpg" alt="Iron Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0371746/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Man 3</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249154</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_3-poster.jpg" alt="Spider-Man 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0413300/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
