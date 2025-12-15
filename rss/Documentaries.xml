@@ -6,6 +6,16 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Rats</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314092</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rats-poster.jpg" alt="Rats poster" /><br/><br/><a href="https://www.imdb.com/title/tt4033926/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Exit Through the Gift Shop</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314088</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Exit_Through_the_Gift_Shop-poster.jpg" alt="Exit Through the Gift Shop poster" /><br/><br/><a href="https://www.imdb.com/title/tt1587707/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Age of Disclosure </title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312953</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Age_of_Disclosure_-poster.jpg" alt="The Age of Disclosure  poster" /><br/><br/><a href="https://www.imdb.com/title/tt35520315/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>The Civil War on Drugs</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246284</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Civil_War_on_Drugs-poster.jpg" alt="The Civil War on Drugs poster" /><br/><br/><a href="https://www.imdb.com/title/tt2316000/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lemmy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246259</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lemmy-poster.jpg" alt="Lemmy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1236472/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Baby Sharks</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245287</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Baby_Sharks-poster.jpg" alt="Baby Sharks poster" /><br/><br/><a href="https://www.imdb.com/title/tt21271008/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

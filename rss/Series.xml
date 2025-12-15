@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>IT: Welcome to Derry</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314130</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/IT_Welcome_to_Derry-poster.jpg" alt="IT: Welcome to Derry poster" /><br/><br/><a href="https://www.imdb.com/title/tt19244304/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Staircase (2022)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314095</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Staircase_(2022)-poster.jpg" alt="The Staircase (2022) poster" /><br/><br/><a href="https://www.imdb.com/title/tt11324406/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Musketeers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313962</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Musketeers-poster.jpg" alt="The Musketeers poster" /><br/><br/><a href="https://www.imdb.com/title/tt2733252/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Billions</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243733</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Billions-poster.jpg" alt="Billions poster" /><br/><br/><a href="https://www.imdb.com/title/tt4270492/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dept. Q</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243691</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dept._Q-poster.jpg" alt="Dept. Q poster" /><br/><br/><a href="https://www.imdb.com/title/tt27995114/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Murderbot</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243655</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Murderbot-poster.jpg" alt="Murderbot poster" /><br/><br/><a href="https://www.imdb.com/title/tt30444310/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

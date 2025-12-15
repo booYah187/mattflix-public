@@ -6,6 +6,36 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>IT: Welcome to Derry</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314130</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/IT_Welcome_to_Derry-poster.jpg" alt="IT: Welcome to Derry poster" /><br/><br/><a href="https://www.imdb.com/title/tt19244304/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rats</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314092</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rats-poster.jpg" alt="Rats poster" /><br/><br/><a href="https://www.imdb.com/title/tt4033926/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Staircase (2022)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314095</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Staircase_(2022)-poster.jpg" alt="The Staircase (2022) poster" /><br/><br/><a href="https://www.imdb.com/title/tt11324406/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Exit Through the Gift Shop</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314088</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Exit_Through_the_Gift_Shop-poster.jpg" alt="Exit Through the Gift Shop poster" /><br/><br/><a href="https://www.imdb.com/title/tt1587707/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Fresh</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314085</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fresh-poster.jpg" alt="Fresh poster" /><br/><br/><a href="https://www.imdb.com/title/tt13403046/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Running Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314081</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Running_Man-poster.jpg" alt="The Running Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt14107334/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Wake Up Dead Man: A Knives Out Mystery</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314080</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wake_Up_Dead_Man_A_Knives_Out_Mystery-poster.jpg" alt="Wake Up Dead Man: A Knives Out Mystery poster" /><br/><br/><a href="https://www.imdb.com/title/tt14364480/">View on IMDb</a>]]></description>
@@ -474,36 +504,6 @@
       <title>The Avengers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249301</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Avengers-poster.jpg" alt="The Avengers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0848228/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Amazing Spider-Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249213</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Amazing_Spider-Man-poster.jpg" alt="The Amazing Spider-Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0948470/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Captain America: The First Avenger</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248827</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_America_The_First_Avenger-poster.jpg" alt="Captain America: The First Avenger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0458339/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Thor</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249303</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thor-poster.jpg" alt="Thor poster" /><br/><br/><a href="https://www.imdb.com/title/tt0800369/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Iron Man 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249039</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Man_2-poster.jpg" alt="Iron Man 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt1228705/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Incredible Hulk</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249215</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Incredible_Hulk-poster.jpg" alt="The Incredible Hulk poster" /><br/><br/><a href="https://www.imdb.com/title/tt0800080/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Iron Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248747</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Man-poster.jpg" alt="Iron Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0371746/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
