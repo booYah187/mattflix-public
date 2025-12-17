@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sisu: Road to Revenge</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314255</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sisu_Road_to_Revenge-poster.jpg" alt="Sisu: Road to Revenge poster" /><br/><br/><a href="https://www.imdb.com/title/tt31844586/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Fresh</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314085</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fresh-poster.jpg" alt="Fresh poster" /><br/><br/><a href="https://www.imdb.com/title/tt13403046/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>X-Men</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313328</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men-poster.jpg" alt="X-Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120903/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Beyond the Law</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312995</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Beyond_the_Law-poster.jpg" alt="Beyond the Law poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103805/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
