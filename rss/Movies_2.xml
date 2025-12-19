@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Thing With Feathers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314258</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing_With_Feathers-poster.jpg" alt="The Thing With Feathers poster" /><br/><br/><a href="https://www.imdb.com/title/tt27773954/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sisu: Road to Revenge</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314255</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sisu_Road_to_Revenge-poster.jpg" alt="Sisu: Road to Revenge poster" /><br/><br/><a href="https://www.imdb.com/title/tt31844586/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>X2</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313076</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X2-poster.jpg" alt="X2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0290334/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X-Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313328</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men-poster.jpg" alt="X-Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120903/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

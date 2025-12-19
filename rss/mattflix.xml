@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Thing With Feathers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314258</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing_With_Feathers-poster.jpg" alt="The Thing With Feathers poster" /><br/><br/><a href="https://www.imdb.com/title/tt27773954/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sisu: Road to Revenge</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314255</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sisu_Road_to_Revenge-poster.jpg" alt="Sisu: Road to Revenge poster" /><br/><br/><a href="https://www.imdb.com/title/tt31844586/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Thor: The Dark World</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249360</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thor_The_Dark_World-poster.jpg" alt="Thor: The Dark World poster" /><br/><br/><a href="https://www.imdb.com/title/tt1981115/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Iron Man 3</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249038</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Man_3-poster.jpg" alt="Iron Man 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt1300854/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
