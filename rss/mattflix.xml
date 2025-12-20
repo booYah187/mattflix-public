@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Mastermind</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314263</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mastermind-poster.jpg" alt="The Mastermind poster" /><br/><br/><a href="https://www.imdb.com/title/tt33455099/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Southpaw</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314262</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Southpaw-poster.jpg" alt="Southpaw poster" /><br/><br/><a href="https://www.imdb.com/title/tt1798684/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Thing With Feathers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314258</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing_With_Feathers-poster.jpg" alt="The Thing With Feathers poster" /><br/><br/><a href="https://www.imdb.com/title/tt27773954/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Captain America: The Winter Soldier</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248828</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_America_The_Winter_Soldier-poster.jpg" alt="Captain America: The Winter Soldier poster" /><br/><br/><a href="https://www.imdb.com/title/tt1843866/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Amazing Spider-Man 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249187</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Amazing_Spider-Man_2-poster.jpg" alt="The Amazing Spider-Man 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt1872181/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Thor: The Dark World</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249360</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thor_The_Dark_World-poster.jpg" alt="Thor: The Dark World poster" /><br/><br/><a href="https://www.imdb.com/title/tt1981115/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

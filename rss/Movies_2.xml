@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Mastermind</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314263</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mastermind-poster.jpg" alt="The Mastermind poster" /><br/><br/><a href="https://www.imdb.com/title/tt33455099/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Southpaw</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314262</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Southpaw-poster.jpg" alt="Southpaw poster" /><br/><br/><a href="https://www.imdb.com/title/tt1798684/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Thing With Feathers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314258</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing_With_Feathers-poster.jpg" alt="The Thing With Feathers poster" /><br/><br/><a href="https://www.imdb.com/title/tt27773954/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>X-Men Origins: Wolverine</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313214</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_Origins_Wolverine-poster.jpg" alt="X-Men Origins: Wolverine poster" /><br/><br/><a href="https://www.imdb.com/title/tt0458525/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X-Men: The Last Stand</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313312</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_The_Last_Stand-poster.jpg" alt="X-Men: The Last Stand poster" /><br/><br/><a href="https://www.imdb.com/title/tt0376994/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313076</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X2-poster.jpg" alt="X2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0290334/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
