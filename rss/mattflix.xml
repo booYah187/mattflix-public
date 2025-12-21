@@ -6,6 +6,51 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Too Cute</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314369</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Cute-poster.jpg" alt="Too Cute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2197519/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>FPS: First Person Shooter</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314274</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/FPS_First_Person_Shooter-poster.jpg" alt="FPS: First Person Shooter poster" /><br/><br/><a href="https://www.imdb.com/title/tt28681130/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Scariest Places in the World</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314276</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scariest_Places_in_the_World-poster.jpg" alt="Scariest Places in the World poster" /><br/><br/><a href="https://www.imdb.com/title/tt28186534/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Story of Super Mario</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314275</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Story_of_Super_Mario-poster.jpg" alt="The Story of Super Mario poster" /><br/><br/><a href="https://www.imdb.com/title/tt36150483/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Alone Australia</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314279</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone_Australia-poster.jpg" alt="Alone Australia poster" /><br/><br/><a href="https://www.imdb.com/title/tt27371519/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Animal Armory</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314278</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Animal_Armory-poster.jpg" alt="Animal Armory poster" /><br/><br/><a href="https://www.imdb.com/title/tt6771036/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Village of the Damned</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314277</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Village_of_the_Damned-poster.jpg" alt="Village of the Damned poster" /><br/><br/><a href="https://www.imdb.com/title/tt7895046/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Top Gun: Maverick</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314271</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Gun_Maverick-poster.jpg" alt="Top Gun: Maverick poster" /><br/><br/><a href="https://www.imdb.com/title/tt1745960/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Top Gun</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314267</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Gun-poster.jpg" alt="Top Gun poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092099/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Mastermind</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314263</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mastermind-poster.jpg" alt="The Mastermind poster" /><br/><br/><a href="https://www.imdb.com/title/tt33455099/">View on IMDb</a>]]></description>
@@ -459,51 +504,6 @@
       <title>Venom</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249362</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Venom-poster.jpg" alt="Venom poster" /><br/><br/><a href="https://www.imdb.com/title/tt1270797/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ant-Man and the Wasp</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248782</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ant-Man_and_the_Wasp-poster.jpg" alt="Ant-Man and the Wasp poster" /><br/><br/><a href="https://www.imdb.com/title/tt5095030/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Thor: Ragnarok</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249304</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thor_Ragnarok-poster.jpg" alt="Thor: Ragnarok poster" /><br/><br/><a href="https://www.imdb.com/title/tt3501632/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Man: Homecoming</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249185</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_Homecoming-poster.jpg" alt="Spider-Man: Homecoming poster" /><br/><br/><a href="https://www.imdb.com/title/tt2250912/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deadpool</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248981</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deadpool-poster.jpg" alt="Deadpool poster" /><br/><br/><a href="https://www.imdb.com/title/tt1431045/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Doctor Strange</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249035</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Doctor_Strange-poster.jpg" alt="Doctor Strange poster" /><br/><br/><a href="https://www.imdb.com/title/tt1211837/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Captain America: Civil War</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248952</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_America_Civil_War-poster.jpg" alt="Captain America: Civil War poster" /><br/><br/><a href="https://www.imdb.com/title/tt3498820/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ant-Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248781</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ant-Man-poster.jpg" alt="Ant-Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0478970/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Avengers: Age of Ultron</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249214</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Avengers_Age_of_Ultron-poster.jpg" alt="Avengers: Age of Ultron poster" /><br/><br/><a href="https://www.imdb.com/title/tt2395427/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Captain America: The Winter Soldier</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248828</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_America_The_Winter_Soldier-poster.jpg" alt="Captain America: The Winter Soldier poster" /><br/><br/><a href="https://www.imdb.com/title/tt1843866/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

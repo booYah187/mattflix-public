@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Too Cute</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314369</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Cute-poster.jpg" alt="Too Cute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2197519/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Puffin Rock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249728</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Puffin_Rock-poster.jpg" alt="Puffin Rock poster" /><br/><br/><a href="https://www.imdb.com/title/tt3590338/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Leo</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=58488</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Leo-poster.jpg" alt="Leo poster" /><br/><br/><a href="https://www.imdb.com/title/tt5755238/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Goosebumps</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=57454</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Goosebumps-poster.jpg" alt="Goosebumps poster" /><br/><br/><a href="https://www.imdb.com/title/tt17720272/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

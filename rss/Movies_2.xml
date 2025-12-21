@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Top Gun: Maverick</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314271</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Gun_Maverick-poster.jpg" alt="Top Gun: Maverick poster" /><br/><br/><a href="https://www.imdb.com/title/tt1745960/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Top Gun</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314267</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Gun-poster.jpg" alt="Top Gun poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092099/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Mastermind</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314263</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mastermind-poster.jpg" alt="The Mastermind poster" /><br/><br/><a href="https://www.imdb.com/title/tt33455099/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>X-Men: First Class</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313212</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_First_Class-poster.jpg" alt="X-Men: First Class poster" /><br/><br/><a href="https://www.imdb.com/title/tt1270798/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Wolverine</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313075</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Wolverine-poster.jpg" alt="The Wolverine poster" /><br/><br/><a href="https://www.imdb.com/title/tt1430132/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X-Men Origins: Wolverine</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313214</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_Origins_Wolverine-poster.jpg" alt="X-Men Origins: Wolverine poster" /><br/><br/><a href="https://www.imdb.com/title/tt0458525/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

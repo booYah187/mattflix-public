@@ -6,6 +6,36 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>FPS: First Person Shooter</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314274</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/FPS_First_Person_Shooter-poster.jpg" alt="FPS: First Person Shooter poster" /><br/><br/><a href="https://www.imdb.com/title/tt28681130/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Scariest Places in the World</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314276</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scariest_Places_in_the_World-poster.jpg" alt="Scariest Places in the World poster" /><br/><br/><a href="https://www.imdb.com/title/tt28186534/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Story of Super Mario</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314275</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Story_of_Super_Mario-poster.jpg" alt="The Story of Super Mario poster" /><br/><br/><a href="https://www.imdb.com/title/tt36150483/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Village of the Damned</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314277</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Village_of_the_Damned-poster.jpg" alt="Village of the Damned poster" /><br/><br/><a href="https://www.imdb.com/title/tt7895046/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Animal Armory</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314278</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Animal_Armory-poster.jpg" alt="Animal Armory poster" /><br/><br/><a href="https://www.imdb.com/title/tt6771036/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Alone Australia</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314279</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone_Australia-poster.jpg" alt="Alone Australia poster" /><br/><br/><a href="https://www.imdb.com/title/tt27371519/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Rats</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314092</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rats-poster.jpg" alt="Rats poster" /><br/><br/><a href="https://www.imdb.com/title/tt4033926/">View on IMDb</a>]]></description>
@@ -99,36 +129,6 @@
       <title>ZZ Top: That Little Ol' Band from Texas</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248258</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ZZ_Top_That_Little_Ol'_Band_from_Texas-poster.jpg" alt="ZZ Top: That Little Ol' Band from Texas poster" /><br/><br/><a href="https://www.imdb.com/title/tt9015306/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Be Water</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248240</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Be_Water-poster.jpg" alt="Be Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt11394168/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ghostheads</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248238</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ghostheads-poster.jpg" alt="Ghostheads poster" /><br/><br/><a href="https://www.imdb.com/title/tt4976984/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>NWA &amp; Eazy-E: The Kings of Compton</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246876</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/NWA_&amp;_Eazy-E_The_Kings_of_Compton-poster.jpg" alt="NWA &amp; Eazy-E: The Kings of Compton poster" /><br/><br/><a href="https://www.imdb.com/title/tt4382650/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Chair</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246872</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Chair-poster.jpg" alt="The Chair poster" />]]></description>
-    </item>
-    <item>
-      <title>Cannibal Island</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246866</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cannibal_Island-poster.jpg" alt="Cannibal Island poster" /><br/><br/><a href="https://www.imdb.com/title/tt2093164/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Civil War on Drugs</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246284</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Civil_War_on_Drugs-poster.jpg" alt="The Civil War on Drugs poster" /><br/><br/><a href="https://www.imdb.com/title/tt2316000/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
