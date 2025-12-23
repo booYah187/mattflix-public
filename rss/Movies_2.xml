@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Batman</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314482</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Batman-poster.jpg" alt="The Batman poster" /><br/><br/><a href="https://www.imdb.com/title/tt1877830/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Night at the Roxbury</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314476</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Night_at_the_Roxbury-poster.jpg" alt="A Night at the Roxbury poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120770/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Nacho Libre</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314474</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nacho_Libre-poster.jpg" alt="Nacho Libre poster" /><br/><br/><a href="https://www.imdb.com/title/tt0457510/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Top Gun: Maverick</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314271</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Gun_Maverick-poster.jpg" alt="Top Gun: Maverick poster" /><br/><br/><a href="https://www.imdb.com/title/tt1745960/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Dark Phoenix</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313074</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark_Phoenix-poster.jpg" alt="Dark Phoenix poster" /><br/><br/><a href="https://www.imdb.com/title/tt6565702/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X-Men: Apocalypse</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313077</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_Apocalypse-poster.jpg" alt="X-Men: Apocalypse poster" /><br/><br/><a href="https://www.imdb.com/title/tt3385516/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X-Men: Days of Future Past</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313211</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_Days_of_Future_Past-poster.jpg" alt="X-Men: Days of Future Past poster" /><br/><br/><a href="https://www.imdb.com/title/tt1877832/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X-Men: First Class</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313212</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_First_Class-poster.jpg" alt="X-Men: First Class poster" /><br/><br/><a href="https://www.imdb.com/title/tt1270798/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

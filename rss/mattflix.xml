@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Batman</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314482</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Batman-poster.jpg" alt="The Batman poster" /><br/><br/><a href="https://www.imdb.com/title/tt1877830/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Night at the Roxbury</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314476</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Night_at_the_Roxbury-poster.jpg" alt="A Night at the Roxbury poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120770/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Nacho Libre</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314474</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nacho_Libre-poster.jpg" alt="Nacho Libre poster" /><br/><br/><a href="https://www.imdb.com/title/tt0457510/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Adult Swim's The Elephant</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314472</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adult_Swim's_The_Elephant-poster.jpg" alt="Adult Swim's The Elephant poster" /><br/><br/><a href="https://www.imdb.com/title/tt39088896/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Too Cute</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314369</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Cute-poster.jpg" alt="Too Cute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2197519/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Captain Marvel</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248980</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_Marvel-poster.jpg" alt="Captain Marvel poster" /><br/><br/><a href="https://www.imdb.com/title/tt4154664/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Once Upon a Deadpool</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249113</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Once_Upon_a_Deadpool-poster.jpg" alt="Once Upon a Deadpool poster" /><br/><br/><a href="https://www.imdb.com/title/tt31050020/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deadpool 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248982</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deadpool_2-poster.jpg" alt="Deadpool 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt5463162/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Black Panther</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248824</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Panther-poster.jpg" alt="Black Panther poster" /><br/><br/><a href="https://www.imdb.com/title/tt1825683/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Venom</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249362</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Venom-poster.jpg" alt="Venom poster" /><br/><br/><a href="https://www.imdb.com/title/tt1270797/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

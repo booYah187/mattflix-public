@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Adult Swim's The Elephant</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314472</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adult_Swim's_The_Elephant-poster.jpg" alt="Adult Swim's The Elephant poster" /><br/><br/><a href="https://www.imdb.com/title/tt39088896/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Too Cute</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314369</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Cute-poster.jpg" alt="Too Cute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2197519/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Night at the Museum</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=58572</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Night_at_the_Museum-poster.jpg" alt="Night at the Museum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0477347/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Leo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=58488</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Leo-poster.jpg" alt="Leo poster" /><br/><br/><a href="https://www.imdb.com/title/tt5755238/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
