@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Nuremberg</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314489</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nuremberg-poster.jpg" alt="Nuremberg poster" /><br/><br/><a href="https://www.imdb.com/title/tt29567915/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Five Nights at Freddy's 2</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314484</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Five_Nights_at_Freddy's_2-poster.jpg" alt="Five Nights at Freddy's 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt30274401/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Batman</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314482</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Batman-poster.jpg" alt="The Batman poster" /><br/><br/><a href="https://www.imdb.com/title/tt1877830/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Black Widow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248826</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Widow-poster.jpg" alt="Black Widow poster" /><br/><br/><a href="https://www.imdb.com/title/tt3480822/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Man: Far From Home</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249155</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_Far_From_Home-poster.jpg" alt="Spider-Man: Far From Home poster" /><br/><br/><a href="https://www.imdb.com/title/tt6320628/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Captain Marvel</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248980</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Captain_Marvel-poster.jpg" alt="Captain Marvel poster" /><br/><br/><a href="https://www.imdb.com/title/tt4154664/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

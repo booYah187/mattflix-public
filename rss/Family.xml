@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Five Nights at Freddy's 2</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314484</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Five_Nights_at_Freddy's_2-poster.jpg" alt="Five Nights at Freddy's 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt30274401/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Adult Swim's The Elephant</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314472</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adult_Swim's_The_Elephant-poster.jpg" alt="Adult Swim's The Elephant poster" /><br/><br/><a href="https://www.imdb.com/title/tt39088896/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Night at the Museum: Battle of the Smithsonian</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=58600</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Night_at_the_Museum_Battle_of_the_Smithsonian-poster.jpg" alt="Night at the Museum: Battle of the Smithsonian poster" /><br/><br/><a href="https://www.imdb.com/title/tt1078912/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Night at the Museum</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=58572</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Night_at_the_Museum-poster.jpg" alt="Night at the Museum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0477347/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

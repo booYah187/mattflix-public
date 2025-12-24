@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Nuremberg</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314489</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nuremberg-poster.jpg" alt="Nuremberg poster" /><br/><br/><a href="https://www.imdb.com/title/tt29567915/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Batman</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314482</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Batman-poster.jpg" alt="The Batman poster" /><br/><br/><a href="https://www.imdb.com/title/tt1877830/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Mystery of Chess Boxing</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313057</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mystery_of_Chess_Boxing-poster.jpg" alt="The Mystery of Chess Boxing poster" /><br/><br/><a href="https://www.imdb.com/title/tt0199813/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dark Phoenix</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313074</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark_Phoenix-poster.jpg" alt="Dark Phoenix poster" /><br/><br/><a href="https://www.imdb.com/title/tt6565702/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
