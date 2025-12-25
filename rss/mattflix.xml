@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>PLUR1BUS</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314493</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/PLUR1BUS-poster.jpg" alt="PLUR1BUS poster" /><br/><br/><a href="https://www.imdb.com/title/tt22202452/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Nuremberg</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314489</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nuremberg-poster.jpg" alt="Nuremberg poster" /><br/><br/><a href="https://www.imdb.com/title/tt29567915/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Spider-Man: No Way Home</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249186</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_No_Way_Home-poster.jpg" alt="Spider-Man: No Way Home poster" /><br/><br/><a href="https://www.imdb.com/title/tt10872600/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Black Widow</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248826</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Widow-poster.jpg" alt="Black Widow poster" /><br/><br/><a href="https://www.imdb.com/title/tt3480822/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
