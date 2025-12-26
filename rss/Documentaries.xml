@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Wu-Tang Clan - Holiday Yule Log (Official Visualizer)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314651</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wu-Tang_Clan_-_Holiday_Yule_Log_(Official_Visualizer)-poster.jpg" alt="Wu-Tang Clan - Holiday Yule Log (Official Visualizer) poster" />]]></description>
+    </item>
+    <item>
       <title>FPS: First Person Shooter</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314274</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/FPS_First_Person_Shooter-poster.jpg" alt="FPS: First Person Shooter poster" /><br/><br/><a href="https://www.imdb.com/title/tt28681130/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>DMX: Don't Try to Understand</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248341</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DMX_Don't_Try_to_Understand-poster.jpg" alt="DMX: Don't Try to Understand poster" /><br/><br/><a href="https://www.imdb.com/title/tt11817822/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>ZZ Top: That Little Ol' Band from Texas</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248258</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ZZ_Top_That_Little_Ol'_Band_from_Texas-poster.jpg" alt="ZZ Top: That Little Ol' Band from Texas poster" /><br/><br/><a href="https://www.imdb.com/title/tt9015306/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

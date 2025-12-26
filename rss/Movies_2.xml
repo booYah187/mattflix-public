@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>When Harry Met Sally…</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314652</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/When_Harry_Met_Sally…-poster.jpg" alt="When Harry Met Sally… poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098635/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Nuremberg</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314489</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nuremberg-poster.jpg" alt="Nuremberg poster" /><br/><br/><a href="https://www.imdb.com/title/tt29567915/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Formula 51</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313351</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Formula_51-poster.jpg" alt="Formula 51 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0227984/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Mystery of Chess Boxing</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313057</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mystery_of_Chess_Boxing-poster.jpg" alt="The Mystery of Chess Boxing poster" /><br/><br/><a href="https://www.imdb.com/title/tt0199813/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

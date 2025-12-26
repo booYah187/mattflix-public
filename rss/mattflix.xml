@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>When Harry Met Sally…</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314652</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/When_Harry_Met_Sally…-poster.jpg" alt="When Harry Met Sally… poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098635/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wu-Tang Clan - Holiday Yule Log (Official Visualizer)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314651</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wu-Tang_Clan_-_Holiday_Yule_Log_(Official_Visualizer)-poster.jpg" alt="Wu-Tang Clan - Holiday Yule Log (Official Visualizer) poster" />]]></description>
+    </item>
+    <item>
       <title>PLUR1BUS</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314493</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/PLUR1BUS-poster.jpg" alt="PLUR1BUS poster" /><br/><br/><a href="https://www.imdb.com/title/tt22202452/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Shang-Chi and the Legend of the Ten Rings</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249114</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shang-Chi_and_the_Legend_of_the_Ten_Rings-poster.jpg" alt="Shang-Chi and the Legend of the Ten Rings poster" /><br/><br/><a href="https://www.imdb.com/title/tt9376612/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Venom: Let There Be Carnage</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249363</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Venom_Let_There_Be_Carnage-poster.jpg" alt="Venom: Let There Be Carnage poster" /><br/><br/><a href="https://www.imdb.com/title/tt7097896/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Man: No Way Home</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249186</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_No_Way_Home-poster.jpg" alt="Spider-Man: No Way Home poster" /><br/><br/><a href="https://www.imdb.com/title/tt10872600/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
