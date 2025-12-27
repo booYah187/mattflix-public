@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sugar (2024)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314806</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugar_(2024)-poster.jpg" alt="Sugar (2024) poster" /><br/><br/><a href="https://www.imdb.com/title/tt16418808/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>I Think You Should Leave with Tim Robinson</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314750</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Think_You_Should_Leave_with_Tim_Robinson-poster.jpg" alt="I Think You Should Leave with Tim Robinson poster" /><br/><br/><a href="https://www.imdb.com/title/tt10050772/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>PLUR1BUS</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314493</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/PLUR1BUS-poster.jpg" alt="PLUR1BUS poster" /><br/><br/><a href="https://www.imdb.com/title/tt22202452/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Smoke (2025)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245132</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Smoke_(2025)-poster.jpg" alt="Smoke (2025) poster" /><br/><br/><a href="https://www.imdb.com/title/tt24163532/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kings</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=244453</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kings-poster.jpg" alt="Kings poster" /><br/><br/><a href="https://www.imdb.com/title/tt1137462/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Check It Out! with Dr. Steve Brule</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243976</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Check_It_Out!_with_Dr._Steve_Brule-poster.jpg" alt="Check It Out! with Dr. Steve Brule poster" /><br/><br/><a href="https://www.imdb.com/title/tt1657563/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

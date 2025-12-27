@@ -6,14 +6,29 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Sugar (2024)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314806</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugar_(2024)-poster.jpg" alt="Sugar (2024) poster" /><br/><br/><a href="https://www.imdb.com/title/tt16418808/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Stoker</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314803</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stoker-poster.jpg" alt="Stoker poster" /><br/><br/><a href="https://www.imdb.com/title/tt1682180/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>I Think You Should Leave with Tim Robinson</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314750</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Think_You_Should_Leave_with_Tim_Robinson-poster.jpg" alt="I Think You Should Leave with Tim Robinson poster" /><br/><br/><a href="https://www.imdb.com/title/tt10050772/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>When Harry Met Sally…</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314652</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/When_Harry_Met_Sally…-poster.jpg" alt="When Harry Met Sally… poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098635/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>Wu-Tang Clan - Holiday Yule Log (Official Visualizer)</title>
+      <title>Wu-Tang Clan - Holiday Yule City</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314651</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wu-Tang_Clan_-_Holiday_Yule_Log_(Official_Visualizer)-poster.jpg" alt="Wu-Tang Clan - Holiday Yule Log (Official Visualizer) poster" />]]></description>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wu-Tang_Clan_-_Holiday_Yule_City-poster.jpg" alt="Wu-Tang Clan - Holiday Yule City poster" />]]></description>
     </item>
     <item>
       <title>PLUR1BUS</title>
@@ -489,21 +504,6 @@
       <title>Thor: Love and Thunder</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249305</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thor_Love_and_Thunder-poster.jpg" alt="Thor: Love and Thunder poster" /><br/><br/><a href="https://www.imdb.com/title/tt10648342/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Doctor Strange in the Multiverse of Madness</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249036</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Doctor_Strange_in_the_Multiverse_of_Madness-poster.jpg" alt="Doctor Strange in the Multiverse of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt9419884/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Eternals</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249037</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Eternals-poster.jpg" alt="Eternals poster" /><br/><br/><a href="https://www.imdb.com/title/tt9032400/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Shang-Chi and the Legend of the Ten Rings</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249114</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shang-Chi_and_the_Legend_of_the_Ten_Rings-poster.jpg" alt="Shang-Chi and the Legend of the Ten Rings poster" /><br/><br/><a href="https://www.imdb.com/title/tt9376612/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
