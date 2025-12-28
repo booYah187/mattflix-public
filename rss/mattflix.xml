@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Harvest</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314865</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harvest-poster.jpg" alt="Harvest poster" /><br/><br/><a href="https://www.imdb.com/title/tt13610344/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Fackham Hall</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314860</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fackham_Hall-poster.jpg" alt="Fackham Hall poster" /><br/><br/><a href="https://www.imdb.com/title/tt29008225/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sugar (2024)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314806</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugar_(2024)-poster.jpg" alt="Sugar (2024) poster" /><br/><br/><a href="https://www.imdb.com/title/tt16418808/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Ant-Man and the Wasp: Quantumania</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248783</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ant-Man_and_the_Wasp_Quantumania-poster.jpg" alt="Ant-Man and the Wasp: Quantumania poster" /><br/><br/><a href="https://www.imdb.com/title/tt10954600/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Black Panther: Wakanda Forever</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248825</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Panther_Wakanda_Forever-poster.jpg" alt="Black Panther: Wakanda Forever poster" /><br/><br/><a href="https://www.imdb.com/title/tt9114286/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Thor: Love and Thunder</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249305</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thor_Love_and_Thunder-poster.jpg" alt="Thor: Love and Thunder poster" /><br/><br/><a href="https://www.imdb.com/title/tt10648342/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Harvest</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314865</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harvest-poster.jpg" alt="Harvest poster" /><br/><br/><a href="https://www.imdb.com/title/tt13610344/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Fackham Hall</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314860</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fackham_Hall-poster.jpg" alt="Fackham Hall poster" /><br/><br/><a href="https://www.imdb.com/title/tt29008225/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Stoker</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314803</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stoker-poster.jpg" alt="Stoker poster" /><br/><br/><a href="https://www.imdb.com/title/tt1682180/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>It Comes at Night</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313899</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/It_Comes_at_Night-poster.jpg" alt="It Comes at Night poster" /><br/><br/><a href="https://www.imdb.com/title/tt4695012/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Howard the Duck</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313798</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Howard_the_Duck-poster.jpg" alt="Howard the Duck poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091225/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tron: Ares</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313783</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tron_Ares-poster.jpg" alt="Tron: Ares poster" /><br/><br/><a href="https://www.imdb.com/title/tt6604188/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
