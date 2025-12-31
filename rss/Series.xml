@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Golden Girls</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314911</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Golden_Girls-poster.jpg" alt="The Golden Girls poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088526/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sugar (2024)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314806</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugar_(2024)-poster.jpg" alt="Sugar (2024) poster" /><br/><br/><a href="https://www.imdb.com/title/tt16418808/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Versailles</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245216</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Versailles-poster.jpg" alt="Versailles poster" /><br/><br/><a href="https://www.imdb.com/title/tt3830558/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Smoke (2025)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245132</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Smoke_(2025)-poster.jpg" alt="Smoke (2025) poster" /><br/><br/><a href="https://www.imdb.com/title/tt24163532/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

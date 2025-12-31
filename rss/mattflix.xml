@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Golden Girls</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314911</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Golden_Girls-poster.jpg" alt="The Golden Girls poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088526/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Paradise Records</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314902</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Paradise_Records-poster.jpg" alt="Paradise Records poster" /><br/><br/><a href="https://www.imdb.com/title/tt35168834/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Harvest</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314865</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harvest-poster.jpg" alt="Harvest poster" /><br/><br/><a href="https://www.imdb.com/title/tt13610344/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Venom: The Last Dance</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249364</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Venom_The_Last_Dance-poster.jpg" alt="Venom: The Last Dance poster" /><br/><br/><a href="https://www.imdb.com/title/tt16366836/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Marvels</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249302</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Marvels-poster.jpg" alt="The Marvels poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676048/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ant-Man and the Wasp: Quantumania</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248783</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ant-Man_and_the_Wasp_Quantumania-poster.jpg" alt="Ant-Man and the Wasp: Quantumania poster" /><br/><br/><a href="https://www.imdb.com/title/tt10954600/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

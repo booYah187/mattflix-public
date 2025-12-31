@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Paradise Records</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314902</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Paradise_Records-poster.jpg" alt="Paradise Records poster" /><br/><br/><a href="https://www.imdb.com/title/tt35168834/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Harvest</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314865</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harvest-poster.jpg" alt="Harvest poster" /><br/><br/><a href="https://www.imdb.com/title/tt13610344/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Ingrid Goes West</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313903</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ingrid_Goes_West-poster.jpg" alt="Ingrid Goes West poster" /><br/><br/><a href="https://www.imdb.com/title/tt5962210/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>It Comes at Night</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313899</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/It_Comes_at_Night-poster.jpg" alt="It Comes at Night poster" /><br/><br/><a href="https://www.imdb.com/title/tt4695012/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
