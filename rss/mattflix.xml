@@ -46,11 +46,6 @@
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/When_Harry_Met_Sally…-poster.jpg" alt="When Harry Met Sally… poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098635/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>Wu-Tang Clan - Holiday Yule City</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314651</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wu-Tang_Clan_-_Holiday_Yule_City-poster.jpg" alt="Wu-Tang Clan - Holiday Yule City poster" />]]></description>
-    </item>
-    <item>
       <title>PLUR1BUS</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314493</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/PLUR1BUS-poster.jpg" alt="PLUR1BUS poster" /><br/><br/><a href="https://www.imdb.com/title/tt22202452/">View on IMDb</a>]]></description>
@@ -504,6 +499,11 @@
       <title>Venom: The Last Dance</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249364</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Venom_The_Last_Dance-poster.jpg" alt="Venom: The Last Dance poster" /><br/><br/><a href="https://www.imdb.com/title/tt16366836/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Marvels</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249302</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Marvels-poster.jpg" alt="The Marvels poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676048/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
