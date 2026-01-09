@@ -6,6 +6,51 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Underworld: Blood Wars</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315676</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Blood_Wars-poster.jpg" alt="Underworld: Blood Wars poster" /><br/><br/><a href="https://www.imdb.com/title/tt3717252/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Underworld: Awakening</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315675</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Awakening-poster.jpg" alt="Underworld: Awakening poster" /><br/><br/><a href="https://www.imdb.com/title/tt1496025/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Underworld: Rise of the Lycans</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315696</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Rise_of_the_Lycans-poster.jpg" alt="Underworld: Rise of the Lycans poster" /><br/><br/><a href="https://www.imdb.com/title/tt0834001/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Underworld: Evolution</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315677</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Evolution-poster.jpg" alt="Underworld: Evolution poster" /><br/><br/><a href="https://www.imdb.com/title/tt0401855/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Underworld</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315674</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld-poster.jpg" alt="Underworld poster" /><br/><br/><a href="https://www.imdb.com/title/tt0320691/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dog Day Afternoon</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315624</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dog_Day_Afternoon-poster.jpg" alt="Dog Day Afternoon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0072890/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Gift</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315623</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gift-poster.jpg" alt="The Gift poster" /><br/><br/><a href="https://www.imdb.com/title/tt4178092/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Hurt Locker</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315622</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hurt_Locker-poster.jpg" alt="The Hurt Locker poster" /><br/><br/><a href="https://www.imdb.com/title/tt0887912/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Arrival</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315621</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Arrival-poster.jpg" alt="Arrival poster" /><br/><br/><a href="https://www.imdb.com/title/tt2543164/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Paradise Records</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314902</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Paradise_Records-poster.jpg" alt="Paradise Records poster" /><br/><br/><a href="https://www.imdb.com/title/tt35168834/">View on IMDb</a>]]></description>
@@ -84,51 +129,6 @@
       <title>Fresh</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314085</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fresh-poster.jpg" alt="Fresh poster" /><br/><br/><a href="https://www.imdb.com/title/tt13403046/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Running Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314081</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Running_Man-poster.jpg" alt="The Running Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt14107334/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wake Up Dead Man: A Knives Out Mystery</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314080</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wake_Up_Dead_Man_A_Knives_Out_Mystery-poster.jpg" alt="Wake Up Dead Man: A Knives Out Mystery poster" /><br/><br/><a href="https://www.imdb.com/title/tt14364480/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Christy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314077</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Christy-poster.jpg" alt="Christy poster" /><br/><br/><a href="https://www.imdb.com/title/tt32323252/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Predator: Badlands</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314072</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator_Badlands-poster.jpg" alt="Predator: Badlands poster" /><br/><br/><a href="https://www.imdb.com/title/tt31227572/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Keeper</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314067</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Keeper-poster.jpg" alt="Keeper poster" /><br/><br/><a href="https://www.imdb.com/title/tt32332404/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Die My Love</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314066</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Die_My_Love-poster.jpg" alt="Die My Love poster" /><br/><br/><a href="https://www.imdb.com/title/tt9362736/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Demolition Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314062</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Demolition_Man-poster.jpg" alt="Demolition Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106697/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Ghost Story</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313904</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Ghost_Story-poster.jpg" alt="A Ghost Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt6265828/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ingrid Goes West</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313903</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ingrid_Goes_West-poster.jpg" alt="Ingrid Goes West poster" /><br/><br/><a href="https://www.imdb.com/title/tt5962210/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
