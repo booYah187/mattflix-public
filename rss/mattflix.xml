@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Dust Bunny</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315798</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dust_Bunny-poster.jpg" alt="Dust Bunny poster" /><br/><br/><a href="https://www.imdb.com/title/tt23172090/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wicked: For Good</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315795</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wicked_For_Good-poster.jpg" alt="Wicked: For Good poster" /><br/><br/><a href="https://www.imdb.com/title/tt19847976/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bohemian Rhapsody</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315792</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bohemian_Rhapsody-poster.jpg" alt="Bohemian Rhapsody poster" /><br/><br/><a href="https://www.imdb.com/title/tt1727824/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>One Battle After Another</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249693</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Battle_After_Another-poster.jpg" alt="One Battle After Another poster" /><br/><br/><a href="https://www.imdb.com/title/tt30144839/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Orwell: 2+2=5</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249584</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orwell_2+2=5-poster.jpg" alt="Orwell: 2+2=5 poster" /><br/><br/><a href="https://www.imdb.com/title/tt27052428/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Roofman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249583</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Roofman-poster.jpg" alt="Roofman poster" /><br/><br/><a href="https://www.imdb.com/title/tt4627382/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

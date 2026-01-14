@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Dust Bunny</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315798</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dust_Bunny-poster.jpg" alt="Dust Bunny poster" /><br/><br/><a href="https://www.imdb.com/title/tt23172090/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wicked: For Good</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315795</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wicked_For_Good-poster.jpg" alt="Wicked: For Good poster" /><br/><br/><a href="https://www.imdb.com/title/tt19847976/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bohemian Rhapsody</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315792</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bohemian_Rhapsody-poster.jpg" alt="Bohemian Rhapsody poster" /><br/><br/><a href="https://www.imdb.com/title/tt1727824/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>A Night at the Roxbury</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314476</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Night_at_the_Roxbury-poster.jpg" alt="A Night at the Roxbury poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120770/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nacho Libre</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314474</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nacho_Libre-poster.jpg" alt="Nacho Libre poster" /><br/><br/><a href="https://www.imdb.com/title/tt0457510/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Top Gun: Maverick</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314271</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Gun_Maverick-poster.jpg" alt="Top Gun: Maverick poster" /><br/><br/><a href="https://www.imdb.com/title/tt1745960/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
