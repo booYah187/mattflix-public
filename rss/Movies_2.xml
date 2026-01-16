@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Society</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315866</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Society-poster.jpg" alt="Society poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098354/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Streets of Fire</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315857</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Streets_of_Fire-poster.jpg" alt="Streets of Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088194/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315855</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Borat_Cultural_Learnings_of_America_for_Make_Benefit_Glorious_Nation_of_Kazakhstan-poster.jpg" alt="Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan poster" /><br/><br/><a href="https://www.imdb.com/title/tt0443453/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dust Bunny</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315798</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dust_Bunny-poster.jpg" alt="Dust Bunny poster" /><br/><br/><a href="https://www.imdb.com/title/tt23172090/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>When Harry Met Sally…</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314652</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/When_Harry_Met_Sally…-poster.jpg" alt="When Harry Met Sally… poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098635/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nuremberg</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314489</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nuremberg-poster.jpg" alt="Nuremberg poster" /><br/><br/><a href="https://www.imdb.com/title/tt29567915/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Batman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314482</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Batman-poster.jpg" alt="The Batman poster" /><br/><br/><a href="https://www.imdb.com/title/tt1877830/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Night at the Roxbury</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314476</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Night_at_the_Roxbury-poster.jpg" alt="A Night at the Roxbury poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120770/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Society</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315866</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Society-poster.jpg" alt="Society poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098354/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Streets of Fire</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315857</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Streets_of_Fire-poster.jpg" alt="Streets of Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088194/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315855</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Borat_Cultural_Learnings_of_America_for_Make_Benefit_Glorious_Nation_of_Kazakhstan-poster.jpg" alt="Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan poster" /><br/><br/><a href="https://www.imdb.com/title/tt0443453/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Da Ali G Show</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315800</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Da_Ali_G_Show-poster.jpg" alt="Da Ali G Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0241088/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dust Bunny</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315798</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dust_Bunny-poster.jpg" alt="Dust Bunny poster" /><br/><br/><a href="https://www.imdb.com/title/tt23172090/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Puffin Rock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249728</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Puffin_Rock-poster.jpg" alt="Puffin Rock poster" /><br/><br/><a href="https://www.imdb.com/title/tt3590338/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>If I Had Legs I’d Kick You</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249712</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/If_I_Had_Legs_I’d_Kick_You-poster.jpg" alt="If I Had Legs I’d Kick You poster" /><br/><br/><a href="https://www.imdb.com/title/tt18382850/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Violent Ends</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249713</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Violent_Ends-poster.jpg" alt="Violent Ends poster" /><br/><br/><a href="https://www.imdb.com/title/tt6902560/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Real Steel</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249694</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Real_Steel-poster.jpg" alt="Real Steel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0433035/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>One Battle After Another</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249693</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Battle_After_Another-poster.jpg" alt="One Battle After Another poster" /><br/><br/><a href="https://www.imdb.com/title/tt30144839/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
