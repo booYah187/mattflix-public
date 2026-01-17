@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Strike</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315986</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Strike-poster.jpg" alt="Strike poster" /><br/><br/><a href="https://www.imdb.com/title/tt4276618/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Nathan for You</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315878</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nathan_for_You-poster.jpg" alt="Nathan for You poster" /><br/><br/><a href="https://www.imdb.com/title/tt2297757/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Da Ali G Show</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315800</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Da_Ali_G_Show-poster.jpg" alt="Da Ali G Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0241088/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Task</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248413</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Task-poster.jpg" alt="Task poster" /><br/><br/><a href="https://www.imdb.com/title/tt28013708/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Whitest Kids U'Know</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246335</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Whitest_Kids_U'Know-poster.jpg" alt="The Whitest Kids U'Know poster" /><br/><br/><a href="https://www.imdb.com/title/tt0840979/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Entourage</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=245620</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Entourage-poster.jpg" alt="Entourage poster" /><br/><br/><a href="https://www.imdb.com/title/tt0387199/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

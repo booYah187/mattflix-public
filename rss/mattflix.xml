@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Strike</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315986</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Strike-poster.jpg" alt="Strike poster" /><br/><br/><a href="https://www.imdb.com/title/tt4276618/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Nathan for You</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315878</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nathan_for_You-poster.jpg" alt="Nathan for You poster" /><br/><br/><a href="https://www.imdb.com/title/tt2297757/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Society</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315866</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Society-poster.jpg" alt="Society poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098354/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Anniversary</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249836</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Anniversary-poster.jpg" alt="Anniversary poster" /><br/><br/><a href="https://www.imdb.com/title/tt12583926/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dope Thief</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249758</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dope_Thief-poster.jpg" alt="Dope Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt21638826/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Puffin Rock</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249728</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Puffin_Rock-poster.jpg" alt="Puffin Rock poster" /><br/><br/><a href="https://www.imdb.com/title/tt3590338/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
