@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Only the Lonely</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316098</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Only_the_Lonely-poster.jpg" alt="Only the Lonely poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102598/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Society</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315866</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Society-poster.jpg" alt="Society poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098354/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Stoker</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314803</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stoker-poster.jpg" alt="Stoker poster" /><br/><br/><a href="https://www.imdb.com/title/tt1682180/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>When Harry Met Sally…</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314652</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/When_Harry_Met_Sally…-poster.jpg" alt="When Harry Met Sally… poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098635/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
