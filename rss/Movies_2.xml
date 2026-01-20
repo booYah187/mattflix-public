@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Marshmallow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316103</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marshmallow-poster.jpg" alt="Marshmallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt15220066/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Only the Lonely</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316098</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Only_the_Lonely-poster.jpg" alt="Only the Lonely poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102598/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Fackham Hall</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314860</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fackham_Hall-poster.jpg" alt="Fackham Hall poster" /><br/><br/><a href="https://www.imdb.com/title/tt29008225/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Stoker</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314803</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stoker-poster.jpg" alt="Stoker poster" /><br/><br/><a href="https://www.imdb.com/title/tt1682180/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

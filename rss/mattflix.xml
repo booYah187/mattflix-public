@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Marshmallow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316103</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marshmallow-poster.jpg" alt="Marshmallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt15220066/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Only the Lonely</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316098</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Only_the_Lonely-poster.jpg" alt="Only the Lonely poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102598/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Train Dreams</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249849</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Train_Dreams-poster.jpg" alt="Train Dreams poster" /><br/><br/><a href="https://www.imdb.com/title/tt29768334/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Goin' South</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249841</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Goin'_South-poster.jpg" alt="Goin' South poster" /><br/><br/><a href="https://www.imdb.com/title/tt0077621/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
