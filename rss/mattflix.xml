@@ -6,6 +6,36 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Dolores Claiborne</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316233</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dolores_Claiborne-poster.jpg" alt="Dolores Claiborne poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109642/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dogfight</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316218</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dogfight-poster.jpg" alt="Dogfight poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101748/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Perfect World</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316211</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Perfect_World-poster.jpg" alt="A Perfect World poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107808/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Showgirls</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316192</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Showgirls-poster.jpg" alt="Showgirls poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114436/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Leaving Las Vegas</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316191</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Leaving_Las_Vegas-poster.jpg" alt="Leaving Las Vegas poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113627/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Last Viking</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316188</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Viking-poster.jpg" alt="The Last Viking poster" /><br/><br/><a href="https://www.imdb.com/title/tt27817389/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Manhunter</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316185</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Manhunter-poster.jpg" alt="Manhunter poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091474/">View on IMDb</a>]]></description>
@@ -474,36 +504,6 @@
       <title>X2</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313076</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X2-poster.jpg" alt="X2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0290334/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X-Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313328</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men-poster.jpg" alt="X-Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120903/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Beyond the Law</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312995</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Beyond_the_Law-poster.jpg" alt="Beyond the Law poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103805/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Age of Disclosure </title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312953</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Age_of_Disclosure_-poster.jpg" alt="The Age of Disclosure  poster" /><br/><br/><a href="https://www.imdb.com/title/tt35520315/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Prehistoric Planet</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312838</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Prehistoric_Planet-poster.jpg" alt="Prehistoric Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt10324164/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=305298</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men-poster.jpg" alt="Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt13841850/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291405</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chicago_Bears_The_Super_Bowl_Shuffle_(20th_Anniversary_Collector's_Edition)-poster.jpg" alt="Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition) poster" /><br/><br/><a href="https://www.imdb.com/title/tt35599556/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
