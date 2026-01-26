@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Not Another Teen Movie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316308</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Not_Another_Teen_Movie-poster.jpg" alt="Not Another Teen Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0277371/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Can't Hardly Wait</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316302</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Can't_Hardly_Wait-poster.jpg" alt="Can't Hardly Wait poster" /><br/><br/><a href="https://www.imdb.com/title/tt0127723/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dolores Claiborne</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316233</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dolores_Claiborne-poster.jpg" alt="Dolores Claiborne poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109642/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Wicked: For Good</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315795</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wicked_For_Good-poster.jpg" alt="Wicked: For Good poster" /><br/><br/><a href="https://www.imdb.com/title/tt19847976/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bohemian Rhapsody</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315792</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bohemian_Rhapsody-poster.jpg" alt="Bohemian Rhapsody poster" /><br/><br/><a href="https://www.imdb.com/title/tt1727824/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Austin Powers in Goldmember</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315769</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Austin_Powers_in_Goldmember-poster.jpg" alt="Austin Powers in Goldmember poster" /><br/><br/><a href="https://www.imdb.com/title/tt0295178/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

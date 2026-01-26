@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Not Another Teen Movie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316308</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Not_Another_Teen_Movie-poster.jpg" alt="Not Another Teen Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0277371/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Can't Hardly Wait</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316302</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Can't_Hardly_Wait-poster.jpg" alt="Can't Hardly Wait poster" /><br/><br/><a href="https://www.imdb.com/title/tt0127723/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dolores Claiborne</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316233</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dolores_Claiborne-poster.jpg" alt="Dolores Claiborne poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109642/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>X-Men Origins: Wolverine</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313214</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_Origins_Wolverine-poster.jpg" alt="X-Men Origins: Wolverine poster" /><br/><br/><a href="https://www.imdb.com/title/tt0458525/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X-Men: The Last Stand</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313312</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_The_Last_Stand-poster.jpg" alt="X-Men: The Last Stand poster" /><br/><br/><a href="https://www.imdb.com/title/tt0376994/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313076</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X2-poster.jpg" alt="X2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0290334/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
