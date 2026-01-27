@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Franz Kafka</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316337</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Franz_Kafka-poster.jpg" alt="Franz Kafka poster" /><br/><br/><a href="https://www.imdb.com/title/tt17070412/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Not Another Teen Movie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316308</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Not_Another_Teen_Movie-poster.jpg" alt="Not Another Teen Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0277371/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Dust Bunny</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315798</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dust_Bunny-poster.jpg" alt="Dust Bunny poster" /><br/><br/><a href="https://www.imdb.com/title/tt23172090/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wicked: For Good</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315795</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wicked_For_Good-poster.jpg" alt="Wicked: For Good poster" /><br/><br/><a href="https://www.imdb.com/title/tt19847976/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

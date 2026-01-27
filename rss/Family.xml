@@ -6,6 +6,16 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Zootopia 2</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316382</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zootopia_2-poster.jpg" alt="Zootopia 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt26443597/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Holes</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316361</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Holes-poster.jpg" alt="Holes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0311289/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Five Nights at Freddy's 2</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314484</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Five_Nights_at_Freddy's_2-poster.jpg" alt="Five Nights at Freddy's 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt30274401/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Total Drama Island</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=59322</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Total_Drama_Island-poster.jpg" alt="Total Drama Island poster" /><br/><br/><a href="https://www.imdb.com/title/tt1173427/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Night at the Museum: Secret of the Tomb</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=58601</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Night_at_the_Museum_Secret_of_the_Tomb-poster.jpg" alt="Night at the Museum: Secret of the Tomb poster" /><br/><br/><a href="https://www.imdb.com/title/tt2692250/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Night at the Museum: Battle of the Smithsonian</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=58600</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Night_at_the_Museum_Battle_of_the_Smithsonian-poster.jpg" alt="Night at the Museum: Battle of the Smithsonian poster" /><br/><br/><a href="https://www.imdb.com/title/tt1078912/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
