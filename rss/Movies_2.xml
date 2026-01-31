@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Best in Show</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316583</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Best_in_Show-poster.jpg" alt="Best in Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0218839/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Running Scared</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316503</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Running_Scared-poster.jpg" alt="Running Scared poster" /><br/><br/><a href="https://www.imdb.com/title/tt0404390/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Dogfight</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316218</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dogfight-poster.jpg" alt="Dogfight poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101748/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Perfect World</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316211</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Perfect_World-poster.jpg" alt="A Perfect World poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107808/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

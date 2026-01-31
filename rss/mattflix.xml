@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Best in Show</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316583</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Best_in_Show-poster.jpg" alt="Best in Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0218839/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Free Bert</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316569</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Free_Bert-poster.jpg" alt="Free Bert poster" /><br/><br/><a href="https://www.imdb.com/title/tt37449205/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Running Scared</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316503</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Running_Scared-poster.jpg" alt="Running Scared poster" /><br/><br/><a href="https://www.imdb.com/title/tt0404390/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Fresh</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314085</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fresh-poster.jpg" alt="Fresh poster" /><br/><br/><a href="https://www.imdb.com/title/tt13403046/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Running Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314081</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Running_Man-poster.jpg" alt="The Running Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt14107334/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wake Up Dead Man: A Knives Out Mystery</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314080</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wake_Up_Dead_Man_A_Knives_Out_Mystery-poster.jpg" alt="Wake Up Dead Man: A Knives Out Mystery poster" /><br/><br/><a href="https://www.imdb.com/title/tt14364480/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
