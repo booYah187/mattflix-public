@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bulworth</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316657</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bulworth-poster.jpg" alt="Bulworth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118798/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cabin Fever</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316601</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cabin_Fever-poster.jpg" alt="Cabin Fever poster" /><br/><br/><a href="https://www.imdb.com/title/tt0303816/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Harrison Bergeron</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316598</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harrison_Bergeron-poster.jpg" alt="Harrison Bergeron poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113264/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Best in Show</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316583</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Best_in_Show-poster.jpg" alt="Best in Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0218839/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Not Another Teen Movie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316308</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Not_Another_Teen_Movie-poster.jpg" alt="Not Another Teen Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0277371/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Can't Hardly Wait</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316302</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Can't_Hardly_Wait-poster.jpg" alt="Can't Hardly Wait poster" /><br/><br/><a href="https://www.imdb.com/title/tt0127723/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dolores Claiborne</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316233</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dolores_Claiborne-poster.jpg" alt="Dolores Claiborne poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109642/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dogfight</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316218</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dogfight-poster.jpg" alt="Dogfight poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101748/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

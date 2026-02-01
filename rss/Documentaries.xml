@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Miracle: The Boys of '80</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316595</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_The_Boys_of_'80-poster.jpg" alt="Miracle: The Boys of '80 poster" /><br/><br/><a href="https://www.imdb.com/title/tt39320452/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>FPS: First Person Shooter</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314274</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/FPS_First_Person_Shooter-poster.jpg" alt="FPS: First Person Shooter poster" /><br/><br/><a href="https://www.imdb.com/title/tt28681130/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>ZZ Top: That Little Ol' Band from Texas</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248258</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ZZ_Top_That_Little_Ol'_Band_from_Texas-poster.jpg" alt="ZZ Top: That Little Ol' Band from Texas poster" /><br/><br/><a href="https://www.imdb.com/title/tt9015306/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Be Water</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248240</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Be_Water-poster.jpg" alt="Be Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt11394168/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

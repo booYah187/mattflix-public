@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Bulworth</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316657</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bulworth-poster.jpg" alt="Bulworth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118798/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cabin Fever</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316601</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cabin_Fever-poster.jpg" alt="Cabin Fever poster" /><br/><br/><a href="https://www.imdb.com/title/tt0303816/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Harrison Bergeron</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316598</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harrison_Bergeron-poster.jpg" alt="Harrison Bergeron poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113264/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Miracle: The Boys of '80</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316595</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_The_Boys_of_'80-poster.jpg" alt="Miracle: The Boys of '80 poster" /><br/><br/><a href="https://www.imdb.com/title/tt39320452/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Best in Show</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316583</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Best_in_Show-poster.jpg" alt="Best in Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0218839/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>IT: Welcome to Derry</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314130</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/IT_Welcome_to_Derry-poster.jpg" alt="IT: Welcome to Derry poster" /><br/><br/><a href="https://www.imdb.com/title/tt19244304/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rats</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314092</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rats-poster.jpg" alt="Rats poster" /><br/><br/><a href="https://www.imdb.com/title/tt4033926/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Staircase (2022)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314095</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Staircase_(2022)-poster.jpg" alt="The Staircase (2022) poster" /><br/><br/><a href="https://www.imdb.com/title/tt11324406/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Exit Through the Gift Shop</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314088</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Exit_Through_the_Gift_Shop-poster.jpg" alt="Exit Through the Gift Shop poster" /><br/><br/><a href="https://www.imdb.com/title/tt1587707/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Fresh</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314085</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fresh-poster.jpg" alt="Fresh poster" /><br/><br/><a href="https://www.imdb.com/title/tt13403046/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
