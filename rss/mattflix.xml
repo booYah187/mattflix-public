@@ -6,6 +6,56 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Hammer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316755</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hammer-poster.jpg" alt="The Hammer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0814130/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Orange County</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316749</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orange_County-poster.jpg" alt="Orange County poster" /><br/><br/><a href="https://www.imdb.com/title/tt0273923/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Submarine</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316737</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Submarine-poster.jpg" alt="Submarine poster" /><br/><br/><a href="https://www.imdb.com/title/tt1440292/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dirty Work</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316708</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dirty_Work-poster.jpg" alt="Dirty Work poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120654/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bio-Dome</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316707</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bio-Dome-poster.jpg" alt="Bio-Dome poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115683/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>24 Hour Party People</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316690</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/24_Hour_Party_People-poster.jpg" alt="24 Hour Party People poster" /><br/><br/><a href="https://www.imdb.com/title/tt0274309/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Control</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316679</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Control-poster.jpg" alt="Control poster" /><br/><br/><a href="https://www.imdb.com/title/tt0421082/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mystery Men</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316678</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mystery_Men-poster.jpg" alt="Mystery Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0132347/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Longest Yard</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316668</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Longest_Yard-poster.jpg" alt="The Longest Yard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0398165/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bulletproof</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316665</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bulletproof-poster.jpg" alt="Bulletproof poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115783/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bulworth</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316657</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bulworth-poster.jpg" alt="Bulworth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118798/">View on IMDb</a>]]></description>
@@ -454,56 +504,6 @@
       <title>The Story of Super Mario</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314275</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Story_of_Super_Mario-poster.jpg" alt="The Story of Super Mario poster" /><br/><br/><a href="https://www.imdb.com/title/tt36150483/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Alone Australia</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314279</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone_Australia-poster.jpg" alt="Alone Australia poster" /><br/><br/><a href="https://www.imdb.com/title/tt27371519/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Animal Armory</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314278</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Animal_Armory-poster.jpg" alt="Animal Armory poster" /><br/><br/><a href="https://www.imdb.com/title/tt6771036/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Village of the Damned</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314277</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Village_of_the_Damned-poster.jpg" alt="Village of the Damned poster" /><br/><br/><a href="https://www.imdb.com/title/tt7895046/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Top Gun: Maverick</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314271</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Gun_Maverick-poster.jpg" alt="Top Gun: Maverick poster" /><br/><br/><a href="https://www.imdb.com/title/tt1745960/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Top Gun</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314267</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Gun-poster.jpg" alt="Top Gun poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092099/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Mastermind</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314263</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mastermind-poster.jpg" alt="The Mastermind poster" /><br/><br/><a href="https://www.imdb.com/title/tt33455099/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Southpaw</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314262</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Southpaw-poster.jpg" alt="Southpaw poster" /><br/><br/><a href="https://www.imdb.com/title/tt1798684/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Thing With Feathers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314258</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing_With_Feathers-poster.jpg" alt="The Thing With Feathers poster" /><br/><br/><a href="https://www.imdb.com/title/tt27773954/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sisu: Road to Revenge</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314255</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sisu_Road_to_Revenge-poster.jpg" alt="Sisu: Road to Revenge poster" /><br/><br/><a href="https://www.imdb.com/title/tt31844586/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>IT: Welcome to Derry</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314130</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/IT_Welcome_to_Derry-poster.jpg" alt="IT: Welcome to Derry poster" /><br/><br/><a href="https://www.imdb.com/title/tt19244304/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

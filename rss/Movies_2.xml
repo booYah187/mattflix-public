@@ -6,6 +6,56 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Hammer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316755</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hammer-poster.jpg" alt="The Hammer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0814130/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Orange County</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316749</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orange_County-poster.jpg" alt="Orange County poster" /><br/><br/><a href="https://www.imdb.com/title/tt0273923/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Submarine</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316737</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Submarine-poster.jpg" alt="Submarine poster" /><br/><br/><a href="https://www.imdb.com/title/tt1440292/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dirty Work</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316708</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dirty_Work-poster.jpg" alt="Dirty Work poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120654/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bio-Dome</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316707</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bio-Dome-poster.jpg" alt="Bio-Dome poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115683/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>24 Hour Party People</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316690</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/24_Hour_Party_People-poster.jpg" alt="24 Hour Party People poster" /><br/><br/><a href="https://www.imdb.com/title/tt0274309/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Control</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316679</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Control-poster.jpg" alt="Control poster" /><br/><br/><a href="https://www.imdb.com/title/tt0421082/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mystery Men</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316678</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mystery_Men-poster.jpg" alt="Mystery Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0132347/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Longest Yard</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316668</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Longest_Yard-poster.jpg" alt="The Longest Yard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0398165/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bulletproof</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316665</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bulletproof-poster.jpg" alt="Bulletproof poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115783/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bulworth</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316657</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bulworth-poster.jpg" alt="Bulworth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118798/">View on IMDb</a>]]></description>
@@ -79,56 +129,6 @@
       <title>Rambo</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316441</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rambo-poster.jpg" alt="Rambo poster" /><br/><br/><a href="https://www.imdb.com/title/tt0462499/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cop Land</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316440</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cop_Land-poster.jpg" alt="Cop Land poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118887/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>City Slickers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316430</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/City_Slickers-poster.jpg" alt="City Slickers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101587/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hunter</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316429</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hunter-poster.jpg" alt="The Hunter poster" /><br/><br/><a href="https://www.imdb.com/title/tt1703148/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hurricane</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316394</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hurricane-poster.jpg" alt="The Hurricane poster" /><br/><br/><a href="https://www.imdb.com/title/tt0174856/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Men in Black</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316393</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men_in_Black-poster.jpg" alt="Men in Black poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119654/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Few Good Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316391</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Few_Good_Men-poster.jpg" alt="A Few Good Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104257/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Midnight Run</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316390</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Midnight_Run-poster.jpg" alt="Midnight Run poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095631/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Anaconda</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316386</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Anaconda-poster.jpg" alt="Anaconda poster" /><br/><br/><a href="https://www.imdb.com/title/tt33244668/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Franz Kafka</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316337</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Franz_Kafka-poster.jpg" alt="Franz Kafka poster" /><br/><br/><a href="https://www.imdb.com/title/tt17070412/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Not Another Teen Movie</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316308</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Not_Another_Teen_Movie-poster.jpg" alt="Not Another Teen Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0277371/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
