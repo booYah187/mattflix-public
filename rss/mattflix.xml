@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Housemaid</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316783</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Housemaid-poster.jpg" alt="The Housemaid poster" /><br/><br/><a href="https://www.imdb.com/title/tt27543632/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>As the Crow Flies</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316777</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/As_the_Crow_Flies-poster.jpg" alt="As the Crow Flies poster" /><br/><br/><a href="https://www.imdb.com/title/tt10698744/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>L.A. Confidential</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316765</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/L.A._Confidential-poster.jpg" alt="L.A. Confidential poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119488/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Hammer</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316755</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hammer-poster.jpg" alt="The Hammer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0814130/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Too Cute</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314369</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Cute-poster.jpg" alt="Too Cute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2197519/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>FPS: First Person Shooter</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314274</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/FPS_First_Person_Shooter-poster.jpg" alt="FPS: First Person Shooter poster" /><br/><br/><a href="https://www.imdb.com/title/tt28681130/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Scariest Places in the World</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314276</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scariest_Places_in_the_World-poster.jpg" alt="Scariest Places in the World poster" /><br/><br/><a href="https://www.imdb.com/title/tt28186534/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Story of Super Mario</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314275</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Story_of_Super_Mario-poster.jpg" alt="The Story of Super Mario poster" /><br/><br/><a href="https://www.imdb.com/title/tt36150483/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

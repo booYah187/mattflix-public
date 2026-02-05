@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>As the Crow Flies</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316777</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/As_the_Crow_Flies-poster.jpg" alt="As the Crow Flies poster" /><br/><br/><a href="https://www.imdb.com/title/tt10698744/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Miracle: The Boys of '80</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316595</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_The_Boys_of_'80-poster.jpg" alt="Miracle: The Boys of '80 poster" /><br/><br/><a href="https://www.imdb.com/title/tt39320452/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>DMX: Don't Try to Understand</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248341</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DMX_Don't_Try_to_Understand-poster.jpg" alt="DMX: Don't Try to Understand poster" /><br/><br/><a href="https://www.imdb.com/title/tt11817822/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>ZZ Top: That Little Ol' Band from Texas</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248258</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ZZ_Top_That_Little_Ol'_Band_from_Texas-poster.jpg" alt="ZZ Top: That Little Ol' Band from Texas poster" /><br/><br/><a href="https://www.imdb.com/title/tt9015306/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

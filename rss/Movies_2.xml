@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Housemaid</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316783</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Housemaid-poster.jpg" alt="The Housemaid poster" /><br/><br/><a href="https://www.imdb.com/title/tt27543632/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>L.A. Confidential</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316765</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/L.A._Confidential-poster.jpg" alt="L.A. Confidential poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119488/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Hammer</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316755</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hammer-poster.jpg" alt="The Hammer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0814130/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Rambo: First Blood Part II</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316443</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rambo_First_Blood_Part_II-poster.jpg" alt="Rambo: First Blood Part II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0089880/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>First Blood</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316442</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/First_Blood-poster.jpg" alt="First Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083944/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rambo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316441</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rambo-poster.jpg" alt="Rambo poster" /><br/><br/><a href="https://www.imdb.com/title/tt0462499/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
