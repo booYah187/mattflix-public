@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Dragged Across Concrete</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316822</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dragged_Across_Concrete-poster.jpg" alt="Dragged Across Concrete poster" /><br/><br/><a href="https://www.imdb.com/title/tt6491178/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>In the Valley of Elah</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316823</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Valley_of_Elah-poster.jpg" alt="In the Valley of Elah poster" /><br/><br/><a href="https://www.imdb.com/title/tt0478134/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Volcano</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316808</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Volcano-poster.jpg" alt="Volcano poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120461/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Fugitive</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316790</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fugitive-poster.jpg" alt="The Fugitive poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106977/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Under Siege</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316787</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Under_Siege-poster.jpg" alt="Under Siege poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105690/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Housemaid</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316783</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Housemaid-poster.jpg" alt="The Housemaid poster" /><br/><br/><a href="https://www.imdb.com/title/tt27543632/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Five Nights at Freddy's 2</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314484</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Five_Nights_at_Freddy's_2-poster.jpg" alt="Five Nights at Freddy's 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt30274401/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Batman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314482</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Batman-poster.jpg" alt="The Batman poster" /><br/><br/><a href="https://www.imdb.com/title/tt1877830/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Night at the Roxbury</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314476</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Night_at_the_Roxbury-poster.jpg" alt="A Night at the Roxbury poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120770/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nacho Libre</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314474</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nacho_Libre-poster.jpg" alt="Nacho Libre poster" /><br/><br/><a href="https://www.imdb.com/title/tt0457510/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Adult Swim's The Elephant</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314472</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adult_Swim's_The_Elephant-poster.jpg" alt="Adult Swim's The Elephant poster" /><br/><br/><a href="https://www.imdb.com/title/tt39088896/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Too Cute</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314369</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Cute-poster.jpg" alt="Too Cute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2197519/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
