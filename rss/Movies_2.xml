@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bad Boys</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316891</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys-poster.jpg" alt="Bad Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085210/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>3:10 to Yuma</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316824</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_10_to_Yuma-poster.jpg" alt="3:10 to Yuma poster" /><br/><br/><a href="https://www.imdb.com/title/tt0381849/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dragged Across Concrete</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316822</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dragged_Across_Concrete-poster.jpg" alt="Dragged Across Concrete poster" /><br/><br/><a href="https://www.imdb.com/title/tt6491178/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Road to Perdition</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316495</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Road_to_Perdition-poster.jpg" alt="Road to Perdition poster" /><br/><br/><a href="https://www.imdb.com/title/tt0257044/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Taken</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316487</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Taken-poster.jpg" alt="Taken poster" /><br/><br/><a href="https://www.imdb.com/title/tt0936501/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Primal Fear</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316486</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primal_Fear-poster.jpg" alt="Primal Fear poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117381/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
