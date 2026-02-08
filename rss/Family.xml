@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Rugrats</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317002</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rugrats-poster.jpg" alt="Rugrats poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101188/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Zootopia 2</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316382</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zootopia_2-poster.jpg" alt="Zootopia 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt26443597/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Snowman</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=63147</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Snowman-poster.jpg" alt="The Snowman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084701/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Total Drama Island</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=59322</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Total_Drama_Island-poster.jpg" alt="Total Drama Island poster" /><br/><br/><a href="https://www.imdb.com/title/tt1173427/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
