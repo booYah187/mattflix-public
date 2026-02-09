@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Alone</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317278</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone-poster.jpg" alt="Alone poster" /><br/><br/><a href="https://www.imdb.com/title/tt4803766/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Hamnet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317274</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hamnet-poster.jpg" alt="Hamnet poster" /><br/><br/><a href="https://www.imdb.com/title/tt14905854/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Underworld: Rise of the Lycans</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315696</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Rise_of_the_Lycans-poster.jpg" alt="Underworld: Rise of the Lycans poster" /><br/><br/><a href="https://www.imdb.com/title/tt0834001/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Underworld: Evolution</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315677</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Evolution-poster.jpg" alt="Underworld: Evolution poster" /><br/><br/><a href="https://www.imdb.com/title/tt0401855/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

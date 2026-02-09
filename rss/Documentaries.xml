@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Alone</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317278</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone-poster.jpg" alt="Alone poster" /><br/><br/><a href="https://www.imdb.com/title/tt4803766/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Butterfly in the Sky</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316964</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Butterfly_in_the_Sky-poster.jpg" alt="Butterfly in the Sky poster" /><br/><br/><a href="https://www.imdb.com/title/tt15358498/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Genghis Khan: The Secret History of the Mongols</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248353</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Genghis_Khan_The_Secret_History_of_the_Mongols-poster.jpg" alt="Genghis Khan: The Secret History of the Mongols poster" /><br/><br/><a href="https://www.imdb.com/title/tt36118991/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>John Candy: I like Me</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248347</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/John_Candy_I_like_Me-poster.jpg" alt="John Candy: I like Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt26683420/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
