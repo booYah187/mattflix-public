@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Return to Silent Hill</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317507</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Return_to_Silent_Hill-poster.jpg" alt="Return to Silent Hill poster" /><br/><br/><a href="https://www.imdb.com/title/tt22868010/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Marty Supreme</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317504</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marty_Supreme-poster.jpg" alt="Marty Supreme poster" /><br/><br/><a href="https://www.imdb.com/title/tt32916440/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Alone</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317278</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone-poster.jpg" alt="Alone poster" /><br/><br/><a href="https://www.imdb.com/title/tt4803766/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Underworld: Blood Wars</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315676</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Blood_Wars-poster.jpg" alt="Underworld: Blood Wars poster" /><br/><br/><a href="https://www.imdb.com/title/tt3717252/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Underworld: Awakening</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315675</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Awakening-poster.jpg" alt="Underworld: Awakening poster" /><br/><br/><a href="https://www.imdb.com/title/tt1496025/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Underworld: Rise of the Lycans</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315696</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Rise_of_the_Lycans-poster.jpg" alt="Underworld: Rise of the Lycans poster" /><br/><br/><a href="https://www.imdb.com/title/tt0834001/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

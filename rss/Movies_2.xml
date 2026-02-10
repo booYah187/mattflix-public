@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Return to Silent Hill</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317507</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Return_to_Silent_Hill-poster.jpg" alt="Return to Silent Hill poster" /><br/><br/><a href="https://www.imdb.com/title/tt22868010/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Marty Supreme</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317504</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marty_Supreme-poster.jpg" alt="Marty Supreme poster" /><br/><br/><a href="https://www.imdb.com/title/tt32916440/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Hamnet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317274</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hamnet-poster.jpg" alt="Hamnet poster" /><br/><br/><a href="https://www.imdb.com/title/tt14905854/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Orange County</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316749</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orange_County-poster.jpg" alt="Orange County poster" /><br/><br/><a href="https://www.imdb.com/title/tt0273923/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Submarine</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316737</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Submarine-poster.jpg" alt="Submarine poster" /><br/><br/><a href="https://www.imdb.com/title/tt1440292/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dirty Work</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316708</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dirty_Work-poster.jpg" alt="Dirty Work poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120654/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
