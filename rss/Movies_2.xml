@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Primate</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317513</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primate-poster.jpg" alt="Primate poster" /><br/><br/><a href="https://www.imdb.com/title/tt33028778/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Return to Silent Hill</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317507</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Return_to_Silent_Hill-poster.jpg" alt="Return to Silent Hill poster" /><br/><br/><a href="https://www.imdb.com/title/tt22868010/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Hammer</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316755</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hammer-poster.jpg" alt="The Hammer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0814130/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Orange County</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316749</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orange_County-poster.jpg" alt="Orange County poster" /><br/><br/><a href="https://www.imdb.com/title/tt0273923/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

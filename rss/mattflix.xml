@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Primate</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317513</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primate-poster.jpg" alt="Primate poster" /><br/><br/><a href="https://www.imdb.com/title/tt33028778/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Return to Silent Hill</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317507</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Return_to_Silent_Hill-poster.jpg" alt="Return to Silent Hill poster" /><br/><br/><a href="https://www.imdb.com/title/tt22868010/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Bad Lieutenant</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315703</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Lieutenant-poster.jpg" alt="Bad Lieutenant poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103759/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Underworld: Blood Wars</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315676</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underworld_Blood_Wars-poster.jpg" alt="Underworld: Blood Wars poster" /><br/><br/><a href="https://www.imdb.com/title/tt3717252/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
