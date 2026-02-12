@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Empire</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317543</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Empire-poster.jpg" alt="Empire poster" /><br/><br/><a href="https://www.imdb.com/title/tt0262396/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Orphan: First Kill</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317535</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orphan_First_Kill-poster.jpg" alt="Orphan: First Kill poster" /><br/><br/><a href="https://www.imdb.com/title/tt11851548/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Orphan</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317530</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orphan-poster.jpg" alt="Orphan poster" /><br/><br/><a href="https://www.imdb.com/title/tt1148204/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Primate</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317513</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primate-poster.jpg" alt="Primate poster" /><br/><br/><a href="https://www.imdb.com/title/tt33028778/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Under Siege</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316787</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Under_Siege-poster.jpg" alt="Under Siege poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105690/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Housemaid</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316783</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Housemaid-poster.jpg" alt="The Housemaid poster" /><br/><br/><a href="https://www.imdb.com/title/tt27543632/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>L.A. Confidential</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316765</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/L.A._Confidential-poster.jpg" alt="L.A. Confidential poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119488/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hammer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316755</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hammer-poster.jpg" alt="The Hammer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0814130/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
