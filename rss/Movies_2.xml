@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Kill Your Friends</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317564</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kill_Your_Friends-poster.jpg" alt="Kill Your Friends poster" /><br/><br/><a href="https://www.imdb.com/title/tt2474958/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Art of Self-Defense</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317558</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Art_of_Self-Defense-poster.jpg" alt="The Art of Self-Defense poster" /><br/><br/><a href="https://www.imdb.com/title/tt7339248/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Holy Rollers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317552</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Holy_Rollers-poster.jpg" alt="Holy Rollers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1143896/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Empire</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317543</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Empire-poster.jpg" alt="Empire poster" /><br/><br/><a href="https://www.imdb.com/title/tt0262396/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>In the Valley of Elah</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316823</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Valley_of_Elah-poster.jpg" alt="In the Valley of Elah poster" /><br/><br/><a href="https://www.imdb.com/title/tt0478134/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Volcano</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316808</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Volcano-poster.jpg" alt="Volcano poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120461/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Fugitive</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316790</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fugitive-poster.jpg" alt="The Fugitive poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106977/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Under Siege</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316787</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Under_Siege-poster.jpg" alt="Under Siege poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105690/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

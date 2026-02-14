@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Kill Your Friends</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317564</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kill_Your_Friends-poster.jpg" alt="Kill Your Friends poster" /><br/><br/><a href="https://www.imdb.com/title/tt2474958/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Art of Self-Defense</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317558</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Art_of_Self-Defense-poster.jpg" alt="The Art of Self-Defense poster" /><br/><br/><a href="https://www.imdb.com/title/tt7339248/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Holy Rollers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317552</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Holy_Rollers-poster.jpg" alt="Holy Rollers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1143896/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Empire</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317543</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Empire-poster.jpg" alt="Empire poster" /><br/><br/><a href="https://www.imdb.com/title/tt0262396/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Wicked: For Good</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315795</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wicked_For_Good-poster.jpg" alt="Wicked: For Good poster" /><br/><br/><a href="https://www.imdb.com/title/tt19847976/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bohemian Rhapsody</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315792</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bohemian_Rhapsody-poster.jpg" alt="Bohemian Rhapsody poster" /><br/><br/><a href="https://www.imdb.com/title/tt1727824/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Austin Powers in Goldmember</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315769</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Austin_Powers_in_Goldmember-poster.jpg" alt="Austin Powers in Goldmember poster" /><br/><br/><a href="https://www.imdb.com/title/tt0295178/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Austin Powers: The Spy Who Shagged Me</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315765</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Austin_Powers_The_Spy_Who_Shagged_Me-poster.jpg" alt="Austin Powers: The Spy Who Shagged Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt0145660/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
