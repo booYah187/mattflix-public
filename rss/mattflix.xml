@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Brothers Bloom</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317578</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Brothers_Bloom-poster.jpg" alt="The Brothers Bloom poster" /><br/><br/><a href="https://www.imdb.com/title/tt0844286/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mr. &amp; Mrs. Smith</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317571</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mr._&amp;_Mrs._Smith-poster.jpg" alt="Mr. &amp; Mrs. Smith poster" /><br/><br/><a href="https://www.imdb.com/title/tt0356910/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Kill Your Friends</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317564</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kill_Your_Friends-poster.jpg" alt="Kill Your Friends poster" /><br/><br/><a href="https://www.imdb.com/title/tt2474958/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Da Ali G Show</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315800</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Da_Ali_G_Show-poster.jpg" alt="Da Ali G Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0241088/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dust Bunny</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315798</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dust_Bunny-poster.jpg" alt="Dust Bunny poster" /><br/><br/><a href="https://www.imdb.com/title/tt23172090/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wicked: For Good</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315795</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wicked_For_Good-poster.jpg" alt="Wicked: For Good poster" /><br/><br/><a href="https://www.imdb.com/title/tt19847976/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

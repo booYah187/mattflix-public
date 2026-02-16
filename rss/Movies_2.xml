@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Brothers Bloom</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317578</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Brothers_Bloom-poster.jpg" alt="The Brothers Bloom poster" /><br/><br/><a href="https://www.imdb.com/title/tt0844286/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mr. &amp; Mrs. Smith</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317571</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mr._&amp;_Mrs._Smith-poster.jpg" alt="Mr. &amp; Mrs. Smith poster" /><br/><br/><a href="https://www.imdb.com/title/tt0356910/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Kill Your Friends</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317564</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kill_Your_Friends-poster.jpg" alt="Kill Your Friends poster" /><br/><br/><a href="https://www.imdb.com/title/tt2474958/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>3:10 to Yuma</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316824</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_10_to_Yuma-poster.jpg" alt="3:10 to Yuma poster" /><br/><br/><a href="https://www.imdb.com/title/tt0381849/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dragged Across Concrete</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316822</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dragged_Across_Concrete-poster.jpg" alt="Dragged Across Concrete poster" /><br/><br/><a href="https://www.imdb.com/title/tt6491178/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>In the Valley of Elah</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316823</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Valley_of_Elah-poster.jpg" alt="In the Valley of Elah poster" /><br/><br/><a href="https://www.imdb.com/title/tt0478134/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
