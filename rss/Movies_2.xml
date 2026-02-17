@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Nightmare Alley</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317709</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nightmare_Alley-poster.jpg" alt="Nightmare Alley poster" /><br/><br/><a href="https://www.imdb.com/title/tt7740496/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Brothers Bloom</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317578</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Brothers_Bloom-poster.jpg" alt="The Brothers Bloom poster" /><br/><br/><a href="https://www.imdb.com/title/tt0844286/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Bad Boys</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316891</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys-poster.jpg" alt="Bad Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085210/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>3:10 to Yuma</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316824</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_10_to_Yuma-poster.jpg" alt="3:10 to Yuma poster" /><br/><br/><a href="https://www.imdb.com/title/tt0381849/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Kingdom (1994)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317582</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kingdom_(1994)-poster.jpg" alt="The Kingdom (1994) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0108906/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Free Bert</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316569</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Free_Bert-poster.jpg" alt="Free Bert poster" /><br/><br/><a href="https://www.imdb.com/title/tt37449205/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Black Rabbit</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247054</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Rabbit-poster.jpg" alt="Black Rabbit poster" /><br/><br/><a href="https://www.imdb.com/title/tt23055142/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Chief of War</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247046</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chief_of_War-poster.jpg" alt="Chief of War poster" /><br/><br/><a href="https://www.imdb.com/title/tt19381692/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

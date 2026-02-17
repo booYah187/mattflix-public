@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Lovecraft: Fear of the Unknown</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317728</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lovecraft_Fear_of_the_Unknown-poster.jpg" alt="Lovecraft: Fear of the Unknown poster" /><br/><br/><a href="https://www.imdb.com/title/tt1261900/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Hideo Kojima: Connecting Worlds</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317710</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hideo_Kojima_Connecting_Worlds-poster.jpg" alt="Hideo Kojima: Connecting Worlds poster" /><br/><br/><a href="https://www.imdb.com/title/tt26739107/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Nightmare Alley</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317709</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nightmare_Alley-poster.jpg" alt="Nightmare Alley poster" /><br/><br/><a href="https://www.imdb.com/title/tt7740496/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Kingdom (1994)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317582</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kingdom_(1994)-poster.jpg" alt="The Kingdom (1994) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0108906/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Brothers Bloom</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317578</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Brothers_Bloom-poster.jpg" alt="The Brothers Bloom poster" /><br/><br/><a href="https://www.imdb.com/title/tt0844286/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Nathan for You</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315878</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nathan_for_You-poster.jpg" alt="Nathan for You poster" /><br/><br/><a href="https://www.imdb.com/title/tt2297757/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Society</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315866</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Society-poster.jpg" alt="Society poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098354/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Streets of Fire</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315857</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Streets_of_Fire-poster.jpg" alt="Streets of Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088194/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315855</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Borat_Cultural_Learnings_of_America_for_Make_Benefit_Glorious_Nation_of_Kazakhstan-poster.jpg" alt="Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan poster" /><br/><br/><a href="https://www.imdb.com/title/tt0443453/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Da Ali G Show</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315800</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Da_Ali_G_Show-poster.jpg" alt="Da Ali G Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0241088/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
