@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bad Day for the Cut</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317740</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Day_for_the_Cut-poster.jpg" alt="Bad Day for the Cut poster" /><br/><br/><a href="https://www.imdb.com/title/tt5653514/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jo Jo Dancer, Your Life Is Calling</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317732</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jo_Jo_Dancer,_Your_Life_Is_Calling-poster.jpg" alt="Jo Jo Dancer, Your Life Is Calling poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091295/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>28 Years Later: The Bone Temple</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317731</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/28_Years_Later_The_Bone_Temple-poster.jpg" alt="28 Years Later: The Bone Temple poster" /><br/><br/><a href="https://www.imdb.com/title/tt32141377/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Nightmare Alley</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317709</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nightmare_Alley-poster.jpg" alt="Nightmare Alley poster" /><br/><br/><a href="https://www.imdb.com/title/tt7740496/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Midnight Express</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316906</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Midnight_Express-poster.jpg" alt="Midnight Express poster" /><br/><br/><a href="https://www.imdb.com/title/tt0077928/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Scent of a Woman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316905</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scent_of_a_Woman-poster.jpg" alt="Scent of a Woman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105323/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Against the Wall</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316898</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Against_the_Wall-poster.jpg" alt="Against the Wall poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109053/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Boys</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316891</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys-poster.jpg" alt="Bad Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085210/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

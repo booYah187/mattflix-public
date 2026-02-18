@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Bad Day for the Cut</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317740</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Day_for_the_Cut-poster.jpg" alt="Bad Day for the Cut poster" /><br/><br/><a href="https://www.imdb.com/title/tt5653514/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jo Jo Dancer, Your Life Is Calling</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317732</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jo_Jo_Dancer,_Your_Life_Is_Calling-poster.jpg" alt="Jo Jo Dancer, Your Life Is Calling poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091295/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>28 Years Later: The Bone Temple</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317731</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/28_Years_Later_The_Bone_Temple-poster.jpg" alt="28 Years Later: The Bone Temple poster" /><br/><br/><a href="https://www.imdb.com/title/tt32141377/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Lovecraft: Fear of the Unknown</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317728</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lovecraft_Fear_of_the_Unknown-poster.jpg" alt="Lovecraft: Fear of the Unknown poster" /><br/><br/><a href="https://www.imdb.com/title/tt1261900/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Marshmallow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316103</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marshmallow-poster.jpg" alt="Marshmallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt15220066/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Only the Lonely</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316098</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Only_the_Lonely-poster.jpg" alt="Only the Lonely poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102598/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Strike</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315986</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Strike-poster.jpg" alt="Strike poster" /><br/><br/><a href="https://www.imdb.com/title/tt4276618/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nathan for You</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315878</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nathan_for_You-poster.jpg" alt="Nathan for You poster" /><br/><br/><a href="https://www.imdb.com/title/tt2297757/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
