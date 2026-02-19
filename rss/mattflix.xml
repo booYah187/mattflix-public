@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Dogville</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317754</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dogville-poster.jpg" alt="Dogville poster" /><br/><br/><a href="https://www.imdb.com/title/tt0276919/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Melancholia</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317752</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Melancholia-poster.jpg" alt="Melancholia poster" /><br/><br/><a href="https://www.imdb.com/title/tt1527186/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The House That Jack Built</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317743</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_House_That_Jack_Built-poster.jpg" alt="The House That Jack Built poster" /><br/><br/><a href="https://www.imdb.com/title/tt4003440/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bad Day for the Cut</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317740</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Day_for_the_Cut-poster.jpg" alt="Bad Day for the Cut poster" /><br/><br/><a href="https://www.imdb.com/title/tt5653514/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Bitter Moon</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316155</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bitter_Moon-poster.jpg" alt="Bitter Moon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104779/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Day of the Jackal</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316132</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Day_of_the_Jackal-poster.jpg" alt="The Day of the Jackal poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069947/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Frequency</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316125</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Frequency-poster.jpg" alt="Frequency poster" /><br/><br/><a href="https://www.imdb.com/title/tt0186151/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Marshmallow</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316103</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marshmallow-poster.jpg" alt="Marshmallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt15220066/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
