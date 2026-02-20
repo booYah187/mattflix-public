@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Smile Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317764</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Smile_Man-poster.jpg" alt="The Smile Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt2987342/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Man Who Sued God</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317758</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Man_Who_Sued_God-poster.jpg" alt="The Man Who Sued God poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268437/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dogville</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317754</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dogville-poster.jpg" alt="Dogville poster" /><br/><br/><a href="https://www.imdb.com/title/tt0276919/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Only God Forgives</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316163</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Only_God_Forgives-poster.jpg" alt="Only God Forgives poster" /><br/><br/><a href="https://www.imdb.com/title/tt1602613/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>To Live and Die in L.A.</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316159</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/To_Live_and_Die_in_L.A.-poster.jpg" alt="To Live and Die in L.A. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090180/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bitter Moon</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316155</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bitter_Moon-poster.jpg" alt="Bitter Moon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104779/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

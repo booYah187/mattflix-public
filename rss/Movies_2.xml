@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Smile Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317764</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Smile_Man-poster.jpg" alt="The Smile Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt2987342/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Man Who Sued God</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317758</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Man_Who_Sued_God-poster.jpg" alt="The Man Who Sued God poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268437/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dogville</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317754</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dogville-poster.jpg" alt="Dogville poster" /><br/><br/><a href="https://www.imdb.com/title/tt0276919/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>The Rock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316993</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rock-poster.jpg" alt="The Rock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117500/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tower Heist</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316980</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tower_Heist-poster.jpg" alt="Tower Heist poster" /><br/><br/><a href="https://www.imdb.com/title/tt0471042/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Another 48 Hrs.</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316979</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Another_48_Hrs.-poster.jpg" alt="Another 48 Hrs. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099044/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
