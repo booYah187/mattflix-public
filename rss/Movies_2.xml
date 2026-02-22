@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Honey, I Shrunk the Kids</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317772</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Honey,_I_Shrunk_the_Kids-poster.jpg" alt="Honey, I Shrunk the Kids poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097523/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Secondhand Lions</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317765</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Secondhand_Lions-poster.jpg" alt="Secondhand Lions poster" /><br/><br/><a href="https://www.imdb.com/title/tt0327137/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Smile Man</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317764</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Smile_Man-poster.jpg" alt="The Smile Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt2987342/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Darkman</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316998</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Darkman-poster.jpg" alt="Darkman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099365/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Gift</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316997</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gift-poster.jpg" alt="The Gift poster" /><br/><br/><a href="https://www.imdb.com/title/tt0219699/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Rock</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316993</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rock-poster.jpg" alt="The Rock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117500/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

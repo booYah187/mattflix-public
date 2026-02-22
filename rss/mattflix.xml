@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Honey, I Shrunk the Kids</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317772</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Honey,_I_Shrunk_the_Kids-poster.jpg" alt="Honey, I Shrunk the Kids poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097523/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Secondhand Lions</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317765</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Secondhand_Lions-poster.jpg" alt="Secondhand Lions poster" /><br/><br/><a href="https://www.imdb.com/title/tt0327137/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Smile Man</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317764</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Smile_Man-poster.jpg" alt="The Smile Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt2987342/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Once Upon a Time in America</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316169</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Once_Upon_a_Time_in_America-poster.jpg" alt="Once Upon a Time in America poster" /><br/><br/><a href="https://www.imdb.com/title/tt0087843/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hitcher</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316164</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hitcher-poster.jpg" alt="The Hitcher poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091209/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Only God Forgives</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316163</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Only_God_Forgives-poster.jpg" alt="Only God Forgives poster" /><br/><br/><a href="https://www.imdb.com/title/tt1602613/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
