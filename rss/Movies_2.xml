@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sympathy for Mr. Vengeance</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317796</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sympathy_for_Mr._Vengeance-poster.jpg" alt="Sympathy for Mr. Vengeance poster" /><br/><br/><a href="https://www.imdb.com/title/tt0310775/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lady Vengeance</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317778</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lady_Vengeance-poster.jpg" alt="Lady Vengeance poster" /><br/><br/><a href="https://www.imdb.com/title/tt0451094/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Honey, I Shrunk the Kids</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317772</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Honey,_I_Shrunk_the_Kids-poster.jpg" alt="Honey, I Shrunk the Kids poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097523/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Hamnet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317274</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hamnet-poster.jpg" alt="Hamnet poster" /><br/><br/><a href="https://www.imdb.com/title/tt14905854/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Alpha</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317273</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alpha-poster.jpg" alt="Alpha poster" /><br/><br/><a href="https://www.imdb.com/title/tt32275943/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Darkman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316998</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Darkman-poster.jpg" alt="Darkman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099365/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
