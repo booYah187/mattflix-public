@@ -6,6 +6,36 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Quick and the Dead</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317854</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Quick_and_the_Dead-poster.jpg" alt="The Quick and the Dead poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114214/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Automata</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317818</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Automata-poster.jpg" alt="Automata poster" /><br/><br/><a href="https://www.imdb.com/title/tt1971325/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lethal Weapon 4</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317806</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon_4-poster.jpg" alt="Lethal Weapon 4 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0122151/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lethal Weapon 3</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317805</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon_3-poster.jpg" alt="Lethal Weapon 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104714/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lethal Weapon 2</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317804</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon_2-poster.jpg" alt="Lethal Weapon 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097733/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lethal Weapon</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317803</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon-poster.jpg" alt="Lethal Weapon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093409/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sympathy for Mr. Vengeance</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317796</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sympathy_for_Mr._Vengeance-poster.jpg" alt="Sympathy for Mr. Vengeance poster" /><br/><br/><a href="https://www.imdb.com/title/tt0310775/">View on IMDb</a>]]></description>
@@ -99,36 +129,6 @@
       <title>Empire</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317543</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Empire-poster.jpg" alt="Empire poster" /><br/><br/><a href="https://www.imdb.com/title/tt0262396/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Orphan: First Kill</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317535</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orphan_First_Kill-poster.jpg" alt="Orphan: First Kill poster" /><br/><br/><a href="https://www.imdb.com/title/tt11851548/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Orphan</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317530</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orphan-poster.jpg" alt="Orphan poster" /><br/><br/><a href="https://www.imdb.com/title/tt1148204/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Primate</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317513</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primate-poster.jpg" alt="Primate poster" /><br/><br/><a href="https://www.imdb.com/title/tt33028778/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Return to Silent Hill</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317507</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Return_to_Silent_Hill-poster.jpg" alt="Return to Silent Hill poster" /><br/><br/><a href="https://www.imdb.com/title/tt22868010/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Marty Supreme</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317504</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marty_Supreme-poster.jpg" alt="Marty Supreme poster" /><br/><br/><a href="https://www.imdb.com/title/tt32916440/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hamnet</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317274</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hamnet-poster.jpg" alt="Hamnet poster" /><br/><br/><a href="https://www.imdb.com/title/tt14905854/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>A Knight of the Seven Kingdoms</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317823</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Knight_of_the_Seven_Kingdoms-poster.jpg" alt="A Knight of the Seven Kingdoms poster" /><br/><br/><a href="https://www.imdb.com/title/tt27497448/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Kingdom (1994)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317582</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kingdom_(1994)-poster.jpg" alt="The Kingdom (1994) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0108906/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Fresh Prince of Bel-Air</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247152</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fresh_Prince_of_Bel-Air-poster.jpg" alt="The Fresh Prince of Bel-Air poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098800/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Black Rabbit</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247054</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Rabbit-poster.jpg" alt="Black Rabbit poster" /><br/><br/><a href="https://www.imdb.com/title/tt23055142/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

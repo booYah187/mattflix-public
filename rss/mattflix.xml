@@ -6,6 +6,41 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Quick and the Dead</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317854</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Quick_and_the_Dead-poster.jpg" alt="The Quick and the Dead poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114214/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Knight of the Seven Kingdoms</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317823</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Knight_of_the_Seven_Kingdoms-poster.jpg" alt="A Knight of the Seven Kingdoms poster" /><br/><br/><a href="https://www.imdb.com/title/tt27497448/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Automata</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317818</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Automata-poster.jpg" alt="Automata poster" /><br/><br/><a href="https://www.imdb.com/title/tt1971325/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lethal Weapon 4</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317806</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon_4-poster.jpg" alt="Lethal Weapon 4 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0122151/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lethal Weapon 3</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317805</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon_3-poster.jpg" alt="Lethal Weapon 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104714/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lethal Weapon 2</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317804</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon_2-poster.jpg" alt="Lethal Weapon 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097733/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lethal Weapon</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317803</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon-poster.jpg" alt="Lethal Weapon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093409/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sympathy for Mr. Vengeance</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317796</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sympathy_for_Mr._Vengeance-poster.jpg" alt="Sympathy for Mr. Vengeance poster" /><br/><br/><a href="https://www.imdb.com/title/tt0310775/">View on IMDb</a>]]></description>
@@ -469,41 +504,6 @@
       <title>Dolores Claiborne</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316233</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dolores_Claiborne-poster.jpg" alt="Dolores Claiborne poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109642/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dogfight</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316218</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dogfight-poster.jpg" alt="Dogfight poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101748/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Perfect World</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316211</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Perfect_World-poster.jpg" alt="A Perfect World poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107808/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Showgirls</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316192</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Showgirls-poster.jpg" alt="Showgirls poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114436/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Leaving Las Vegas</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316191</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Leaving_Las_Vegas-poster.jpg" alt="Leaving Las Vegas poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113627/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Last Viking</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316188</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Viking-poster.jpg" alt="The Last Viking poster" /><br/><br/><a href="https://www.imdb.com/title/tt27817389/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Manhunter</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316185</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Manhunter-poster.jpg" alt="Manhunter poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091474/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Go</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316182</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Go-poster.jpg" alt="Go poster" /><br/><br/><a href="https://www.imdb.com/title/tt0139239/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
