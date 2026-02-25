@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Dead Man's Wire</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317855</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_Man's_Wire-poster.jpg" alt="Dead Man's Wire poster" /><br/><br/><a href="https://www.imdb.com/title/tt15181326/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Quick and the Dead</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317854</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Quick_and_the_Dead-poster.jpg" alt="The Quick and the Dead poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114214/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Can't Hardly Wait</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316302</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Can't_Hardly_Wait-poster.jpg" alt="Can't Hardly Wait poster" /><br/><br/><a href="https://www.imdb.com/title/tt0127723/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dolores Claiborne</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316233</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dolores_Claiborne-poster.jpg" alt="Dolores Claiborne poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109642/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

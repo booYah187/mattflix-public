@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Dead Man's Wire</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317855</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_Man's_Wire-poster.jpg" alt="Dead Man's Wire poster" /><br/><br/><a href="https://www.imdb.com/title/tt15181326/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Quick and the Dead</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317854</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Quick_and_the_Dead-poster.jpg" alt="The Quick and the Dead poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114214/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Holy Rollers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317552</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Holy_Rollers-poster.jpg" alt="Holy Rollers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1143896/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Empire</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317543</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Empire-poster.jpg" alt="Empire poster" /><br/><br/><a href="https://www.imdb.com/title/tt0262396/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
