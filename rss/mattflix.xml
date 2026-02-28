@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Mend</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317907</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mend-poster.jpg" alt="The Mend poster" /><br/><br/><a href="https://www.imdb.com/title/tt3271120/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>THX 1138</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317904</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/THX_1138-poster.jpg" alt="THX 1138 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0066434/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The End of an Era</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317877</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_End_of_an_Era-poster.jpg" alt="The End of an Era poster" /><br/><br/><a href="https://www.imdb.com/title/tt38673133/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Holes</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316361</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Holes-poster.jpg" alt="Holes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0311289/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Franz Kafka</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316337</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Franz_Kafka-poster.jpg" alt="Franz Kafka poster" /><br/><br/><a href="https://www.imdb.com/title/tt17070412/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Not Another Teen Movie</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316308</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Not_Another_Teen_Movie-poster.jpg" alt="Not Another Teen Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0277371/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
