@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Betty White: First Lady of Television</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317929</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Betty_White_First_Lady_of_Television-poster.jpg" alt="Betty White: First Lady of Television poster" /><br/><br/><a href="https://www.imdb.com/title/tt8780234/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The End of an Era</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317877</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_End_of_an_Era-poster.jpg" alt="The End of an Era poster" /><br/><br/><a href="https://www.imdb.com/title/tt38673133/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Something from Nothing: The Art of Rap</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248738</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_from_Nothing_The_Art_of_Rap-poster.jpg" alt="Something from Nothing: The Art of Rap poster" /><br/><br/><a href="https://www.imdb.com/title/tt2062996/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Brothers in Arms</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248641</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brothers_in_Arms-poster.jpg" alt="Brothers in Arms poster" /><br/><br/><a href="https://www.imdb.com/title/tt6111980/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

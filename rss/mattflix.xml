@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Betty White: First Lady of Television</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317929</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Betty_White_First_Lady_of_Television-poster.jpg" alt="Betty White: First Lady of Television poster" /><br/><br/><a href="https://www.imdb.com/title/tt8780234/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Beautiful Mind</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317919</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Beautiful_Mind-poster.jpg" alt="A Beautiful Mind poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268978/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Ready or Not</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317912</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ready_or_Not-poster.jpg" alt="Ready or Not poster" /><br/><br/><a href="https://www.imdb.com/title/tt7798634/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Mend</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317907</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mend-poster.jpg" alt="The Mend poster" /><br/><br/><a href="https://www.imdb.com/title/tt3271120/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Midnight Run</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316390</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Midnight_Run-poster.jpg" alt="Midnight Run poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095631/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Anaconda</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316386</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Anaconda-poster.jpg" alt="Anaconda poster" /><br/><br/><a href="https://www.imdb.com/title/tt33244668/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Zootopia 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316382</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zootopia_2-poster.jpg" alt="Zootopia 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt26443597/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Holes</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316361</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Holes-poster.jpg" alt="Holes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0311289/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>A Beautiful Mind</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317919</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Beautiful_Mind-poster.jpg" alt="A Beautiful Mind poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268978/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Ready or Not</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317912</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ready_or_Not-poster.jpg" alt="Ready or Not poster" /><br/><br/><a href="https://www.imdb.com/title/tt7798634/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Mend</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317907</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mend-poster.jpg" alt="The Mend poster" /><br/><br/><a href="https://www.imdb.com/title/tt3271120/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>The Brothers Bloom</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317578</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Brothers_Bloom-poster.jpg" alt="The Brothers Bloom poster" /><br/><br/><a href="https://www.imdb.com/title/tt0844286/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mr. &amp; Mrs. Smith</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317571</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mr._&amp;_Mrs._Smith-poster.jpg" alt="Mr. &amp; Mrs. Smith poster" /><br/><br/><a href="https://www.imdb.com/title/tt0356910/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kill Your Friends</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317564</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kill_Your_Friends-poster.jpg" alt="Kill Your Friends poster" /><br/><br/><a href="https://www.imdb.com/title/tt2474958/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
