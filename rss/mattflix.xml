@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Devil in Disguise: John Wayne Gacy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317936</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil_in_Disguise_John_Wayne_Gacy-poster.jpg" alt="Devil in Disguise: John Wayne Gacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt31314754/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Betty White: First Lady of Television</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317929</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Betty_White_First_Lady_of_Television-poster.jpg" alt="Betty White: First Lady of Television poster" /><br/><br/><a href="https://www.imdb.com/title/tt8780234/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>A Few Good Men</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316391</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Few_Good_Men-poster.jpg" alt="A Few Good Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104257/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Midnight Run</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316390</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Midnight_Run-poster.jpg" alt="Midnight Run poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095631/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
