@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>To Die For</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318020</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/To_Die_For-poster.jpg" alt="To Die For poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114681/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Fatal Attraction</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318005</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fatal_Attraction-poster.jpg" alt="Fatal Attraction poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093010/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Hand that Rocks the Cradle</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318004</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hand_that_Rocks_the_Cradle-poster.jpg" alt="The Hand that Rocks the Cradle poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104389/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dream Lover</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318001</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dream_Lover-poster.jpg" alt="Dream Lover poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109665/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Devil in Disguise: John Wayne Gacy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317936</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil_in_Disguise_John_Wayne_Gacy-poster.jpg" alt="Devil in Disguise: John Wayne Gacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt31314754/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>City Slickers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316430</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/City_Slickers-poster.jpg" alt="City Slickers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101587/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hunter</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316429</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hunter-poster.jpg" alt="The Hunter poster" /><br/><br/><a href="https://www.imdb.com/title/tt1703148/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hurricane</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316394</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hurricane-poster.jpg" alt="The Hurricane poster" /><br/><br/><a href="https://www.imdb.com/title/tt0174856/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Men in Black</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316393</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men_in_Black-poster.jpg" alt="Men in Black poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119654/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Few Good Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316391</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Few_Good_Men-poster.jpg" alt="A Few Good Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104257/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>To Die For</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318020</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/To_Die_For-poster.jpg" alt="To Die For poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114681/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Fatal Attraction</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318005</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fatal_Attraction-poster.jpg" alt="Fatal Attraction poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093010/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Hand that Rocks the Cradle</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318004</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hand_that_Rocks_the_Cradle-poster.jpg" alt="The Hand that Rocks the Cradle poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104389/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dream Lover</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318001</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dream_Lover-poster.jpg" alt="Dream Lover poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109665/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Beautiful Mind</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317919</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Beautiful_Mind-poster.jpg" alt="A Beautiful Mind poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268978/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Bad Day for the Cut</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317740</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Day_for_the_Cut-poster.jpg" alt="Bad Day for the Cut poster" /><br/><br/><a href="https://www.imdb.com/title/tt5653514/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Jo Jo Dancer, Your Life Is Calling</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317732</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jo_Jo_Dancer,_Your_Life_Is_Calling-poster.jpg" alt="Jo Jo Dancer, Your Life Is Calling poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091295/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>28 Years Later: The Bone Temple</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317731</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/28_Years_Later_The_Bone_Temple-poster.jpg" alt="28 Years Later: The Bone Temple poster" /><br/><br/><a href="https://www.imdb.com/title/tt32141377/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nightmare Alley</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317709</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nightmare_Alley-poster.jpg" alt="Nightmare Alley poster" /><br/><br/><a href="https://www.imdb.com/title/tt7740496/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Brothers Bloom</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317578</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Brothers_Bloom-poster.jpg" alt="The Brothers Bloom poster" /><br/><br/><a href="https://www.imdb.com/title/tt0844286/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
