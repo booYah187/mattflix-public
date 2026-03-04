@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Whistle</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318029</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Whistle-poster.jpg" alt="Whistle poster" /><br/><br/><a href="https://www.imdb.com/title/tt29550683/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>To Die For</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318020</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/To_Die_For-poster.jpg" alt="To Die For poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114681/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The House That Jack Built</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317743</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_House_That_Jack_Built-poster.jpg" alt="The House That Jack Built poster" /><br/><br/><a href="https://www.imdb.com/title/tt4003440/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Day for the Cut</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317740</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Day_for_the_Cut-poster.jpg" alt="Bad Day for the Cut poster" /><br/><br/><a href="https://www.imdb.com/title/tt5653514/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

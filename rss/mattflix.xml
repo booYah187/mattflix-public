@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Whistle</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318029</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Whistle-poster.jpg" alt="Whistle poster" /><br/><br/><a href="https://www.imdb.com/title/tt29550683/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>To Die For</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318020</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/To_Die_For-poster.jpg" alt="To Die For poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114681/">View on IMDb</a>]]></description>
@@ -54,11 +59,6 @@
       <title>THX 1138</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317904</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/THX_1138-poster.jpg" alt="THX 1138 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0066434/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The End of an Era</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317877</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_End_of_an_Era-poster.jpg" alt="The End of an Era poster" /><br/><br/><a href="https://www.imdb.com/title/tt38673133/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Dead Man's Wire</title>
