@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Secret Mall Apartment</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318053</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Secret_Mall_Apartment-poster.jpg" alt="Secret Mall Apartment poster" /><br/><br/><a href="https://www.imdb.com/title/tt21221386/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Whistle</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318029</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Whistle-poster.jpg" alt="Whistle poster" /><br/><br/><a href="https://www.imdb.com/title/tt29550683/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Cop Land</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316440</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cop_Land-poster.jpg" alt="Cop Land poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118887/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>City Slickers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316430</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/City_Slickers-poster.jpg" alt="City Slickers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101587/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
