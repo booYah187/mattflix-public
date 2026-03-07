@@ -6,6 +6,51 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Bad Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318249</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Man-poster.jpg" alt="Bad Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt30057173/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Play Dirty</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318248</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Play_Dirty-poster.jpg" alt="Play Dirty poster" /><br/><br/><a href="https://www.imdb.com/title/tt18392014/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Industry</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318094</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Industry-poster.jpg" alt="Industry poster" /><br/><br/><a href="https://www.imdb.com/title/tt7671070/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Kicking &amp; Screaming</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318087</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kicking_&amp;_Screaming-poster.jpg" alt="Kicking &amp; Screaming poster" /><br/><br/><a href="https://www.imdb.com/title/tt0384642/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Open Range</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318084</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Open_Range-poster.jpg" alt="Open Range poster" /><br/><br/><a href="https://www.imdb.com/title/tt0316356/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Guns Akimbo</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318075</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Guns_Akimbo-poster.jpg" alt="Guns Akimbo poster" /><br/><br/><a href="https://www.imdb.com/title/tt6902676/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mayhem</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318074</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mayhem-poster.jpg" alt="Mayhem poster" /><br/><br/><a href="https://www.imdb.com/title/tt4348012/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Strangers: Chapter 3</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318071</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Strangers_Chapter_3-poster.jpg" alt="The Strangers: Chapter 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt28682323/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Babysitter</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318066</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Babysitter-poster.jpg" alt="The Babysitter poster" /><br/><br/><a href="https://www.imdb.com/title/tt4225622/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Secret Mall Apartment</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318053</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Secret_Mall_Apartment-poster.jpg" alt="Secret Mall Apartment poster" /><br/><br/><a href="https://www.imdb.com/title/tt21221386/">View on IMDb</a>]]></description>
@@ -459,51 +504,6 @@
       <title>Taken</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316487</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Taken-poster.jpg" alt="Taken poster" /><br/><br/><a href="https://www.imdb.com/title/tt0936501/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Primal Fear</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316486</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primal_Fear-poster.jpg" alt="Primal Fear poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117381/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>In the Line of Fire</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316480</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Line_of_Fire-poster.jpg" alt="In the Line of Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107206/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Last Starfighter</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316474</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Starfighter-poster.jpg" alt="The Last Starfighter poster" /><br/><br/><a href="https://www.imdb.com/title/tt0087597/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Galaxy Quest</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316445</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Galaxy_Quest-poster.jpg" alt="Galaxy Quest poster" /><br/><br/><a href="https://www.imdb.com/title/tt0177789/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rambo III</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316444</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rambo_III-poster.jpg" alt="Rambo III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095956/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rambo: First Blood Part II</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316443</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rambo_First_Blood_Part_II-poster.jpg" alt="Rambo: First Blood Part II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0089880/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>First Blood</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316442</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/First_Blood-poster.jpg" alt="First Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083944/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rambo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316441</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rambo-poster.jpg" alt="Rambo poster" /><br/><br/><a href="https://www.imdb.com/title/tt0462499/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cop Land</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316440</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cop_Land-poster.jpg" alt="Cop Land poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118887/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

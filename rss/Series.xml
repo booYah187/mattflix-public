@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Industry</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318094</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Industry-poster.jpg" alt="Industry poster" /><br/><br/><a href="https://www.imdb.com/title/tt7671070/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Devil in Disguise: John Wayne Gacy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317936</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil_in_Disguise_John_Wayne_Gacy-poster.jpg" alt="Devil in Disguise: John Wayne Gacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt31314754/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Pistol</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247726</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pistol-poster.jpg" alt="Pistol poster" /><br/><br/><a href="https://www.imdb.com/title/tt13823494/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Alien: Earth</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247644</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alien_Earth-poster.jpg" alt="Alien: Earth poster" /><br/><br/><a href="https://www.imdb.com/title/tt13623632/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
