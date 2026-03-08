@@ -6,6 +6,56 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Dumb and Dumber</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318447</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dumb_and_Dumber-poster.jpg" alt="Dumb and Dumber poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109686/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mission: Impossible - The Final Reckoning</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318444</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_-_The_Final_Reckoning-poster.jpg" alt="Mission: Impossible - The Final Reckoning poster" /><br/><br/><a href="https://www.imdb.com/title/tt9603208/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mission: Impossible – Dead Reckoning Part One</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318441</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Dead_Reckoning_Part_One-poster.jpg" alt="Mission: Impossible – Dead Reckoning Part One poster" /><br/><br/><a href="https://www.imdb.com/title/tt9603212/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mission: Impossible – Fallout</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318439</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Fallout-poster.jpg" alt="Mission: Impossible – Fallout poster" /><br/><br/><a href="https://www.imdb.com/title/tt4912910/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mission: Impossible – Rogue Nation</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318435</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Rogue_Nation-poster.jpg" alt="Mission: Impossible – Rogue Nation poster" /><br/><br/><a href="https://www.imdb.com/title/tt2381249/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mission: Impossible – Ghost Protocol</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318432</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Ghost_Protocol-poster.jpg" alt="Mission: Impossible – Ghost Protocol poster" /><br/><br/><a href="https://www.imdb.com/title/tt1229238/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mission: Impossible III</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318430</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_III-poster.jpg" alt="Mission: Impossible III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0317919/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mission: Impossible II</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318425</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_II-poster.jpg" alt="Mission: Impossible II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120755/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mission: Impossible</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318420</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible-poster.jpg" alt="Mission: Impossible poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117060/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Me, Myself &amp; Irene</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318414</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Me,_Myself_&amp;_Irene-poster.jpg" alt="Me, Myself &amp; Irene poster" /><br/><br/><a href="https://www.imdb.com/title/tt0183505/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bad Man</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318249</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Man-poster.jpg" alt="Bad Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt30057173/">View on IMDb</a>]]></description>
@@ -454,56 +504,6 @@
       <title>The Longest Yard</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316668</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Longest_Yard-poster.jpg" alt="The Longest Yard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0398165/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bulletproof</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316665</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bulletproof-poster.jpg" alt="Bulletproof poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115783/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bulworth</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316657</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bulworth-poster.jpg" alt="Bulworth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118798/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cabin Fever</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316601</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cabin_Fever-poster.jpg" alt="Cabin Fever poster" /><br/><br/><a href="https://www.imdb.com/title/tt0303816/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Harrison Bergeron</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316598</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harrison_Bergeron-poster.jpg" alt="Harrison Bergeron poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113264/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Miracle: The Boys of '80</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316595</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_The_Boys_of_'80-poster.jpg" alt="Miracle: The Boys of '80 poster" /><br/><br/><a href="https://www.imdb.com/title/tt39320452/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Best in Show</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316583</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Best_in_Show-poster.jpg" alt="Best in Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0218839/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Free Bert</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316569</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Free_Bert-poster.jpg" alt="Free Bert poster" /><br/><br/><a href="https://www.imdb.com/title/tt37449205/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Running Scared</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316503</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Running_Scared-poster.jpg" alt="Running Scared poster" /><br/><br/><a href="https://www.imdb.com/title/tt0404390/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Road to Perdition</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316495</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Road_to_Perdition-poster.jpg" alt="Road to Perdition poster" /><br/><br/><a href="https://www.imdb.com/title/tt0257044/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Taken</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316487</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Taken-poster.jpg" alt="Taken poster" /><br/><br/><a href="https://www.imdb.com/title/tt0936501/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
