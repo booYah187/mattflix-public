@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Simpsons Movie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318470</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Simpsons_Movie-poster.jpg" alt="The Simpsons Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0462538/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dumb and Dumber</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318447</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dumb_and_Dumber-poster.jpg" alt="Dumb and Dumber poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109686/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>A Beautiful Mind</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317919</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Beautiful_Mind-poster.jpg" alt="A Beautiful Mind poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268978/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ready or Not</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317912</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ready_or_Not-poster.jpg" alt="Ready or Not poster" /><br/><br/><a href="https://www.imdb.com/title/tt7798634/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

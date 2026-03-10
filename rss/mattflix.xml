@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Detroiters</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318476</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Detroiters-poster.jpg" alt="Detroiters poster" /><br/><br/><a href="https://www.imdb.com/title/tt4779762/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Simpsons Movie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318470</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Simpsons_Movie-poster.jpg" alt="The Simpsons Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0462538/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Melania</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318468</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Melania-poster.jpg" alt="Melania poster" /><br/><br/><a href="https://www.imdb.com/title/tt35291758/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dumb and Dumber</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318447</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dumb_and_Dumber-poster.jpg" alt="Dumb and Dumber poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109686/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>24 Hour Party People</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316690</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/24_Hour_Party_People-poster.jpg" alt="24 Hour Party People poster" /><br/><br/><a href="https://www.imdb.com/title/tt0274309/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Control</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316679</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Control-poster.jpg" alt="Control poster" /><br/><br/><a href="https://www.imdb.com/title/tt0421082/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mystery Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316678</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mystery_Men-poster.jpg" alt="Mystery Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0132347/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Longest Yard</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316668</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Longest_Yard-poster.jpg" alt="The Longest Yard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0398165/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
