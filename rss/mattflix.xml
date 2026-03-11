@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Sirāt</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318636</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sirāt-poster.jpg" alt="Sirāt poster" /><br/><br/><a href="https://www.imdb.com/title/tt32298285/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Good Luck, Have Fun, Don't Die</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318542</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Luck,_Have_Fun,_Don't_Die-poster.jpg" alt="Good Luck, Have Fun, Don't Die poster" /><br/><br/><a href="https://www.imdb.com/title/tt1341338/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Death by Lightning</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318519</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_by_Lightning-poster.jpg" alt="Death by Lightning poster" /><br/><br/><a href="https://www.imdb.com/title/tt31121364/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Detroiters</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318476</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Detroiters-poster.jpg" alt="Detroiters poster" /><br/><br/><a href="https://www.imdb.com/title/tt4779762/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Submarine</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316737</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Submarine-poster.jpg" alt="Submarine poster" /><br/><br/><a href="https://www.imdb.com/title/tt1440292/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dirty Work</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316708</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dirty_Work-poster.jpg" alt="Dirty Work poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120654/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bio-Dome</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316707</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bio-Dome-poster.jpg" alt="Bio-Dome poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115683/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>24 Hour Party People</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316690</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/24_Hour_Party_People-poster.jpg" alt="24 Hour Party People poster" /><br/><br/><a href="https://www.imdb.com/title/tt0274309/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

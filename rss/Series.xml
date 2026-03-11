@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Death by Lightning</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318519</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_by_Lightning-poster.jpg" alt="Death by Lightning poster" /><br/><br/><a href="https://www.imdb.com/title/tt31121364/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Detroiters</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318476</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Detroiters-poster.jpg" alt="Detroiters poster" /><br/><br/><a href="https://www.imdb.com/title/tt4779762/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Carol &amp; the End of the World</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247830</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Carol_&amp;_the_End_of_the_World-poster.jpg" alt="Carol &amp; the End of the World poster" /><br/><br/><a href="https://www.imdb.com/title/tt29629770/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>House of Guinness</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247801</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/House_of_Guinness-poster.jpg" alt="House of Guinness poster" /><br/><br/><a href="https://www.imdb.com/title/tt13542714/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

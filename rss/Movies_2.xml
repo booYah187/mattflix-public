@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sirāt</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318636</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sirāt-poster.jpg" alt="Sirāt poster" /><br/><br/><a href="https://www.imdb.com/title/tt32298285/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Good Luck, Have Fun, Don't Die</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318542</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Luck,_Have_Fun,_Don't_Die-poster.jpg" alt="Good Luck, Have Fun, Don't Die poster" /><br/><br/><a href="https://www.imdb.com/title/tt1341338/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Simpsons Movie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318470</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Simpsons_Movie-poster.jpg" alt="The Simpsons Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0462538/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>The Hand that Rocks the Cradle</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318004</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hand_that_Rocks_the_Cradle-poster.jpg" alt="The Hand that Rocks the Cradle poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104389/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dream Lover</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318001</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dream_Lover-poster.jpg" alt="Dream Lover poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109665/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Beautiful Mind</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317919</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Beautiful_Mind-poster.jpg" alt="A Beautiful Mind poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268978/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
