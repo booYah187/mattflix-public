@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Death Race 2000</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318663</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_Race_2000-poster.jpg" alt="Death Race 2000 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0072856/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Chinatown</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318650</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chinatown-poster.jpg" alt="Chinatown poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071315/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sirāt</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318636</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sirāt-poster.jpg" alt="Sirāt poster" /><br/><br/><a href="https://www.imdb.com/title/tt32298285/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>The Hammer</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316755</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hammer-poster.jpg" alt="The Hammer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0814130/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Orange County</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316749</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Orange_County-poster.jpg" alt="Orange County poster" /><br/><br/><a href="https://www.imdb.com/title/tt0273923/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Submarine</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316737</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Submarine-poster.jpg" alt="Submarine poster" /><br/><br/><a href="https://www.imdb.com/title/tt1440292/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

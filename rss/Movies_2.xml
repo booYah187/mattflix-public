@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Death Race 2000</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318663</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_Race_2000-poster.jpg" alt="Death Race 2000 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0072856/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Chinatown</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318650</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chinatown-poster.jpg" alt="Chinatown poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071315/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sirāt</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318636</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sirāt-poster.jpg" alt="Sirāt poster" /><br/><br/><a href="https://www.imdb.com/title/tt32298285/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>To Die For</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318020</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/To_Die_For-poster.jpg" alt="To Die For poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114681/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Fatal Attraction</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318005</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fatal_Attraction-poster.jpg" alt="Fatal Attraction poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093010/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hand that Rocks the Cradle</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318004</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hand_that_Rocks_the_Cradle-poster.jpg" alt="The Hand that Rocks the Cradle poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104389/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
