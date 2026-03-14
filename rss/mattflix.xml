@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Lights Out</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318693</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lights_Out-poster.jpg" alt="Lights Out poster" /><br/><br/><a href="https://www.imdb.com/title/tt4786282/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Kill Point</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318674</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kill_Point-poster.jpg" alt="The Kill Point poster" /><br/><br/><a href="https://www.imdb.com/title/tt0862593/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Ruthless People</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318673</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ruthless_People-poster.jpg" alt="Ruthless People poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091877/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Under Siege</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316787</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Under_Siege-poster.jpg" alt="Under Siege poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105690/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Housemaid</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316783</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Housemaid-poster.jpg" alt="The Housemaid poster" /><br/><br/><a href="https://www.imdb.com/title/tt27543632/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>As the Crow Flies</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316777</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/As_the_Crow_Flies-poster.jpg" alt="As the Crow Flies poster" /><br/><br/><a href="https://www.imdb.com/title/tt10698744/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

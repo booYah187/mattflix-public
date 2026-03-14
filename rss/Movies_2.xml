@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Lights Out</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318693</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lights_Out-poster.jpg" alt="Lights Out poster" /><br/><br/><a href="https://www.imdb.com/title/tt4786282/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Ruthless People</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318673</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ruthless_People-poster.jpg" alt="Ruthless People poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091877/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Strangers: Chapter 3</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318071</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Strangers_Chapter_3-poster.jpg" alt="The Strangers: Chapter 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt28682323/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Babysitter</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318066</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Babysitter-poster.jpg" alt="The Babysitter poster" /><br/><br/><a href="https://www.imdb.com/title/tt4225622/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

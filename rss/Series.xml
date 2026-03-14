@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Kill Point</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318674</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kill_Point-poster.jpg" alt="The Kill Point poster" /><br/><br/><a href="https://www.imdb.com/title/tt0862593/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Death by Lightning</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318519</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_by_Lightning-poster.jpg" alt="Death by Lightning poster" /><br/><br/><a href="https://www.imdb.com/title/tt31121364/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Made For Love</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248179</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Made_For_Love-poster.jpg" alt="Made For Love poster" /><br/><br/><a href="https://www.imdb.com/title/tt7808566/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Carol &amp; the End of the World</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247830</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Carol_&amp;_the_End_of_the_World-poster.jpg" alt="Carol &amp; the End of the World poster" /><br/><br/><a href="https://www.imdb.com/title/tt29629770/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
