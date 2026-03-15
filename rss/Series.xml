@@ -6,6 +6,21 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Mrs. Davis</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318796</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mrs._Davis-poster.jpg" alt="Mrs. Davis poster" /><br/><br/><a href="https://www.imdb.com/title/tt14759574/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Andromeda Strain</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318745</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Andromeda_Strain-poster.jpg" alt="The Andromeda Strain poster" /><br/><br/><a href="https://www.imdb.com/title/tt0424600/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lazarus</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318697</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lazarus-poster.jpg" alt="Lazarus poster" /><br/><br/><a href="https://www.imdb.com/title/tt28454008/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Kill Point</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318674</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kill_Point-poster.jpg" alt="The Kill Point poster" /><br/><br/><a href="https://www.imdb.com/title/tt0862593/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Dope Thief</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249758</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dope_Thief-poster.jpg" alt="Dope Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt21638826/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Lowdown (2025)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249470</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Lowdown_(2025)-poster.jpg" alt="The Lowdown (2025) poster" /><br/><br/><a href="https://www.imdb.com/title/tt31289994/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>I Know This Much Is True</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249427</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Know_This_Much_Is_True-poster.jpg" alt="I Know This Much Is True poster" /><br/><br/><a href="https://www.imdb.com/title/tt0425118/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Made For Love</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=248179</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Made_For_Love-poster.jpg" alt="Made For Love poster" /><br/><br/><a href="https://www.imdb.com/title/tt7808566/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

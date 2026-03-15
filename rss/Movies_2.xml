@@ -6,6 +6,31 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Rental Family</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318871</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rental_Family-poster.jpg" alt="Rental Family poster" /><br/><br/><a href="https://www.imdb.com/title/tt14142060/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lone Star</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318790</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lone_Star-poster.jpg" alt="Lone Star poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116905/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Screwed</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318789</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Screwed-poster.jpg" alt="Screwed poster" /><br/><br/><a href="https://www.imdb.com/title/tt0156323/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Deathstalker 2025</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318772</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deathstalker_2025-poster.jpg" alt="Deathstalker 2025 poster" /><br/><br/><a href="https://www.imdb.com/title/tt33996087/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Junior</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318721</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Junior-poster.jpg" alt="Junior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110216/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Lights Out</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318693</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lights_Out-poster.jpg" alt="Lights Out poster" /><br/><br/><a href="https://www.imdb.com/title/tt4786282/">View on IMDb</a>]]></description>
@@ -104,31 +129,6 @@
       <title>Play Dirty</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318248</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Play_Dirty-poster.jpg" alt="Play Dirty poster" /><br/><br/><a href="https://www.imdb.com/title/tt18392014/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kicking &amp; Screaming</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318087</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kicking_&amp;_Screaming-poster.jpg" alt="Kicking &amp; Screaming poster" /><br/><br/><a href="https://www.imdb.com/title/tt0384642/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Open Range</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318084</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Open_Range-poster.jpg" alt="Open Range poster" /><br/><br/><a href="https://www.imdb.com/title/tt0316356/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Guns Akimbo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318075</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Guns_Akimbo-poster.jpg" alt="Guns Akimbo poster" /><br/><br/><a href="https://www.imdb.com/title/tt6902676/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mayhem</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318074</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mayhem-poster.jpg" alt="Mayhem poster" /><br/><br/><a href="https://www.imdb.com/title/tt4348012/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Strangers: Chapter 3</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318071</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Strangers_Chapter_3-poster.jpg" alt="The Strangers: Chapter 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt28682323/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

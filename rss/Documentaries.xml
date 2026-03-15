@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>A Normal Life. Chronicle of a Sumo Wrestler</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318715</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Normal_Life._Chronicle_of_a_Sumo_Wrestler-poster.jpg" alt="A Normal Life. Chronicle of a Sumo Wrestler poster" /><br/><br/><a href="https://www.imdb.com/title/tt1544996/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Melania</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318468</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Melania-poster.jpg" alt="Melania poster" /><br/><br/><a href="https://www.imdb.com/title/tt35291758/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Last Rhinos: A New Hope</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249504</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Rhinos_A_New_Hope-poster.jpg" alt="The Last Rhinos: A New Hope poster" /><br/><br/><a href="https://www.imdb.com/title/tt37748266/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Code Is Law</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249501</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Code_Is_Law-poster.jpg" alt="Code Is Law poster" /><br/><br/><a href="https://www.imdb.com/title/tt35931420/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

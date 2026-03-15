@@ -6,6 +6,51 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Rental Family</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318871</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rental_Family-poster.jpg" alt="Rental Family poster" /><br/><br/><a href="https://www.imdb.com/title/tt14142060/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mrs. Davis</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318796</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mrs._Davis-poster.jpg" alt="Mrs. Davis poster" /><br/><br/><a href="https://www.imdb.com/title/tt14759574/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lone Star</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318790</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lone_Star-poster.jpg" alt="Lone Star poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116905/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Screwed</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318789</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Screwed-poster.jpg" alt="Screwed poster" /><br/><br/><a href="https://www.imdb.com/title/tt0156323/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Deathstalker 2025</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318772</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deathstalker_2025-poster.jpg" alt="Deathstalker 2025 poster" /><br/><br/><a href="https://www.imdb.com/title/tt33996087/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Andromeda Strain</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318745</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Andromeda_Strain-poster.jpg" alt="The Andromeda Strain poster" /><br/><br/><a href="https://www.imdb.com/title/tt0424600/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Junior</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318721</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Junior-poster.jpg" alt="Junior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110216/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Normal Life. Chronicle of a Sumo Wrestler</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318715</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Normal_Life._Chronicle_of_a_Sumo_Wrestler-poster.jpg" alt="A Normal Life. Chronicle of a Sumo Wrestler poster" /><br/><br/><a href="https://www.imdb.com/title/tt1544996/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lazarus</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318697</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lazarus-poster.jpg" alt="Lazarus poster" /><br/><br/><a href="https://www.imdb.com/title/tt28454008/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Lights Out</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318693</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lights_Out-poster.jpg" alt="Lights Out poster" /><br/><br/><a href="https://www.imdb.com/title/tt4786282/">View on IMDb</a>]]></description>
@@ -459,51 +504,6 @@
       <title>Midnight Express</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316906</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Midnight_Express-poster.jpg" alt="Midnight Express poster" /><br/><br/><a href="https://www.imdb.com/title/tt0077928/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Scent of a Woman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316905</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scent_of_a_Woman-poster.jpg" alt="Scent of a Woman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105323/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Against the Wall</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316898</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Against_the_Wall-poster.jpg" alt="Against the Wall poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109053/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Boys</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316891</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys-poster.jpg" alt="Bad Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085210/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>3:10 to Yuma</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316824</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_10_to_Yuma-poster.jpg" alt="3:10 to Yuma poster" /><br/><br/><a href="https://www.imdb.com/title/tt0381849/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dragged Across Concrete</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316822</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dragged_Across_Concrete-poster.jpg" alt="Dragged Across Concrete poster" /><br/><br/><a href="https://www.imdb.com/title/tt6491178/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>In the Valley of Elah</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316823</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Valley_of_Elah-poster.jpg" alt="In the Valley of Elah poster" /><br/><br/><a href="https://www.imdb.com/title/tt0478134/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Volcano</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316808</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Volcano-poster.jpg" alt="Volcano poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120461/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Fugitive</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316790</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fugitive-poster.jpg" alt="The Fugitive poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106977/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Under Siege</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316787</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Under_Siege-poster.jpg" alt="Under Siege poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105690/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
