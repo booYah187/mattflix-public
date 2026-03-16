@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>GLOW</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318892</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/GLOW-poster.jpg" alt="GLOW poster" /><br/><br/><a href="https://www.imdb.com/title/tt5770786/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Mrs. Davis</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318796</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mrs._Davis-poster.jpg" alt="Mrs. Davis poster" /><br/><br/><a href="https://www.imdb.com/title/tt14759574/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Those About to Die</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313023</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Those_About_to_Die-poster.jpg" alt="Those About to Die poster" /><br/><br/><a href="https://www.imdb.com/title/tt10569934/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dope Thief</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249758</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dope_Thief-poster.jpg" alt="Dope Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt21638826/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

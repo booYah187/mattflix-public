@@ -6,6 +6,41 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Perrier's Bounty</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318885</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perrier's_Bounty-poster.jpg" alt="Perrier's Bounty poster" /><br/><br/><a href="https://www.imdb.com/title/tt1003034/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Scotland, Pa.</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318884</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scotland,_Pa.-poster.jpg" alt="Scotland, Pa. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0265713/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Atomic Blonde</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318882</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Atomic_Blonde-poster.jpg" alt="Atomic Blonde poster" /><br/><br/><a href="https://www.imdb.com/title/tt2406566/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rush</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318880</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush-poster.jpg" alt="Rush poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102820/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Way of the Gun</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318877</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Way_of_the_Gun-poster.jpg" alt="The Way of the Gun poster" /><br/><br/><a href="https://www.imdb.com/title/tt0202677/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Memento</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318875</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Memento-poster.jpg" alt="Memento poster" /><br/><br/><a href="https://www.imdb.com/title/tt0209144/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>City of Industry</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318874</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/City_of_Industry-poster.jpg" alt="City of Industry poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118859/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Rental Family</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318871</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rental_Family-poster.jpg" alt="Rental Family poster" /><br/><br/><a href="https://www.imdb.com/title/tt14142060/">View on IMDb</a>]]></description>
@@ -94,41 +129,6 @@
       <title>Mission: Impossible – Rogue Nation</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318435</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Rogue_Nation-poster.jpg" alt="Mission: Impossible – Rogue Nation poster" /><br/><br/><a href="https://www.imdb.com/title/tt2381249/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible – Ghost Protocol</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318432</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Ghost_Protocol-poster.jpg" alt="Mission: Impossible – Ghost Protocol poster" /><br/><br/><a href="https://www.imdb.com/title/tt1229238/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible III</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318430</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_III-poster.jpg" alt="Mission: Impossible III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0317919/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible II</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318425</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_II-poster.jpg" alt="Mission: Impossible II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120755/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318420</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible-poster.jpg" alt="Mission: Impossible poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117060/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Me, Myself &amp; Irene</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318414</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Me,_Myself_&amp;_Irene-poster.jpg" alt="Me, Myself &amp; Irene poster" /><br/><br/><a href="https://www.imdb.com/title/tt0183505/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318249</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Man-poster.jpg" alt="Bad Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt30057173/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Play Dirty</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318248</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Play_Dirty-poster.jpg" alt="Play Dirty poster" /><br/><br/><a href="https://www.imdb.com/title/tt18392014/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
