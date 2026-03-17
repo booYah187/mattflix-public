@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Good Boy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319052</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Boy-poster.jpg" alt="Good Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt34381258/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>GLOW</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318892</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/GLOW-poster.jpg" alt="GLOW poster" /><br/><br/><a href="https://www.imdb.com/title/tt5770786/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Rugrats</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317002</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rugrats-poster.jpg" alt="Rugrats poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101188/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Darkman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316998</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Darkman-poster.jpg" alt="Darkman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099365/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Good Boy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319052</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Boy-poster.jpg" alt="Good Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt34381258/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Perrier's Bounty</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318885</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perrier's_Bounty-poster.jpg" alt="Perrier's Bounty poster" /><br/><br/><a href="https://www.imdb.com/title/tt1003034/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Mission: Impossible – Fallout</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318439</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Fallout-poster.jpg" alt="Mission: Impossible – Fallout poster" /><br/><br/><a href="https://www.imdb.com/title/tt4912910/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible – Rogue Nation</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318435</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Rogue_Nation-poster.jpg" alt="Mission: Impossible – Rogue Nation poster" /><br/><br/><a href="https://www.imdb.com/title/tt2381249/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
