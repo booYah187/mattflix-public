@@ -6,6 +6,36 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Scream 7</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319196</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scream_7-poster.jpg" alt="Scream 7 poster" /><br/><br/><a href="https://www.imdb.com/title/tt27047903/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Minus Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319190</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Minus_Man-poster.jpg" alt="The Minus Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0151582/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Fallen Angels</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319182</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fallen_Angels-poster.jpg" alt="Fallen Angels poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112913/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Limits of Control</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319180</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Limits_of_Control-poster.jpg" alt="The Limits of Control poster" /><br/><br/><a href="https://www.imdb.com/title/tt1135092/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Killer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319079</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Killer-poster.jpg" alt="The Killer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097202/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Man from Nowhere</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319071</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Man_from_Nowhere-poster.jpg" alt="The Man from Nowhere poster" /><br/><br/><a href="https://www.imdb.com/title/tt1527788/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Good Boy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319052</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Boy-poster.jpg" alt="Good Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt34381258/">View on IMDb</a>]]></description>
@@ -474,36 +504,6 @@
       <title>Primate</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317513</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primate-poster.jpg" alt="Primate poster" /><br/><br/><a href="https://www.imdb.com/title/tt33028778/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Return to Silent Hill</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317507</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Return_to_Silent_Hill-poster.jpg" alt="Return to Silent Hill poster" /><br/><br/><a href="https://www.imdb.com/title/tt22868010/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Marty Supreme</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317504</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marty_Supreme-poster.jpg" alt="Marty Supreme poster" /><br/><br/><a href="https://www.imdb.com/title/tt32916440/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Alone</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317278</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone-poster.jpg" alt="Alone poster" /><br/><br/><a href="https://www.imdb.com/title/tt4803766/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hamnet</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317274</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hamnet-poster.jpg" alt="Hamnet poster" /><br/><br/><a href="https://www.imdb.com/title/tt14905854/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Alpha</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317273</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alpha-poster.jpg" alt="Alpha poster" /><br/><br/><a href="https://www.imdb.com/title/tt32275943/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rugrats</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317002</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rugrats-poster.jpg" alt="Rugrats poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101188/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
