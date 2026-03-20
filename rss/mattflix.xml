@@ -6,14 +6,19 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
-      <title>Once Upon a Time in Mexico</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319227</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Once_Upon_a_Time_in_Mexico-poster.jpg" alt="Once Upon a Time in Mexico poster" /><br/><br/><a href="https://www.imdb.com/title/tt0285823/">View on IMDb</a>]]></description>
+      <title>El Mariachi</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319231</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/El_Mariachi-poster.jpg" alt="El Mariachi poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104815/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Desperado</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319221</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Desperado-poster.jpg" alt="Desperado poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112851/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Once Upon a Time in Mexico</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319227</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Once_Upon_a_Time_in_Mexico-poster.jpg" alt="Once Upon a Time in Mexico poster" /><br/><br/><a href="https://www.imdb.com/title/tt0285823/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Peninsula</title>
@@ -499,11 +504,6 @@
       <title>The Art of Self-Defense</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317558</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Art_of_Self-Defense-poster.jpg" alt="The Art of Self-Defense poster" /><br/><br/><a href="https://www.imdb.com/title/tt7339248/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Holy Rollers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317552</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Holy_Rollers-poster.jpg" alt="Holy Rollers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1143896/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
