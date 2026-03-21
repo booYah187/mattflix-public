@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Harry and the Hendersons</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319262</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harry_and_the_Hendersons-poster.jpg" alt="Harry and the Hendersons poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093148/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Peaky Blinders: The Immortal Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319258</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Peaky_Blinders_The_Immortal_Man-poster.jpg" alt="Peaky Blinders: The Immortal Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt15574124/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Rise of the Red Hot Chili Peppers: Our Brother, Hillel</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319249</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rise_of_the_Red_Hot_Chili_Peppers_Our_Brother,_Hillel-poster.jpg" alt="The Rise of the Red Hot Chili Peppers: Our Brother, Hillel poster" /><br/><br/><a href="https://www.imdb.com/title/tt36971084/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>El Mariachi</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319231</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/El_Mariachi-poster.jpg" alt="El Mariachi poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104815/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>The Brothers Bloom</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317578</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Brothers_Bloom-poster.jpg" alt="The Brothers Bloom poster" /><br/><br/><a href="https://www.imdb.com/title/tt0844286/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mr. &amp; Mrs. Smith</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317571</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mr._&amp;_Mrs._Smith-poster.jpg" alt="Mr. &amp; Mrs. Smith poster" /><br/><br/><a href="https://www.imdb.com/title/tt0356910/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kill Your Friends</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317564</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kill_Your_Friends-poster.jpg" alt="Kill Your Friends poster" /><br/><br/><a href="https://www.imdb.com/title/tt2474958/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Art of Self-Defense</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317558</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Art_of_Self-Defense-poster.jpg" alt="The Art of Self-Defense poster" /><br/><br/><a href="https://www.imdb.com/title/tt7339248/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

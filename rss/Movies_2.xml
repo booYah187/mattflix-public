@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Peaky Blinders: The Immortal Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319258</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Peaky_Blinders_The_Immortal_Man-poster.jpg" alt="Peaky Blinders: The Immortal Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt15574124/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>El Mariachi</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319231</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/El_Mariachi-poster.jpg" alt="El Mariachi poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104815/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Junior</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318721</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Junior-poster.jpg" alt="Junior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110216/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lights Out</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318693</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lights_Out-poster.jpg" alt="Lights Out poster" /><br/><br/><a href="https://www.imdb.com/title/tt4786282/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Harry and the Hendersons</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319262</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harry_and_the_Hendersons-poster.jpg" alt="Harry and the Hendersons poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093148/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Rugrats</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317002</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rugrats-poster.jpg" alt="Rugrats poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101188/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Wonka</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=64063</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wonka-poster.jpg" alt="Wonka poster" /><br/><br/><a href="https://www.imdb.com/title/tt6166392/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Snowman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=63147</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Snowman-poster.jpg" alt="The Snowman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084701/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
