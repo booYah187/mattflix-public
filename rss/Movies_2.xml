@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Devil's Advocate</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319270</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil's_Advocate-poster.jpg" alt="The Devil's Advocate poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118971/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Peaky Blinders: The Immortal Man</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319258</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Peaky_Blinders_The_Immortal_Man-poster.jpg" alt="Peaky Blinders: The Immortal Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt15574124/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Deathstalker 2025</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318772</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deathstalker_2025-poster.jpg" alt="Deathstalker 2025 poster" /><br/><br/><a href="https://www.imdb.com/title/tt33996087/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Junior</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318721</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Junior-poster.jpg" alt="Junior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110216/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

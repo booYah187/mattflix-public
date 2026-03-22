@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Devil's Advocate</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319270</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil's_Advocate-poster.jpg" alt="The Devil's Advocate poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118971/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Harry and the Hendersons</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319262</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harry_and_the_Hendersons-poster.jpg" alt="Harry and the Hendersons poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093148/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>The Kingdom (1994)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317582</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kingdom_(1994)-poster.jpg" alt="The Kingdom (1994) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0108906/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Brothers Bloom</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317578</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Brothers_Bloom-poster.jpg" alt="The Brothers Bloom poster" /><br/><br/><a href="https://www.imdb.com/title/tt0844286/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
