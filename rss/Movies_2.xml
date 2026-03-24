@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Red Eye</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319290</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Eye-poster.jpg" alt="Red Eye poster" /><br/><br/><a href="https://www.imdb.com/title/tt0421239/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Send Help</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319287</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Send_Help-poster.jpg" alt="Send Help poster" /><br/><br/><a href="https://www.imdb.com/title/tt8036976/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bad Milo</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319283</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Milo-poster.jpg" alt="Bad Milo poster" /><br/><br/><a href="https://www.imdb.com/title/tt2274570/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Devil's Advocate</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319270</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil's_Advocate-poster.jpg" alt="The Devil's Advocate poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118971/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Rental Family</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318871</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rental_Family-poster.jpg" alt="Rental Family poster" /><br/><br/><a href="https://www.imdb.com/title/tt14142060/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lone Star</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318790</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lone_Star-poster.jpg" alt="Lone Star poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116905/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Screwed</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318789</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Screwed-poster.jpg" alt="Screwed poster" /><br/><br/><a href="https://www.imdb.com/title/tt0156323/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deathstalker 2025</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318772</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deathstalker_2025-poster.jpg" alt="Deathstalker 2025 poster" /><br/><br/><a href="https://www.imdb.com/title/tt33996087/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

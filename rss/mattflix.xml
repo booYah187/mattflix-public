@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Party Down</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319294</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Party_Down-poster.jpg" alt="Party Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt1073507/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Red Eye</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319290</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Eye-poster.jpg" alt="Red Eye poster" /><br/><br/><a href="https://www.imdb.com/title/tt0421239/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Send Help</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319287</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Send_Help-poster.jpg" alt="Send Help poster" /><br/><br/><a href="https://www.imdb.com/title/tt8036976/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bad Milo</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319283</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Milo-poster.jpg" alt="Bad Milo poster" /><br/><br/><a href="https://www.imdb.com/title/tt2274570/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Devil's Advocate</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319270</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil's_Advocate-poster.jpg" alt="The Devil's Advocate poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118971/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>28 Years Later: The Bone Temple</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317731</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/28_Years_Later_The_Bone_Temple-poster.jpg" alt="28 Years Later: The Bone Temple poster" /><br/><br/><a href="https://www.imdb.com/title/tt32141377/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lovecraft: Fear of the Unknown</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317728</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lovecraft_Fear_of_the_Unknown-poster.jpg" alt="Lovecraft: Fear of the Unknown poster" /><br/><br/><a href="https://www.imdb.com/title/tt1261900/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hideo Kojima: Connecting Worlds</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317710</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hideo_Kojima_Connecting_Worlds-poster.jpg" alt="Hideo Kojima: Connecting Worlds poster" /><br/><br/><a href="https://www.imdb.com/title/tt26739107/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nightmare Alley</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317709</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nightmare_Alley-poster.jpg" alt="Nightmare Alley poster" /><br/><br/><a href="https://www.imdb.com/title/tt7740496/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Kingdom (1994)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317582</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kingdom_(1994)-poster.jpg" alt="The Kingdom (1994) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0108906/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
