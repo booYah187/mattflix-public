@@ -6,6 +6,41 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Slingshot</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319427</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Slingshot-poster.jpg" alt="Slingshot poster" /><br/><br/><a href="https://www.imdb.com/title/tt12616480/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Vice</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319420</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Vice-poster.jpg" alt="Vice poster" /><br/><br/><a href="https://www.imdb.com/title/tt6266538/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Thief</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319416</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thief-poster.jpg" alt="Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083190/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rollerball</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319406</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rollerball-poster.jpg" alt="Rollerball poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073631/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Last Action Hero</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319405</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Last_Action_Hero-poster.jpg" alt="Last Action Hero poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107362/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Last Boy Scout</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319397</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Boy_Scout-poster.jpg" alt="The Last Boy Scout poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102266/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>That's My Boy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319386</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/That's_My_Boy-poster.jpg" alt="That's My Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1232200/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Red Eye</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319290</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Eye-poster.jpg" alt="Red Eye poster" /><br/><br/><a href="https://www.imdb.com/title/tt0421239/">View on IMDb</a>]]></description>
@@ -94,41 +129,6 @@
       <title>Perrier's Bounty</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318885</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perrier's_Bounty-poster.jpg" alt="Perrier's Bounty poster" /><br/><br/><a href="https://www.imdb.com/title/tt1003034/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Scotland, Pa.</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318884</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scotland,_Pa.-poster.jpg" alt="Scotland, Pa. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0265713/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Atomic Blonde</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318882</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Atomic_Blonde-poster.jpg" alt="Atomic Blonde poster" /><br/><br/><a href="https://www.imdb.com/title/tt2406566/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rush</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318880</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush-poster.jpg" alt="Rush poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102820/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Way of the Gun</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318877</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Way_of_the_Gun-poster.jpg" alt="The Way of the Gun poster" /><br/><br/><a href="https://www.imdb.com/title/tt0202677/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Memento</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318875</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Memento-poster.jpg" alt="Memento poster" /><br/><br/><a href="https://www.imdb.com/title/tt0209144/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>City of Industry</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318874</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/City_of_Industry-poster.jpg" alt="City of Industry poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118859/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rental Family</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318871</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rental_Family-poster.jpg" alt="Rental Family poster" /><br/><br/><a href="https://www.imdb.com/title/tt14142060/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

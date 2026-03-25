@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>GOAT</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319430</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/GOAT-poster.jpg" alt="GOAT poster" /><br/><br/><a href="https://www.imdb.com/title/tt27613895/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Harry and the Hendersons</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319262</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harry_and_the_Hendersons-poster.jpg" alt="Harry and the Hendersons poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093148/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Octonauts and the Caves of Sac Actun</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=208505</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Octonauts_and_the_Caves_of_Sac_Actun-poster.jpg" alt="Octonauts and the Caves of Sac Actun poster" /><br/><br/><a href="https://www.imdb.com/title/tt12759408/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wonka</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=64063</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wonka-poster.jpg" alt="Wonka poster" /><br/><br/><a href="https://www.imdb.com/title/tt6166392/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

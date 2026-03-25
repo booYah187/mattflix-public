@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Running with the Devil: The Wild World of John McAfee </title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319424</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Running_with_the_Devil_The_Wild_World_of_John_McAfee_-poster.jpg" alt="Running with the Devil: The Wild World of John McAfee  poster" /><br/><br/><a href="https://www.imdb.com/title/tt21379694/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Rise of the Red Hot Chili Peppers: Our Brother, Hillel</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319249</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rise_of_the_Red_Hot_Chili_Peppers_Our_Brother,_Hillel-poster.jpg" alt="The Rise of the Red Hot Chili Peppers: Our Brother, Hillel poster" /><br/><br/><a href="https://www.imdb.com/title/tt36971084/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Iceman Tapes: Conversations with a Killer</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291403</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Iceman_Tapes_Conversations_with_a_Killer-poster.jpg" alt="The Iceman Tapes: Conversations with a Killer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0874289/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Telemarketers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291406</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Telemarketers-poster.jpg" alt="Telemarketers poster" /><br/><br/><a href="https://www.imdb.com/title/tt28498129/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,51 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>GOAT</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319430</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/GOAT-poster.jpg" alt="GOAT poster" /><br/><br/><a href="https://www.imdb.com/title/tt27613895/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Slingshot</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319427</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Slingshot-poster.jpg" alt="Slingshot poster" /><br/><br/><a href="https://www.imdb.com/title/tt12616480/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Running with the Devil: The Wild World of John McAfee </title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319424</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Running_with_the_Devil_The_Wild_World_of_John_McAfee_-poster.jpg" alt="Running with the Devil: The Wild World of John McAfee  poster" /><br/><br/><a href="https://www.imdb.com/title/tt21379694/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Vice</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319420</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Vice-poster.jpg" alt="Vice poster" /><br/><br/><a href="https://www.imdb.com/title/tt6266538/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Thief</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319416</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thief-poster.jpg" alt="Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083190/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rollerball</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319406</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rollerball-poster.jpg" alt="Rollerball poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073631/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Last Action Hero</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319405</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Last_Action_Hero-poster.jpg" alt="Last Action Hero poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107362/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Last Boy Scout</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319397</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Boy_Scout-poster.jpg" alt="The Last Boy Scout poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102266/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>That's My Boy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319386</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/That's_My_Boy-poster.jpg" alt="That's My Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1232200/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Party Down</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319294</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Party_Down-poster.jpg" alt="Party Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt1073507/">View on IMDb</a>]]></description>
@@ -459,51 +504,6 @@
       <title>Honey, I Shrunk the Kids</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317772</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Honey,_I_Shrunk_the_Kids-poster.jpg" alt="Honey, I Shrunk the Kids poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097523/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Secondhand Lions</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317765</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Secondhand_Lions-poster.jpg" alt="Secondhand Lions poster" /><br/><br/><a href="https://www.imdb.com/title/tt0327137/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Smile Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317764</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Smile_Man-poster.jpg" alt="The Smile Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt2987342/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Man Who Sued God</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317758</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Man_Who_Sued_God-poster.jpg" alt="The Man Who Sued God poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268437/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dogville</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317754</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dogville-poster.jpg" alt="Dogville poster" /><br/><br/><a href="https://www.imdb.com/title/tt0276919/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Melancholia</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317752</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Melancholia-poster.jpg" alt="Melancholia poster" /><br/><br/><a href="https://www.imdb.com/title/tt1527186/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The House That Jack Built</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317743</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_House_That_Jack_Built-poster.jpg" alt="The House That Jack Built poster" /><br/><br/><a href="https://www.imdb.com/title/tt4003440/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Day for the Cut</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317740</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Day_for_the_Cut-poster.jpg" alt="Bad Day for the Cut poster" /><br/><br/><a href="https://www.imdb.com/title/tt5653514/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Jo Jo Dancer, Your Life Is Calling</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317732</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jo_Jo_Dancer,_Your_Life_Is_Calling-poster.jpg" alt="Jo Jo Dancer, Your Life Is Calling poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091295/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>28 Years Later: The Bone Temple</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317731</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/28_Years_Later_The_Bone_Temple-poster.jpg" alt="28 Years Later: The Bone Temple poster" /><br/><br/><a href="https://www.imdb.com/title/tt32141377/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
