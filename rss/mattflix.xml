@@ -6,6 +6,41 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Pretty Lethal</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319482</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pretty_Lethal-poster.jpg" alt="Pretty Lethal poster" /><br/><br/><a href="https://www.imdb.com/title/tt26678938/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Disaster Artist</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319476</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Disaster_Artist-poster.jpg" alt="The Disaster Artist poster" /><br/><br/><a href="https://www.imdb.com/title/tt3521126/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>I Am Not a Serial Killer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319469</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Am_Not_a_Serial_Killer-poster.jpg" alt="I Am Not a Serial Killer poster" /><br/><br/><a href="https://www.imdb.com/title/tt4303340/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Neighbors</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319468</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Neighbors-poster.jpg" alt="Neighbors poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082801/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>One of Us</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319457</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_of_Us-poster.jpg" alt="One of Us poster" /><br/><br/><a href="https://www.imdb.com/title/tt5149528/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Compliance</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319451</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Compliance-poster.jpg" alt="Compliance poster" /><br/><br/><a href="https://www.imdb.com/title/tt1971352/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Sitter</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319441</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Sitter-poster.jpg" alt="The Sitter poster" /><br/><br/><a href="https://www.imdb.com/title/tt1366344/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>GOAT</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319430</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/GOAT-poster.jpg" alt="GOAT poster" /><br/><br/><a href="https://www.imdb.com/title/tt27613895/">View on IMDb</a>]]></description>
@@ -469,41 +504,6 @@
       <title>Automata</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317818</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Automata-poster.jpg" alt="Automata poster" /><br/><br/><a href="https://www.imdb.com/title/tt1971325/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lethal Weapon 4</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317806</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon_4-poster.jpg" alt="Lethal Weapon 4 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0122151/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lethal Weapon 3</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317805</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon_3-poster.jpg" alt="Lethal Weapon 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104714/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lethal Weapon 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317804</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon_2-poster.jpg" alt="Lethal Weapon 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097733/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lethal Weapon</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317803</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lethal_Weapon-poster.jpg" alt="Lethal Weapon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093409/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sympathy for Mr. Vengeance</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317796</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sympathy_for_Mr._Vengeance-poster.jpg" alt="Sympathy for Mr. Vengeance poster" /><br/><br/><a href="https://www.imdb.com/title/tt0310775/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lady Vengeance</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317778</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lady_Vengeance-poster.jpg" alt="Lady Vengeance poster" /><br/><br/><a href="https://www.imdb.com/title/tt0451094/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Honey, I Shrunk the Kids</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317772</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Honey,_I_Shrunk_the_Kids-poster.jpg" alt="Honey, I Shrunk the Kids poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097523/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
