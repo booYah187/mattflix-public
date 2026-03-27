@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Hoppers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319489</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hoppers-poster.jpg" alt="Hoppers poster" /><br/><br/><a href="https://www.imdb.com/title/tt26443616/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Pretty Lethal</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319482</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pretty_Lethal-poster.jpg" alt="Pretty Lethal poster" /><br/><br/><a href="https://www.imdb.com/title/tt26678938/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>A Knight of the Seven Kingdoms</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317823</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Knight_of_the_Seven_Kingdoms-poster.jpg" alt="A Knight of the Seven Kingdoms poster" /><br/><br/><a href="https://www.imdb.com/title/tt27497448/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Automata</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317818</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Automata-poster.jpg" alt="Automata poster" /><br/><br/><a href="https://www.imdb.com/title/tt1971325/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
