@@ -29,7 +29,7 @@
   },
   {
     "key": "total",
-    "color": "success",
+    "color": "info",
     "value": "561 days"
   }
 ]
