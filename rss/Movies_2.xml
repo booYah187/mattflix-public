@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Truth or Dare</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319493</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Truth_or_Dare-poster.jpg" alt="Truth or Dare poster" /><br/><br/><a href="https://www.imdb.com/title/tt6772950/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Pretty Lethal</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319482</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pretty_Lethal-poster.jpg" alt="Pretty Lethal poster" /><br/><br/><a href="https://www.imdb.com/title/tt26678938/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Scream 7</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319196</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scream_7-poster.jpg" alt="Scream 7 poster" /><br/><br/><a href="https://www.imdb.com/title/tt27047903/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Minus Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319190</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Minus_Man-poster.jpg" alt="The Minus Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0151582/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

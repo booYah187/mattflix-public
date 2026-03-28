@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Truth or Dare</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319493</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Truth_or_Dare-poster.jpg" alt="Truth or Dare poster" /><br/><br/><a href="https://www.imdb.com/title/tt6772950/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Hoppers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319489</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hoppers-poster.jpg" alt="Hoppers poster" /><br/><br/><a href="https://www.imdb.com/title/tt26443616/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>The Quick and the Dead</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317854</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Quick_and_the_Dead-poster.jpg" alt="The Quick and the Dead poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114214/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Knight of the Seven Kingdoms</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317823</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Knight_of_the_Seven_Kingdoms-poster.jpg" alt="A Knight of the Seven Kingdoms poster" /><br/><br/><a href="https://www.imdb.com/title/tt27497448/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
