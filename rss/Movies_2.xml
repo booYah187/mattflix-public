@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>What Maisie Knew</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319533</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/What_Maisie_Knew-poster.jpg" alt="What Maisie Knew poster" /><br/><br/><a href="https://www.imdb.com/title/tt1932767/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Avatar: Fire and Ash</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319506</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Avatar_Fire_and_Ash-poster.jpg" alt="Avatar: Fire and Ash poster" /><br/><br/><a href="https://www.imdb.com/title/tt1757678/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The East</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319499</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_East-poster.jpg" alt="The East poster" /><br/><br/><a href="https://www.imdb.com/title/tt1869716/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Disconnect</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319498</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Disconnect-poster.jpg" alt="Disconnect poster" /><br/><br/><a href="https://www.imdb.com/title/tt1433811/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Truth or Dare</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319493</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Truth_or_Dare-poster.jpg" alt="Truth or Dare poster" /><br/><br/><a href="https://www.imdb.com/title/tt6772950/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Desperado</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319221</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Desperado-poster.jpg" alt="Desperado poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112851/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Once Upon a Time in Mexico</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319227</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Once_Upon_a_Time_in_Mexico-poster.jpg" alt="Once Upon a Time in Mexico poster" /><br/><br/><a href="https://www.imdb.com/title/tt0285823/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Peninsula</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319203</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Peninsula-poster.jpg" alt="Peninsula poster" /><br/><br/><a href="https://www.imdb.com/title/tt8850222/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Noriko's Dinner Table</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319199</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Noriko's_Dinner_Table-poster.jpg" alt="Noriko's Dinner Table poster" /><br/><br/><a href="https://www.imdb.com/title/tt0468820/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Scream 7</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319196</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scream_7-poster.jpg" alt="Scream 7 poster" /><br/><br/><a href="https://www.imdb.com/title/tt27047903/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
