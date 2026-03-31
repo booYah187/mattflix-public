@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Banished</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319595</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Banished-poster.jpg" alt="Banished poster" /><br/><br/><a href="https://www.imdb.com/title/tt3508050/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>That Dirty Black Bag</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319507</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/That_Dirty_Black_Bag-poster.jpg" alt="That Dirty Black Bag poster" /><br/><br/><a href="https://www.imdb.com/title/tt7809420/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Staircase (2022)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314095</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Staircase_(2022)-poster.jpg" alt="The Staircase (2022) poster" /><br/><br/><a href="https://www.imdb.com/title/tt11324406/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Musketeers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=313962</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Musketeers-poster.jpg" alt="The Musketeers poster" /><br/><br/><a href="https://www.imdb.com/title/tt2733252/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,41 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Black Widow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319643</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Widow-poster.jpg" alt="Black Widow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090738/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Piano</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319639</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Piano-poster.jpg" alt="The Piano poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107822/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Baytown Outlaws</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319625</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Baytown_Outlaws-poster.jpg" alt="The Baytown Outlaws poster" /><br/><br/><a href="https://www.imdb.com/title/tt1836944/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>1922</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319620</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/1922-poster.jpg" alt="1922 poster" /><br/><br/><a href="https://www.imdb.com/title/tt6214928/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Son of a Gun</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319613</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Son_of_a_Gun-poster.jpg" alt="Son of a Gun poster" /><br/><br/><a href="https://www.imdb.com/title/tt2452200/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Trial by Fire</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319610</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Trial_by_Fire-poster.jpg" alt="Trial by Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt3263946/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Judge</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319570</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Judge-poster.jpg" alt="The Judge poster" /><br/><br/><a href="https://www.imdb.com/title/tt1872194/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>What Maisie Knew</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319533</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/What_Maisie_Knew-poster.jpg" alt="What Maisie Knew poster" /><br/><br/><a href="https://www.imdb.com/title/tt1932767/">View on IMDb</a>]]></description>
@@ -94,41 +129,6 @@
       <title>That's My Boy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319386</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/That's_My_Boy-poster.jpg" alt="That's My Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1232200/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Red Eye</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319290</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Eye-poster.jpg" alt="Red Eye poster" /><br/><br/><a href="https://www.imdb.com/title/tt0421239/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Send Help</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319287</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Send_Help-poster.jpg" alt="Send Help poster" /><br/><br/><a href="https://www.imdb.com/title/tt8036976/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Milo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319283</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Milo-poster.jpg" alt="Bad Milo poster" /><br/><br/><a href="https://www.imdb.com/title/tt2274570/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Devil's Advocate</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319270</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil's_Advocate-poster.jpg" alt="The Devil's Advocate poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118971/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Peaky Blinders: The Immortal Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319258</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Peaky_Blinders_The_Immortal_Man-poster.jpg" alt="Peaky Blinders: The Immortal Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt15574124/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>El Mariachi</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319231</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/El_Mariachi-poster.jpg" alt="El Mariachi poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104815/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Desperado</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319221</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Desperado-poster.jpg" alt="Desperado poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112851/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
