@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>A Cure for Wellness</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319730</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Cure_for_Wellness-poster.jpg" alt="A Cure for Wellness poster" /><br/><br/><a href="https://www.imdb.com/title/tt4731136/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Betrayal</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319709</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Betrayal-poster.jpg" alt="Betrayal poster" /><br/><br/><a href="https://www.imdb.com/title/tt5473412/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Thousand Blows</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319656</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Thousand_Blows-poster.jpg" alt="A Thousand Blows poster" /><br/><br/><a href="https://www.imdb.com/title/tt21874900/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Transient</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319646</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transient-poster.jpg" alt="Transient poster" /><br/><br/><a href="https://www.imdb.com/title/tt16381608/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Black Widow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319643</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Widow-poster.jpg" alt="Black Widow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090738/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Guns Akimbo</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318075</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Guns_Akimbo-poster.jpg" alt="Guns Akimbo poster" /><br/><br/><a href="https://www.imdb.com/title/tt6902676/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mayhem</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318074</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mayhem-poster.jpg" alt="Mayhem poster" /><br/><br/><a href="https://www.imdb.com/title/tt4348012/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Strangers: Chapter 3</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318071</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Strangers_Chapter_3-poster.jpg" alt="The Strangers: Chapter 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt28682323/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Babysitter</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318066</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Babysitter-poster.jpg" alt="The Babysitter poster" /><br/><br/><a href="https://www.imdb.com/title/tt4225622/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Secret Mall Apartment</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318053</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Secret_Mall_Apartment-poster.jpg" alt="Secret Mall Apartment poster" /><br/><br/><a href="https://www.imdb.com/title/tt21221386/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

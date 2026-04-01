@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>A Cure for Wellness</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319730</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Cure_for_Wellness-poster.jpg" alt="A Cure for Wellness poster" /><br/><br/><a href="https://www.imdb.com/title/tt4731136/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Betrayal</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319709</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Betrayal-poster.jpg" alt="Betrayal poster" /><br/><br/><a href="https://www.imdb.com/title/tt5473412/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Transient</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319646</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transient-poster.jpg" alt="Transient poster" /><br/><br/><a href="https://www.imdb.com/title/tt16381608/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Black Widow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319643</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Widow-poster.jpg" alt="Black Widow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090738/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Rollerball</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319406</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rollerball-poster.jpg" alt="Rollerball poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073631/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Last Action Hero</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319405</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Last_Action_Hero-poster.jpg" alt="Last Action Hero poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107362/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Last Boy Scout</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319397</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Boy_Scout-poster.jpg" alt="The Last Boy Scout poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102266/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>That's My Boy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319386</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/That's_My_Boy-poster.jpg" alt="That's My Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1232200/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
