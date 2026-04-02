@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bedtime Stories</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319798</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bedtime_Stories-poster.jpg" alt="Bedtime Stories poster" /><br/><br/><a href="https://www.imdb.com/title/tt0960731/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Hoppers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319489</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hoppers-poster.jpg" alt="Hoppers poster" /><br/><br/><a href="https://www.imdb.com/title/tt26443616/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Octonauts and The Ring of Fire</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=208507</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Octonauts_and_The_Ring_of_Fire-poster.jpg" alt="Octonauts and The Ring of Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt13779166/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Octonauts and the Great Barrier Reef</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=208506</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Octonauts_and_the_Great_Barrier_Reef-poster.jpg" alt="Octonauts and the Great Barrier Reef poster" /><br/><br/><a href="https://www.imdb.com/title/tt13150606/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Bedtime Stories</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319798</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bedtime_Stories-poster.jpg" alt="Bedtime Stories poster" /><br/><br/><a href="https://www.imdb.com/title/tt0960731/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Antiviral</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319787</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Antiviral-poster.jpg" alt="Antiviral poster" /><br/><br/><a href="https://www.imdb.com/title/tt2099556/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Cure for Wellness</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319730</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Cure_for_Wellness-poster.jpg" alt="A Cure for Wellness poster" /><br/><br/><a href="https://www.imdb.com/title/tt4731136/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Kicking &amp; Screaming</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318087</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kicking_&amp;_Screaming-poster.jpg" alt="Kicking &amp; Screaming poster" /><br/><br/><a href="https://www.imdb.com/title/tt0384642/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Open Range</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318084</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Open_Range-poster.jpg" alt="Open Range poster" /><br/><br/><a href="https://www.imdb.com/title/tt0316356/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Guns Akimbo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318075</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Guns_Akimbo-poster.jpg" alt="Guns Akimbo poster" /><br/><br/><a href="https://www.imdb.com/title/tt6902676/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Antiviral</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319787</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Antiviral-poster.jpg" alt="Antiviral poster" /><br/><br/><a href="https://www.imdb.com/title/tt2099556/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Cure for Wellness</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319730</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Cure_for_Wellness-poster.jpg" alt="A Cure for Wellness poster" /><br/><br/><a href="https://www.imdb.com/title/tt4731136/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Thief</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319416</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thief-poster.jpg" alt="Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083190/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rollerball</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319406</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rollerball-poster.jpg" alt="Rollerball poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073631/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
