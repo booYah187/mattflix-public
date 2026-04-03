@@ -6,6 +6,46 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Newton Boys</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319847</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Newton_Boys-poster.jpg" alt="The Newton Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120769/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>We Are Marshall</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319843</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/We_Are_Marshall-poster.jpg" alt="We Are Marshall poster" /><br/><br/><a href="https://www.imdb.com/title/tt0758794/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>U-571</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319842</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/U-571-poster.jpg" alt="U-571 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0141926/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Amistad</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319820</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Amistad-poster.jpg" alt="Amistad poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118607/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319819</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Contact-poster.jpg" alt="Contact poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118884/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Creation</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319814</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Creation-poster.jpg" alt="Creation poster" /><br/><br/><a href="https://www.imdb.com/title/tt0974014/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>House of Sand and Fog</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319809</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/House_of_Sand_and_Fog-poster.jpg" alt="House of Sand and Fog poster" /><br/><br/><a href="https://www.imdb.com/title/tt0315983/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Higher Learning</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319807</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Higher_Learning-poster.jpg" alt="Higher Learning poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113305/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bedtime Stories</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319798</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bedtime_Stories-poster.jpg" alt="Bedtime Stories poster" /><br/><br/><a href="https://www.imdb.com/title/tt0960731/">View on IMDb</a>]]></description>
@@ -464,46 +504,6 @@
       <title>Mission: Impossible – Ghost Protocol</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318432</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Ghost_Protocol-poster.jpg" alt="Mission: Impossible – Ghost Protocol poster" /><br/><br/><a href="https://www.imdb.com/title/tt1229238/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible III</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318430</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_III-poster.jpg" alt="Mission: Impossible III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0317919/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible II</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318425</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_II-poster.jpg" alt="Mission: Impossible II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120755/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318420</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible-poster.jpg" alt="Mission: Impossible poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117060/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Me, Myself &amp; Irene</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318414</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Me,_Myself_&amp;_Irene-poster.jpg" alt="Me, Myself &amp; Irene poster" /><br/><br/><a href="https://www.imdb.com/title/tt0183505/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318249</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Man-poster.jpg" alt="Bad Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt30057173/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Play Dirty</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318248</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Play_Dirty-poster.jpg" alt="Play Dirty poster" /><br/><br/><a href="https://www.imdb.com/title/tt18392014/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Industry</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318094</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Industry-poster.jpg" alt="Industry poster" /><br/><br/><a href="https://www.imdb.com/title/tt7671070/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kicking &amp; Screaming</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318087</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kicking_&amp;_Screaming-poster.jpg" alt="Kicking &amp; Screaming poster" /><br/><br/><a href="https://www.imdb.com/title/tt0384642/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

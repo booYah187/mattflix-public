@@ -6,6 +6,46 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Newton Boys</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319847</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Newton_Boys-poster.jpg" alt="The Newton Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120769/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>We Are Marshall</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319843</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/We_Are_Marshall-poster.jpg" alt="We Are Marshall poster" /><br/><br/><a href="https://www.imdb.com/title/tt0758794/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>U-571</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319842</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/U-571-poster.jpg" alt="U-571 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0141926/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Amistad</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319820</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Amistad-poster.jpg" alt="Amistad poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118607/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319819</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Contact-poster.jpg" alt="Contact poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118884/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Creation</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319814</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Creation-poster.jpg" alt="Creation poster" /><br/><br/><a href="https://www.imdb.com/title/tt0974014/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>House of Sand and Fog</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319809</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/House_of_Sand_and_Fog-poster.jpg" alt="House of Sand and Fog poster" /><br/><br/><a href="https://www.imdb.com/title/tt0315983/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Higher Learning</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319807</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Higher_Learning-poster.jpg" alt="Higher Learning poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113305/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Antiviral</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319787</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Antiviral-poster.jpg" alt="Antiviral poster" /><br/><br/><a href="https://www.imdb.com/title/tt2099556/">View on IMDb</a>]]></description>
@@ -89,46 +129,6 @@
       <title>Pretty Lethal</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319482</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pretty_Lethal-poster.jpg" alt="Pretty Lethal poster" /><br/><br/><a href="https://www.imdb.com/title/tt26678938/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Disaster Artist</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319476</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Disaster_Artist-poster.jpg" alt="The Disaster Artist poster" /><br/><br/><a href="https://www.imdb.com/title/tt3521126/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>I Am Not a Serial Killer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319469</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Am_Not_a_Serial_Killer-poster.jpg" alt="I Am Not a Serial Killer poster" /><br/><br/><a href="https://www.imdb.com/title/tt4303340/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Neighbors</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319468</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Neighbors-poster.jpg" alt="Neighbors poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082801/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Compliance</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319451</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Compliance-poster.jpg" alt="Compliance poster" /><br/><br/><a href="https://www.imdb.com/title/tt1971352/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Sitter</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319441</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Sitter-poster.jpg" alt="The Sitter poster" /><br/><br/><a href="https://www.imdb.com/title/tt1366344/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Slingshot</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319427</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Slingshot-poster.jpg" alt="Slingshot poster" /><br/><br/><a href="https://www.imdb.com/title/tt12616480/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Vice</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319420</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Vice-poster.jpg" alt="Vice poster" /><br/><br/><a href="https://www.imdb.com/title/tt6266538/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Thief</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319416</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thief-poster.jpg" alt="Thief poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083190/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
