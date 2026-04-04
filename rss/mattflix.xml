@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Girl Who Kicked the Hornet's Nest</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319873</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_Who_Kicked_the_Hornet's_Nest-poster.jpg" alt="The Girl Who Kicked the Hornet's Nest poster" /><br/><br/><a href="https://www.imdb.com/title/tt1343097/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Girl Who Played with Fire</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319874</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_Who_Played_with_Fire-poster.jpg" alt="The Girl Who Played with Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt1216487/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Girl with the Dragon Tattoo</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319875</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_with_the_Dragon_Tattoo-poster.jpg" alt="The Girl with the Dragon Tattoo poster" /><br/><br/><a href="https://www.imdb.com/title/tt1132620/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Girl in the Spider's Web</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319865</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_in_the_Spider's_Web-poster.jpg" alt="The Girl in the Spider's Web poster" /><br/><br/><a href="https://www.imdb.com/title/tt5177088/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Girl with the Dragon Tattoo</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319849</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_with_the_Dragon_Tattoo-poster.jpg" alt="The Girl with the Dragon Tattoo poster" /><br/><br/><a href="https://www.imdb.com/title/tt1568346/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Newton Boys</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319847</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Newton_Boys-poster.jpg" alt="The Newton Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120769/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Dumb and Dumber</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318447</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dumb_and_Dumber-poster.jpg" alt="Dumb and Dumber poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109686/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible - The Final Reckoning</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318444</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_-_The_Final_Reckoning-poster.jpg" alt="Mission: Impossible - The Final Reckoning poster" /><br/><br/><a href="https://www.imdb.com/title/tt9603208/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible – Dead Reckoning Part One</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318441</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Dead_Reckoning_Part_One-poster.jpg" alt="Mission: Impossible – Dead Reckoning Part One poster" /><br/><br/><a href="https://www.imdb.com/title/tt9603212/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible – Fallout</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318439</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Fallout-poster.jpg" alt="Mission: Impossible – Fallout poster" /><br/><br/><a href="https://www.imdb.com/title/tt4912910/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible – Rogue Nation</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318435</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Rogue_Nation-poster.jpg" alt="Mission: Impossible – Rogue Nation poster" /><br/><br/><a href="https://www.imdb.com/title/tt2381249/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mission: Impossible – Ghost Protocol</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318432</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mission_Impossible_–_Ghost_Protocol-poster.jpg" alt="Mission: Impossible – Ghost Protocol poster" /><br/><br/><a href="https://www.imdb.com/title/tt1229238/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
