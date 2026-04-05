@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>A.I. Artificial Intelligence</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319906</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A.I._Artificial_Intelligence-poster.jpg" alt="A.I. Artificial Intelligence poster" /><br/><br/><a href="https://www.imdb.com/title/tt0212720/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Girl Who Kicked the Hornet's Nest</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319873</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_Who_Kicked_the_Hornet's_Nest-poster.jpg" alt="The Girl Who Kicked the Hornet's Nest poster" /><br/><br/><a href="https://www.imdb.com/title/tt1343097/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Judge</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319570</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Judge-poster.jpg" alt="The Judge poster" /><br/><br/><a href="https://www.imdb.com/title/tt1872194/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>What Maisie Knew</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319533</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/What_Maisie_Knew-poster.jpg" alt="What Maisie Knew poster" /><br/><br/><a href="https://www.imdb.com/title/tt1932767/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

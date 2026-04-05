@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Gravity</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319925</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Gravity-poster.jpg" alt="Gravity poster" /><br/><br/><a href="https://www.imdb.com/title/tt1454468/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A.I. Artificial Intelligence</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319906</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A.I._Artificial_Intelligence-poster.jpg" alt="A.I. Artificial Intelligence poster" /><br/><br/><a href="https://www.imdb.com/title/tt0212720/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Girl Who Kicked the Hornet's Nest</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319873</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_Who_Kicked_the_Hornet's_Nest-poster.jpg" alt="The Girl Who Kicked the Hornet's Nest poster" /><br/><br/><a href="https://www.imdb.com/title/tt1343097/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>The Simpsons Movie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318470</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Simpsons_Movie-poster.jpg" alt="The Simpsons Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0462538/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Melania</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318468</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Melania-poster.jpg" alt="Melania poster" /><br/><br/><a href="https://www.imdb.com/title/tt35291758/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dumb and Dumber</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318447</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dumb_and_Dumber-poster.jpg" alt="Dumb and Dumber poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109686/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
