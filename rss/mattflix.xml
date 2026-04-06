@@ -6,6 +6,46 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Harakiri</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319977</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harakiri-poster.jpg" alt="Harakiri poster" /><br/><br/><a href="https://www.imdb.com/title/tt0056058/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Collateral</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319975</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Collateral-poster.jpg" alt="Collateral poster" /><br/><br/><a href="https://www.imdb.com/title/tt0369339/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Kiss Kiss Bang Bang</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319968</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kiss_Kiss_Bang_Bang-poster.jpg" alt="Kiss Kiss Bang Bang poster" /><br/><br/><a href="https://www.imdb.com/title/tt0373469/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jason Bourne</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319965</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jason_Bourne-poster.jpg" alt="Jason Bourne poster" /><br/><br/><a href="https://www.imdb.com/title/tt4196776/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Bourne Legacy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319927</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Legacy-poster.jpg" alt="The Bourne Legacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1194173/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Bourne Ultimatum</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319929</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Ultimatum-poster.jpg" alt="The Bourne Ultimatum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0440963/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Bourne Supremacy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319928</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Supremacy-poster.jpg" alt="The Bourne Supremacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0372183/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Bourne Identity</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319930</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Identity-poster.jpg" alt="The Bourne Identity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0258463/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Gravity</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319925</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Gravity-poster.jpg" alt="Gravity poster" /><br/><br/><a href="https://www.imdb.com/title/tt1454468/">View on IMDb</a>]]></description>
@@ -464,46 +504,6 @@
       <title>Ruthless People</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318673</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ruthless_People-poster.jpg" alt="Ruthless People poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091877/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wild at Heart</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318666</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wild_at_Heart-poster.jpg" alt="Wild at Heart poster" /><br/><br/><a href="https://www.imdb.com/title/tt0100935/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Death Race 2000</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318663</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_Race_2000-poster.jpg" alt="Death Race 2000 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0072856/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Chinatown</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318650</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chinatown-poster.jpg" alt="Chinatown poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071315/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sirāt</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318636</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sirāt-poster.jpg" alt="Sirāt poster" /><br/><br/><a href="https://www.imdb.com/title/tt32298285/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Good Luck, Have Fun, Don't Die</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318542</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Luck,_Have_Fun,_Don't_Die-poster.jpg" alt="Good Luck, Have Fun, Don't Die poster" /><br/><br/><a href="https://www.imdb.com/title/tt1341338/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Death by Lightning</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318519</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_by_Lightning-poster.jpg" alt="Death by Lightning poster" /><br/><br/><a href="https://www.imdb.com/title/tt31121364/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Detroiters</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318476</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Detroiters-poster.jpg" alt="Detroiters poster" /><br/><br/><a href="https://www.imdb.com/title/tt4779762/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Simpsons Movie</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318470</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Simpsons_Movie-poster.jpg" alt="The Simpsons Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt0462538/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
