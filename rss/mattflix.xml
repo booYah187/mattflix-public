@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Rambo: Last Blood</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319990</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rambo_Last_Blood-poster.jpg" alt="Rambo: Last Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt1206885/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Good Day to Die Hard</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319987</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Good_Day_to_Die_Hard-poster.jpg" alt="A Good Day to Die Hard poster" /><br/><br/><a href="https://www.imdb.com/title/tt1606378/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Bride!</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319984</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bride!-poster.jpg" alt="The Bride! poster" /><br/><br/><a href="https://www.imdb.com/title/tt30851137/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cliffhanger</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319983</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cliffhanger-poster.jpg" alt="Cliffhanger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106582/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Live Free or Die Hard</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319981</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Live_Free_or_Die_Hard-poster.jpg" alt="Live Free or Die Hard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0337978/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Harakiri</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319977</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harakiri-poster.jpg" alt="Harakiri poster" /><br/><br/><a href="https://www.imdb.com/title/tt0056058/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Junior</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318721</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Junior-poster.jpg" alt="Junior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110216/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Normal Life. Chronicle of a Sumo Wrestler</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318715</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Normal_Life._Chronicle_of_a_Sumo_Wrestler-poster.jpg" alt="A Normal Life. Chronicle of a Sumo Wrestler poster" /><br/><br/><a href="https://www.imdb.com/title/tt1544996/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lazarus</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318697</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lazarus-poster.jpg" alt="Lazarus poster" /><br/><br/><a href="https://www.imdb.com/title/tt28454008/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lights Out</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318693</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lights_Out-poster.jpg" alt="Lights Out poster" /><br/><br/><a href="https://www.imdb.com/title/tt4786282/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Kill Point</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318674</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kill_Point-poster.jpg" alt="The Kill Point poster" /><br/><br/><a href="https://www.imdb.com/title/tt0862593/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ruthless People</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318673</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ruthless_People-poster.jpg" alt="Ruthless People poster" /><br/><br/><a href="https://www.imdb.com/title/tt0091877/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
