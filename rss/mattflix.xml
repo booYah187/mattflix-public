@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Deep Cover</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320170</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Cover-poster.jpg" alt="Deep Cover poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104073/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Blood In Blood Out</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320169</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blood_In_Blood_Out-poster.jpg" alt="Blood In Blood Out poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106469/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wasteman</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320163</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wasteman-poster.jpg" alt="Wasteman poster" /><br/><br/><a href="https://www.imdb.com/title/tt29028515/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bullet Ballet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320141</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bullet_Ballet-poster.jpg" alt="Bullet Ballet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0163563/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>The Man from Nowhere</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319071</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Man_from_Nowhere-poster.jpg" alt="The Man from Nowhere poster" /><br/><br/><a href="https://www.imdb.com/title/tt1527788/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Good Boy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319052</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Good_Boy-poster.jpg" alt="Good Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt34381258/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>GLOW</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318892</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/GLOW-poster.jpg" alt="GLOW poster" /><br/><br/><a href="https://www.imdb.com/title/tt5770786/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Perrier's Bounty</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318885</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perrier's_Bounty-poster.jpg" alt="Perrier's Bounty poster" /><br/><br/><a href="https://www.imdb.com/title/tt1003034/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

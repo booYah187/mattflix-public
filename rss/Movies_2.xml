@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Deep Cover</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320170</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Cover-poster.jpg" alt="Deep Cover poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104073/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Blood In Blood Out</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320169</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blood_In_Blood_Out-poster.jpg" alt="Blood In Blood Out poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106469/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wasteman</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320163</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wasteman-poster.jpg" alt="Wasteman poster" /><br/><br/><a href="https://www.imdb.com/title/tt29028515/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bullet Ballet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320141</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bullet_Ballet-poster.jpg" alt="Bullet Ballet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0163563/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>The Bourne Legacy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319927</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Legacy-poster.jpg" alt="The Bourne Legacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1194173/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bourne Ultimatum</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319929</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Ultimatum-poster.jpg" alt="The Bourne Ultimatum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0440963/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bourne Supremacy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319928</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Supremacy-poster.jpg" alt="The Bourne Supremacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0372183/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bourne Identity</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319930</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Identity-poster.jpg" alt="The Bourne Identity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0258463/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
