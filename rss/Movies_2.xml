@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Air Force One</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320192</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Air_Force_One-poster.jpg" alt="Air Force One poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118571/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Executive Decision</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320188</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Executive_Decision-poster.jpg" alt="Executive Decision poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116253/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Long Kiss Goodnight</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320186</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Long_Kiss_Goodnight-poster.jpg" alt="The Long Kiss Goodnight poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116908/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Live Free or Die Hard</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319981</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Live_Free_or_Die_Hard-poster.jpg" alt="Live Free or Die Hard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0337978/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Harakiri</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319977</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harakiri-poster.jpg" alt="Harakiri poster" /><br/><br/><a href="https://www.imdb.com/title/tt0056058/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Collateral</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319975</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Collateral-poster.jpg" alt="Collateral poster" /><br/><br/><a href="https://www.imdb.com/title/tt0369339/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
