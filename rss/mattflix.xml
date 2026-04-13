@@ -6,6 +6,41 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Don't Be Afraid of the Dark</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320228</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Don't_Be_Afraid_of_the_Dark-poster.jpg" alt="Don't Be Afraid of the Dark poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069992/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Predator</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320217</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Predator-poster.jpg" alt="The Predator poster" /><br/><br/><a href="https://www.imdb.com/title/tt3829266/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Predators</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320216</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predators-poster.jpg" alt="Predators poster" /><br/><br/><a href="https://www.imdb.com/title/tt1424381/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Predator 2</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320210</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator_2-poster.jpg" alt="Predator 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0100403/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Predator</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320208</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator-poster.jpg" alt="Predator poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093773/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Blade: Trinity</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320204</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blade_Trinity-poster.jpg" alt="Blade: Trinity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0359013/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Blade II</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320197</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blade_II-poster.jpg" alt="Blade II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0187738/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Air Force One</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320192</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Air_Force_One-poster.jpg" alt="Air Force One poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118571/">View on IMDb</a>]]></description>
@@ -469,41 +504,6 @@
       <title>Peaky Blinders: The Immortal Man</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319258</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Peaky_Blinders_The_Immortal_Man-poster.jpg" alt="Peaky Blinders: The Immortal Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt15574124/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Rise of the Red Hot Chili Peppers: Our Brother, Hillel</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319249</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rise_of_the_Red_Hot_Chili_Peppers_Our_Brother,_Hillel-poster.jpg" alt="The Rise of the Red Hot Chili Peppers: Our Brother, Hillel poster" /><br/><br/><a href="https://www.imdb.com/title/tt36971084/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>El Mariachi</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319231</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/El_Mariachi-poster.jpg" alt="El Mariachi poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104815/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Desperado</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319221</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Desperado-poster.jpg" alt="Desperado poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112851/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Once Upon a Time in Mexico</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319227</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Once_Upon_a_Time_in_Mexico-poster.jpg" alt="Once Upon a Time in Mexico poster" /><br/><br/><a href="https://www.imdb.com/title/tt0285823/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Peninsula</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319203</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Peninsula-poster.jpg" alt="Peninsula poster" /><br/><br/><a href="https://www.imdb.com/title/tt8850222/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Noriko's Dinner Table</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319199</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Noriko's_Dinner_Table-poster.jpg" alt="Noriko's Dinner Table poster" /><br/><br/><a href="https://www.imdb.com/title/tt0468820/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Scream 7</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319196</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scream_7-poster.jpg" alt="Scream 7 poster" /><br/><br/><a href="https://www.imdb.com/title/tt27047903/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

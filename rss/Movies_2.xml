@@ -6,6 +6,41 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Don't Be Afraid of the Dark</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320228</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Don't_Be_Afraid_of_the_Dark-poster.jpg" alt="Don't Be Afraid of the Dark poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069992/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Predator</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320217</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Predator-poster.jpg" alt="The Predator poster" /><br/><br/><a href="https://www.imdb.com/title/tt3829266/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Predators</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320216</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predators-poster.jpg" alt="Predators poster" /><br/><br/><a href="https://www.imdb.com/title/tt1424381/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Predator 2</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320210</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator_2-poster.jpg" alt="Predator 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0100403/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Predator</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320208</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator-poster.jpg" alt="Predator poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093773/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Blade: Trinity</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320204</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blade_Trinity-poster.jpg" alt="Blade: Trinity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0359013/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Blade II</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320197</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blade_II-poster.jpg" alt="Blade II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0187738/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Air Force One</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320192</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Air_Force_One-poster.jpg" alt="Air Force One poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118571/">View on IMDb</a>]]></description>
@@ -94,41 +129,6 @@
       <title>Bride of Chucky</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320004</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bride_of_Chucky-poster.jpg" alt="Bride of Chucky poster" /><br/><br/><a href="https://www.imdb.com/title/tt0144120/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Child's Play 3</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320003</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Child's_Play_3-poster.jpg" alt="Child's Play 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103956/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Child's Play 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319996</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Child's_Play_2-poster.jpg" alt="Child's Play 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099253/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rambo: Last Blood</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319990</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rambo_Last_Blood-poster.jpg" alt="Rambo: Last Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt1206885/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Good Day to Die Hard</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319987</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Good_Day_to_Die_Hard-poster.jpg" alt="A Good Day to Die Hard poster" /><br/><br/><a href="https://www.imdb.com/title/tt1606378/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bride!</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319984</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bride!-poster.jpg" alt="The Bride! poster" /><br/><br/><a href="https://www.imdb.com/title/tt30851137/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cliffhanger</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319983</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cliffhanger-poster.jpg" alt="Cliffhanger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106582/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Live Free or Die Hard</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319981</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Live_Free_or_Die_Hard-poster.jpg" alt="Live Free or Die Hard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0337978/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
