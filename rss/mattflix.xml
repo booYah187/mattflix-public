@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Stranger</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320245</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Stranger-poster.jpg" alt="The Stranger poster" /><br/><br/><a href="https://www.imdb.com/title/tt36243564/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Ready or Not 2: Here I Come</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320244</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ready_or_Not_2_Here_I_Come-poster.jpg" alt="Ready or Not 2: Here I Come poster" /><br/><br/><a href="https://www.imdb.com/title/tt33978029/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Breakdown</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320240</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Breakdown-poster.jpg" alt="Breakdown poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118771/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Outcome</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320237</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Outcome-poster.jpg" alt="Outcome poster" /><br/><br/><a href="https://www.imdb.com/title/tt23724682/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Don't Be Afraid of the Dark</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320228</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Don't_Be_Afraid_of_the_Dark-poster.jpg" alt="Don't Be Afraid of the Dark poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069992/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Send Help</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319287</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Send_Help-poster.jpg" alt="Send Help poster" /><br/><br/><a href="https://www.imdb.com/title/tt8036976/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Milo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319283</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Milo-poster.jpg" alt="Bad Milo poster" /><br/><br/><a href="https://www.imdb.com/title/tt2274570/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Devil's Advocate</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319270</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil's_Advocate-poster.jpg" alt="The Devil's Advocate poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118971/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Harry and the Hendersons</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319262</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harry_and_the_Hendersons-poster.jpg" alt="Harry and the Hendersons poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093148/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Peaky Blinders: The Immortal Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319258</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Peaky_Blinders_The_Immortal_Man-poster.jpg" alt="Peaky Blinders: The Immortal Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt15574124/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

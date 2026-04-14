@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Stranger</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320245</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Stranger-poster.jpg" alt="The Stranger poster" /><br/><br/><a href="https://www.imdb.com/title/tt36243564/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Ready or Not 2: Here I Come</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320244</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ready_or_Not_2_Here_I_Come-poster.jpg" alt="Ready or Not 2: Here I Come poster" /><br/><br/><a href="https://www.imdb.com/title/tt33978029/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Breakdown</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320240</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Breakdown-poster.jpg" alt="Breakdown poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118771/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Outcome</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320237</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Outcome-poster.jpg" alt="Outcome poster" /><br/><br/><a href="https://www.imdb.com/title/tt23724682/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Don't Be Afraid of the Dark</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320228</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Don't_Be_Afraid_of_the_Dark-poster.jpg" alt="Don't Be Afraid of the Dark poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069992/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Child's Play</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320032</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Child's_Play-poster.jpg" alt="Child's Play poster" /><br/><br/><a href="https://www.imdb.com/title/tt8663516/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cult of Chucky</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320027</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cult_of_Chucky-poster.jpg" alt="Cult of Chucky poster" /><br/><br/><a href="https://www.imdb.com/title/tt3280262/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Curse of Chucky</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320021</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Curse_of_Chucky-poster.jpg" alt="Curse of Chucky poster" /><br/><br/><a href="https://www.imdb.com/title/tt2230358/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Seed of Chucky</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320015</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Seed_of_Chucky-poster.jpg" alt="Seed of Chucky poster" /><br/><br/><a href="https://www.imdb.com/title/tt0387575/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bride of Chucky</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320004</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bride_of_Chucky-poster.jpg" alt="Bride of Chucky poster" /><br/><br/><a href="https://www.imdb.com/title/tt0144120/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
