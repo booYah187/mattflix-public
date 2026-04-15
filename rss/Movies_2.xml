@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Undertone</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320269</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Undertone-poster.jpg" alt="Undertone poster" /><br/><br/><a href="https://www.imdb.com/title/tt35892608/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Stranger</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320245</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Stranger-poster.jpg" alt="The Stranger poster" /><br/><br/><a href="https://www.imdb.com/title/tt36243564/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Strangeland</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320035</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Strangeland-poster.jpg" alt="Strangeland poster" /><br/><br/><a href="https://www.imdb.com/title/tt0124102/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Child's Play</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320032</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Child's_Play-poster.jpg" alt="Child's Play poster" /><br/><br/><a href="https://www.imdb.com/title/tt8663516/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
