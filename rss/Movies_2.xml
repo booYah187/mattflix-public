@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Foot Fist Way</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320366</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Foot_Fist_Way-poster.jpg" alt="The Foot Fist Way poster" /><br/><br/><a href="https://www.imdb.com/title/tt0492619/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Equals</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320363</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Equals-poster.jpg" alt="Equals poster" /><br/><br/><a href="https://www.imdb.com/title/tt3289728/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Happy Death Day</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320360</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Happy_Death_Day-poster.jpg" alt="Happy Death Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt5308322/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Predator</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320208</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator-poster.jpg" alt="Predator poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093773/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Blade: Trinity</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320204</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blade_Trinity-poster.jpg" alt="Blade: Trinity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0359013/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Blade II</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320197</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blade_II-poster.jpg" alt="Blade II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0187738/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

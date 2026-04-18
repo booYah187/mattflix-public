@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Foot Fist Way</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320366</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Foot_Fist_Way-poster.jpg" alt="The Foot Fist Way poster" /><br/><br/><a href="https://www.imdb.com/title/tt0492619/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Gorilla Story: Told by David Attenborough</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320365</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Gorilla_Story_Told_by_David_Attenborough-poster.jpg" alt="A Gorilla Story: Told by David Attenborough poster" /><br/><br/><a href="https://www.imdb.com/title/tt39314348/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Equals</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320363</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Equals-poster.jpg" alt="Equals poster" /><br/><br/><a href="https://www.imdb.com/title/tt3289728/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Happy Death Day</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320360</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Happy_Death_Day-poster.jpg" alt="Happy Death Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt5308322/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>The Disaster Artist</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319476</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Disaster_Artist-poster.jpg" alt="The Disaster Artist poster" /><br/><br/><a href="https://www.imdb.com/title/tt3521126/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>I Am Not a Serial Killer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319469</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Am_Not_a_Serial_Killer-poster.jpg" alt="I Am Not a Serial Killer poster" /><br/><br/><a href="https://www.imdb.com/title/tt4303340/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Neighbors</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319468</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Neighbors-poster.jpg" alt="Neighbors poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082801/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>One of Us</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319457</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_of_Us-poster.jpg" alt="One of Us poster" /><br/><br/><a href="https://www.imdb.com/title/tt5149528/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
