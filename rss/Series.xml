@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Rillington Place</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320458</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rillington_Place-poster.jpg" alt="Rillington Place poster" /><br/><br/><a href="https://www.imdb.com/title/tt5568438/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dead to Me</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320052</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_to_Me-poster.jpg" alt="Dead to Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt8064302/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>I Think You Should Leave with Tim Robinson</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314750</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Think_You_Should_Leave_with_Tim_Robinson-poster.jpg" alt="I Think You Should Leave with Tim Robinson poster" /><br/><br/><a href="https://www.imdb.com/title/tt10050772/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>PLUR1BUS</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314493</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/PLUR1BUS-poster.jpg" alt="PLUR1BUS poster" /><br/><br/><a href="https://www.imdb.com/title/tt22202452/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

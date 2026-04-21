@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Next Three Days</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320481</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Next_Three_Days-poster.jpg" alt="The Next Three Days poster" /><br/><br/><a href="https://www.imdb.com/title/tt1458175/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Devil in a Blue Dress</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320479</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil_in_a_Blue_Dress-poster.jpg" alt="Devil in a Blue Dress poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112857/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Arlington Road</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320478</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Arlington_Road-poster.jpg" alt="Arlington Road poster" /><br/><br/><a href="https://www.imdb.com/title/tt0137363/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rock the Kasbah</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320471</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rock_the_Kasbah-poster.jpg" alt="Rock the Kasbah poster" /><br/><br/><a href="https://www.imdb.com/title/tt3164256/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Glimpse Inside the Mind of Charles Swan III</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320454</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Glimpse_Inside_the_Mind_of_Charles_Swan_III-poster.jpg" alt="A Glimpse Inside the Mind of Charles Swan III poster" /><br/><br/><a href="https://www.imdb.com/title/tt2044729/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>The Monster</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320310</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Monster-poster.jpg" alt="The Monster poster" /><br/><br/><a href="https://www.imdb.com/title/tt3976144/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Kill Team</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320308</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kill_Team-poster.jpg" alt="The Kill Team poster" /><br/><br/><a href="https://www.imdb.com/title/tt6196936/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dark Places</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320301</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark_Places-poster.jpg" alt="Dark Places poster" /><br/><br/><a href="https://www.imdb.com/title/tt2402101/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>1%</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320295</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/1%-poster.jpg" alt="1% poster" /><br/><br/><a href="https://www.imdb.com/title/tt6301712/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Heartbreak Kid</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320290</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Heartbreak_Kid-poster.jpg" alt="The Heartbreak Kid poster" /><br/><br/><a href="https://www.imdb.com/title/tt0408839/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

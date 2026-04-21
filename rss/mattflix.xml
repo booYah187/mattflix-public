@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Next Three Days</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320481</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Next_Three_Days-poster.jpg" alt="The Next Three Days poster" /><br/><br/><a href="https://www.imdb.com/title/tt1458175/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Devil in a Blue Dress</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320479</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil_in_a_Blue_Dress-poster.jpg" alt="Devil in a Blue Dress poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112857/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Arlington Road</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320478</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Arlington_Road-poster.jpg" alt="Arlington Road poster" /><br/><br/><a href="https://www.imdb.com/title/tt0137363/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rock the Kasbah</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320471</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rock_the_Kasbah-poster.jpg" alt="Rock the Kasbah poster" /><br/><br/><a href="https://www.imdb.com/title/tt3164256/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rillington Place</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320458</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rillington_Place-poster.jpg" alt="Rillington Place poster" /><br/><br/><a href="https://www.imdb.com/title/tt5568438/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Glimpse Inside the Mind of Charles Swan III</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320454</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Glimpse_Inside_the_Mind_of_Charles_Swan_III-poster.jpg" alt="A Glimpse Inside the Mind of Charles Swan III poster" /><br/><br/><a href="https://www.imdb.com/title/tt2044729/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Black Widow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319643</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Widow-poster.jpg" alt="Black Widow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090738/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Piano</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319639</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Piano-poster.jpg" alt="The Piano poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107822/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Baytown Outlaws</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319625</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Baytown_Outlaws-poster.jpg" alt="The Baytown Outlaws poster" /><br/><br/><a href="https://www.imdb.com/title/tt1836944/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>1922</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319620</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/1922-poster.jpg" alt="1922 poster" /><br/><br/><a href="https://www.imdb.com/title/tt6214928/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Son of a Gun</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319613</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Son_of_a_Gun-poster.jpg" alt="Son of a Gun poster" /><br/><br/><a href="https://www.imdb.com/title/tt2452200/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Trial by Fire</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319610</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Trial_by_Fire-poster.jpg" alt="Trial by Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt3263946/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
