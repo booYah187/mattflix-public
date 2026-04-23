@@ -6,6 +6,61 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Hitchcock</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320744</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hitchcock-poster.jpg" alt="Hitchcock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0975645/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Metropolis</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320734</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Metropolis-poster.jpg" alt="Metropolis poster" /><br/><br/><a href="https://www.imdb.com/title/tt0017136/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Fan</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320733</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fan-poster.jpg" alt="The Fan poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116277/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Unstoppable</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320730</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Unstoppable-poster.jpg" alt="Unstoppable poster" /><br/><br/><a href="https://www.imdb.com/title/tt0477080/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Déjà Vu</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320720</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Déjà_Vu-poster.jpg" alt="Déjà Vu poster" /><br/><br/><a href="https://www.imdb.com/title/tt0453467/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Crimson Tide</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320719</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crimson_Tide-poster.jpg" alt="Crimson Tide poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112740/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The House of Tomorrow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320715</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_House_of_Tomorrow-poster.jpg" alt="The House of Tomorrow poster" /><br/><br/><a href="https://www.imdb.com/title/tt5910344/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Zero Effect</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320714</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zero_Effect-poster.jpg" alt="Zero Effect poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120906/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Varsity Blues</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320494</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Varsity_Blues-poster.jpg" alt="Varsity Blues poster" /><br/><br/><a href="https://www.imdb.com/title/tt0139699/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Kid Detective</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320491</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kid_Detective-poster.jpg" alt="The Kid Detective poster" /><br/><br/><a href="https://www.imdb.com/title/tt8980602/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>CB4</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320488</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/CB4-poster.jpg" alt="CB4 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106500/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Next Three Days</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320481</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Next_Three_Days-poster.jpg" alt="The Next Three Days poster" /><br/><br/><a href="https://www.imdb.com/title/tt1458175/">View on IMDb</a>]]></description>
@@ -74,61 +129,6 @@
       <title>City of Ember</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320372</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/City_of_Ember-poster.jpg" alt="City of Ember poster" /><br/><br/><a href="https://www.imdb.com/title/tt0970411/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Interview</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320367</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Interview-poster.jpg" alt="The Interview poster" /><br/><br/><a href="https://www.imdb.com/title/tt2788710/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Foot Fist Way</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320366</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Foot_Fist_Way-poster.jpg" alt="The Foot Fist Way poster" /><br/><br/><a href="https://www.imdb.com/title/tt0492619/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Equals</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320363</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Equals-poster.jpg" alt="Equals poster" /><br/><br/><a href="https://www.imdb.com/title/tt3289728/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Happy Death Day</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320360</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Happy_Death_Day-poster.jpg" alt="Happy Death Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt5308322/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Freaky</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320354</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Freaky-poster.jpg" alt="Freaky poster" /><br/><br/><a href="https://www.imdb.com/title/tt10919380/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Runaway Train</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320345</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Runaway_Train-poster.jpg" alt="Runaway Train poster" /><br/><br/><a href="https://www.imdb.com/title/tt0089941/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Last Picture Show</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320340</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Picture_Show-poster.jpg" alt="The Last Picture Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0067328/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Side Effects</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320319</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Side_Effects-poster.jpg" alt="Side Effects poster" /><br/><br/><a href="https://www.imdb.com/title/tt2053463/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Every Secret Thing</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320316</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Every_Secret_Thing-poster.jpg" alt="Every Secret Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt1706598/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hole in the Ground</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320312</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hole_in_the_Ground-poster.jpg" alt="The Hole in the Ground poster" /><br/><br/><a href="https://www.imdb.com/title/tt6198946/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Monster</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320310</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Monster-poster.jpg" alt="The Monster poster" /><br/><br/><a href="https://www.imdb.com/title/tt3976144/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

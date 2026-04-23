@@ -6,6 +6,21 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Takedown with Chris Hansen</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320552</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Takedown_with_Chris_Hansen-poster.jpg" alt="Takedown with Chris Hansen poster" /><br/><br/><a href="https://www.imdb.com/title/tt23986250/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Hansen Vs. Predator</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320518</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hansen_Vs._Predator-poster.jpg" alt="Hansen Vs. Predator poster" />]]></description>
+    </item>
+    <item>
+      <title>To Catch a Predator</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320517</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/To_Catch_a_Predator-poster.jpg" alt="To Catch a Predator poster" /><br/><br/><a href="https://www.imdb.com/title/tt1125489/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Gorilla Story: Told by David Attenborough</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320365</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Gorilla_Story_Told_by_David_Attenborough-poster.jpg" alt="A Gorilla Story: Told by David Attenborough poster" /><br/><br/><a href="https://www.imdb.com/title/tt39314348/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>The Age of Disclosure </title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312953</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Age_of_Disclosure_-poster.jpg" alt="The Age of Disclosure  poster" /><br/><br/><a href="https://www.imdb.com/title/tt35520315/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Prehistoric Planet</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312838</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Prehistoric_Planet-poster.jpg" alt="Prehistoric Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt10324164/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291405</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Chicago_Bears_The_Super_Bowl_Shuffle_(20th_Anniversary_Collector's_Edition)-poster.jpg" alt="Chicago Bears: The Super Bowl Shuffle (20th Anniversary Collector's Edition) poster" /><br/><br/><a href="https://www.imdb.com/title/tt35599556/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Whole</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=291404</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Whole-poster.jpg" alt="Whole poster" /><br/><br/><a href="https://www.imdb.com/title/tt0429245/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
