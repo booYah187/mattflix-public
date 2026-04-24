@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Too Late</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320881</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Late-poster.jpg" alt="Too Late poster" /><br/><br/><a href="https://www.imdb.com/title/tt2394063/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sturgill Simpson Presents Sound &amp; Fury</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320880</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sturgill_Simpson_Presents_Sound_&amp;_Fury-poster.jpg" alt="Sturgill Simpson Presents Sound &amp; Fury poster" /><br/><br/><a href="https://www.imdb.com/title/tt10682000/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Hitchcock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320744</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hitchcock-poster.jpg" alt="Hitchcock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0975645/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Shadow Dancer</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320377</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shadow_Dancer-poster.jpg" alt="Shadow Dancer poster" /><br/><br/><a href="https://www.imdb.com/title/tt1770734/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Survivalist</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320375</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Survivalist-poster.jpg" alt="The Survivalist poster" /><br/><br/><a href="https://www.imdb.com/title/tt2580382/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>City of Ember</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320372</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/City_of_Ember-poster.jpg" alt="City of Ember poster" /><br/><br/><a href="https://www.imdb.com/title/tt0970411/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

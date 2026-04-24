@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Drops of God (2023)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320901</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Drops_of_God_(2023)-poster.jpg" alt="Drops of God (2023) poster" /><br/><br/><a href="https://www.imdb.com/title/tt6867482/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Justified</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320757</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified-poster.jpg" alt="Justified poster" /><br/><br/><a href="https://www.imdb.com/title/tt1489428/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Golden Girls</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314911</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Golden_Girls-poster.jpg" alt="The Golden Girls poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088526/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sugar (2024)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314806</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugar_(2024)-poster.jpg" alt="Sugar (2024) poster" /><br/><br/><a href="https://www.imdb.com/title/tt16418808/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

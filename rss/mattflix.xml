@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Drops of God (2023)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320901</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Drops_of_God_(2023)-poster.jpg" alt="Drops of God (2023) poster" /><br/><br/><a href="https://www.imdb.com/title/tt6867482/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Too Late</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320881</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Late-poster.jpg" alt="Too Late poster" /><br/><br/><a href="https://www.imdb.com/title/tt2394063/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sturgill Simpson Presents Sound &amp; Fury</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320880</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sturgill_Simpson_Presents_Sound_&amp;_Fury-poster.jpg" alt="Sturgill Simpson Presents Sound &amp; Fury poster" /><br/><br/><a href="https://www.imdb.com/title/tt10682000/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Justified</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320757</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified-poster.jpg" alt="Justified poster" /><br/><br/><a href="https://www.imdb.com/title/tt1489428/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>The Girl Who Played with Fire</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319874</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_Who_Played_with_Fire-poster.jpg" alt="The Girl Who Played with Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt1216487/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Girl with the Dragon Tattoo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319875</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_with_the_Dragon_Tattoo-poster.jpg" alt="The Girl with the Dragon Tattoo poster" /><br/><br/><a href="https://www.imdb.com/title/tt1132620/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Girl in the Spider's Web</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319865</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_in_the_Spider's_Web-poster.jpg" alt="The Girl in the Spider's Web poster" /><br/><br/><a href="https://www.imdb.com/title/tt5177088/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Girl with the Dragon Tattoo</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319849</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_with_the_Dragon_Tattoo-poster.jpg" alt="The Girl with the Dragon Tattoo poster" /><br/><br/><a href="https://www.imdb.com/title/tt1568346/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
