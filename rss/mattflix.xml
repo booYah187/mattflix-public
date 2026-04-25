@@ -6,6 +6,36 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Bombing of Pan Am 103</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321025</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bombing_of_Pan_Am_103-poster.jpg" alt="The Bombing of Pan Am 103 poster" /><br/><br/><a href="https://www.imdb.com/title/tt13592494/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cult Massacre: One Day In Jonestown</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321017</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cult_Massacre_One_Day_In_Jonestown-poster.jpg" alt="Cult Massacre: One Day In Jonestown poster" /><br/><br/><a href="https://www.imdb.com/title/tt32421513/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Big George Foreman</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321012</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Big_George_Foreman-poster.jpg" alt="Big George Foreman poster" /><br/><br/><a href="https://www.imdb.com/title/tt12226632/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jumanji</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321008</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji-poster.jpg" alt="Jumanji poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113497/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jumanji: Welcome to the Jungle</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320999</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji_Welcome_to_the_Jungle-poster.jpg" alt="Jumanji: Welcome to the Jungle poster" /><br/><br/><a href="https://www.imdb.com/title/tt2283362/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jumanji: The Next Level</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320998</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji_The_Next_Level-poster.jpg" alt="Jumanji: The Next Level poster" /><br/><br/><a href="https://www.imdb.com/title/tt7975244/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Drops of God (2023)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320901</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Drops_of_God_(2023)-poster.jpg" alt="Drops of God (2023) poster" /><br/><br/><a href="https://www.imdb.com/title/tt6867482/">View on IMDb</a>]]></description>
@@ -474,36 +504,6 @@
       <title>The Bourne Ultimatum</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319929</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Ultimatum-poster.jpg" alt="The Bourne Ultimatum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0440963/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bourne Supremacy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319928</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Supremacy-poster.jpg" alt="The Bourne Supremacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0372183/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bourne Identity</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319930</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Identity-poster.jpg" alt="The Bourne Identity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0258463/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Gravity</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319925</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Gravity-poster.jpg" alt="Gravity poster" /><br/><br/><a href="https://www.imdb.com/title/tt1454468/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A.I. Artificial Intelligence</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319906</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A.I._Artificial_Intelligence-poster.jpg" alt="A.I. Artificial Intelligence poster" /><br/><br/><a href="https://www.imdb.com/title/tt0212720/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Girl Who Kicked the Hornet's Nest</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319873</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_Who_Kicked_the_Hornet's_Nest-poster.jpg" alt="The Girl Who Kicked the Hornet's Nest poster" /><br/><br/><a href="https://www.imdb.com/title/tt1343097/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Girl Who Played with Fire</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319874</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Girl_Who_Played_with_Fire-poster.jpg" alt="The Girl Who Played with Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt1216487/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

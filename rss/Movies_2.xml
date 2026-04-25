@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Big George Foreman</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321012</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Big_George_Foreman-poster.jpg" alt="Big George Foreman poster" /><br/><br/><a href="https://www.imdb.com/title/tt12226632/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Too Late</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320881</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Late-poster.jpg" alt="Too Late poster" /><br/><br/><a href="https://www.imdb.com/title/tt2394063/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Adam Resurrected</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320379</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adam_Resurrected-poster.jpg" alt="Adam Resurrected poster" /><br/><br/><a href="https://www.imdb.com/title/tt0479341/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Shadow Dancer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320377</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shadow_Dancer-poster.jpg" alt="Shadow Dancer poster" /><br/><br/><a href="https://www.imdb.com/title/tt1770734/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

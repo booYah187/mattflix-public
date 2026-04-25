@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Cult Massacre: One Day In Jonestown</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321017</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cult_Massacre_One_Day_In_Jonestown-poster.jpg" alt="Cult Massacre: One Day In Jonestown poster" /><br/><br/><a href="https://www.imdb.com/title/tt32421513/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Takedown with Chris Hansen</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320552</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Takedown_with_Chris_Hansen-poster.jpg" alt="Takedown with Chris Hansen poster" /><br/><br/><a href="https://www.imdb.com/title/tt23986250/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Exit Through the Gift Shop</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314088</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Exit_Through_the_Gift_Shop-poster.jpg" alt="Exit Through the Gift Shop poster" /><br/><br/><a href="https://www.imdb.com/title/tt1587707/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Age of Disclosure </title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=312953</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Age_of_Disclosure_-poster.jpg" alt="The Age of Disclosure  poster" /><br/><br/><a href="https://www.imdb.com/title/tt35520315/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,21 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Jumanji</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321008</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji-poster.jpg" alt="Jumanji poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113497/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jumanji: Welcome to the Jungle</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320999</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji_Welcome_to_the_Jungle-poster.jpg" alt="Jumanji: Welcome to the Jungle poster" /><br/><br/><a href="https://www.imdb.com/title/tt2283362/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jumanji: The Next Level</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320998</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji_The_Next_Level-poster.jpg" alt="Jumanji: The Next Level poster" /><br/><br/><a href="https://www.imdb.com/title/tt7975244/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bedtime Stories</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319798</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bedtime_Stories-poster.jpg" alt="Bedtime Stories poster" /><br/><br/><a href="https://www.imdb.com/title/tt0960731/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Teenage Mutant Ninja Turtles</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=209049</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Teenage_Mutant_Ninja_Turtles-poster.jpg" alt="Teenage Mutant Ninja Turtles poster" /><br/><br/><a href="https://www.imdb.com/title/tt0131613/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Octonauts</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=208537</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Octonauts-poster.jpg" alt="Octonauts poster" /><br/><br/><a href="https://www.imdb.com/title/tt1710177/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Octonauts: Above &amp; Beyond</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=208508</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Octonauts_Above_&amp;_Beyond-poster.jpg" alt="Octonauts: Above &amp; Beyond poster" /><br/><br/><a href="https://www.imdb.com/title/tt15211330/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Octonauts and The Ring of Fire</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=208507</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Octonauts_and_The_Ring_of_Fire-poster.jpg" alt="Octonauts and The Ring of Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt13779166/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
