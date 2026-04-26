@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Top Secret!</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321125</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Secret!-poster.jpg" alt="Top Secret! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088286/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rat Race</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321123</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rat_Race-poster.jpg" alt="Rat Race poster" /><br/><br/><a href="https://www.imdb.com/title/tt0250687/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Crank: High Voltage</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321107</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crank_High_Voltage-poster.jpg" alt="Crank: High Voltage poster" /><br/><br/><a href="https://www.imdb.com/title/tt1121931/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Crank</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321106</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crank-poster.jpg" alt="Crank poster" /><br/><br/><a href="https://www.imdb.com/title/tt0479884/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Bombing of Pan Am 103</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321025</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bombing_of_Pan_Am_103-poster.jpg" alt="The Bombing of Pan Am 103 poster" /><br/><br/><a href="https://www.imdb.com/title/tt13592494/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Collateral</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319975</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Collateral-poster.jpg" alt="Collateral poster" /><br/><br/><a href="https://www.imdb.com/title/tt0369339/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kiss Kiss Bang Bang</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319968</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kiss_Kiss_Bang_Bang-poster.jpg" alt="Kiss Kiss Bang Bang poster" /><br/><br/><a href="https://www.imdb.com/title/tt0373469/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Jason Bourne</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319965</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jason_Bourne-poster.jpg" alt="Jason Bourne poster" /><br/><br/><a href="https://www.imdb.com/title/tt4196776/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bourne Legacy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319927</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Legacy-poster.jpg" alt="The Bourne Legacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1194173/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bourne Ultimatum</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319929</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bourne_Ultimatum-poster.jpg" alt="The Bourne Ultimatum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0440963/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
