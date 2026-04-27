@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Roadie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321138</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Roadie-poster.jpg" alt="Roadie poster" /><br/><br/><a href="https://www.imdb.com/title/tt1450330/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>You Don't Know Jack</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321137</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/You_Don't_Know_Jack-poster.jpg" alt="You Don't Know Jack poster" /><br/><br/><a href="https://www.imdb.com/title/tt1132623/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Freedomland</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321133</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Freedomland-poster.jpg" alt="Freedomland poster" /><br/><br/><a href="https://www.imdb.com/title/tt0349467/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Top Secret!</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321125</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Secret!-poster.jpg" alt="Top Secret! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088286/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Rock the Kasbah</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320471</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rock_the_Kasbah-poster.jpg" alt="Rock the Kasbah poster" /><br/><br/><a href="https://www.imdb.com/title/tt3164256/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Glimpse Inside the Mind of Charles Swan III</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320454</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Glimpse_Inside_the_Mind_of_Charles_Swan_III-poster.jpg" alt="A Glimpse Inside the Mind of Charles Swan III poster" /><br/><br/><a href="https://www.imdb.com/title/tt2044729/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Siberian Education</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320448</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Siberian_Education-poster.jpg" alt="Siberian Education poster" /><br/><br/><a href="https://www.imdb.com/title/tt1697064/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>I Went Down</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320447</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Went_Down-poster.jpg" alt="I Went Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt0126344/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

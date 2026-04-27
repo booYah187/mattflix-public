@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Roadie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321138</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Roadie-poster.jpg" alt="Roadie poster" /><br/><br/><a href="https://www.imdb.com/title/tt1450330/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>You Don't Know Jack</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321137</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/You_Don't_Know_Jack-poster.jpg" alt="You Don't Know Jack poster" /><br/><br/><a href="https://www.imdb.com/title/tt1132623/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Freedomland</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321133</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Freedomland-poster.jpg" alt="Freedomland poster" /><br/><br/><a href="https://www.imdb.com/title/tt0349467/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Top Secret!</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321125</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Secret!-poster.jpg" alt="Top Secret! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088286/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Cliffhanger</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319983</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cliffhanger-poster.jpg" alt="Cliffhanger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106582/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Live Free or Die Hard</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319981</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Live_Free_or_Die_Hard-poster.jpg" alt="Live Free or Die Hard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0337978/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Harakiri</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319977</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harakiri-poster.jpg" alt="Harakiri poster" /><br/><br/><a href="https://www.imdb.com/title/tt0056058/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Collateral</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319975</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Collateral-poster.jpg" alt="Collateral poster" /><br/><br/><a href="https://www.imdb.com/title/tt0369339/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
