@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>#SkyKing</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321334</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/#SkyKing-poster.jpg" alt="#SkyKing poster" /><br/><br/><a href="https://www.imdb.com/title/tt39368489/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>NewsRadio</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321144</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/NewsRadio-poster.jpg" alt="NewsRadio poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112095/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Roadie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321138</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Roadie-poster.jpg" alt="Roadie poster" /><br/><br/><a href="https://www.imdb.com/title/tt1450330/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>A Good Day to Die Hard</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319987</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Good_Day_to_Die_Hard-poster.jpg" alt="A Good Day to Die Hard poster" /><br/><br/><a href="https://www.imdb.com/title/tt1606378/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bride!</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319984</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bride!-poster.jpg" alt="The Bride! poster" /><br/><br/><a href="https://www.imdb.com/title/tt30851137/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cliffhanger</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319983</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cliffhanger-poster.jpg" alt="Cliffhanger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106582/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

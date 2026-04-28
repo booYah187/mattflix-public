@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>NewsRadio</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321144</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/NewsRadio-poster.jpg" alt="NewsRadio poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112095/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Bombing of Pan Am 103</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321025</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bombing_of_Pan_Am_103-poster.jpg" alt="The Bombing of Pan Am 103 poster" /><br/><br/><a href="https://www.imdb.com/title/tt13592494/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Nathan for You</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315878</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nathan_for_You-poster.jpg" alt="Nathan for You poster" /><br/><br/><a href="https://www.imdb.com/title/tt2297757/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Da Ali G Show</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315800</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Da_Ali_G_Show-poster.jpg" alt="Da Ali G Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0241088/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
