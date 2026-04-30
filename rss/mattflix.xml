@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Talk Radio</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321440</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Talk_Radio-poster.jpg" alt="Talk Radio poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096219/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Treme</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321361</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Treme-poster.jpg" alt="Treme poster" /><br/><br/><a href="https://www.imdb.com/title/tt1279972/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Archenemy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321358</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Archenemy-poster.jpg" alt="Archenemy poster" /><br/><br/><a href="https://www.imdb.com/title/tt11274100/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Come to Daddy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321342</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Come_to_Daddy-poster.jpg" alt="Come to Daddy poster" /><br/><br/><a href="https://www.imdb.com/title/tt8816194/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Magician</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321338</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Magician-poster.jpg" alt="The Magician poster" /><br/><br/><a href="https://www.imdb.com/title/tt0461989/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>#SkyKing</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321334</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/#SkyKing-poster.jpg" alt="#SkyKing poster" /><br/><br/><a href="https://www.imdb.com/title/tt39368489/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Seed of Chucky</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320015</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Seed_of_Chucky-poster.jpg" alt="Seed of Chucky poster" /><br/><br/><a href="https://www.imdb.com/title/tt0387575/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bride of Chucky</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320004</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bride_of_Chucky-poster.jpg" alt="Bride of Chucky poster" /><br/><br/><a href="https://www.imdb.com/title/tt0144120/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Child's Play 3</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320003</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Child's_Play_3-poster.jpg" alt="Child's Play 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103956/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Child's Play 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319996</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Child's_Play_2-poster.jpg" alt="Child's Play 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099253/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rambo: Last Blood</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319990</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rambo_Last_Blood-poster.jpg" alt="Rambo: Last Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt1206885/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Good Day to Die Hard</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319987</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Good_Day_to_Die_Hard-poster.jpg" alt="A Good Day to Die Hard poster" /><br/><br/><a href="https://www.imdb.com/title/tt1606378/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Talk Radio</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321440</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Talk_Radio-poster.jpg" alt="Talk Radio poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096219/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Archenemy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321358</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Archenemy-poster.jpg" alt="Archenemy poster" /><br/><br/><a href="https://www.imdb.com/title/tt11274100/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Come to Daddy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321342</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Come_to_Daddy-poster.jpg" alt="Come to Daddy poster" /><br/><br/><a href="https://www.imdb.com/title/tt8816194/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Magician</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321338</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Magician-poster.jpg" alt="The Magician poster" /><br/><br/><a href="https://www.imdb.com/title/tt0461989/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Roadie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321138</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Roadie-poster.jpg" alt="Roadie poster" /><br/><br/><a href="https://www.imdb.com/title/tt1450330/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>CB4</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320488</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/CB4-poster.jpg" alt="CB4 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106500/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Next Three Days</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320481</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Next_Three_Days-poster.jpg" alt="The Next Three Days poster" /><br/><br/><a href="https://www.imdb.com/title/tt1458175/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Devil in a Blue Dress</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320479</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil_in_a_Blue_Dress-poster.jpg" alt="Devil in a Blue Dress poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112857/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Arlington Road</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320478</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Arlington_Road-poster.jpg" alt="Arlington Road poster" /><br/><br/><a href="https://www.imdb.com/title/tt0137363/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rock the Kasbah</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320471</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rock_the_Kasbah-poster.jpg" alt="Rock the Kasbah poster" /><br/><br/><a href="https://www.imdb.com/title/tt3164256/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
