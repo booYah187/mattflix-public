@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Gilded Age</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321499</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gilded_Age-poster.jpg" alt="The Gilded Age poster" /><br/><br/><a href="https://www.imdb.com/title/tt4406178/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Treme</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321361</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Treme-poster.jpg" alt="Treme poster" /><br/><br/><a href="https://www.imdb.com/title/tt1279972/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Free Bert</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316569</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Free_Bert-poster.jpg" alt="Free Bert poster" /><br/><br/><a href="https://www.imdb.com/title/tt37449205/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Strike</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=315986</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Strike-poster.jpg" alt="Strike poster" /><br/><br/><a href="https://www.imdb.com/title/tt4276618/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
