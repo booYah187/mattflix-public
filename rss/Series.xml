@@ -6,6 +6,21 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Broadchurch</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321875</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Broadchurch-poster.jpg" alt="Broadchurch poster" /><br/><br/><a href="https://www.imdb.com/title/tt2249364/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>I, Claudius</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321778</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I,_Claudius-poster.jpg" alt="I, Claudius poster" /><br/><br/><a href="https://www.imdb.com/title/tt0074006/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Norm Show</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321716</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Norm_Show-poster.jpg" alt="The Norm Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0181935/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Gilded Age</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321499</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gilded_Age-poster.jpg" alt="The Gilded Age poster" /><br/><br/><a href="https://www.imdb.com/title/tt4406178/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Devil in Disguise: John Wayne Gacy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317936</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil_in_Disguise_John_Wayne_Gacy-poster.jpg" alt="Devil in Disguise: John Wayne Gacy poster" /><br/><br/><a href="https://www.imdb.com/title/tt31314754/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Knight of the Seven Kingdoms</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317823</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Knight_of_the_Seven_Kingdoms-poster.jpg" alt="A Knight of the Seven Kingdoms poster" /><br/><br/><a href="https://www.imdb.com/title/tt27497448/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Kingdom (1994)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317582</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kingdom_(1994)-poster.jpg" alt="The Kingdom (1994) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0108906/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Free Bert</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316569</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Free_Bert-poster.jpg" alt="Free Bert poster" /><br/><br/><a href="https://www.imdb.com/title/tt37449205/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

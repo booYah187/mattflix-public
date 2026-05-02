@@ -6,6 +6,36 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Silver Bullet</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321962</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Silver_Bullet-poster.jpg" alt="Silver Bullet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090021/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Naked Gun 33⅓: The Final Insult</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321867</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Naked_Gun_33⅓_The_Final_Insult-poster.jpg" alt="Naked Gun 33⅓: The Final Insult poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110622/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Naked Gun 2½: The Smell of Fear</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321873</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Naked_Gun_2½_The_Smell_of_Fear-poster.jpg" alt="The Naked Gun 2½: The Smell of Fear poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102510/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Naked Gun: From the Files of Police Squad!</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321708</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Naked_Gun_From_the_Files_of_Police_Squad!-poster.jpg" alt="The Naked Gun: From the Files of Police Squad! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095705/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Beavis and Butt-Head Do the Universe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321704</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Beavis_and_Butt-Head_Do_the_Universe-poster.jpg" alt="Beavis and Butt-Head Do the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt14145426/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Billy Bathgate</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321699</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Billy_Bathgate-poster.jpg" alt="Billy Bathgate poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101453/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Cannibal! The Musical</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321696</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cannibal!_The_Musical-poster.jpg" alt="Cannibal! The Musical poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115819/">View on IMDb</a>]]></description>
@@ -99,36 +129,6 @@
       <title>Rat Race</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321123</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rat_Race-poster.jpg" alt="Rat Race poster" /><br/><br/><a href="https://www.imdb.com/title/tt0250687/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Crank: High Voltage</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321107</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crank_High_Voltage-poster.jpg" alt="Crank: High Voltage poster" /><br/><br/><a href="https://www.imdb.com/title/tt1121931/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Crank</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321106</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crank-poster.jpg" alt="Crank poster" /><br/><br/><a href="https://www.imdb.com/title/tt0479884/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Big George Foreman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321012</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Big_George_Foreman-poster.jpg" alt="Big George Foreman poster" /><br/><br/><a href="https://www.imdb.com/title/tt12226632/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Too Late</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320881</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Late-poster.jpg" alt="Too Late poster" /><br/><br/><a href="https://www.imdb.com/title/tt2394063/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sturgill Simpson Presents Sound &amp; Fury</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320880</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sturgill_Simpson_Presents_Sound_&amp;_Fury-poster.jpg" alt="Sturgill Simpson Presents Sound &amp; Fury poster" /><br/><br/><a href="https://www.imdb.com/title/tt10682000/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hitchcock</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320744</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hitchcock-poster.jpg" alt="Hitchcock poster" /><br/><br/><a href="https://www.imdb.com/title/tt0975645/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

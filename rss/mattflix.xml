@@ -6,6 +6,51 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Silver Bullet</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321962</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Silver_Bullet-poster.jpg" alt="Silver Bullet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090021/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Broadchurch</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321875</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Broadchurch-poster.jpg" alt="Broadchurch poster" /><br/><br/><a href="https://www.imdb.com/title/tt2249364/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Naked Gun 33⅓: The Final Insult</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321867</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Naked_Gun_33⅓_The_Final_Insult-poster.jpg" alt="Naked Gun 33⅓: The Final Insult poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110622/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Naked Gun 2½: The Smell of Fear</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321873</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Naked_Gun_2½_The_Smell_of_Fear-poster.jpg" alt="The Naked Gun 2½: The Smell of Fear poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102510/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>I, Claudius</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321778</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I,_Claudius-poster.jpg" alt="I, Claudius poster" /><br/><br/><a href="https://www.imdb.com/title/tt0074006/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Norm Show</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321716</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Norm_Show-poster.jpg" alt="The Norm Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0181935/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Naked Gun: From the Files of Police Squad!</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321708</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Naked_Gun_From_the_Files_of_Police_Squad!-poster.jpg" alt="The Naked Gun: From the Files of Police Squad! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095705/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Beavis and Butt-Head Do the Universe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321704</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Beavis_and_Butt-Head_Do_the_Universe-poster.jpg" alt="Beavis and Butt-Head Do the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt14145426/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Billy Bathgate</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321699</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Billy_Bathgate-poster.jpg" alt="Billy Bathgate poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101453/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Cannibal! The Musical</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321696</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cannibal!_The_Musical-poster.jpg" alt="Cannibal! The Musical poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115819/">View on IMDb</a>]]></description>
@@ -459,51 +504,6 @@
       <title>Predator</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320208</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Predator-poster.jpg" alt="Predator poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093773/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Blade: Trinity</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320204</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blade_Trinity-poster.jpg" alt="Blade: Trinity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0359013/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Blade II</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320197</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blade_II-poster.jpg" alt="Blade II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0187738/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Air Force One</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320192</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Air_Force_One-poster.jpg" alt="Air Force One poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118571/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Executive Decision</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320188</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Executive_Decision-poster.jpg" alt="Executive Decision poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116253/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Long Kiss Goodnight</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320186</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Long_Kiss_Goodnight-poster.jpg" alt="The Long Kiss Goodnight poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116908/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>47 Ronin</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320179</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/47_Ronin-poster.jpg" alt="47 Ronin poster" /><br/><br/><a href="https://www.imdb.com/title/tt1335975/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Brotherhood of Justice</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320175</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Brotherhood_of_Justice-poster.jpg" alt="The Brotherhood of Justice poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090775/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deep Cover</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320170</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Cover-poster.jpg" alt="Deep Cover poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104073/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Blood In Blood Out</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320169</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blood_In_Blood_Out-poster.jpg" alt="Blood In Blood Out poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106469/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
