@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The World at War</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322361</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_World_at_War-poster.jpg" alt="The World at War poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071075/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>#SkyKing</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321334</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/#SkyKing-poster.jpg" alt="#SkyKing poster" /><br/><br/><a href="https://www.imdb.com/title/tt39368489/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Alone Australia</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314279</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone_Australia-poster.jpg" alt="Alone Australia poster" /><br/><br/><a href="https://www.imdb.com/title/tt27371519/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rats</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314092</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rats-poster.jpg" alt="Rats poster" /><br/><br/><a href="https://www.imdb.com/title/tt4033926/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

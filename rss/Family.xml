@@ -6,6 +6,21 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Adventures of Pete &amp; Pete</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322402</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Adventures_of_Pete_&amp;_Pete-poster.jpg" alt="The Adventures of Pete &amp; Pete poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105933/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>DuckTales (2017)</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322081</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DuckTales_(2017)-poster.jpg" alt="DuckTales (2017) poster" /><br/><br/><a href="https://www.imdb.com/title/tt5531466/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Batman: The Animated Series</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322082</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Batman_The_Animated_Series-poster.jpg" alt="Batman: The Animated Series poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103359/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Jumanji</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321008</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji-poster.jpg" alt="Jumanji poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113497/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Moana 2</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=211951</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Moana_2-poster.jpg" alt="Moana 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt31187297/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Wild Robot</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=210964</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Wild_Robot-poster.jpg" alt="The Wild Robot poster" /><br/><br/><a href="https://www.imdb.com/title/tt29623480/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>3 Ninjas</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=209518</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_Ninjas-poster.jpg" alt="3 Ninjas poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103596/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Teenage Mutant Ninja Turtles</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=209049</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Teenage_Mutant_Ninja_Turtles-poster.jpg" alt="Teenage Mutant Ninja Turtles poster" /><br/><br/><a href="https://www.imdb.com/title/tt0131613/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
