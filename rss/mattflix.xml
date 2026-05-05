@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Swallow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322928</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swallow-poster.jpg" alt="Swallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt8372298/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Absence of Malice</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322927</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Absence_of_Malice-poster.jpg" alt="Absence of Malice poster" /><br/><br/><a href="https://www.imdb.com/title/tt0081974/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Verdict</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322923</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Verdict-poster.jpg" alt="The Verdict poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084855/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Empire Falls</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322914</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Empire_Falls-poster.jpg" alt="Empire Falls poster" /><br/><br/><a href="https://www.imdb.com/title/tt0376591/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Explorers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322906</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Explorers-poster.jpg" alt="Explorers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0089114/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>American Gothic</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322842</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/American_Gothic-poster.jpg" alt="American Gothic poster" /><br/><br/><a href="https://www.imdb.com/title/tt0111880/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Every Secret Thing</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320316</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Every_Secret_Thing-poster.jpg" alt="Every Secret Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt1706598/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hole in the Ground</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320312</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hole_in_the_Ground-poster.jpg" alt="The Hole in the Ground poster" /><br/><br/><a href="https://www.imdb.com/title/tt6198946/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Monster</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320310</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Monster-poster.jpg" alt="The Monster poster" /><br/><br/><a href="https://www.imdb.com/title/tt3976144/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Kill Team</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320308</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kill_Team-poster.jpg" alt="The Kill Team poster" /><br/><br/><a href="https://www.imdb.com/title/tt6196936/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dark Places</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320301</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark_Places-poster.jpg" alt="Dark Places poster" /><br/><br/><a href="https://www.imdb.com/title/tt2402101/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>1%</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320295</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/1%-poster.jpg" alt="1% poster" /><br/><br/><a href="https://www.imdb.com/title/tt6301712/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

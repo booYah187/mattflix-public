@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Swallow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322928</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swallow-poster.jpg" alt="Swallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt8372298/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Absence of Malice</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322927</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Absence_of_Malice-poster.jpg" alt="Absence of Malice poster" /><br/><br/><a href="https://www.imdb.com/title/tt0081974/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Verdict</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322923</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Verdict-poster.jpg" alt="The Verdict poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084855/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Explorers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322906</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Explorers-poster.jpg" alt="Explorers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0089114/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Silver Bullet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321962</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Silver_Bullet-poster.jpg" alt="Silver Bullet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090021/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Roadie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321138</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Roadie-poster.jpg" alt="Roadie poster" /><br/><br/><a href="https://www.imdb.com/title/tt1450330/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>You Don't Know Jack</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321137</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/You_Don't_Know_Jack-poster.jpg" alt="You Don't Know Jack poster" /><br/><br/><a href="https://www.imdb.com/title/tt1132623/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Freedomland</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321133</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Freedomland-poster.jpg" alt="Freedomland poster" /><br/><br/><a href="https://www.imdb.com/title/tt0349467/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Top Secret!</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321125</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Top_Secret!-poster.jpg" alt="Top Secret! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088286/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rat Race</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321123</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rat_Race-poster.jpg" alt="Rat Race poster" /><br/><br/><a href="https://www.imdb.com/title/tt0250687/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
