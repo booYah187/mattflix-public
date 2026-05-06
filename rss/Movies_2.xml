@@ -6,6 +6,46 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Matinee</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323036</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Matinee-poster.jpg" alt="Matinee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107529/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Innerspace</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323035</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Innerspace-poster.jpg" alt="Innerspace poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093260/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Tomorrow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323019</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tomorrow-poster.jpg" alt="Tomorrow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069393/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Super Mario Galaxy Movie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323016</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Super_Mario_Galaxy_Movie-poster.jpg" alt="The Super Mario Galaxy Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt28650488/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Lodge</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322999</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Lodge-poster.jpg" alt="The Lodge poster" /><br/><br/><a href="https://www.imdb.com/title/tt7347846/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sentimental Value</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322977</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sentimental_Value-poster.jpg" alt="Sentimental Value poster" /><br/><br/><a href="https://www.imdb.com/title/tt27714581/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Worst Person in the World</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322956</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Worst_Person_in_the_World-poster.jpg" alt="The Worst Person in the World poster" /><br/><br/><a href="https://www.imdb.com/title/tt10370710/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Amsterdam</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322955</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Amsterdam-poster.jpg" alt="Amsterdam poster" /><br/><br/><a href="https://www.imdb.com/title/tt10304142/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Swallow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322928</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swallow-poster.jpg" alt="Swallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt8372298/">View on IMDb</a>]]></description>
@@ -89,46 +129,6 @@
       <title>Martyrs</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321488</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Martyrs-poster.jpg" alt="Martyrs poster" /><br/><br/><a href="https://www.imdb.com/title/tt1029234/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Goodnight Mommy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321482</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Goodnight_Mommy-poster.jpg" alt="Goodnight Mommy poster" /><br/><br/><a href="https://www.imdb.com/title/tt3086442/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ransom</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321475</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ransom-poster.jpg" alt="Ransom poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117438/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bunny</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321453</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bunny-poster.jpg" alt="Bunny poster" /><br/><br/><a href="https://www.imdb.com/title/tt35519464/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Talk Radio</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321440</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Talk_Radio-poster.jpg" alt="Talk Radio poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096219/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Archenemy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321358</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Archenemy-poster.jpg" alt="Archenemy poster" /><br/><br/><a href="https://www.imdb.com/title/tt11274100/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Come to Daddy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321342</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Come_to_Daddy-poster.jpg" alt="Come to Daddy poster" /><br/><br/><a href="https://www.imdb.com/title/tt8816194/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Magician</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321338</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Magician-poster.jpg" alt="The Magician poster" /><br/><br/><a href="https://www.imdb.com/title/tt0461989/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Roadie</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321138</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Roadie-poster.jpg" alt="Roadie poster" /><br/><br/><a href="https://www.imdb.com/title/tt1450330/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,56 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Matinee</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323036</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Matinee-poster.jpg" alt="Matinee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107529/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Innerspace</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323035</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Innerspace-poster.jpg" alt="Innerspace poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093260/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Tomorrow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323019</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tomorrow-poster.jpg" alt="Tomorrow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069393/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Super Mario Galaxy Movie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323016</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Super_Mario_Galaxy_Movie-poster.jpg" alt="The Super Mario Galaxy Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt28650488/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Lodge</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322999</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Lodge-poster.jpg" alt="The Lodge poster" /><br/><br/><a href="https://www.imdb.com/title/tt7347846/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Secret of NIMH</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322997</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Secret_of_NIMH-poster.jpg" alt="The Secret of NIMH poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084649/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Who Are You, Charlie Brown?</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322987</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Who_Are_You,_Charlie_Brown_-poster.jpg" alt="Who Are You, Charlie Brown? poster" /><br/><br/><a href="https://www.imdb.com/title/tt14784858/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sentimental Value</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322977</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sentimental_Value-poster.jpg" alt="Sentimental Value poster" /><br/><br/><a href="https://www.imdb.com/title/tt27714581/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Worst Person in the World</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322956</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Worst_Person_in_the_World-poster.jpg" alt="The Worst Person in the World poster" /><br/><br/><a href="https://www.imdb.com/title/tt10370710/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Amsterdam</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322955</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Amsterdam-poster.jpg" alt="Amsterdam poster" /><br/><br/><a href="https://www.imdb.com/title/tt10304142/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Swallow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322928</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swallow-poster.jpg" alt="Swallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt8372298/">View on IMDb</a>]]></description>
@@ -454,56 +504,6 @@
       <title>City of Ember</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320372</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/City_of_Ember-poster.jpg" alt="City of Ember poster" /><br/><br/><a href="https://www.imdb.com/title/tt0970411/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Interview</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320367</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Interview-poster.jpg" alt="The Interview poster" /><br/><br/><a href="https://www.imdb.com/title/tt2788710/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Foot Fist Way</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320366</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Foot_Fist_Way-poster.jpg" alt="The Foot Fist Way poster" /><br/><br/><a href="https://www.imdb.com/title/tt0492619/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Gorilla Story: Told by David Attenborough</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320365</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Gorilla_Story_Told_by_David_Attenborough-poster.jpg" alt="A Gorilla Story: Told by David Attenborough poster" /><br/><br/><a href="https://www.imdb.com/title/tt39314348/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Equals</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320363</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Equals-poster.jpg" alt="Equals poster" /><br/><br/><a href="https://www.imdb.com/title/tt3289728/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Happy Death Day</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320360</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Happy_Death_Day-poster.jpg" alt="Happy Death Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt5308322/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Freaky</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320354</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Freaky-poster.jpg" alt="Freaky poster" /><br/><br/><a href="https://www.imdb.com/title/tt10919380/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Runaway Train</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320345</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Runaway_Train-poster.jpg" alt="Runaway Train poster" /><br/><br/><a href="https://www.imdb.com/title/tt0089941/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Last Picture Show</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320340</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Picture_Show-poster.jpg" alt="The Last Picture Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0067328/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Side Effects</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320319</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Side_Effects-poster.jpg" alt="Side Effects poster" /><br/><br/><a href="https://www.imdb.com/title/tt2053463/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Every Secret Thing</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320316</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Every_Secret_Thing-poster.jpg" alt="Every Secret Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt1706598/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

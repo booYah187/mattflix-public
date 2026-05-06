@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Who Are You, Charlie Brown?</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322987</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Who_Are_You,_Charlie_Brown_-poster.jpg" alt="Who Are You, Charlie Brown? poster" /><br/><br/><a href="https://www.imdb.com/title/tt14784858/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The World at War</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322361</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_World_at_War-poster.jpg" alt="The World at War poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071075/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Animal Armory</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314278</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Animal_Armory-poster.jpg" alt="Animal Armory poster" /><br/><br/><a href="https://www.imdb.com/title/tt6771036/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Alone Australia</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314279</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone_Australia-poster.jpg" alt="Alone Australia poster" /><br/><br/><a href="https://www.imdb.com/title/tt27371519/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
