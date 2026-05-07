@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Gunmen</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323071</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Gunmen-poster.jpg" alt="Gunmen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109959/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Peanut Butter Falcon</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323064</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Peanut_Butter_Falcon-poster.jpg" alt="The Peanut Butter Falcon poster" /><br/><br/><a href="https://www.imdb.com/title/tt4364194/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Do the Right Thing</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323063</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Do_the_Right_Thing-poster.jpg" alt="Do the Right Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097216/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Matinee</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323036</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Matinee-poster.jpg" alt="Matinee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107529/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Immaculate</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321682</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Immaculate-poster.jpg" alt="Immaculate poster" /><br/><br/><a href="https://www.imdb.com/title/tt23137390/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nocturne</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321679</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nocturne-poster.jpg" alt="Nocturne poster" /><br/><br/><a href="https://www.imdb.com/title/tt11044858/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Relic</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321678</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Relic-poster.jpg" alt="Relic poster" /><br/><br/><a href="https://www.imdb.com/title/tt9072352/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Martyrs</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321488</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Martyrs-poster.jpg" alt="Martyrs poster" /><br/><br/><a href="https://www.imdb.com/title/tt1029234/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Gunmen</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323071</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Gunmen-poster.jpg" alt="Gunmen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109959/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Peanut Butter Falcon</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323064</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Peanut_Butter_Falcon-poster.jpg" alt="The Peanut Butter Falcon poster" /><br/><br/><a href="https://www.imdb.com/title/tt4364194/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Do the Right Thing</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323063</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Do_the_Right_Thing-poster.jpg" alt="Do the Right Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097216/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Matinee</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323036</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Matinee-poster.jpg" alt="Matinee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107529/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Adam Resurrected</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320379</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adam_Resurrected-poster.jpg" alt="Adam Resurrected poster" /><br/><br/><a href="https://www.imdb.com/title/tt0479341/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Shadow Dancer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320377</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shadow_Dancer-poster.jpg" alt="Shadow Dancer poster" /><br/><br/><a href="https://www.imdb.com/title/tt1770734/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Survivalist</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320375</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Survivalist-poster.jpg" alt="The Survivalist poster" /><br/><br/><a href="https://www.imdb.com/title/tt2580382/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>City of Ember</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320372</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/City_of_Ember-poster.jpg" alt="City of Ember poster" /><br/><br/><a href="https://www.imdb.com/title/tt0970411/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
