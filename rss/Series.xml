@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Brimstone</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323072</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brimstone-poster.jpg" alt="Brimstone poster" /><br/><br/><a href="https://www.imdb.com/title/tt0165564/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Empire Falls</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322914</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Empire_Falls-poster.jpg" alt="Empire Falls poster" /><br/><br/><a href="https://www.imdb.com/title/tt0376591/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>One of Us</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319457</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_of_Us-poster.jpg" alt="One of Us poster" /><br/><br/><a href="https://www.imdb.com/title/tt5149528/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Party Down</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319294</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Party_Down-poster.jpg" alt="Party Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt1073507/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

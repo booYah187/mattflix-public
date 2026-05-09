@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Brimstone</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323072</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brimstone-poster.jpg" alt="Brimstone poster" /><br/><br/><a href="https://www.imdb.com/title/tt0165564/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Gunmen</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323071</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Gunmen-poster.jpg" alt="Gunmen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109959/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Powder</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320390</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Powder-poster.jpg" alt="Powder poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114168/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Adam Resurrected</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320379</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adam_Resurrected-poster.jpg" alt="Adam Resurrected poster" /><br/><br/><a href="https://www.imdb.com/title/tt0479341/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
