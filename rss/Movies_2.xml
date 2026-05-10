@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Project Hail Mary</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323148</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Project_Hail_Mary-poster.jpg" alt="Project Hail Mary poster" /><br/><br/><a href="https://www.imdb.com/title/tt12042730/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Gunmen</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323071</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Gunmen-poster.jpg" alt="Gunmen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109959/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Mandela Effect</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321689</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mandela_Effect-poster.jpg" alt="The Mandela Effect poster" /><br/><br/><a href="https://www.imdb.com/title/tt6544220/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Immaculate</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321682</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Immaculate-poster.jpg" alt="Immaculate poster" /><br/><br/><a href="https://www.imdb.com/title/tt23137390/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
