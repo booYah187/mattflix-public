@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Citizen Ruth</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323170</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Citizen_Ruth-poster.jpg" alt="Citizen Ruth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115906/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Fabelmans</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323169</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fabelmans-poster.jpg" alt="The Fabelmans poster" /><br/><br/><a href="https://www.imdb.com/title/tt14208870/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sideways</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323168</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sideways-poster.jpg" alt="Sideways poster" /><br/><br/><a href="https://www.imdb.com/title/tt0375063/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cyrus</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323167</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cyrus-poster.jpg" alt="Cyrus poster" /><br/><br/><a href="https://www.imdb.com/title/tt1336617/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bill Burr Presents Immoral Compass</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323151</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bill_Burr_Presents_Immoral_Compass-poster.jpg" alt="Bill Burr Presents Immoral Compass poster" /><br/><br/><a href="https://www.imdb.com/title/tt11691834/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Project Hail Mary</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323148</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Project_Hail_Mary-poster.jpg" alt="Project Hail Mary poster" /><br/><br/><a href="https://www.imdb.com/title/tt12042730/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Rillington Place</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320458</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rillington_Place-poster.jpg" alt="Rillington Place poster" /><br/><br/><a href="https://www.imdb.com/title/tt5568438/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Glimpse Inside the Mind of Charles Swan III</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320454</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Glimpse_Inside_the_Mind_of_Charles_Swan_III-poster.jpg" alt="A Glimpse Inside the Mind of Charles Swan III poster" /><br/><br/><a href="https://www.imdb.com/title/tt2044729/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Siberian Education</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320448</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Siberian_Education-poster.jpg" alt="Siberian Education poster" /><br/><br/><a href="https://www.imdb.com/title/tt1697064/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>I Went Down</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320447</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I_Went_Down-poster.jpg" alt="I Went Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt0126344/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ordinary Decent Criminal</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320392</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ordinary_Decent_Criminal-poster.jpg" alt="Ordinary Decent Criminal poster" /><br/><br/><a href="https://www.imdb.com/title/tt0160611/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Passion Play</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320391</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Passion_Play-poster.jpg" alt="Passion Play poster" /><br/><br/><a href="https://www.imdb.com/title/tt1396221/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

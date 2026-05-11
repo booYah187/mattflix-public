@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bill Burr Presents Immoral Compass</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323151</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bill_Burr_Presents_Immoral_Compass-poster.jpg" alt="Bill Burr Presents Immoral Compass poster" /><br/><br/><a href="https://www.imdb.com/title/tt11691834/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Brimstone</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323072</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brimstone-poster.jpg" alt="Brimstone poster" /><br/><br/><a href="https://www.imdb.com/title/tt0165564/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>That Dirty Black Bag</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319507</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/That_Dirty_Black_Bag-poster.jpg" alt="That Dirty Black Bag poster" /><br/><br/><a href="https://www.imdb.com/title/tt7809420/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>One of Us</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319457</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_of_Us-poster.jpg" alt="One of Us poster" /><br/><br/><a href="https://www.imdb.com/title/tt5149528/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Citizen Ruth</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323170</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Citizen_Ruth-poster.jpg" alt="Citizen Ruth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115906/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Fabelmans</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323169</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fabelmans-poster.jpg" alt="The Fabelmans poster" /><br/><br/><a href="https://www.imdb.com/title/tt14208870/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sideways</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323168</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sideways-poster.jpg" alt="Sideways poster" /><br/><br/><a href="https://www.imdb.com/title/tt0375063/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cyrus</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323167</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cyrus-poster.jpg" alt="Cyrus poster" /><br/><br/><a href="https://www.imdb.com/title/tt1336617/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Project Hail Mary</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323148</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Project_Hail_Mary-poster.jpg" alt="Project Hail Mary poster" /><br/><br/><a href="https://www.imdb.com/title/tt12042730/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Beavis and Butt-Head Do the Universe</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321704</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Beavis_and_Butt-Head_Do_the_Universe-poster.jpg" alt="Beavis and Butt-Head Do the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt14145426/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Billy Bathgate</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321699</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Billy_Bathgate-poster.jpg" alt="Billy Bathgate poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101453/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cannibal! The Musical</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321696</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cannibal!_The_Musical-poster.jpg" alt="Cannibal! The Musical poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115819/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Beavis and Butt-Head Do America</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321690</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Beavis_and_Butt-Head_Do_America-poster.jpg" alt="Beavis and Butt-Head Do America poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115641/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Mandela Effect</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321689</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Mandela_Effect-poster.jpg" alt="The Mandela Effect poster" /><br/><br/><a href="https://www.imdb.com/title/tt6544220/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
