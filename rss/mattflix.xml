@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>White Irish Drinkers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323196</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/White_Irish_Drinkers-poster.jpg" alt="White Irish Drinkers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1550524/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Election</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323195</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Election-poster.jpg" alt="Election poster" /><br/><br/><a href="https://www.imdb.com/title/tt0126886/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Little Children</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323193</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Little_Children-poster.jpg" alt="Little Children poster" /><br/><br/><a href="https://www.imdb.com/title/tt0404203/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Superhot: The Spicy World of Pepper People</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323171</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Superhot_The_Spicy_World_of_Pepper_People-poster.jpg" alt="Superhot: The Spicy World of Pepper People poster" /><br/><br/><a href="https://www.imdb.com/title/tt29740695/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Citizen Ruth</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323170</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Citizen_Ruth-poster.jpg" alt="Citizen Ruth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115906/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>The Next Three Days</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320481</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Next_Three_Days-poster.jpg" alt="The Next Three Days poster" /><br/><br/><a href="https://www.imdb.com/title/tt1458175/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Devil in a Blue Dress</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320479</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Devil_in_a_Blue_Dress-poster.jpg" alt="Devil in a Blue Dress poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112857/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Arlington Road</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320478</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Arlington_Road-poster.jpg" alt="Arlington Road poster" /><br/><br/><a href="https://www.imdb.com/title/tt0137363/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rock the Kasbah</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320471</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rock_the_Kasbah-poster.jpg" alt="Rock the Kasbah poster" /><br/><br/><a href="https://www.imdb.com/title/tt3164256/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rillington Place</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320458</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rillington_Place-poster.jpg" alt="Rillington Place poster" /><br/><br/><a href="https://www.imdb.com/title/tt5568438/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

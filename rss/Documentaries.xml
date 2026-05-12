@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Superhot: The Spicy World of Pepper People</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323171</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Superhot_The_Spicy_World_of_Pepper_People-poster.jpg" alt="Superhot: The Spicy World of Pepper People poster" /><br/><br/><a href="https://www.imdb.com/title/tt29740695/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Who Are You, Charlie Brown?</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322987</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Who_Are_You,_Charlie_Brown_-poster.jpg" alt="Who Are You, Charlie Brown? poster" /><br/><br/><a href="https://www.imdb.com/title/tt14784858/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Village of the Damned</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314277</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Village_of_the_Damned-poster.jpg" alt="Village of the Damned poster" /><br/><br/><a href="https://www.imdb.com/title/tt7895046/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Animal Armory</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314278</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Animal_Armory-poster.jpg" alt="Animal Armory poster" /><br/><br/><a href="https://www.imdb.com/title/tt6771036/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
