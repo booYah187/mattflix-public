@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Two Men in Town</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323205</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Two_Men_in_Town-poster.jpg" alt="Two Men in Town poster" /><br/><br/><a href="https://www.imdb.com/title/tt2258285/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>White Irish Drinkers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323196</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/White_Irish_Drinkers-poster.jpg" alt="White Irish Drinkers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1550524/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>CB4</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320488</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/CB4-poster.jpg" alt="CB4 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106500/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Next Three Days</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320481</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Next_Three_Days-poster.jpg" alt="The Next Three Days poster" /><br/><br/><a href="https://www.imdb.com/title/tt1458175/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

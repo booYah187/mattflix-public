@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Two Men in Town</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323205</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Two_Men_in_Town-poster.jpg" alt="Two Men in Town poster" /><br/><br/><a href="https://www.imdb.com/title/tt2258285/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>White Irish Drinkers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323196</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/White_Irish_Drinkers-poster.jpg" alt="White Irish Drinkers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1550524/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Silver Bullet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321962</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Silver_Bullet-poster.jpg" alt="Silver Bullet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090021/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Naked Gun 33⅓: The Final Insult</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321867</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Naked_Gun_33⅓_The_Final_Insult-poster.jpg" alt="Naked Gun 33⅓: The Final Insult poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110622/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
