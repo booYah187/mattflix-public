@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Kitchen Confidential</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323247</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kitchen_Confidential-poster.jpg" alt="Kitchen Confidential poster" /><br/><br/><a href="https://www.imdb.com/title/tt0460654/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Black Dynamite</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323223</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Dynamite-poster.jpg" alt="Black Dynamite poster" /><br/><br/><a href="https://www.imdb.com/title/tt1608383/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bill Burr Presents Immoral Compass</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323151</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bill_Burr_Presents_Immoral_Compass-poster.jpg" alt="Bill Burr Presents Immoral Compass poster" /><br/><br/><a href="https://www.imdb.com/title/tt11691834/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>A Thousand Blows</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319656</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Thousand_Blows-poster.jpg" alt="A Thousand Blows poster" /><br/><br/><a href="https://www.imdb.com/title/tt21874900/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Banished</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319595</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Banished-poster.jpg" alt="Banished poster" /><br/><br/><a href="https://www.imdb.com/title/tt3508050/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>That Dirty Black Bag</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319507</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/That_Dirty_Black_Bag-poster.jpg" alt="That Dirty Black Bag poster" /><br/><br/><a href="https://www.imdb.com/title/tt7809420/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

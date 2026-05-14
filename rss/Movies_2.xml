@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Gunfighter</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323297</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gunfighter-poster.jpg" alt="The Gunfighter poster" /><br/><br/><a href="https://www.imdb.com/title/tt3375370/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>No Man Of God</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323221</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/No_Man_Of_God-poster.jpg" alt="No Man Of God poster" /><br/><br/><a href="https://www.imdb.com/title/tt13507778/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Radio Flyer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323215</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Radio_Flyer-poster.jpg" alt="Radio Flyer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105211/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Michael</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323210</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Michael-poster.jpg" alt="Michael poster" /><br/><br/><a href="https://www.imdb.com/title/tt11378946/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Two Men in Town</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323205</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Two_Men_in_Town-poster.jpg" alt="Two Men in Town poster" /><br/><br/><a href="https://www.imdb.com/title/tt2258285/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Swallow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322928</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swallow-poster.jpg" alt="Swallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt8372298/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Absence of Malice</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322927</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Absence_of_Malice-poster.jpg" alt="Absence of Malice poster" /><br/><br/><a href="https://www.imdb.com/title/tt0081974/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Verdict</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322923</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Verdict-poster.jpg" alt="The Verdict poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084855/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Explorers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322906</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Explorers-poster.jpg" alt="Explorers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0089114/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Silver Bullet</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321962</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Silver_Bullet-poster.jpg" alt="Silver Bullet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090021/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

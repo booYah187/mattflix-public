@@ -6,6 +6,36 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Gunfighter</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323297</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gunfighter-poster.jpg" alt="The Gunfighter poster" /><br/><br/><a href="https://www.imdb.com/title/tt3375370/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Kitchen Confidential</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323247</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kitchen_Confidential-poster.jpg" alt="Kitchen Confidential poster" /><br/><br/><a href="https://www.imdb.com/title/tt0460654/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Black Dynamite</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323223</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Dynamite-poster.jpg" alt="Black Dynamite poster" /><br/><br/><a href="https://www.imdb.com/title/tt1608383/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>No Man Of God</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323221</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/No_Man_Of_God-poster.jpg" alt="No Man Of God poster" /><br/><br/><a href="https://www.imdb.com/title/tt13507778/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Radio Flyer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323215</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Radio_Flyer-poster.jpg" alt="Radio Flyer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105211/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Michael</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323210</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Michael-poster.jpg" alt="Michael poster" /><br/><br/><a href="https://www.imdb.com/title/tt11378946/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Two Men in Town</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323205</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Two_Men_in_Town-poster.jpg" alt="Two Men in Town poster" /><br/><br/><a href="https://www.imdb.com/title/tt2258285/">View on IMDb</a>]]></description>
@@ -474,36 +504,6 @@
       <title>Zero Effect</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320714</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zero_Effect-poster.jpg" alt="Zero Effect poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120906/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Takedown with Chris Hansen</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320552</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Takedown_with_Chris_Hansen-poster.jpg" alt="Takedown with Chris Hansen poster" /><br/><br/><a href="https://www.imdb.com/title/tt23986250/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hansen Vs. Predator</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320518</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hansen_Vs._Predator-poster.jpg" alt="Hansen Vs. Predator poster" />]]></description>
-    </item>
-    <item>
-      <title>To Catch a Predator</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320517</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/To_Catch_a_Predator-poster.jpg" alt="To Catch a Predator poster" /><br/><br/><a href="https://www.imdb.com/title/tt1125489/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Varsity Blues</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320494</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Varsity_Blues-poster.jpg" alt="Varsity Blues poster" /><br/><br/><a href="https://www.imdb.com/title/tt0139699/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Kid Detective</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320491</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kid_Detective-poster.jpg" alt="The Kid Detective poster" /><br/><br/><a href="https://www.imdb.com/title/tt8980602/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>CB4</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320488</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/CB4-poster.jpg" alt="CB4 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106500/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
