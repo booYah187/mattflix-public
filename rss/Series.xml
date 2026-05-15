@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Normal People</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323407</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Normal_People-poster.jpg" alt="Normal People poster" /><br/><br/><a href="https://www.imdb.com/title/tt9059760/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Kitchen Confidential</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323247</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kitchen_Confidential-poster.jpg" alt="Kitchen Confidential poster" /><br/><br/><a href="https://www.imdb.com/title/tt0460654/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Dead to Me</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320052</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_to_Me-poster.jpg" alt="Dead to Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt8064302/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Thousand Blows</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319656</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Thousand_Blows-poster.jpg" alt="A Thousand Blows poster" /><br/><br/><a href="https://www.imdb.com/title/tt21874900/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

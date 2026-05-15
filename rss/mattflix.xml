@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Drama</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323453</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Drama-poster.jpg" alt="The Drama poster" /><br/><br/><a href="https://www.imdb.com/title/tt33071426/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Normal People</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323407</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Normal_People-poster.jpg" alt="Normal People poster" /><br/><br/><a href="https://www.imdb.com/title/tt9059760/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>In Cold Blood</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323300</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_Cold_Blood-poster.jpg" alt="In Cold Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061809/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Gunfighter</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323297</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gunfighter-poster.jpg" alt="The Gunfighter poster" /><br/><br/><a href="https://www.imdb.com/title/tt3375370/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Déjà Vu</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320720</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Déjà_Vu-poster.jpg" alt="Déjà Vu poster" /><br/><br/><a href="https://www.imdb.com/title/tt0453467/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Crimson Tide</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320719</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crimson_Tide-poster.jpg" alt="Crimson Tide poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112740/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The House of Tomorrow</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320715</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_House_of_Tomorrow-poster.jpg" alt="The House of Tomorrow poster" /><br/><br/><a href="https://www.imdb.com/title/tt5910344/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Zero Effect</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320714</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zero_Effect-poster.jpg" alt="Zero Effect poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120906/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

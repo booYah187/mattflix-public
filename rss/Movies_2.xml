@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Drama</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323453</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Drama-poster.jpg" alt="The Drama poster" /><br/><br/><a href="https://www.imdb.com/title/tt33071426/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>In Cold Blood</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323300</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_Cold_Blood-poster.jpg" alt="In Cold Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061809/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Gunfighter</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323297</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gunfighter-poster.jpg" alt="The Gunfighter poster" /><br/><br/><a href="https://www.imdb.com/title/tt3375370/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>The Worst Person in the World</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322956</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Worst_Person_in_the_World-poster.jpg" alt="The Worst Person in the World poster" /><br/><br/><a href="https://www.imdb.com/title/tt10370710/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Amsterdam</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322955</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Amsterdam-poster.jpg" alt="Amsterdam poster" /><br/><br/><a href="https://www.imdb.com/title/tt10304142/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Swallow</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322928</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swallow-poster.jpg" alt="Swallow poster" /><br/><br/><a href="https://www.imdb.com/title/tt8372298/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
