@@ -6,6 +6,16 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>All Dogs Go to Heaven</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323578</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/All_Dogs_Go_to_Heaven-poster.jpg" alt="All Dogs Go to Heaven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096787/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Land Before Time</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323551</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Land_Before_Time-poster.jpg" alt="The Land Before Time poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095489/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Secret of NIMH</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322997</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Secret_of_NIMH-poster.jpg" alt="The Secret of NIMH poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084649/">View on IMDb</a>]]></description>
@@ -16,9 +26,9 @@
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Adventures_of_Pete_&amp;_Pete-poster.jpg" alt="The Adventures of Pete &amp; Pete poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105933/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>DuckTales (2017)</title>
+      <title>DuckTales</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322081</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DuckTales_(2017)-poster.jpg" alt="DuckTales (2017) poster" /><br/><br/><a href="https://www.imdb.com/title/tt5531466/">View on IMDb</a>]]></description>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DuckTales-poster.jpg" alt="DuckTales poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092345/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Batman: The Animated Series</title>
@@ -119,16 +129,6 @@
       <title>Star Wars Rebels</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=213550</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_Rebels-poster.jpg" alt="Star Wars Rebels poster" /><br/><br/><a href="https://www.imdb.com/title/tt2930604/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Star Wars: The Clone Wars</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=213340</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_The_Clone_Wars-poster.jpg" alt="Star Wars: The Clone Wars poster" /><br/><br/><a href="https://www.imdb.com/title/tt0458290/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>ThunderCats</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=213083</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ThunderCats-poster.jpg" alt="ThunderCats poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088631/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
