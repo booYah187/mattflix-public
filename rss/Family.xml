@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Little Rascals</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323652</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Little_Rascals-poster.jpg" alt="The Little Rascals poster" /><br/><br/><a href="https://www.imdb.com/title/tt36591593/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>All Dogs Go to Heaven</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323578</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/All_Dogs_Go_to_Heaven-poster.jpg" alt="All Dogs Go to Heaven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096787/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Lilo &amp; Stitch</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243458</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lilo_&amp;_Stitch-poster.jpg" alt="Lilo &amp; Stitch poster" /><br/><br/><a href="https://www.imdb.com/title/tt11655566/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Star Wars Rebels</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=213550</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_Rebels-poster.jpg" alt="Star Wars Rebels poster" /><br/><br/><a href="https://www.imdb.com/title/tt2930604/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
