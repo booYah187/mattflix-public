@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Life</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324225</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Life-poster.jpg" alt="Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt5442430/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Vision Quest</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324223</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Vision_Quest-poster.jpg" alt="Vision Quest poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090270/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lee Cronin's The Mummy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324210</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lee_Cronin's_The_Mummy-poster.jpg" alt="Lee Cronin's The Mummy poster" /><br/><br/><a href="https://www.imdb.com/title/tt32612507/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>In the Company of Men</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323650</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Company_of_Men-poster.jpg" alt="In the Company of Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119361/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>No Man Of God</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323221</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/No_Man_Of_God-poster.jpg" alt="No Man Of God poster" /><br/><br/><a href="https://www.imdb.com/title/tt13507778/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Radio Flyer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323215</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Radio_Flyer-poster.jpg" alt="Radio Flyer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105211/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Michael</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323210</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Michael-poster.jpg" alt="Michael poster" /><br/><br/><a href="https://www.imdb.com/title/tt11378946/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Two Men in Town</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323205</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Two_Men_in_Town-poster.jpg" alt="Two Men in Town poster" /><br/><br/><a href="https://www.imdb.com/title/tt2258285/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

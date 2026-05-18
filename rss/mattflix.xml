@@ -6,6 +6,41 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Life</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324225</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Life-poster.jpg" alt="Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt5442430/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Vision Quest</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324223</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Vision_Quest-poster.jpg" alt="Vision Quest poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090270/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sleeping Dog</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324212</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleeping_Dog-poster.jpg" alt="Sleeping Dog poster" /><br/><br/><a href="https://www.imdb.com/title/tt41157050/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lee Cronin's The Mummy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324210</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lee_Cronin's_The_Mummy-poster.jpg" alt="Lee Cronin's The Mummy poster" /><br/><br/><a href="https://www.imdb.com/title/tt32612507/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Thing About Pam</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324149</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing_About_Pam-poster.jpg" alt="The Thing About Pam poster" /><br/><br/><a href="https://www.imdb.com/title/tt13984270/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>How It's Made</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323770</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/How_It's_Made-poster.jpg" alt="How It's Made poster" /><br/><br/><a href="https://www.imdb.com/title/tt0835010/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Kid Stays in the Picture</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323762</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kid_Stays_in_the_Picture-poster.jpg" alt="The Kid Stays in the Picture poster" /><br/><br/><a href="https://www.imdb.com/title/tt0303353/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Little Rascals</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323652</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Little_Rascals-poster.jpg" alt="The Little Rascals poster" /><br/><br/><a href="https://www.imdb.com/title/tt36591593/">View on IMDb</a>]]></description>
@@ -469,41 +504,6 @@
       <title>Talk Radio</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321440</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Talk_Radio-poster.jpg" alt="Talk Radio poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096219/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Treme</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321361</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Treme-poster.jpg" alt="Treme poster" /><br/><br/><a href="https://www.imdb.com/title/tt1279972/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Archenemy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321358</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Archenemy-poster.jpg" alt="Archenemy poster" /><br/><br/><a href="https://www.imdb.com/title/tt11274100/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Come to Daddy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321342</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Come_to_Daddy-poster.jpg" alt="Come to Daddy poster" /><br/><br/><a href="https://www.imdb.com/title/tt8816194/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Magician</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321338</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Magician-poster.jpg" alt="The Magician poster" /><br/><br/><a href="https://www.imdb.com/title/tt0461989/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>#SkyKing</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321334</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/#SkyKing-poster.jpg" alt="#SkyKing poster" /><br/><br/><a href="https://www.imdb.com/title/tt39368489/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>NewsRadio</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321144</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/NewsRadio-poster.jpg" alt="NewsRadio poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112095/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Roadie</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321138</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Roadie-poster.jpg" alt="Roadie poster" /><br/><br/><a href="https://www.imdb.com/title/tt1450330/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

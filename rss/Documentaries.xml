@@ -6,6 +6,21 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sleeping Dog</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324212</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleeping_Dog-poster.jpg" alt="Sleeping Dog poster" /><br/><br/><a href="https://www.imdb.com/title/tt41157050/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>How It's Made</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323770</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/How_It's_Made-poster.jpg" alt="How It's Made poster" /><br/><br/><a href="https://www.imdb.com/title/tt0835010/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Kid Stays in the Picture</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323762</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kid_Stays_in_the_Picture-poster.jpg" alt="The Kid Stays in the Picture poster" /><br/><br/><a href="https://www.imdb.com/title/tt0303353/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Superhot: The Spicy World of Pepper People</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323171</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Superhot_The_Spicy_World_of_Pepper_People-poster.jpg" alt="Superhot: The Spicy World of Pepper People poster" /><br/><br/><a href="https://www.imdb.com/title/tt29740695/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>FPS: First Person Shooter</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314274</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/FPS_First_Person_Shooter-poster.jpg" alt="FPS: First Person Shooter poster" /><br/><br/><a href="https://www.imdb.com/title/tt28681130/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Scariest Places in the World</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314276</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scariest_Places_in_the_World-poster.jpg" alt="Scariest Places in the World poster" /><br/><br/><a href="https://www.imdb.com/title/tt28186534/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Story of Super Mario</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314275</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Story_of_Super_Mario-poster.jpg" alt="The Story of Super Mario poster" /><br/><br/><a href="https://www.imdb.com/title/tt36150483/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Village of the Damned</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314277</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Village_of_the_Damned-poster.jpg" alt="Village of the Damned poster" /><br/><br/><a href="https://www.imdb.com/title/tt7895046/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
