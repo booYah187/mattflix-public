@@ -6,6 +6,36 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>De Palma</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324353</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/De_Palma-poster.jpg" alt="De Palma poster" /><br/><br/><a href="https://www.imdb.com/title/tt1683048/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jim Henson: Idea Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324349</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jim_Henson_Idea_Man-poster.jpg" alt="Jim Henson: Idea Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt19308034/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Milius</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324348</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Milius-poster.jpg" alt="Milius poster" /><br/><br/><a href="https://www.imdb.com/title/tt2370224/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A Decade Under the Influence</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324300</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Decade_Under_the_Influence-poster.jpg" alt="A Decade Under the Influence poster" /><br/><br/><a href="https://www.imdb.com/title/tt0342275/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Waking Sleeping Beauty</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324297</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Waking_Sleeping_Beauty-poster.jpg" alt="Waking Sleeping Beauty poster" /><br/><br/><a href="https://www.imdb.com/title/tt1159961/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Hearts of Darkness: A Filmmaker's Apocalypse</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324291</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hearts_of_Darkness_A_Filmmaker's_Apocalypse-poster.jpg" alt="Hearts of Darkness: A Filmmaker's Apocalypse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102015/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sleeping Dog</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324212</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleeping_Dog-poster.jpg" alt="Sleeping Dog poster" /><br/><br/><a href="https://www.imdb.com/title/tt41157050/">View on IMDb</a>]]></description>
@@ -99,36 +129,6 @@
       <title>Lovecraft: Fear of the Unknown</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317728</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lovecraft_Fear_of_the_Unknown-poster.jpg" alt="Lovecraft: Fear of the Unknown poster" /><br/><br/><a href="https://www.imdb.com/title/tt1261900/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hideo Kojima: Connecting Worlds</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317710</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hideo_Kojima_Connecting_Worlds-poster.jpg" alt="Hideo Kojima: Connecting Worlds poster" /><br/><br/><a href="https://www.imdb.com/title/tt26739107/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Alone</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317278</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alone-poster.jpg" alt="Alone poster" /><br/><br/><a href="https://www.imdb.com/title/tt4803766/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Butterfly in the Sky</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316964</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Butterfly_in_the_Sky-poster.jpg" alt="Butterfly in the Sky poster" /><br/><br/><a href="https://www.imdb.com/title/tt15358498/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>As the Crow Flies</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316777</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/As_the_Crow_Flies-poster.jpg" alt="As the Crow Flies poster" /><br/><br/><a href="https://www.imdb.com/title/tt10698744/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Miracle: The Boys of '80</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=316595</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_The_Boys_of_'80-poster.jpg" alt="Miracle: The Boys of '80 poster" /><br/><br/><a href="https://www.imdb.com/title/tt39320452/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>FPS: First Person Shooter</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314274</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/FPS_First_Person_Shooter-poster.jpg" alt="FPS: First Person Shooter poster" /><br/><br/><a href="https://www.imdb.com/title/tt28681130/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
