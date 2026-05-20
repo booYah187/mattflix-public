@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Transformers: Prime</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324359</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Prime-poster.jpg" alt="Transformers: Prime poster" /><br/><br/><a href="https://www.imdb.com/title/tt1659175/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Transformers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324358</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Transformers-poster.jpg" alt="The Transformers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086817/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Godfather The Complete Epic 1901-1959</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324357</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Godfather_The_Complete_Epic_1901-1959-poster.jpg" alt="The Godfather The Complete Epic 1901-1959 poster" />]]></description>
@@ -494,16 +504,6 @@
       <title>The Norm Show</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321716</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Norm_Show-poster.jpg" alt="The Norm Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0181935/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Naked Gun: From the Files of Police Squad!</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321708</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Naked_Gun_From_the_Files_of_Police_Squad!-poster.jpg" alt="The Naked Gun: From the Files of Police Squad! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095705/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Beavis and Butt-Head Do the Universe</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321704</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Beavis_and_Butt-Head_Do_the_Universe-poster.jpg" alt="Beavis and Butt-Head Do the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt14145426/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

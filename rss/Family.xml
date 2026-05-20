@@ -6,6 +6,16 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Transformers: Prime</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324359</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Prime-poster.jpg" alt="Transformers: Prime poster" /><br/><br/><a href="https://www.imdb.com/title/tt1659175/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Transformers Generation 1</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324358</link>
+      <description><![CDATA[Library: Family]]></description>
+    </item>
+    <item>
       <title>The Little Rascals</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323652</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Little_Rascals-poster.jpg" alt="The Little Rascals poster" /><br/><br/><a href="https://www.imdb.com/title/tt36591593/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Batman Beyond: Return of the Joker</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247039</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Batman_Beyond_Return_of_the_Joker-poster.jpg" alt="Batman Beyond: Return of the Joker poster" /><br/><br/><a href="https://www.imdb.com/title/tt0233298/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Batman Beyond</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=246923</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Batman_Beyond-poster.jpg" alt="Batman Beyond poster" /><br/><br/><a href="https://www.imdb.com/title/tt0147746/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lilo &amp; Stitch</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=243458</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lilo_&amp;_Stitch-poster.jpg" alt="Lilo &amp; Stitch poster" /><br/><br/><a href="https://www.imdb.com/title/tt11655566/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
