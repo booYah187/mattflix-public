@@ -6,6 +6,16 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Harlan County U.S.A.</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324762</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harlan_County_U.S.A.-poster.jpg" alt="Harlan County U.S.A. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0074605/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324634</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Power_of_Grayskull_The_Definitive_History_of_He-Man_and_the_Masters_of_the_Universe-poster.jpg" alt="Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt5338774/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>De Palma</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324353</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/De_Palma-poster.jpg" alt="De Palma poster" /><br/><br/><a href="https://www.imdb.com/title/tt1683048/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Secret Mall Apartment</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=318053</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Secret_Mall_Apartment-poster.jpg" alt="Secret Mall Apartment poster" /><br/><br/><a href="https://www.imdb.com/title/tt21221386/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Betty White: First Lady of Television</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317929</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Betty_White_First_Lady_of_Television-poster.jpg" alt="Betty White: First Lady of Television poster" /><br/><br/><a href="https://www.imdb.com/title/tt8780234/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lovecraft: Fear of the Unknown</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=317728</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lovecraft_Fear_of_the_Unknown-poster.jpg" alt="Lovecraft: Fear of the Unknown poster" /><br/><br/><a href="https://www.imdb.com/title/tt1261900/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Normal</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324569</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Normal-poster.jpg" alt="Normal poster" /><br/><br/><a href="https://www.imdb.com/title/tt31195136/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Little Monsters</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324568</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Little_Monsters-poster.jpg" alt="Little Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt7390588/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Among Wolves</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324567</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Among_Wolves-poster.jpg" alt="Among Wolves poster" /><br/><br/><a href="https://www.imdb.com/title/tt1417582/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Godfather The Complete Epic 1901-1959</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324357</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Godfather_The_Complete_Epic_1901-1959-poster.jpg" alt="The Godfather The Complete Epic 1901-1959 poster" />]]></description>
@@ -114,21 +129,6 @@
       <title>Stardust</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323554</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stardust-poster.jpg" alt="Stardust poster" /><br/><br/><a href="https://www.imdb.com/title/tt0486655/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Source Code</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323553</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Source_Code-poster.jpg" alt="Source Code poster" /><br/><br/><a href="https://www.imdb.com/title/tt0945513/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dead Poets Society</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323545</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_Poets_Society-poster.jpg" alt="Dead Poets Society poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097165/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Meet the Feebles</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323540</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Meet_the_Feebles-poster.jpg" alt="Meet the Feebles poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097858/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

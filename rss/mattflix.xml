@@ -6,6 +6,51 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Justified: City Primeval</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324773</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified_City_Primeval-poster.jpg" alt="Justified: City Primeval poster" /><br/><br/><a href="https://www.imdb.com/title/tt14263564/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Harlan County U.S.A.</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324762</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harlan_County_U.S.A.-poster.jpg" alt="Harlan County U.S.A. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0074605/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Legend of Zelda</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324639</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Legend_of_Zelda-poster.jpg" alt="The Legend of Zelda poster" /><br/><br/><a href="https://www.imdb.com/title/tt0832330/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Speed Racer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324638</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Speed_Racer-poster.jpg" alt="Speed Racer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061300/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324634</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Power_of_Grayskull_The_Definitive_History_of_He-Man_and_the_Masters_of_the_Universe-poster.jpg" alt="Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt5338774/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Normal</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324569</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Normal-poster.jpg" alt="Normal poster" /><br/><br/><a href="https://www.imdb.com/title/tt31195136/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Little Monsters</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324568</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Little_Monsters-poster.jpg" alt="Little Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt7390588/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Among Wolves</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324567</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Among_Wolves-poster.jpg" alt="Among Wolves poster" /><br/><br/><a href="https://www.imdb.com/title/tt1417582/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Margo's Got Money Troubles</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324532</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Margo's_Got_Money_Troubles-poster.jpg" alt="Margo's Got Money Troubles poster" /><br/><br/><a href="https://www.imdb.com/title/tt31137273/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Transformers: Prime</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324359</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Prime-poster.jpg" alt="Transformers: Prime poster" /><br/><br/><a href="https://www.imdb.com/title/tt1659175/">View on IMDb</a>]]></description>
@@ -459,51 +504,6 @@
       <title>DuckTales</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322081</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DuckTales-poster.jpg" alt="DuckTales poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092345/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Batman: The Animated Series</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322082</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Batman_The_Animated_Series-poster.jpg" alt="Batman: The Animated Series poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103359/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Rehearsal</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322037</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rehearsal-poster.jpg" alt="The Rehearsal poster" /><br/><br/><a href="https://www.imdb.com/title/tt10802170/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Documentary Now!</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321971</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Documentary_Now!-poster.jpg" alt="Documentary Now! poster" /><br/><br/><a href="https://www.imdb.com/title/tt4677934/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Silver Bullet</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321962</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Silver_Bullet-poster.jpg" alt="Silver Bullet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090021/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Broadchurch</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321875</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Broadchurch-poster.jpg" alt="Broadchurch poster" /><br/><br/><a href="https://www.imdb.com/title/tt2249364/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Naked Gun 33⅓: The Final Insult</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321867</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Naked_Gun_33⅓_The_Final_Insult-poster.jpg" alt="Naked Gun 33⅓: The Final Insult poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110622/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Naked Gun 2½: The Smell of Fear</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321873</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Naked_Gun_2½_The_Smell_of_Fear-poster.jpg" alt="The Naked Gun 2½: The Smell of Fear poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102510/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>I, Claudius</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321778</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I,_Claudius-poster.jpg" alt="I, Claudius poster" /><br/><br/><a href="https://www.imdb.com/title/tt0074006/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Norm Show</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321716</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Norm_Show-poster.jpg" alt="The Norm Show poster" /><br/><br/><a href="https://www.imdb.com/title/tt0181935/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

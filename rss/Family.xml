@@ -6,14 +6,24 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Legend of Zelda</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324639</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Legend_of_Zelda-poster.jpg" alt="The Legend of Zelda poster" /><br/><br/><a href="https://www.imdb.com/title/tt0832330/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Speed Racer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324638</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Speed_Racer-poster.jpg" alt="Speed Racer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061300/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Transformers: Prime</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324359</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Prime-poster.jpg" alt="Transformers: Prime poster" /><br/><br/><a href="https://www.imdb.com/title/tt1659175/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>Transformers Generation 1</title>
+      <title>The Transformers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324358</link>
-      <description><![CDATA[Library: Family]]></description>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Transformers-poster.jpg" alt="The Transformers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086817/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>The Little Rascals</title>
@@ -119,16 +129,6 @@
       <title>Puffin Rock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249728</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Puffin_Rock-poster.jpg" alt="Puffin Rock poster" /><br/><br/><a href="https://www.imdb.com/title/tt3590338/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>We Bare Bears</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247694</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/We_Bare_Bears-poster.jpg" alt="We Bare Bears poster" /><br/><br/><a href="https://www.imdb.com/title/tt4839610/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Batman Beyond: Return of the Joker</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=247039</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Batman_Beyond_Return_of_the_Joker-poster.jpg" alt="Batman Beyond: Return of the Joker poster" /><br/><br/><a href="https://www.imdb.com/title/tt0233298/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

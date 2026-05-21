@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Justified: City Primeval</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324773</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified_City_Primeval-poster.jpg" alt="Justified: City Primeval poster" /><br/><br/><a href="https://www.imdb.com/title/tt14263564/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Margo's Got Money Troubles</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324532</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Margo's_Got_Money_Troubles-poster.jpg" alt="Margo's Got Money Troubles poster" /><br/><br/><a href="https://www.imdb.com/title/tt31137273/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Thing About Pam</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324149</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing_About_Pam-poster.jpg" alt="The Thing About Pam poster" /><br/><br/><a href="https://www.imdb.com/title/tt13984270/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Drops of God (2023)</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320901</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Drops_of_God_(2023)-poster.jpg" alt="Drops of God (2023) poster" /><br/><br/><a href="https://www.imdb.com/title/tt6867482/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Justified</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320757</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified-poster.jpg" alt="Justified poster" /><br/><br/><a href="https://www.imdb.com/title/tt1489428/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rillington Place</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320458</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rillington_Place-poster.jpg" alt="Rillington Place poster" /><br/><br/><a href="https://www.imdb.com/title/tt5568438/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
