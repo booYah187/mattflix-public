@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Casablanca</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324865</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Casablanca-poster.jpg" alt="Casablanca poster" /><br/><br/><a href="https://www.imdb.com/title/tt0034583/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Station Agent</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324814</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Station_Agent-poster.jpg" alt="The Station Agent poster" /><br/><br/><a href="https://www.imdb.com/title/tt0340377/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Finding Steve McQueen</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324804</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Finding_Steve_McQueen-poster.jpg" alt="Finding Steve McQueen poster" /><br/><br/><a href="https://www.imdb.com/title/tt6032328/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mortal Kombat II</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324800</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mortal_Kombat_II-poster.jpg" alt="Mortal Kombat II poster" /><br/><br/><a href="https://www.imdb.com/title/tt17490712/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Normal</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324569</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Normal-poster.jpg" alt="Normal poster" /><br/><br/><a href="https://www.imdb.com/title/tt31195136/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>The Gentlemen</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323597</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gentlemen-poster.jpg" alt="The Gentlemen poster" /><br/><br/><a href="https://www.imdb.com/title/tt8367814/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Big Fish</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323586</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Big_Fish-poster.jpg" alt="Big Fish poster" /><br/><br/><a href="https://www.imdb.com/title/tt0319061/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Witches</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323574</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Witches-poster.jpg" alt="The Witches poster" /><br/><br/><a href="https://www.imdb.com/title/tt0100944/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ed Wood</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323564</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ed_Wood-poster.jpg" alt="Ed Wood poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109707/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Stardust</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323554</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stardust-poster.jpg" alt="Stardust poster" /><br/><br/><a href="https://www.imdb.com/title/tt0486655/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

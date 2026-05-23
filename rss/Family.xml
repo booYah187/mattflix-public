@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Ugly Dachshund</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324854</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Ugly_Dachshund-poster.jpg" alt="The Ugly Dachshund poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061135/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Legend of Zelda</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324639</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Legend_of_Zelda-poster.jpg" alt="The Legend of Zelda poster" /><br/><br/><a href="https://www.imdb.com/title/tt0832330/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Too Cute</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314369</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Cute-poster.jpg" alt="Too Cute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2197519/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Puffin Rock</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=249728</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Puffin_Rock-poster.jpg" alt="Puffin Rock poster" /><br/><br/><a href="https://www.imdb.com/title/tt3590338/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

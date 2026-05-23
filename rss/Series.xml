@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Something Very Bad Is Going To Happen</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324818</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_Very_Bad_Is_Going_To_Happen-poster.jpg" alt="Something Very Bad Is Going To Happen poster" /><br/><br/><a href="https://www.imdb.com/title/tt32937780/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Justified: City Primeval</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324773</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified_City_Primeval-poster.jpg" alt="Justified: City Primeval poster" /><br/><br/><a href="https://www.imdb.com/title/tt14263564/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Bombing of Pan Am 103</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321025</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bombing_of_Pan_Am_103-poster.jpg" alt="The Bombing of Pan Am 103 poster" /><br/><br/><a href="https://www.imdb.com/title/tt13592494/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Drops of God (2023)</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320901</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Drops_of_God_(2023)-poster.jpg" alt="Drops of God (2023) poster" /><br/><br/><a href="https://www.imdb.com/title/tt6867482/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

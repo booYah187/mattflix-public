@@ -6,6 +6,36 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Casablanca</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324865</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Casablanca-poster.jpg" alt="Casablanca poster" /><br/><br/><a href="https://www.imdb.com/title/tt0034583/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Ugly Dachshund</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324854</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Ugly_Dachshund-poster.jpg" alt="The Ugly Dachshund poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061135/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Something Very Bad Is Going To Happen</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324818</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_Very_Bad_Is_Going_To_Happen-poster.jpg" alt="Something Very Bad Is Going To Happen poster" /><br/><br/><a href="https://www.imdb.com/title/tt32937780/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Station Agent</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324814</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Station_Agent-poster.jpg" alt="The Station Agent poster" /><br/><br/><a href="https://www.imdb.com/title/tt0340377/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Finding Steve McQueen</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324804</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Finding_Steve_McQueen-poster.jpg" alt="Finding Steve McQueen poster" /><br/><br/><a href="https://www.imdb.com/title/tt6032328/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mortal Kombat II</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324800</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mortal_Kombat_II-poster.jpg" alt="Mortal Kombat II poster" /><br/><br/><a href="https://www.imdb.com/title/tt17490712/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Justified: City Primeval</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324773</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified_City_Primeval-poster.jpg" alt="Justified: City Primeval poster" /><br/><br/><a href="https://www.imdb.com/title/tt14263564/">View on IMDb</a>]]></description>
@@ -474,36 +504,6 @@
       <title>Man Seeking Woman</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322616</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Man_Seeking_Woman-poster.jpg" alt="Man Seeking Woman poster" /><br/><br/><a href="https://www.imdb.com/title/tt4189492/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Terriers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322589</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Terriers-poster.jpg" alt="Terriers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1493239/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Police Squad!</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322554</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Police_Squad!-poster.jpg" alt="Police Squad! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083466/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Adventures of Pete &amp; Pete</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322402</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Adventures_of_Pete_&amp;_Pete-poster.jpg" alt="The Adventures of Pete &amp; Pete poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105933/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Happy Valley</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322509</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Happy_Valley-poster.jpg" alt="Happy Valley poster" /><br/><br/><a href="https://www.imdb.com/title/tt3428912/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The World at War</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322361</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_World_at_War-poster.jpg" alt="The World at War poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071075/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>DuckTales</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322081</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DuckTales-poster.jpg" alt="DuckTales poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092345/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
