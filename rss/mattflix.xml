@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Lonesome Jim</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324876</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lonesome_Jim-poster.jpg" alt="Lonesome Jim poster" /><br/><br/><a href="https://www.imdb.com/title/tt0385056/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Casablanca</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324865</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Casablanca-poster.jpg" alt="Casablanca poster" /><br/><br/><a href="https://www.imdb.com/title/tt0034583/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>You're the Worst</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322617</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/You're_the_Worst-poster.jpg" alt="You're the Worst poster" /><br/><br/><a href="https://www.imdb.com/title/tt3228420/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Man Seeking Woman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322616</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Man_Seeking_Woman-poster.jpg" alt="Man Seeking Woman poster" /><br/><br/><a href="https://www.imdb.com/title/tt4189492/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

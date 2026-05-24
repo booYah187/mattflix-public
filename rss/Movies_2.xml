@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Lonesome Jim</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324876</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lonesome_Jim-poster.jpg" alt="Lonesome Jim poster" /><br/><br/><a href="https://www.imdb.com/title/tt0385056/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Casablanca</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324865</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Casablanca-poster.jpg" alt="Casablanca poster" /><br/><br/><a href="https://www.imdb.com/title/tt0034583/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Looking for Mr. Goodbar</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323602</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Looking_for_Mr._Goodbar-poster.jpg" alt="Looking for Mr. Goodbar poster" /><br/><br/><a href="https://www.imdb.com/title/tt0076327/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Gentlemen</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323597</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Gentlemen-poster.jpg" alt="The Gentlemen poster" /><br/><br/><a href="https://www.imdb.com/title/tt8367814/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
