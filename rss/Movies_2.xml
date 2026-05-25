@@ -6,6 +6,56 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Tiptoes</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325195</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tiptoes-poster.jpg" alt="Tiptoes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0316768/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bird</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325194</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bird-poster.jpg" alt="Bird poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094747/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>I'm Gonna Git You Sucka</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325191</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I'm_Gonna_Git_You_Sucka-poster.jpg" alt="I'm Gonna Git You Sucka poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095348/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Hebrew Hammer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325180</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hebrew_Hammer-poster.jpg" alt="The Hebrew Hammer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0317640/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Doors</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325179</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Doors-poster.jpg" alt="The Doors poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101761/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Disclosure</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325177</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Disclosure-poster.jpg" alt="Disclosure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109635/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Strange Brew</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325117</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Strange_Brew-poster.jpg" alt="Strange Brew poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086373/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The King of Comedy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325116</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_King_of_Comedy-poster.jpg" alt="The King of Comedy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085794/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Amadeus</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325104</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Amadeus-poster.jpg" alt="Amadeus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086879/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>One Last Deal</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324878</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Last_Deal-poster.jpg" alt="One Last Deal poster" /><br/><br/><a href="https://www.imdb.com/title/tt35566934/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Lonesome Jim</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324876</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lonesome_Jim-poster.jpg" alt="Lonesome Jim poster" /><br/><br/><a href="https://www.imdb.com/title/tt0385056/">View on IMDb</a>]]></description>
@@ -79,56 +129,6 @@
       <title>The Punisher: One Last Kill</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324230</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Punisher_One_Last_Kill-poster.jpg" alt="The Punisher: One Last Kill poster" /><br/><br/><a href="https://www.imdb.com/title/tt36042156/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324225</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Life-poster.jpg" alt="Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt5442430/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Vision Quest</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324223</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Vision_Quest-poster.jpg" alt="Vision Quest poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090270/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lee Cronin's The Mummy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324210</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lee_Cronin's_The_Mummy-poster.jpg" alt="Lee Cronin's The Mummy poster" /><br/><br/><a href="https://www.imdb.com/title/tt32612507/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>In the Company of Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323650</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Company_of_Men-poster.jpg" alt="In the Company of Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119361/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Transformers: Rise of the Beasts</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323645</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Rise_of_the_Beasts-poster.jpg" alt="Transformers: Rise of the Beasts poster" /><br/><br/><a href="https://www.imdb.com/title/tt5090568/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bumblebee</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323638</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bumblebee-poster.jpg" alt="Bumblebee poster" /><br/><br/><a href="https://www.imdb.com/title/tt4701182/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Transformers: The Last Knight</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323626</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_The_Last_Knight-poster.jpg" alt="Transformers: The Last Knight poster" /><br/><br/><a href="https://www.imdb.com/title/tt3371366/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Transformers: Age of Extinction</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323621</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Age_of_Extinction-poster.jpg" alt="Transformers: Age of Extinction poster" /><br/><br/><a href="https://www.imdb.com/title/tt2109248/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Transformers: Dark of the Moon</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323615</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Dark_of_the_Moon-poster.jpg" alt="Transformers: Dark of the Moon poster" /><br/><br/><a href="https://www.imdb.com/title/tt1399103/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Looking for Mr. Goodbar</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323602</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Looking_for_Mr._Goodbar-poster.jpg" alt="Looking for Mr. Goodbar poster" /><br/><br/><a href="https://www.imdb.com/title/tt0076327/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

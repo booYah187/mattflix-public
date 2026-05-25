@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Burn Notice</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325201</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Burn_Notice-poster.jpg" alt="Burn Notice poster" /><br/><br/><a href="https://www.imdb.com/title/tt0810788/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>DAVE</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324912</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DAVE-poster.jpg" alt="DAVE poster" /><br/><br/><a href="https://www.imdb.com/title/tt8531222/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Something Very Bad Is Going To Happen</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324818</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_Very_Bad_Is_Going_To_Happen-poster.jpg" alt="Something Very Bad Is Going To Happen poster" /><br/><br/><a href="https://www.imdb.com/title/tt32937780/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Treme</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321361</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Treme-poster.jpg" alt="Treme poster" /><br/><br/><a href="https://www.imdb.com/title/tt1279972/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>NewsRadio</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321144</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/NewsRadio-poster.jpg" alt="NewsRadio poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112095/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bombing of Pan Am 103</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321025</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bombing_of_Pan_Am_103-poster.jpg" alt="The Bombing of Pan Am 103 poster" /><br/><br/><a href="https://www.imdb.com/title/tt13592494/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
