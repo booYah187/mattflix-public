@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Dark</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325816</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark-poster.jpg" alt="Dark poster" /><br/><br/><a href="https://www.imdb.com/title/tt5753856/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Counterpart</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325713</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Counterpart-poster.jpg" alt="Counterpart poster" /><br/><br/><a href="https://www.imdb.com/title/tt4643084/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>1899</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325377</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/1899-poster.jpg" alt="1899 poster" /><br/><br/><a href="https://www.imdb.com/title/tt9319668/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Burn Notice</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325201</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Burn_Notice-poster.jpg" alt="Burn Notice poster" /><br/><br/><a href="https://www.imdb.com/title/tt0810788/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Matinee</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323036</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Matinee-poster.jpg" alt="Matinee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107529/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Innerspace</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323035</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Innerspace-poster.jpg" alt="Innerspace poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093260/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tomorrow</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323019</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tomorrow-poster.jpg" alt="Tomorrow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069393/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Super Mario Galaxy Movie</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323016</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Super_Mario_Galaxy_Movie-poster.jpg" alt="The Super Mario Galaxy Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt28650488/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
