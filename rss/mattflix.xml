@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Over Your Dead Body</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325956</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Over_Your_Dead_Body-poster.jpg" alt="Over Your Dead Body poster" /><br/><br/><a href="https://www.imdb.com/title/tt34685692/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dark</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325816</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark-poster.jpg" alt="Dark poster" /><br/><br/><a href="https://www.imdb.com/title/tt5753856/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Do the Right Thing</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323063</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Do_the_Right_Thing-poster.jpg" alt="Do the Right Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097216/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Matinee</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323036</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Matinee-poster.jpg" alt="Matinee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0107529/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
