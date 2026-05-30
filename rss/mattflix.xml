@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Auto Focus</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325978</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Auto_Focus-poster.jpg" alt="Auto Focus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0298744/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Butterfly Effect</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325974</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Butterfly_Effect-poster.jpg" alt="The Butterfly Effect poster" /><br/><br/><a href="https://www.imdb.com/title/tt0289879/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Quadrophenia</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325962</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Quadrophenia-poster.jpg" alt="Quadrophenia poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079766/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Outside Providence</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325958</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Outside_Providence-poster.jpg" alt="Outside Providence poster" /><br/><br/><a href="https://www.imdb.com/title/tt0125971/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Palm Springs</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325957</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Palm_Springs-poster.jpg" alt="Palm Springs poster" /><br/><br/><a href="https://www.imdb.com/title/tt9484998/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Over Your Dead Body</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325956</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Over_Your_Dead_Body-poster.jpg" alt="Over Your Dead Body poster" /><br/><br/><a href="https://www.imdb.com/title/tt34685692/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Bill Burr Presents Immoral Compass</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323151</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bill_Burr_Presents_Immoral_Compass-poster.jpg" alt="Bill Burr Presents Immoral Compass poster" /><br/><br/><a href="https://www.imdb.com/title/tt11691834/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Project Hail Mary</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323148</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Project_Hail_Mary-poster.jpg" alt="Project Hail Mary poster" /><br/><br/><a href="https://www.imdb.com/title/tt12042730/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Brimstone</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323072</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brimstone-poster.jpg" alt="Brimstone poster" /><br/><br/><a href="https://www.imdb.com/title/tt0165564/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Gunmen</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323071</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Gunmen-poster.jpg" alt="Gunmen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109959/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Peanut Butter Falcon</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323064</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Peanut_Butter_Falcon-poster.jpg" alt="The Peanut Butter Falcon poster" /><br/><br/><a href="https://www.imdb.com/title/tt4364194/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Do the Right Thing</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323063</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Do_the_Right_Thing-poster.jpg" alt="Do the Right Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097216/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

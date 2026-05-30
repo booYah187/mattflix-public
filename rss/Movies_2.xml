@@ -6,6 +6,31 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Auto Focus</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325978</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Auto_Focus-poster.jpg" alt="Auto Focus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0298744/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Butterfly Effect</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325974</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Butterfly_Effect-poster.jpg" alt="The Butterfly Effect poster" /><br/><br/><a href="https://www.imdb.com/title/tt0289879/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Quadrophenia</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325962</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Quadrophenia-poster.jpg" alt="Quadrophenia poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079766/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Outside Providence</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325958</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Outside_Providence-poster.jpg" alt="Outside Providence poster" /><br/><br/><a href="https://www.imdb.com/title/tt0125971/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Palm Springs</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325957</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Palm_Springs-poster.jpg" alt="Palm Springs poster" /><br/><br/><a href="https://www.imdb.com/title/tt9484998/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Over Your Dead Body</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325956</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Over_Your_Dead_Body-poster.jpg" alt="Over Your Dead Body poster" /><br/><br/><a href="https://www.imdb.com/title/tt34685692/">View on IMDb</a>]]></description>
@@ -104,31 +129,6 @@
       <title>The Godfather The Complete Epic 1901-1959</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324357</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Godfather_The_Complete_Epic_1901-1959-poster.jpg" alt="The Godfather The Complete Epic 1901-1959 poster" />]]></description>
-    </item>
-    <item>
-      <title>RKO 281</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324294</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/RKO_281-poster.jpg" alt="RKO 281 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120801/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Player</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324284</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Player-poster.jpg" alt="The Player poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105151/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sunset Boulevard</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324271</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sunset_Boulevard-poster.jpg" alt="Sunset Boulevard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0043014/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Enigma of Kaspar Hauser</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324267</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Enigma_of_Kaspar_Hauser-poster.jpg" alt="The Enigma of Kaspar Hauser poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071691/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nine Days</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324251</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nine_Days-poster.jpg" alt="Nine Days poster" /><br/><br/><a href="https://www.imdb.com/title/tt10451852/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
