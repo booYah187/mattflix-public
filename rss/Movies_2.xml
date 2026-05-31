@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Iron Lung</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325988</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Lung-poster.jpg" alt="Iron Lung poster" /><br/><br/><a href="https://www.imdb.com/title/tt27564844/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Auto Focus</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325978</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Auto_Focus-poster.jpg" alt="Auto Focus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0298744/">View on IMDb</a>]]></description>
@@ -27,7 +32,7 @@
     </item>
     <item>
       <title>Palm Springs</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325957</link>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325986</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Palm_Springs-poster.jpg" alt="Palm Springs poster" /><br/><br/><a href="https://www.imdb.com/title/tt9484998/">View on IMDb</a>]]></description>
     </item>
     <item>
@@ -124,11 +129,6 @@
       <title>Among Wolves</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324567</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Among_Wolves-poster.jpg" alt="Among Wolves poster" /><br/><br/><a href="https://www.imdb.com/title/tt1417582/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Godfather The Complete Epic 1901-1959</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324357</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Godfather_The_Complete_Epic_1901-1959-poster.jpg" alt="The Godfather The Complete Epic 1901-1959 poster" />]]></description>
     </item>
   </channel>
 </rss>
