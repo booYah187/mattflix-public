@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Penguin</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326043</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Penguin-poster.jpg" alt="The Penguin poster" /><br/><br/><a href="https://www.imdb.com/title/tt15435876/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Spider-Noir</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325994</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Noir-poster.jpg" alt="Spider-Noir poster" /><br/><br/><a href="https://www.imdb.com/title/tt30460310/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dark</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325816</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark-poster.jpg" alt="Dark poster" /><br/><br/><a href="https://www.imdb.com/title/tt5753856/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Documentary Now!</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321971</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Documentary_Now!-poster.jpg" alt="Documentary Now! poster" /><br/><br/><a href="https://www.imdb.com/title/tt4677934/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Broadchurch</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321875</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Broadchurch-poster.jpg" alt="Broadchurch poster" /><br/><br/><a href="https://www.imdb.com/title/tt2249364/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>I, Claudius</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321778</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I,_Claudius-poster.jpg" alt="I, Claudius poster" /><br/><br/><a href="https://www.imdb.com/title/tt0074006/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

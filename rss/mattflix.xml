@@ -6,14 +6,19 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Penguin</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326043</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Penguin-poster.jpg" alt="The Penguin poster" /><br/><br/><a href="https://www.imdb.com/title/tt15435876/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Spider-Noir</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325994</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Noir-poster.jpg" alt="Spider-Noir poster" /><br/><br/><a href="https://www.imdb.com/title/tt30460310/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Iron Lung</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325988</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Lung-poster.jpg" alt="Iron Lung poster" /><br/><br/><a href="https://www.imdb.com/title/tt27564844/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dave Attell: Captain Miserable</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325987</link>
-      <description><![CDATA[Library: Stand-up<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dave_Attell_Captain_Miserable-poster.jpg" alt="Dave Attell: Captain Miserable poster" /><br/><br/><a href="https://www.imdb.com/title/tt1151813/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Auto Focus</title>
@@ -499,11 +504,6 @@
       <title>The Fabelmans</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323169</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fabelmans-poster.jpg" alt="The Fabelmans poster" /><br/><br/><a href="https://www.imdb.com/title/tt14208870/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sideways</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323168</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sideways-poster.jpg" alt="Sideways poster" /><br/><br/><a href="https://www.imdb.com/title/tt0375063/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
