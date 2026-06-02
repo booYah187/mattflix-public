@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Lie to Me</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326324</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lie_to_Me-poster.jpg" alt="Lie to Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt1235099/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Penguin</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326043</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Penguin-poster.jpg" alt="The Penguin poster" /><br/><br/><a href="https://www.imdb.com/title/tt15435876/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Rehearsal</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322037</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rehearsal-poster.jpg" alt="The Rehearsal poster" /><br/><br/><a href="https://www.imdb.com/title/tt10802170/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Documentary Now!</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321971</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Documentary_Now!-poster.jpg" alt="Documentary Now! poster" /><br/><br/><a href="https://www.imdb.com/title/tt4677934/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,41 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Lie to Me</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326324</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lie_to_Me-poster.jpg" alt="Lie to Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt1235099/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Swimfan</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326317</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swimfan-poster.jpg" alt="Swimfan poster" /><br/><br/><a href="https://www.imdb.com/title/tt0283026/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Remember the Titans</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326279</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Remember_the_Titans-poster.jpg" alt="Remember the Titans poster" /><br/><br/><a href="https://www.imdb.com/title/tt0210945/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Steven Universe: The Movie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326276</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Steven_Universe_The_Movie-poster.jpg" alt="Steven Universe: The Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt10515852/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Pianist</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326250</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Pianist-poster.jpg" alt="The Pianist poster" /><br/><br/><a href="https://www.imdb.com/title/tt0253474/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Narc</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326247</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Narc-poster.jpg" alt="Narc poster" /><br/><br/><a href="https://www.imdb.com/title/tt0272207/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Thoroughbreds</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326230</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thoroughbreds-poster.jpg" alt="Thoroughbreds poster" /><br/><br/><a href="https://www.imdb.com/title/tt5649108/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Penguin</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326043</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Penguin-poster.jpg" alt="The Penguin poster" /><br/><br/><a href="https://www.imdb.com/title/tt15435876/">View on IMDb</a>]]></description>
@@ -469,41 +504,6 @@
       <title>Michael</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323210</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Michael-poster.jpg" alt="Michael poster" /><br/><br/><a href="https://www.imdb.com/title/tt11378946/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Two Men in Town</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323205</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Two_Men_in_Town-poster.jpg" alt="Two Men in Town poster" /><br/><br/><a href="https://www.imdb.com/title/tt2258285/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>White Irish Drinkers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323196</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/White_Irish_Drinkers-poster.jpg" alt="White Irish Drinkers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1550524/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Election</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323195</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Election-poster.jpg" alt="Election poster" /><br/><br/><a href="https://www.imdb.com/title/tt0126886/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Little Children</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323193</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Little_Children-poster.jpg" alt="Little Children poster" /><br/><br/><a href="https://www.imdb.com/title/tt0404203/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Superhot: The Spicy World of Pepper People</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323171</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Superhot_The_Spicy_World_of_Pepper_People-poster.jpg" alt="Superhot: The Spicy World of Pepper People poster" /><br/><br/><a href="https://www.imdb.com/title/tt29740695/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Citizen Ruth</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323170</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Citizen_Ruth-poster.jpg" alt="Citizen Ruth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115906/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Fabelmans</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323169</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fabelmans-poster.jpg" alt="The Fabelmans poster" /><br/><br/><a href="https://www.imdb.com/title/tt14208870/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

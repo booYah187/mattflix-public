@@ -6,6 +6,31 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Swimfan</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326317</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swimfan-poster.jpg" alt="Swimfan poster" /><br/><br/><a href="https://www.imdb.com/title/tt0283026/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Remember the Titans</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326279</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Remember_the_Titans-poster.jpg" alt="Remember the Titans poster" /><br/><br/><a href="https://www.imdb.com/title/tt0210945/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Pianist</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326250</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Pianist-poster.jpg" alt="The Pianist poster" /><br/><br/><a href="https://www.imdb.com/title/tt0253474/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Narc</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326247</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Narc-poster.jpg" alt="Narc poster" /><br/><br/><a href="https://www.imdb.com/title/tt0272207/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Thoroughbreds</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326230</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thoroughbreds-poster.jpg" alt="Thoroughbreds poster" /><br/><br/><a href="https://www.imdb.com/title/tt5649108/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Iron Lung</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325988</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Lung-poster.jpg" alt="Iron Lung poster" /><br/><br/><a href="https://www.imdb.com/title/tt27564844/">View on IMDb</a>]]></description>
@@ -104,31 +129,6 @@
       <title>The Station Agent</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324814</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Station_Agent-poster.jpg" alt="The Station Agent poster" /><br/><br/><a href="https://www.imdb.com/title/tt0340377/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Finding Steve McQueen</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324804</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Finding_Steve_McQueen-poster.jpg" alt="Finding Steve McQueen poster" /><br/><br/><a href="https://www.imdb.com/title/tt6032328/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mortal Kombat II</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324800</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mortal_Kombat_II-poster.jpg" alt="Mortal Kombat II poster" /><br/><br/><a href="https://www.imdb.com/title/tt17490712/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Normal</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324569</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Normal-poster.jpg" alt="Normal poster" /><br/><br/><a href="https://www.imdb.com/title/tt31195136/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Little Monsters</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324568</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Little_Monsters-poster.jpg" alt="Little Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt7390588/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Among Wolves</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324567</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Among_Wolves-poster.jpg" alt="Among Wolves poster" /><br/><br/><a href="https://www.imdb.com/title/tt1417582/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

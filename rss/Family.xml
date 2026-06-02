@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Steven Universe: The Movie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326276</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Steven_Universe_The_Movie-poster.jpg" alt="Steven Universe: The Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt10515852/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Ugly Dachshund</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324854</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Ugly_Dachshund-poster.jpg" alt="The Ugly Dachshund poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061135/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Adult Swim's The Elephant</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314472</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adult_Swim's_The_Elephant-poster.jpg" alt="Adult Swim's The Elephant poster" /><br/><br/><a href="https://www.imdb.com/title/tt39088896/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Too Cute</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=314369</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Too_Cute-poster.jpg" alt="Too Cute poster" /><br/><br/><a href="https://www.imdb.com/title/tt2197519/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
