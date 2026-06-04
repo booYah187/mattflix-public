@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Bowfinger</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326720</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bowfinger-poster.jpg" alt="Bowfinger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0131325/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wet Hot American Summer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326719</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wet_Hot_American_Summer-poster.jpg" alt="Wet Hot American Summer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0243655/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Death Becomes Her</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326715</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_Becomes_Her-poster.jpg" alt="Death Becomes Her poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104070/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Transformers: Rise of the Beasts</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323645</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Rise_of_the_Beasts-poster.jpg" alt="Transformers: Rise of the Beasts poster" /><br/><br/><a href="https://www.imdb.com/title/tt5090568/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bumblebee</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323638</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bumblebee-poster.jpg" alt="Bumblebee poster" /><br/><br/><a href="https://www.imdb.com/title/tt4701182/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Transformers: The Last Knight</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323626</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_The_Last_Knight-poster.jpg" alt="Transformers: The Last Knight poster" /><br/><br/><a href="https://www.imdb.com/title/tt3371366/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

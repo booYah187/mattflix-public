@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bowfinger</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326720</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bowfinger-poster.jpg" alt="Bowfinger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0131325/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wet Hot American Summer</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326719</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wet_Hot_American_Summer-poster.jpg" alt="Wet Hot American Summer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0243655/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Death Becomes Her</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326715</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_Becomes_Her-poster.jpg" alt="Death Becomes Her poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104070/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>One Spoon of Chocolate</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326552</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Spoon_of_Chocolate-poster.jpg" alt="One Spoon of Chocolate poster" /><br/><br/><a href="https://www.imdb.com/title/tt32192973/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hokum</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326548</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hokum-poster.jpg" alt="Hokum poster" /><br/><br/><a href="https://www.imdb.com/title/tt35672862/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Swimfan</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326317</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swimfan-poster.jpg" alt="Swimfan poster" /><br/><br/><a href="https://www.imdb.com/title/tt0283026/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
