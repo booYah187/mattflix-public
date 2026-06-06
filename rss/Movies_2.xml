@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bubble Boy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326735</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bubble_Boy-poster.jpg" alt="Bubble Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0258470/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bowfinger</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326720</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bowfinger-poster.jpg" alt="Bowfinger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0131325/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Equalizer</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326577</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Equalizer-poster.jpg" alt="The Equalizer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0455944/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>One Spoon of Chocolate</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326552</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Spoon_of_Chocolate-poster.jpg" alt="One Spoon of Chocolate poster" /><br/><br/><a href="https://www.imdb.com/title/tt32192973/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Bubble Boy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326735</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bubble_Boy-poster.jpg" alt="Bubble Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0258470/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bowfinger</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326720</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bowfinger-poster.jpg" alt="Bowfinger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0131325/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>In the Company of Men</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323650</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Company_of_Men-poster.jpg" alt="In the Company of Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119361/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Transformers: Rise of the Beasts</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323645</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Rise_of_the_Beasts-poster.jpg" alt="Transformers: Rise of the Beasts poster" /><br/><br/><a href="https://www.imdb.com/title/tt5090568/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
