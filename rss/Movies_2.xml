@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Here Are the Young Men</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326763</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Here_Are_the_Young_Men-poster.jpg" alt="Here Are the Young Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt5598868/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Scum</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326747</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scum-poster.jpg" alt="Scum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079871/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Empty Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326739</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Empty_Man-poster.jpg" alt="The Empty Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt5867314/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Marrowbone</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326738</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marrowbone-poster.jpg" alt="Marrowbone poster" /><br/><br/><a href="https://www.imdb.com/title/tt5886440/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bubble Boy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326735</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bubble_Boy-poster.jpg" alt="Bubble Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0258470/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>The Illusionist</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326595</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Illusionist-poster.jpg" alt="The Illusionist poster" /><br/><br/><a href="https://www.imdb.com/title/tt0443543/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Adaptation.</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326586</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adaptation.-poster.jpg" alt="Adaptation. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268126/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Parenthood</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326585</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Parenthood-poster.jpg" alt="Parenthood poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098067/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Equalizer 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326583</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Equalizer_2-poster.jpg" alt="The Equalizer 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt3766354/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Equalizer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326577</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Equalizer-poster.jpg" alt="The Equalizer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0455944/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

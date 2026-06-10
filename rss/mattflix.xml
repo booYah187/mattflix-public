@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Here Are the Young Men</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326763</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Here_Are_the_Young_Men-poster.jpg" alt="Here Are the Young Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt5598868/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Scum</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326747</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scum-poster.jpg" alt="Scum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079871/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Empty Man</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326739</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Empty_Man-poster.jpg" alt="The Empty Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt5867314/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Marrowbone</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326738</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marrowbone-poster.jpg" alt="Marrowbone poster" /><br/><br/><a href="https://www.imdb.com/title/tt5886440/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bubble Boy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326735</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bubble_Boy-poster.jpg" alt="Bubble Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0258470/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>The Thing About Pam</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324149</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing_About_Pam-poster.jpg" alt="The Thing About Pam poster" /><br/><br/><a href="https://www.imdb.com/title/tt13984270/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>How It's Made</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323770</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/How_It's_Made-poster.jpg" alt="How It's Made poster" /><br/><br/><a href="https://www.imdb.com/title/tt0835010/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Kid Stays in the Picture</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323762</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kid_Stays_in_the_Picture-poster.jpg" alt="The Kid Stays in the Picture poster" /><br/><br/><a href="https://www.imdb.com/title/tt0303353/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Little Rascals</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323652</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Little_Rascals-poster.jpg" alt="The Little Rascals poster" /><br/><br/><a href="https://www.imdb.com/title/tt36591593/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>In the Company of Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323650</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Company_of_Men-poster.jpg" alt="In the Company of Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119361/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
