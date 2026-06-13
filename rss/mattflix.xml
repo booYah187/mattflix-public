@@ -11,11 +11,6 @@
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Joshy-poster.jpg" alt="Joshy poster" /><br/><br/><a href="https://www.imdb.com/title/tt4661798/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>Who's Watching</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326771</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Who's_Watching-poster.jpg" alt="Who's Watching poster" /><br/><br/><a href="https://www.imdb.com/title/tt33372484/">View on IMDb</a>]]></description>
-    </item>
-    <item>
       <title>Here Are the Young Men</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326763</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Here_Are_the_Young_Men-poster.jpg" alt="Here Are the Young Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt5598868/">View on IMDb</a>]]></description>
@@ -504,6 +499,11 @@
       <title>Sleeping Dog</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324212</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleeping_Dog-poster.jpg" alt="Sleeping Dog poster" /><br/><br/><a href="https://www.imdb.com/title/tt41157050/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lee Cronin's The Mummy</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324210</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lee_Cronin's_The_Mummy-poster.jpg" alt="Lee Cronin's The Mummy poster" /><br/><br/><a href="https://www.imdb.com/title/tt32612507/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
