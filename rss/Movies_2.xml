@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Rush Hour 3</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326794</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour_3-poster.jpg" alt="Rush Hour 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0293564/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rush Hour 2</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326791</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour_2-poster.jpg" alt="Rush Hour 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0266915/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rush Hour</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326782</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour-poster.jpg" alt="Rush Hour poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120812/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Joshy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326779</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Joshy-poster.jpg" alt="Joshy poster" /><br/><br/><a href="https://www.imdb.com/title/tt4661798/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Dirty Harry</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326634</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dirty_Harry-poster.jpg" alt="Dirty Harry poster" /><br/><br/><a href="https://www.imdb.com/title/tt0066999/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Big Trouble in Little China</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326633</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Big_Trouble_in_Little_China-poster.jpg" alt="Big Trouble in Little China poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090728/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dick Tracy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326626</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dick_Tracy-poster.jpg" alt="Dick Tracy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099422/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Punisher</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326607</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Punisher-poster.jpg" alt="The Punisher poster" /><br/><br/><a href="https://www.imdb.com/title/tt0330793/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

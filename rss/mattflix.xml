@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Underland</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326798</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underland-poster.jpg" alt="Underland poster" /><br/><br/><a href="https://www.imdb.com/title/tt36590141/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rush Hour 3</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326794</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour_3-poster.jpg" alt="Rush Hour 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0293564/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rush Hour 2</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326791</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour_2-poster.jpg" alt="Rush Hour 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0266915/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rush Hour</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326782</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour-poster.jpg" alt="Rush Hour poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120812/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Joshy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326779</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Joshy-poster.jpg" alt="Joshy poster" /><br/><br/><a href="https://www.imdb.com/title/tt4661798/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>The Punisher: One Last Kill</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324230</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Punisher_One_Last_Kill-poster.jpg" alt="The Punisher: One Last Kill poster" /><br/><br/><a href="https://www.imdb.com/title/tt36042156/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324225</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Life-poster.jpg" alt="Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt5442430/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Vision Quest</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324223</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Vision_Quest-poster.jpg" alt="Vision Quest poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090270/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sleeping Dog</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324212</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleeping_Dog-poster.jpg" alt="Sleeping Dog poster" /><br/><br/><a href="https://www.imdb.com/title/tt41157050/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lee Cronin's The Mummy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324210</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lee_Cronin's_The_Mummy-poster.jpg" alt="Lee Cronin's The Mummy poster" /><br/><br/><a href="https://www.imdb.com/title/tt32612507/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
