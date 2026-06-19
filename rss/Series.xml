@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Widow's Bay</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326912</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Widow's_Bay-poster.jpg" alt="Widow's Bay poster" /><br/><br/><a href="https://www.imdb.com/title/tt33332385/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Lie to Me</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326324</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lie_to_Me-poster.jpg" alt="Lie to Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt1235099/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Happy Valley</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322509</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Happy_Valley-poster.jpg" alt="Happy Valley poster" /><br/><br/><a href="https://www.imdb.com/title/tt3428912/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Rehearsal</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322037</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rehearsal-poster.jpg" alt="The Rehearsal poster" /><br/><br/><a href="https://www.imdb.com/title/tt10802170/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

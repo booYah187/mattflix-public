@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Pink Cadillac</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326979</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pink_Cadillac-poster.jpg" alt="Pink Cadillac poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098097/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Widow's Bay</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326912</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Widow's_Bay-poster.jpg" alt="Widow's Bay poster" /><br/><br/><a href="https://www.imdb.com/title/tt33332385/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Perfect Getaway</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326909</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Perfect_Getaway-poster.jpg" alt="A Perfect Getaway poster" /><br/><br/><a href="https://www.imdb.com/title/tt0971209/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Normal</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324569</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Normal-poster.jpg" alt="Normal poster" /><br/><br/><a href="https://www.imdb.com/title/tt31195136/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Little Monsters</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324568</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Little_Monsters-poster.jpg" alt="Little Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt7390588/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Among Wolves</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324567</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Among_Wolves-poster.jpg" alt="Among Wolves poster" /><br/><br/><a href="https://www.imdb.com/title/tt1417582/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
