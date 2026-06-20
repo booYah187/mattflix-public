@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Red Planet</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326982</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Planet-poster.jpg" alt="Red Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0199753/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Pressure</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326981</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pressure-poster.jpg" alt="Pressure poster" /><br/><br/><a href="https://www.imdb.com/title/tt32547691/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Pink Cadillac</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326979</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pink_Cadillac-poster.jpg" alt="Pink Cadillac poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098097/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Marrowbone</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326738</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marrowbone-poster.jpg" alt="Marrowbone poster" /><br/><br/><a href="https://www.imdb.com/title/tt5886440/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bubble Boy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326735</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bubble_Boy-poster.jpg" alt="Bubble Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0258470/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bowfinger</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326720</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bowfinger-poster.jpg" alt="Bowfinger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0131325/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

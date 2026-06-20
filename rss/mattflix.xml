@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Red Planet</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326982</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Planet-poster.jpg" alt="Red Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0199753/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Pressure</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326981</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pressure-poster.jpg" alt="Pressure poster" /><br/><br/><a href="https://www.imdb.com/title/tt32547691/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Pink Cadillac</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326979</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pink_Cadillac-poster.jpg" alt="Pink Cadillac poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098097/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Speed Racer</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324638</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Speed_Racer-poster.jpg" alt="Speed Racer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061300/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324634</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Power_of_Grayskull_The_Definitive_History_of_He-Man_and_the_Masters_of_the_Universe-poster.jpg" alt="Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt5338774/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Normal</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324569</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Normal-poster.jpg" alt="Normal poster" /><br/><br/><a href="https://www.imdb.com/title/tt31195136/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
