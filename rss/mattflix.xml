@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Nirvanna the Band the Show the Movie</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327006</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nirvanna_the_Band_the_Show_the_Movie-poster.jpg" alt="Nirvanna the Band the Show the Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt35522483/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Journeyman</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327001</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Journeyman-poster.jpg" alt="Journeyman poster" /><br/><br/><a href="https://www.imdb.com/title/tt5314118/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Andre the Giant</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326985</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Andre_the_Giant-poster.jpg" alt="Andre the Giant poster" /><br/><br/><a href="https://www.imdb.com/title/tt6543420/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Red Planet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326982</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Planet-poster.jpg" alt="Red Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0199753/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Justified: City Primeval</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324773</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified_City_Primeval-poster.jpg" alt="Justified: City Primeval poster" /><br/><br/><a href="https://www.imdb.com/title/tt14263564/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Harlan County U.S.A.</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324762</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harlan_County_U.S.A.-poster.jpg" alt="Harlan County U.S.A. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0074605/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Legend of Zelda</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324639</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Legend_of_Zelda-poster.jpg" alt="The Legend of Zelda poster" /><br/><br/><a href="https://www.imdb.com/title/tt0832330/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Speed Racer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324638</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Speed_Racer-poster.jpg" alt="Speed Racer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061300/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
