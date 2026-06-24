@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Starman</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327013</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Starman-poster.jpg" alt="Starman poster" /><br/><br/><a href="https://www.imdb.com/title/tt21220632/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Andre the Giant</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326985</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Andre_the_Giant-poster.jpg" alt="Andre the Giant poster" /><br/><br/><a href="https://www.imdb.com/title/tt6543420/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>A Gorilla Story: Told by David Attenborough</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320365</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Gorilla_Story_Told_by_David_Attenborough-poster.jpg" alt="A Gorilla Story: Told by David Attenborough poster" /><br/><br/><a href="https://www.imdb.com/title/tt39314348/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Running with the Devil: The Wild World of John McAfee </title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=319424</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Running_with_the_Devil_The_Wild_World_of_John_McAfee_-poster.jpg" alt="Running with the Devil: The Wild World of John McAfee  poster" /><br/><br/><a href="https://www.imdb.com/title/tt21379694/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

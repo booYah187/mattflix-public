@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Malibu's Most Wanted</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327021</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Malibu's_Most_Wanted-poster.jpg" alt="Malibu's Most Wanted poster" /><br/><br/><a href="https://www.imdb.com/title/tt0328099/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Starman</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327013</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Starman-poster.jpg" alt="Starman poster" /><br/><br/><a href="https://www.imdb.com/title/tt21220632/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Last Days on Mars</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327011</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Days_on_Mars-poster.jpg" alt="The Last Days on Mars poster" /><br/><br/><a href="https://www.imdb.com/title/tt1709143/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Europa Report</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327008</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Europa_Report-poster.jpg" alt="Europa Report poster" /><br/><br/><a href="https://www.imdb.com/title/tt2051879/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Nirvanna the Band the Show the Movie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327006</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nirvanna_the_Band_the_Show_the_Movie-poster.jpg" alt="Nirvanna the Band the Show the Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt35522483/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Something Very Bad Is Going To Happen</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324818</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_Very_Bad_Is_Going_To_Happen-poster.jpg" alt="Something Very Bad Is Going To Happen poster" /><br/><br/><a href="https://www.imdb.com/title/tt32937780/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Station Agent</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324814</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Station_Agent-poster.jpg" alt="The Station Agent poster" /><br/><br/><a href="https://www.imdb.com/title/tt0340377/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Finding Steve McQueen</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324804</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Finding_Steve_McQueen-poster.jpg" alt="Finding Steve McQueen poster" /><br/><br/><a href="https://www.imdb.com/title/tt6032328/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Mortal Kombat II</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324800</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mortal_Kombat_II-poster.jpg" alt="Mortal Kombat II poster" /><br/><br/><a href="https://www.imdb.com/title/tt17490712/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Justified: City Primeval</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324773</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified_City_Primeval-poster.jpg" alt="Justified: City Primeval poster" /><br/><br/><a href="https://www.imdb.com/title/tt14263564/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

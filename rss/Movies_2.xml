@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Malibu's Most Wanted</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327021</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Malibu's_Most_Wanted-poster.jpg" alt="Malibu's Most Wanted poster" /><br/><br/><a href="https://www.imdb.com/title/tt0328099/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Last Days on Mars</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327011</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Days_on_Mars-poster.jpg" alt="The Last Days on Mars poster" /><br/><br/><a href="https://www.imdb.com/title/tt1709143/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Europa Report</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327008</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Europa_Report-poster.jpg" alt="Europa Report poster" /><br/><br/><a href="https://www.imdb.com/title/tt2051879/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Nirvanna the Band the Show the Movie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327006</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nirvanna_the_Band_the_Show_the_Movie-poster.jpg" alt="Nirvanna the Band the Show the Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt35522483/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Rush Hour</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326782</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour-poster.jpg" alt="Rush Hour poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120812/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Joshy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326779</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Joshy-poster.jpg" alt="Joshy poster" /><br/><br/><a href="https://www.imdb.com/title/tt4661798/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Here Are the Young Men</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326763</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Here_Are_the_Young_Men-poster.jpg" alt="Here Are the Young Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt5598868/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Scum</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326747</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scum-poster.jpg" alt="Scum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079871/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
