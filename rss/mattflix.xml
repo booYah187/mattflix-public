@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Black Sheep</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327041</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Sheep-poster.jpg" alt="Black Sheep poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115697/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Van Wilder</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327036</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Van_Wilder-poster.jpg" alt="Van Wilder poster" /><br/><br/><a href="https://www.imdb.com/title/tt0283111/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Malibu's Most Wanted</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327021</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Malibu's_Most_Wanted-poster.jpg" alt="Malibu's Most Wanted poster" /><br/><br/><a href="https://www.imdb.com/title/tt0328099/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Casablanca</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324865</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Casablanca-poster.jpg" alt="Casablanca poster" /><br/><br/><a href="https://www.imdb.com/title/tt0034583/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Ugly Dachshund</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324854</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Ugly_Dachshund-poster.jpg" alt="The Ugly Dachshund poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061135/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Something Very Bad Is Going To Happen</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324818</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_Very_Bad_Is_Going_To_Happen-poster.jpg" alt="Something Very Bad Is Going To Happen poster" /><br/><br/><a href="https://www.imdb.com/title/tt32937780/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Black Sheep</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327041</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Sheep-poster.jpg" alt="Black Sheep poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115697/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Van Wilder</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327036</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Van_Wilder-poster.jpg" alt="Van Wilder poster" /><br/><br/><a href="https://www.imdb.com/title/tt0283111/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Malibu's Most Wanted</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327021</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Malibu's_Most_Wanted-poster.jpg" alt="Malibu's Most Wanted poster" /><br/><br/><a href="https://www.imdb.com/title/tt0328099/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Rush Hour 3</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326794</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour_3-poster.jpg" alt="Rush Hour 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0293564/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rush Hour 2</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326791</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour_2-poster.jpg" alt="Rush Hour 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0266915/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rush Hour</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326782</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour-poster.jpg" alt="Rush Hour poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120812/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
