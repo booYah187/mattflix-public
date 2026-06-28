@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Sherlock</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327044</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sherlock-poster.jpg" alt="Sherlock poster" /><br/><br/><a href="https://www.imdb.com/title/tt1475582/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Black Sheep</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327041</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Sheep-poster.jpg" alt="Black Sheep poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115697/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Lonesome Jim</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324876</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lonesome_Jim-poster.jpg" alt="Lonesome Jim poster" /><br/><br/><a href="https://www.imdb.com/title/tt0385056/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Casablanca</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324865</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Casablanca-poster.jpg" alt="Casablanca poster" /><br/><br/><a href="https://www.imdb.com/title/tt0034583/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
