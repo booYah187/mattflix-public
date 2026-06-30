@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Obsession</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327174</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Obsession-poster.jpg" alt="Obsession poster" /><br/><br/><a href="https://www.imdb.com/title/tt37287335/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Black Sheep</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327041</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Sheep-poster.jpg" alt="Black Sheep poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115697/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Tales from the Crypt: Demon Knight</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326823</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tales_from_the_Crypt_Demon_Knight-poster.jpg" alt="Tales from the Crypt: Demon Knight poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114608/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rush Hour 3</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326794</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rush_Hour_3-poster.jpg" alt="Rush Hour 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0293564/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

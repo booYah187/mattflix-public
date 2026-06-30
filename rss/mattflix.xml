@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>A Double Life</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327191</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Double_Life-poster.jpg" alt="A Double Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt16152130/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Obsession</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327174</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Obsession-poster.jpg" alt="Obsession poster" /><br/><br/><a href="https://www.imdb.com/title/tt37287335/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sherlock</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327044</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sherlock-poster.jpg" alt="Sherlock poster" /><br/><br/><a href="https://www.imdb.com/title/tt1475582/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>DAVE</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324912</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DAVE-poster.jpg" alt="DAVE poster" /><br/><br/><a href="https://www.imdb.com/title/tt8531222/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>One Last Deal</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324878</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Last_Deal-poster.jpg" alt="One Last Deal poster" /><br/><br/><a href="https://www.imdb.com/title/tt35566934/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lonesome Jim</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324876</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lonesome_Jim-poster.jpg" alt="Lonesome Jim poster" /><br/><br/><a href="https://www.imdb.com/title/tt0385056/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
