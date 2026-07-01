@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Maternal Instinct</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327214</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Maternal_Instinct-poster.jpg" alt="Maternal Instinct poster" /><br/><br/><a href="https://www.imdb.com/title/tt42863533/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Double Life</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327191</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Double_Life-poster.jpg" alt="A Double Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt16152130/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Hansen Vs. Predator</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320518</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hansen_Vs._Predator-poster.jpg" alt="Hansen Vs. Predator poster" />]]></description>
-    </item>
-    <item>
-      <title>To Catch a Predator</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320517</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/To_Catch_a_Predator-poster.jpg" alt="To Catch a Predator poster" /><br/><br/><a href="https://www.imdb.com/title/tt1125489/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

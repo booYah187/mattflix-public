@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Angus</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327213</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Angus-poster.jpg" alt="Angus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112368/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sinister</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327209</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sinister-poster.jpg" alt="Sinister poster" /><br/><br/><a href="https://www.imdb.com/title/tt1922777/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Identity</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327195</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Identity-poster.jpg" alt="Identity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0309698/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Hardcore</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327194</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hardcore-poster.jpg" alt="Hardcore poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079271/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Obsession</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327174</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Obsession-poster.jpg" alt="Obsession poster" /><br/><br/><a href="https://www.imdb.com/title/tt37287335/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Summer of 84</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326857</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Summer_of_84-poster.jpg" alt="Summer of 84 poster" /><br/><br/><a href="https://www.imdb.com/title/tt5774450/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Rocketeer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326841</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rocketeer-poster.jpg" alt="The Rocketeer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102803/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dragonslayer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326834</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dragonslayer-poster.jpg" alt="Dragonslayer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082288/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ladyhawke</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326825</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ladyhawke-poster.jpg" alt="Ladyhawke poster" /><br/><br/><a href="https://www.imdb.com/title/tt0089457/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tales from the Crypt: Demon Knight</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326823</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tales_from_the_Crypt_Demon_Knight-poster.jpg" alt="Tales from the Crypt: Demon Knight poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114608/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

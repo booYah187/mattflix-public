@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Maternal Instinct</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327214</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Maternal_Instinct-poster.jpg" alt="Maternal Instinct poster" /><br/><br/><a href="https://www.imdb.com/title/tt42863533/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Angus</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327213</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Angus-poster.jpg" alt="Angus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112368/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sinister</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327209</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sinister-poster.jpg" alt="Sinister poster" /><br/><br/><a href="https://www.imdb.com/title/tt1922777/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Identity</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327195</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Identity-poster.jpg" alt="Identity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0309698/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Hardcore</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327194</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hardcore-poster.jpg" alt="Hardcore poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079271/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Double Life</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327191</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Double_Life-poster.jpg" alt="A Double Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt16152130/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>The Doors</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325179</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Doors-poster.jpg" alt="The Doors poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101761/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Disclosure</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325177</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Disclosure-poster.jpg" alt="Disclosure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109635/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Strange Brew</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325117</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Strange_Brew-poster.jpg" alt="Strange Brew poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086373/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The King of Comedy</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325116</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_King_of_Comedy-poster.jpg" alt="The King of Comedy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085794/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Amadeus</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325104</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Amadeus-poster.jpg" alt="Amadeus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086879/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>DAVE</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324912</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/DAVE-poster.jpg" alt="DAVE poster" /><br/><br/><a href="https://www.imdb.com/title/tt8531222/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
