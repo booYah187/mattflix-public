@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Screamers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327229</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Screamers-poster.jpg" alt="Screamers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114367/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Duel</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327219</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Duel-poster.jpg" alt="Duel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0067023/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Guv'nor</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327217</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Guv'nor-poster.jpg" alt="The Guv'nor poster" /><br/><br/><a href="https://www.imdb.com/title/tt5460986/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Maternal Instinct</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327214</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Maternal_Instinct-poster.jpg" alt="Maternal Instinct poster" /><br/><br/><a href="https://www.imdb.com/title/tt42863533/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Bird</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325194</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bird-poster.jpg" alt="Bird poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094747/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>I'm Gonna Git You Sucka</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325191</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/I'm_Gonna_Git_You_Sucka-poster.jpg" alt="I'm Gonna Git You Sucka poster" /><br/><br/><a href="https://www.imdb.com/title/tt0095348/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Hebrew Hammer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325180</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Hebrew_Hammer-poster.jpg" alt="The Hebrew Hammer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0317640/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Doors</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325179</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Doors-poster.jpg" alt="The Doors poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101761/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

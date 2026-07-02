@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Screamers</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327229</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Screamers-poster.jpg" alt="Screamers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114367/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Duel</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327219</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Duel-poster.jpg" alt="Duel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0067023/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Angus</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327213</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Angus-poster.jpg" alt="Angus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112368/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Bad Boys</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326882</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys-poster.jpg" alt="Bad Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112442/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Minority Report</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326858</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minority_Report-poster.jpg" alt="Minority Report poster" /><br/><br/><a href="https://www.imdb.com/title/tt0181689/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Summer of 84</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326857</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Summer_of_84-poster.jpg" alt="Summer of 84 poster" /><br/><br/><a href="https://www.imdb.com/title/tt5774450/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
