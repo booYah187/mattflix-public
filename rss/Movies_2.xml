@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Officer Down</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327249</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Officer_Down-poster.jpg" alt="Officer Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt1925479/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Screamers</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327229</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Screamers-poster.jpg" alt="Screamers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114367/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Bad Boys II</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326887</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys_II-poster.jpg" alt="Bad Boys II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0172156/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Boys</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326882</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys-poster.jpg" alt="Bad Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112442/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
