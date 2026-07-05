@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>National Treasure</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327269</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/National_Treasure-poster.jpg" alt="National Treasure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0368891/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Withnail &amp; I</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327254</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Withnail_&amp;_I-poster.jpg" alt="Withnail &amp; I poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094336/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dead &amp; Buried</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327253</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_&amp;_Buried-poster.jpg" alt="Dead &amp; Buried poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082242/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Officer Down</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327249</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Officer_Down-poster.jpg" alt="Officer Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt1925479/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>1899</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325377</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/1899-poster.jpg" alt="1899 poster" /><br/><br/><a href="https://www.imdb.com/title/tt9319668/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Burn Notice</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325201</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Burn_Notice-poster.jpg" alt="Burn Notice poster" /><br/><br/><a href="https://www.imdb.com/title/tt0810788/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Depth Perception</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325196</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Depth_Perception-poster.jpg" alt="Depth Perception poster" /><br/><br/><a href="https://www.imdb.com/title/tt7738490/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tiptoes</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325195</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tiptoes-poster.jpg" alt="Tiptoes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0316768/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

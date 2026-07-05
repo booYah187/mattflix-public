@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>National Treasure</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327269</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/National_Treasure-poster.jpg" alt="National Treasure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0368891/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Withnail &amp; I</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327254</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Withnail_&amp;_I-poster.jpg" alt="Withnail &amp; I poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094336/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dead &amp; Buried</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327253</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_&amp;_Buried-poster.jpg" alt="Dead &amp; Buried poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082242/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Officer Down</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327249</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Officer_Down-poster.jpg" alt="Officer Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt1925479/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Ocean's Eleven</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326899</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ocean's_Eleven-poster.jpg" alt="Ocean's Eleven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0240772/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Boys: Ride or Die</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326893</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys_Ride_or_Die-poster.jpg" alt="Bad Boys: Ride or Die poster" /><br/><br/><a href="https://www.imdb.com/title/tt4919268/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Boys: For Life</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326892</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys_For_Life-poster.jpg" alt="Bad Boys: For Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt1502397/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Boys II</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326887</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys_II-poster.jpg" alt="Bad Boys II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0172156/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
