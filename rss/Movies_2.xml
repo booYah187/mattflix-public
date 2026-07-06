@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Dick</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327279</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dick-poster.jpg" alt="Dick poster" /><br/><br/><a href="https://www.imdb.com/title/tt0144168/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>National Treasure</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327269</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/National_Treasure-poster.jpg" alt="National Treasure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0368891/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Ocean's Twelve</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326902</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ocean's_Twelve-poster.jpg" alt="Ocean's Twelve poster" /><br/><br/><a href="https://www.imdb.com/title/tt0349903/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ocean's Eleven</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326899</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ocean's_Eleven-poster.jpg" alt="Ocean's Eleven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0240772/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
