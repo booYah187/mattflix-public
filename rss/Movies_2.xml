@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Citizen X</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327311</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Citizen_X-poster.jpg" alt="Citizen X poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112681/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Sheep Detectives</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327293</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Sheep_Detectives-poster.jpg" alt="The Sheep Detectives poster" /><br/><br/><a href="https://www.imdb.com/title/tt32565993/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dick</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327279</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dick-poster.jpg" alt="Dick poster" /><br/><br/><a href="https://www.imdb.com/title/tt0144168/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>A Perfect Getaway</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326909</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Perfect_Getaway-poster.jpg" alt="A Perfect Getaway poster" /><br/><br/><a href="https://www.imdb.com/title/tt0971209/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ocean's Thirteen</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326903</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ocean's_Thirteen-poster.jpg" alt="Ocean's Thirteen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0496806/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ocean's Twelve</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326902</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ocean's_Twelve-poster.jpg" alt="Ocean's Twelve poster" /><br/><br/><a href="https://www.imdb.com/title/tt0349903/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

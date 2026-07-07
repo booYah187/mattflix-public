@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The North Water</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327321</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_North_Water-poster.jpg" alt="The North Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt7660970/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Take</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327298</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Take-poster.jpg" alt="The Take poster" /><br/><br/><a href="https://www.imdb.com/title/tt1366321/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Midnight Mass</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327281</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Midnight_Mass-poster.jpg" alt="Midnight Mass poster" /><br/><br/><a href="https://www.imdb.com/title/tt10574558/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>You're the Worst</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322617</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/You're_the_Worst-poster.jpg" alt="You're the Worst poster" /><br/><br/><a href="https://www.imdb.com/title/tt3228420/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Man Seeking Woman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322616</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Man_Seeking_Woman-poster.jpg" alt="Man Seeking Woman poster" /><br/><br/><a href="https://www.imdb.com/title/tt4189492/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Terriers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322589</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Terriers-poster.jpg" alt="Terriers poster" /><br/><br/><a href="https://www.imdb.com/title/tt1493239/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
