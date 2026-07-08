@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Furious</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327350</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Furious-poster.jpg" alt="The Furious poster" /><br/><br/><a href="https://www.imdb.com/title/tt33311069/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The North Water</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327321</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_North_Water-poster.jpg" alt="The North Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt7660970/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>The Butterfly Effect</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325974</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Butterfly_Effect-poster.jpg" alt="The Butterfly Effect poster" /><br/><br/><a href="https://www.imdb.com/title/tt0289879/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Quadrophenia</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325962</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Quadrophenia-poster.jpg" alt="Quadrophenia poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079766/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

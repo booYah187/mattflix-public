@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Furious</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327350</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Furious-poster.jpg" alt="The Furious poster" /><br/><br/><a href="https://www.imdb.com/title/tt33311069/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Citizen X</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327311</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Citizen_X-poster.jpg" alt="Citizen X poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112681/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Pink Cadillac</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326979</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pink_Cadillac-poster.jpg" alt="Pink Cadillac poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098097/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Perfect Getaway</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326909</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Perfect_Getaway-poster.jpg" alt="A Perfect Getaway poster" /><br/><br/><a href="https://www.imdb.com/title/tt0971209/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
