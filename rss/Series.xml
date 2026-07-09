@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Listeners</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327424</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Listeners-poster.jpg" alt="The Listeners poster" /><br/><br/><a href="https://www.imdb.com/title/tt31490551/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The North Water</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327321</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_North_Water-poster.jpg" alt="The North Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt7660970/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>American Gothic</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322842</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/American_Gothic-poster.jpg" alt="American Gothic poster" /><br/><br/><a href="https://www.imdb.com/title/tt0111880/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>You're the Worst</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322617</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/You're_the_Worst-poster.jpg" alt="You're the Worst poster" /><br/><br/><a href="https://www.imdb.com/title/tt3228420/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
