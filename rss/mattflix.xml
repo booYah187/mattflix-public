@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Song Sung Blue</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327447</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Song_Sung_Blue-poster.jpg" alt="Song Sung Blue poster" /><br/><br/><a href="https://www.imdb.com/title/tt30343021/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Listeners</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327424</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Listeners-poster.jpg" alt="The Listeners poster" /><br/><br/><a href="https://www.imdb.com/title/tt31490551/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Iron Lung</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325988</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Lung-poster.jpg" alt="Iron Lung poster" /><br/><br/><a href="https://www.imdb.com/title/tt27564844/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Auto Focus</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325978</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Auto_Focus-poster.jpg" alt="Auto Focus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0298744/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
