@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Tuner</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327450</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tuner-poster.jpg" alt="Tuner poster" /><br/><br/><a href="https://www.imdb.com/title/tt33296751/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Song Sung Blue</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327447</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Song_Sung_Blue-poster.jpg" alt="Song Sung Blue poster" /><br/><br/><a href="https://www.imdb.com/title/tt30343021/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Spider-Noir</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325994</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Noir-poster.jpg" alt="Spider-Noir poster" /><br/><br/><a href="https://www.imdb.com/title/tt30460310/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Iron Lung</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325988</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iron_Lung-poster.jpg" alt="Iron Lung poster" /><br/><br/><a href="https://www.imdb.com/title/tt27564844/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

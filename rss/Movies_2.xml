@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Tuner</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327450</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tuner-poster.jpg" alt="Tuner poster" /><br/><br/><a href="https://www.imdb.com/title/tt33296751/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Song Sung Blue</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327447</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Song_Sung_Blue-poster.jpg" alt="Song Sung Blue poster" /><br/><br/><a href="https://www.imdb.com/title/tt30343021/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Red Planet</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326982</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Red_Planet-poster.jpg" alt="Red Planet poster" /><br/><br/><a href="https://www.imdb.com/title/tt0199753/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Pressure</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326981</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Pressure-poster.jpg" alt="Pressure poster" /><br/><br/><a href="https://www.imdb.com/title/tt32547691/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
