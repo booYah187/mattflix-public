@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Winter of the Crow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327517</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Winter_of_the_Crow-poster.jpg" alt="Winter of the Crow poster" /><br/><br/><a href="https://www.imdb.com/title/tt30235784/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Shadow in My Eye</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327481</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Shadow_in_My_Eye-poster.jpg" alt="The Shadow in My Eye poster" /><br/><br/><a href="https://www.imdb.com/title/tt9170516/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Zoe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327471</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zoe-poster.jpg" alt="Zoe poster" /><br/><br/><a href="https://www.imdb.com/title/tt6010628/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cosmos</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327466</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cosmos-poster.jpg" alt="Cosmos poster" /><br/><br/><a href="https://www.imdb.com/title/tt4477292/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Backrooms</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327456</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Backrooms-poster.jpg" alt="Backrooms poster" /><br/><br/><a href="https://www.imdb.com/title/tt26657236/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Malibu's Most Wanted</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327021</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Malibu's_Most_Wanted-poster.jpg" alt="Malibu's Most Wanted poster" /><br/><br/><a href="https://www.imdb.com/title/tt0328099/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Last Days on Mars</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327011</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Days_on_Mars-poster.jpg" alt="The Last Days on Mars poster" /><br/><br/><a href="https://www.imdb.com/title/tt1709143/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Europa Report</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327008</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Europa_Report-poster.jpg" alt="Europa Report poster" /><br/><br/><a href="https://www.imdb.com/title/tt2051879/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nirvanna the Band the Show the Movie</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327006</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nirvanna_the_Band_the_Show_the_Movie-poster.jpg" alt="Nirvanna the Band the Show the Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt35522483/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Journeyman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327001</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Journeyman-poster.jpg" alt="Journeyman poster" /><br/><br/><a href="https://www.imdb.com/title/tt5314118/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

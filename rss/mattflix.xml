@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Winter of the Crow</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327517</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Winter_of_the_Crow-poster.jpg" alt="Winter of the Crow poster" /><br/><br/><a href="https://www.imdb.com/title/tt30235784/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Shadow in My Eye</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327481</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Shadow_in_My_Eye-poster.jpg" alt="The Shadow in My Eye poster" /><br/><br/><a href="https://www.imdb.com/title/tt9170516/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Zoe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327471</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zoe-poster.jpg" alt="Zoe poster" /><br/><br/><a href="https://www.imdb.com/title/tt6010628/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cosmos</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327466</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cosmos-poster.jpg" alt="Cosmos poster" /><br/><br/><a href="https://www.imdb.com/title/tt4477292/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Backrooms</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327456</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Backrooms-poster.jpg" alt="Backrooms poster" /><br/><br/><a href="https://www.imdb.com/title/tt26657236/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Steven Universe: The Movie</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326276</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Steven_Universe_The_Movie-poster.jpg" alt="Steven Universe: The Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt10515852/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Pianist</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326250</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Pianist-poster.jpg" alt="The Pianist poster" /><br/><br/><a href="https://www.imdb.com/title/tt0253474/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Narc</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326247</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Narc-poster.jpg" alt="Narc poster" /><br/><br/><a href="https://www.imdb.com/title/tt0272207/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Thoroughbreds</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326230</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Thoroughbreds-poster.jpg" alt="Thoroughbreds poster" /><br/><br/><a href="https://www.imdb.com/title/tt5649108/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Penguin</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326043</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Penguin-poster.jpg" alt="The Penguin poster" /><br/><br/><a href="https://www.imdb.com/title/tt15435876/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
