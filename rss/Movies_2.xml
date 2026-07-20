@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Fatso</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327545</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fatso-poster.jpg" alt="Fatso poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080724/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Winter of the Crow</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327517</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Winter_of_the_Crow-poster.jpg" alt="Winter of the Crow poster" /><br/><br/><a href="https://www.imdb.com/title/tt30235784/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Van Wilder</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327036</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Van_Wilder-poster.jpg" alt="Van Wilder poster" /><br/><br/><a href="https://www.imdb.com/title/tt0283111/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Malibu's Most Wanted</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327021</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Malibu's_Most_Wanted-poster.jpg" alt="Malibu's Most Wanted poster" /><br/><br/><a href="https://www.imdb.com/title/tt0328099/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
