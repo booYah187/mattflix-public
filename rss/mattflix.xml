@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Following</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327564</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Following-poster.jpg" alt="Following poster" /><br/><br/><a href="https://www.imdb.com/title/tt0154506/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Tenet</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327559</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tenet-poster.jpg" alt="Tenet poster" /><br/><br/><a href="https://www.imdb.com/title/tt6723592/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>5lbs of Pressure</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327551</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/5lbs_of_Pressure-poster.jpg" alt="5lbs of Pressure poster" /><br/><br/><a href="https://www.imdb.com/title/tt1524515/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Star Wars: The Mandalorian and Grogu</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327549</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_The_Mandalorian_and_Grogu-poster.jpg" alt="Star Wars: The Mandalorian and Grogu poster" /><br/><br/><a href="https://www.imdb.com/title/tt30825738/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Fatso</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327545</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fatso-poster.jpg" alt="Fatso poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080724/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>One Spoon of Chocolate</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326552</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Spoon_of_Chocolate-poster.jpg" alt="One Spoon of Chocolate poster" /><br/><br/><a href="https://www.imdb.com/title/tt32192973/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hokum</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326548</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hokum-poster.jpg" alt="Hokum poster" /><br/><br/><a href="https://www.imdb.com/title/tt35672862/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lie to Me</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326324</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lie_to_Me-poster.jpg" alt="Lie to Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt1235099/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Swimfan</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326317</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Swimfan-poster.jpg" alt="Swimfan poster" /><br/><br/><a href="https://www.imdb.com/title/tt0283026/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Remember the Titans</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326279</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Remember_the_Titans-poster.jpg" alt="Remember the Titans poster" /><br/><br/><a href="https://www.imdb.com/title/tt0210945/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

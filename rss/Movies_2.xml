@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Following</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327564</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Following-poster.jpg" alt="Following poster" /><br/><br/><a href="https://www.imdb.com/title/tt0154506/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Tenet</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327559</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tenet-poster.jpg" alt="Tenet poster" /><br/><br/><a href="https://www.imdb.com/title/tt6723592/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>5lbs of Pressure</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327551</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/5lbs_of_Pressure-poster.jpg" alt="5lbs of Pressure poster" /><br/><br/><a href="https://www.imdb.com/title/tt1524515/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Star Wars: The Mandalorian and Grogu</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327549</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_The_Mandalorian_and_Grogu-poster.jpg" alt="Star Wars: The Mandalorian and Grogu poster" /><br/><br/><a href="https://www.imdb.com/title/tt30825738/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Fatso</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327545</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fatso-poster.jpg" alt="Fatso poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080724/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Identity</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327195</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Identity-poster.jpg" alt="Identity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0309698/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hardcore</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327194</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hardcore-poster.jpg" alt="Hardcore poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079271/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Obsession</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327174</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Obsession-poster.jpg" alt="Obsession poster" /><br/><br/><a href="https://www.imdb.com/title/tt37287335/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Black Sheep</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327041</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Sheep-poster.jpg" alt="Black Sheep poster" /><br/><br/><a href="https://www.imdb.com/title/tt0115697/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Van Wilder</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327036</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Van_Wilder-poster.jpg" alt="Van Wilder poster" /><br/><br/><a href="https://www.imdb.com/title/tt0283111/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
