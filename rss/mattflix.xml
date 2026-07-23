@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Crocodile Dundee</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327592</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crocodile_Dundee-poster.jpg" alt="Crocodile Dundee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090555/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Masters of the Universe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327590</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Masters_of_the_Universe-poster.jpg" alt="Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt0427340/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Following</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327564</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Following-poster.jpg" alt="Following poster" /><br/><br/><a href="https://www.imdb.com/title/tt0154506/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>The Equalizer 2</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326583</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Equalizer_2-poster.jpg" alt="The Equalizer 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt3766354/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Equalizer</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326577</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Equalizer-poster.jpg" alt="The Equalizer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0455944/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>One Spoon of Chocolate</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326552</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/One_Spoon_of_Chocolate-poster.jpg" alt="One Spoon of Chocolate poster" /><br/><br/><a href="https://www.imdb.com/title/tt32192973/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

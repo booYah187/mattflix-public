@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Crocodile Dundee</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327592</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crocodile_Dundee-poster.jpg" alt="Crocodile Dundee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090555/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Masters of the Universe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327590</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Masters_of_the_Universe-poster.jpg" alt="Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt0427340/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Following</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327564</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Following-poster.jpg" alt="Following poster" /><br/><br/><a href="https://www.imdb.com/title/tt0154506/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Angus</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327213</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Angus-poster.jpg" alt="Angus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112368/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sinister</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327209</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sinister-poster.jpg" alt="Sinister poster" /><br/><br/><a href="https://www.imdb.com/title/tt1922777/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Identity</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327195</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Identity-poster.jpg" alt="Identity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0309698/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
