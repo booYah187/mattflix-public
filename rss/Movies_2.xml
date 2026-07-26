@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Law Abiding Citizen</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327609</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Law_Abiding_Citizen-poster.jpg" alt="Law Abiding Citizen poster" /><br/><br/><a href="https://www.imdb.com/title/tt1197624/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Crocodile Dundee</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327592</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crocodile_Dundee-poster.jpg" alt="Crocodile Dundee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090555/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Duel</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327219</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Duel-poster.jpg" alt="Duel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0067023/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Angus</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327213</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Angus-poster.jpg" alt="Angus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112368/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
