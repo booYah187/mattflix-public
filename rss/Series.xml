@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Midwich Cuckoos</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327631</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Midwich_Cuckoos-poster.jpg" alt="The Midwich Cuckoos poster" /><br/><br/><a href="https://www.imdb.com/title/tt14245846/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Great Train Robbery</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327619</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Great_Train_Robbery-poster.jpg" alt="The Great Train Robbery poster" /><br/><br/><a href="https://www.imdb.com/title/tt2763296/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Listeners</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327424</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Listeners-poster.jpg" alt="The Listeners poster" /><br/><br/><a href="https://www.imdb.com/title/tt31490551/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Brimstone</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323072</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brimstone-poster.jpg" alt="Brimstone poster" /><br/><br/><a href="https://www.imdb.com/title/tt0165564/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Empire Falls</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322914</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Empire_Falls-poster.jpg" alt="Empire Falls poster" /><br/><br/><a href="https://www.imdb.com/title/tt0376591/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>American Gothic</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322842</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/American_Gothic-poster.jpg" alt="American Gothic poster" /><br/><br/><a href="https://www.imdb.com/title/tt0111880/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

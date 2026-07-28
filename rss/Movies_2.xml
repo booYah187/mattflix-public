@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Disclosure Day</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327628</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Disclosure_Day-poster.jpg" alt="Disclosure Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt15047880/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>My Blue Heaven</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327627</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/My_Blue_Heaven-poster.jpg" alt="My Blue Heaven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0100212/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Masters of the Universe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327612</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Masters_of_the_Universe-poster.jpg" alt="Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093507/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Law Abiding Citizen</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327609</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Law_Abiding_Citizen-poster.jpg" alt="Law Abiding Citizen poster" /><br/><br/><a href="https://www.imdb.com/title/tt1197624/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Dead &amp; Buried</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327253</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_&amp;_Buried-poster.jpg" alt="Dead &amp; Buried poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082242/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Officer Down</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327249</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Officer_Down-poster.jpg" alt="Officer Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt1925479/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Screamers</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327229</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Screamers-poster.jpg" alt="Screamers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114367/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Duel</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327219</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Duel-poster.jpg" alt="Duel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0067023/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

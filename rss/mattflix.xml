@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Midwich Cuckoos</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327631</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Midwich_Cuckoos-poster.jpg" alt="The Midwich Cuckoos poster" /><br/><br/><a href="https://www.imdb.com/title/tt14245846/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Disclosure Day</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327628</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Disclosure_Day-poster.jpg" alt="Disclosure Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt15047880/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>My Blue Heaven</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327627</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/My_Blue_Heaven-poster.jpg" alt="My Blue Heaven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0100212/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Great Train Robbery</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327619</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Great_Train_Robbery-poster.jpg" alt="The Great Train Robbery poster" /><br/><br/><a href="https://www.imdb.com/title/tt2763296/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Masters of the Universe</title>
+      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327612</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Masters_of_the_Universe-poster.jpg" alt="Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093507/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Law Abiding Citizen</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327609</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Law_Abiding_Citizen-poster.jpg" alt="Law Abiding Citizen poster" /><br/><br/><a href="https://www.imdb.com/title/tt1197624/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Dick Tracy</title>
       <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326626</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dick_Tracy-poster.jpg" alt="Dick Tracy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099422/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Matilda</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326616</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Matilda-poster.jpg" alt="Matilda poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117008/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Punisher</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326607</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Punisher-poster.jpg" alt="The Punisher poster" /><br/><br/><a href="https://www.imdb.com/title/tt0330793/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Illusionist</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326595</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Illusionist-poster.jpg" alt="The Illusionist poster" /><br/><br/><a href="https://www.imdb.com/title/tt0443543/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Adaptation.</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326586</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adaptation.-poster.jpg" alt="Adaptation. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0268126/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Parenthood</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326585</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Parenthood-poster.jpg" alt="Parenthood poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098067/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
