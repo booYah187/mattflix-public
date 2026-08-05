@@ -2,132 +2,132 @@
 <rss version="2.0">
   <channel>
     <title>Library: Documentaries</title>
-    <link>https://blacklungindustries.ddns.net/mattflix</link>
+    <link>http://192.168.1.16:8096</link>
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
       <title>The Guv'nor</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327217</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327217</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Guv'nor-poster.jpg" alt="The Guv'nor poster" /><br/><br/><a href="https://www.imdb.com/title/tt5460986/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Maternal Instinct</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327214</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327214</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Maternal_Instinct-poster.jpg" alt="Maternal Instinct poster" /><br/><br/><a href="https://www.imdb.com/title/tt42863533/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>A Double Life</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327191</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327191</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Double_Life-poster.jpg" alt="A Double Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt16152130/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Starman</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=327013</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327013</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Starman-poster.jpg" alt="Starman poster" /><br/><br/><a href="https://www.imdb.com/title/tt21220632/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Andre the Giant</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326985</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326985</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Andre_the_Giant-poster.jpg" alt="Andre the Giant poster" /><br/><br/><a href="https://www.imdb.com/title/tt6543420/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Nuts!</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326816</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326816</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nuts!-poster.jpg" alt="Nuts! poster" /><br/><br/><a href="https://www.imdb.com/title/tt5236900/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Underland</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=326798</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326798</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underland-poster.jpg" alt="Underland poster" /><br/><br/><a href="https://www.imdb.com/title/tt36590141/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Depth Perception</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=325196</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=325196</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Depth_Perception-poster.jpg" alt="Depth Perception poster" /><br/><br/><a href="https://www.imdb.com/title/tt7738490/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Harlan County U.S.A.</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324762</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324762</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harlan_County_U.S.A.-poster.jpg" alt="Harlan County U.S.A. poster" /><br/><br/><a href="https://www.imdb.com/title/tt0074605/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324634</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324634</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Power_of_Grayskull_The_Definitive_History_of_He-Man_and_the_Masters_of_the_Universe-poster.jpg" alt="Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt5338774/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>De Palma</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324353</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324353</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/De_Palma-poster.jpg" alt="De Palma poster" /><br/><br/><a href="https://www.imdb.com/title/tt1683048/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Jim Henson: Idea Man</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324349</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324349</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jim_Henson_Idea_Man-poster.jpg" alt="Jim Henson: Idea Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt19308034/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Milius</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324348</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324348</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Milius-poster.jpg" alt="Milius poster" /><br/><br/><a href="https://www.imdb.com/title/tt2370224/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>A Decade Under the Influence</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324300</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324300</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Decade_Under_the_Influence-poster.jpg" alt="A Decade Under the Influence poster" /><br/><br/><a href="https://www.imdb.com/title/tt0342275/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Waking Sleeping Beauty</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324297</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324297</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Waking_Sleeping_Beauty-poster.jpg" alt="Waking Sleeping Beauty poster" /><br/><br/><a href="https://www.imdb.com/title/tt1159961/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Hearts of Darkness: A Filmmaker's Apocalypse</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324291</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324291</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hearts_of_Darkness_A_Filmmaker's_Apocalypse-poster.jpg" alt="Hearts of Darkness: A Filmmaker's Apocalypse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102015/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Sleeping Dog</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=324212</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324212</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleeping_Dog-poster.jpg" alt="Sleeping Dog poster" /><br/><br/><a href="https://www.imdb.com/title/tt41157050/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>How It's Made</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323770</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=323770</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/How_It's_Made-poster.jpg" alt="How It's Made poster" /><br/><br/><a href="https://www.imdb.com/title/tt0835010/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>The Kid Stays in the Picture</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323762</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=323762</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kid_Stays_in_the_Picture-poster.jpg" alt="The Kid Stays in the Picture poster" /><br/><br/><a href="https://www.imdb.com/title/tt0303353/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Superhot: The Spicy World of Pepper People</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=323171</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=323171</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Superhot_The_Spicy_World_of_Pepper_People-poster.jpg" alt="Superhot: The Spicy World of Pepper People poster" /><br/><br/><a href="https://www.imdb.com/title/tt29740695/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Who Are You, Charlie Brown?</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322987</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=322987</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Who_Are_You,_Charlie_Brown_-poster.jpg" alt="Who Are You, Charlie Brown? poster" /><br/><br/><a href="https://www.imdb.com/title/tt14784858/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>The World at War</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=322361</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=322361</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_World_at_War-poster.jpg" alt="The World at War poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071075/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>#SkyKing</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321334</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=321334</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/#SkyKing-poster.jpg" alt="#SkyKing poster" /><br/><br/><a href="https://www.imdb.com/title/tt39368489/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Cult Massacre: One Day In Jonestown</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=321017</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=321017</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cult_Massacre_One_Day_In_Jonestown-poster.jpg" alt="Cult Massacre: One Day In Jonestown poster" /><br/><br/><a href="https://www.imdb.com/title/tt32421513/">View on IMDb</a>]]></description>
     </item>
     <item>
       <title>Takedown with Chris Hansen</title>
-      <link>https://blacklungindustries.ddns.net/mattflix/web/index.html#!/item?id=320552</link>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=320552</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Takedown_with_Chris_Hansen-poster.jpg" alt="Takedown with Chris Hansen poster" /><br/><br/><a href="https://www.imdb.com/title/tt23986250/">View on IMDb</a>]]></description>
     </item>
   </channel>
