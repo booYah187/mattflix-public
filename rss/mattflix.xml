@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Iceman</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327985</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iceman-poster.jpg" alt="Iceman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0087452/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Evil Dead Burn</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327976</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Evil_Dead_Burn-poster.jpg" alt="Evil Dead Burn poster" /><br/><br/><a href="https://www.imdb.com/title/tt31170389/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Wet Hot American Summer</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=326719</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wet_Hot_American_Summer-poster.jpg" alt="Wet Hot American Summer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0243655/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Death Becomes Her</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326715</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_Becomes_Her-poster.jpg" alt="Death Becomes Her poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104070/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

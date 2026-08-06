@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Iceman</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327985</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iceman-poster.jpg" alt="Iceman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0087452/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Evil Dead Burn</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327976</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Evil_Dead_Burn-poster.jpg" alt="Evil Dead Burn poster" /><br/><br/><a href="https://www.imdb.com/title/tt31170389/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Cosmos</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327466</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cosmos-poster.jpg" alt="Cosmos poster" /><br/><br/><a href="https://www.imdb.com/title/tt4477292/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Backrooms</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327456</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Backrooms-poster.jpg" alt="Backrooms poster" /><br/><br/><a href="https://www.imdb.com/title/tt26657236/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
