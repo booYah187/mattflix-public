@@ -6,6 +6,41 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Wild Bill</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328025</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wild_Bill-poster.jpg" alt="Wild Bill poster" /><br/><br/><a href="https://www.imdb.com/title/tt1795702/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Deathwatch</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328024</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deathwatch-poster.jpg" alt="Deathwatch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0286306/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sex &amp; Drugs &amp; Rock &amp; Roll</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328020</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sex_&amp;_Drugs_&amp;_Rock_&amp;_Roll-poster.jpg" alt="Sex &amp; Drugs &amp; Rock &amp; Roll poster" /><br/><br/><a href="https://www.imdb.com/title/tt1393020/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Juniper Tree</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328012</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Juniper_Tree-poster.jpg" alt="The Juniper Tree poster" /><br/><br/><a href="https://www.imdb.com/title/tt0138545/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Richard Pryor: Icon</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327994</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Richard_Pryor_Icon-poster.jpg" alt="Richard Pryor: Icon poster" /><br/><br/><a href="https://www.imdb.com/title/tt4226446/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The World's End: The Legacy of 'Day of the Dead'</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327993</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_World's_End_The_Legacy_of_'Day_of_the_Dead'-poster.jpg" alt="The World's End: The Legacy of 'Day of the Dead' poster" /><br/><br/><a href="https://www.imdb.com/title/tt3276916/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Four Lions</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327987</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Four_Lions-poster.jpg" alt="Four Lions poster" /><br/><br/><a href="https://www.imdb.com/title/tt1341167/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Iceman</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327985</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iceman-poster.jpg" alt="Iceman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0087452/">View on IMDb</a>]]></description>
@@ -469,41 +504,6 @@
       <title>Joshy</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=326779</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Joshy-poster.jpg" alt="Joshy poster" /><br/><br/><a href="https://www.imdb.com/title/tt4661798/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Here Are the Young Men</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326763</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Here_Are_the_Young_Men-poster.jpg" alt="Here Are the Young Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt5598868/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Scum</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326747</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scum-poster.jpg" alt="Scum poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079871/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Empty Man</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326739</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Empty_Man-poster.jpg" alt="The Empty Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt5867314/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Marrowbone</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326738</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Marrowbone-poster.jpg" alt="Marrowbone poster" /><br/><br/><a href="https://www.imdb.com/title/tt5886440/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bubble Boy</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326735</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bubble_Boy-poster.jpg" alt="Bubble Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt0258470/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bowfinger</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326720</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bowfinger-poster.jpg" alt="Bowfinger poster" /><br/><br/><a href="https://www.imdb.com/title/tt0131325/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wet Hot American Summer</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326719</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wet_Hot_American_Summer-poster.jpg" alt="Wet Hot American Summer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0243655/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

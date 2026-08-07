@@ -6,6 +6,16 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Richard Pryor: Icon</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327994</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Richard_Pryor_Icon-poster.jpg" alt="Richard Pryor: Icon poster" /><br/><br/><a href="https://www.imdb.com/title/tt4226446/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The World's End: The Legacy of 'Day of the Dead'</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327993</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_World's_End_The_Legacy_of_'Day_of_the_Dead'-poster.jpg" alt="The World's End: The Legacy of 'Day of the Dead' poster" /><br/><br/><a href="https://www.imdb.com/title/tt3276916/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Guv'nor</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327217</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Guv'nor-poster.jpg" alt="The Guv'nor poster" /><br/><br/><a href="https://www.imdb.com/title/tt5460986/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>#SkyKing</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=321334</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/#SkyKing-poster.jpg" alt="#SkyKing poster" /><br/><br/><a href="https://www.imdb.com/title/tt39368489/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cult Massacre: One Day In Jonestown</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=321017</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cult_Massacre_One_Day_In_Jonestown-poster.jpg" alt="Cult Massacre: One Day In Jonestown poster" /><br/><br/><a href="https://www.imdb.com/title/tt32421513/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Takedown with Chris Hansen</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=320552</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Takedown_with_Chris_Hansen-poster.jpg" alt="Takedown with Chris Hansen poster" /><br/><br/><a href="https://www.imdb.com/title/tt23986250/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,31 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Wild Bill</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328025</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wild_Bill-poster.jpg" alt="Wild Bill poster" /><br/><br/><a href="https://www.imdb.com/title/tt1795702/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Deathwatch</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328024</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deathwatch-poster.jpg" alt="Deathwatch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0286306/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sex &amp; Drugs &amp; Rock &amp; Roll</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328020</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sex_&amp;_Drugs_&amp;_Rock_&amp;_Roll-poster.jpg" alt="Sex &amp; Drugs &amp; Rock &amp; Roll poster" /><br/><br/><a href="https://www.imdb.com/title/tt1393020/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Juniper Tree</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328012</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Juniper_Tree-poster.jpg" alt="The Juniper Tree poster" /><br/><br/><a href="https://www.imdb.com/title/tt0138545/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Four Lions</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327987</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Four_Lions-poster.jpg" alt="Four Lions poster" /><br/><br/><a href="https://www.imdb.com/title/tt1341167/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Iceman</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327985</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iceman-poster.jpg" alt="Iceman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0087452/">View on IMDb</a>]]></description>
@@ -104,31 +129,6 @@
       <title>Star Wars: The Mandalorian and Grogu</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327549</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_The_Mandalorian_and_Grogu-poster.jpg" alt="Star Wars: The Mandalorian and Grogu poster" /><br/><br/><a href="https://www.imdb.com/title/tt30825738/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Fatso</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327545</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fatso-poster.jpg" alt="Fatso poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080724/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Winter of the Crow</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327517</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Winter_of_the_Crow-poster.jpg" alt="Winter of the Crow poster" /><br/><br/><a href="https://www.imdb.com/title/tt30235784/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Shadow in My Eye</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327481</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Shadow_in_My_Eye-poster.jpg" alt="The Shadow in My Eye poster" /><br/><br/><a href="https://www.imdb.com/title/tt9170516/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Zoe</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327471</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zoe-poster.jpg" alt="Zoe poster" /><br/><br/><a href="https://www.imdb.com/title/tt6010628/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cosmos</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327466</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cosmos-poster.jpg" alt="Cosmos poster" /><br/><br/><a href="https://www.imdb.com/title/tt4477292/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
