@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Devil Thumbs a Ride</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328218</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil_Thumbs_a_Ride-poster.jpg" alt="The Devil Thumbs a Ride poster" /><br/><br/><a href="https://www.imdb.com/title/tt0039317/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Miracle Mile</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328213</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_Mile-poster.jpg" alt="Miracle Mile poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097889/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Applesauce</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328155</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Applesauce-poster.jpg" alt="Applesauce poster" /><br/><br/><a href="https://www.imdb.com/title/tt4270878/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dinner in America</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328136</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dinner_in_America-poster.jpg" alt="Dinner in America poster" /><br/><br/><a href="https://www.imdb.com/title/tt9058654/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jackass: Best and Last</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328059</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jackass_Best_and_Last-poster.jpg" alt="Jackass: Best and Last poster" /><br/><br/><a href="https://www.imdb.com/title/tt39316472/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Planes, Trains and Automobiles</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328057</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Planes,_Trains_and_Automobiles-poster.jpg" alt="Planes, Trains and Automobiles poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093748/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Dragonslayer</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=326834</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dragonslayer-poster.jpg" alt="Dragonslayer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082288/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hook</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326830</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hook-poster.jpg" alt="Hook poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102057/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ladyhawke</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326825</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ladyhawke-poster.jpg" alt="Ladyhawke poster" /><br/><br/><a href="https://www.imdb.com/title/tt0089457/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tales from the Crypt: Demon Knight</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326823</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tales_from_the_Crypt_Demon_Knight-poster.jpg" alt="Tales from the Crypt: Demon Knight poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114608/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nuts!</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326816</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nuts!-poster.jpg" alt="Nuts! poster" /><br/><br/><a href="https://www.imdb.com/title/tt5236900/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Underland</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326798</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Underland-poster.jpg" alt="Underland poster" /><br/><br/><a href="https://www.imdb.com/title/tt36590141/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

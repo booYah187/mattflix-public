@@ -6,6 +6,31 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Devil Thumbs a Ride</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328218</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil_Thumbs_a_Ride-poster.jpg" alt="The Devil Thumbs a Ride poster" /><br/><br/><a href="https://www.imdb.com/title/tt0039317/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Miracle Mile</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328213</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_Mile-poster.jpg" alt="Miracle Mile poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097889/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Applesauce</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328155</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Applesauce-poster.jpg" alt="Applesauce poster" /><br/><br/><a href="https://www.imdb.com/title/tt4270878/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dinner in America</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328136</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dinner_in_America-poster.jpg" alt="Dinner in America poster" /><br/><br/><a href="https://www.imdb.com/title/tt9058654/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jackass: Best and Last</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328059</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jackass_Best_and_Last-poster.jpg" alt="Jackass: Best and Last poster" /><br/><br/><a href="https://www.imdb.com/title/tt39316472/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Planes, Trains and Automobiles</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328057</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Planes,_Trains_and_Automobiles-poster.jpg" alt="Planes, Trains and Automobiles poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093748/">View on IMDb</a>]]></description>
@@ -104,31 +129,6 @@
       <title>Disclosure Day</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327628</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Disclosure_Day-poster.jpg" alt="Disclosure Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt15047880/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>My Blue Heaven</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327627</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/My_Blue_Heaven-poster.jpg" alt="My Blue Heaven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0100212/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Masters of the Universe</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327612</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Masters_of_the_Universe-poster.jpg" alt="Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093507/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Law Abiding Citizen</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327609</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Law_Abiding_Citizen-poster.jpg" alt="Law Abiding Citizen poster" /><br/><br/><a href="https://www.imdb.com/title/tt1197624/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Crocodile Dundee</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327592</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crocodile_Dundee-poster.jpg" alt="Crocodile Dundee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090555/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Masters of the Universe</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327590</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Masters_of_the_Universe-poster.jpg" alt="Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt0427340/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
