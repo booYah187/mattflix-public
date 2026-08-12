@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Young Washington</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328225</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Young_Washington-poster.jpg" alt="Young Washington poster" /><br/><br/><a href="https://www.imdb.com/title/tt32104007/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Devil Thumbs a Ride</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328218</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil_Thumbs_a_Ride-poster.jpg" alt="The Devil Thumbs a Ride poster" /><br/><br/><a href="https://www.imdb.com/title/tt0039317/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Turk 182!</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327705</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Turk_182!-poster.jpg" alt="Turk 182! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090217/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Disclosure Day</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327628</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Disclosure_Day-poster.jpg" alt="Disclosure Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt15047880/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

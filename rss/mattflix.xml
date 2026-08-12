@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Young Washington</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328225</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Young_Washington-poster.jpg" alt="Young Washington poster" /><br/><br/><a href="https://www.imdb.com/title/tt32104007/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Devil Thumbs a Ride</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328218</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil_Thumbs_a_Ride-poster.jpg" alt="The Devil Thumbs a Ride poster" /><br/><br/><a href="https://www.imdb.com/title/tt0039317/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>The Rocketeer</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=326841</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rocketeer-poster.jpg" alt="The Rocketeer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102803/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dragonslayer</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326834</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dragonslayer-poster.jpg" alt="Dragonslayer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082288/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
