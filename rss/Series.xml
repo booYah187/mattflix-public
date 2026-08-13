@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Twin</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328265</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Twin-poster.jpg" alt="Twin poster" /><br/><br/><a href="https://www.imdb.com/title/tt6710454/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rematch</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328250</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rematch-poster.jpg" alt="Rematch poster" /><br/><br/><a href="https://www.imdb.com/title/tt26741906/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Star Wars: Skeleton Crew</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327943</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_Skeleton_Crew-poster.jpg" alt="Star Wars: Skeleton Crew poster" /><br/><br/><a href="https://www.imdb.com/title/tt20600980/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Justified: City Primeval</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=324773</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified_City_Primeval-poster.jpg" alt="Justified: City Primeval poster" /><br/><br/><a href="https://www.imdb.com/title/tt14263564/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Margo's Got Money Troubles</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324532</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Margo's_Got_Money_Troubles-poster.jpg" alt="Margo's Got Money Troubles poster" /><br/><br/><a href="https://www.imdb.com/title/tt31137273/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Thing About Pam</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324149</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing_About_Pam-poster.jpg" alt="The Thing About Pam poster" /><br/><br/><a href="https://www.imdb.com/title/tt13984270/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

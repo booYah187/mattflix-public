@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Perfect Blue</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328323</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perfect_Blue-poster.jpg" alt="Perfect Blue poster" /><br/><br/><a href="https://www.imdb.com/title/tt0156887/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Kill Team</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328309</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kill_Team-poster.jpg" alt="The Kill Team poster" /><br/><br/><a href="https://www.imdb.com/title/tt2732932/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Twin</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328265</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Twin-poster.jpg" alt="Twin poster" /><br/><br/><a href="https://www.imdb.com/title/tt6710454/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rematch</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328250</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rematch-poster.jpg" alt="Rematch poster" /><br/><br/><a href="https://www.imdb.com/title/tt26741906/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Young Washington</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328225</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Young_Washington-poster.jpg" alt="Young Washington poster" /><br/><br/><a href="https://www.imdb.com/title/tt32104007/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Bad Boys II</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=326887</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys_II-poster.jpg" alt="Bad Boys II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0172156/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Boys</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326882</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Boys-poster.jpg" alt="Bad Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112442/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Minority Report</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326858</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minority_Report-poster.jpg" alt="Minority Report poster" /><br/><br/><a href="https://www.imdb.com/title/tt0181689/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Summer of 84</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326857</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Summer_of_84-poster.jpg" alt="Summer of 84 poster" /><br/><br/><a href="https://www.imdb.com/title/tt5774450/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Rocketeer</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326841</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rocketeer-poster.jpg" alt="The Rocketeer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102803/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
