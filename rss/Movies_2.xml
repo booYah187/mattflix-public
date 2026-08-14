@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Kubi</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328520</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kubi-poster.jpg" alt="Kubi poster" /><br/><br/><a href="https://www.imdb.com/title/tt27502365/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jennifer's Body</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328514</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jennifer's_Body-poster.jpg" alt="Jennifer's Body poster" /><br/><br/><a href="https://www.imdb.com/title/tt1131734/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Perfect Blue</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328323</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perfect_Blue-poster.jpg" alt="Perfect Blue poster" /><br/><br/><a href="https://www.imdb.com/title/tt0156887/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Snack Shack</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327824</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Snack_Shack-poster.jpg" alt="Snack Shack poster" /><br/><br/><a href="https://www.imdb.com/title/tt22004344/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Carolina Caroline</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327813</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Carolina_Caroline-poster.jpg" alt="Carolina Caroline poster" /><br/><br/><a href="https://www.imdb.com/title/tt33365126/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hamburger Hill</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327706</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hamburger_Hill-poster.jpg" alt="Hamburger Hill poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093137/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

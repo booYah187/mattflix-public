@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>X-Men: The Animated Series</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328345</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_The_Animated_Series-poster.jpg" alt="X-Men: The Animated Series poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103584/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Cop and ½</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327820</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cop_and_½-poster.jpg" alt="Cop and ½ poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106613/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Rugrats</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=317002</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rugrats-poster.jpg" alt="Rugrats poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101188/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Zootopia 2</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=316382</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zootopia_2-poster.jpg" alt="Zootopia 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt26443597/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
