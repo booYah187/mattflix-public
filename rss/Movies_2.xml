@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Birthday Party</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328550</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Birthday_Party-poster.jpg" alt="The Birthday Party poster" /><br/><br/><a href="https://www.imdb.com/title/tt33269988/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Kubi</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328520</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kubi-poster.jpg" alt="Kubi poster" /><br/><br/><a href="https://www.imdb.com/title/tt27502365/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Adventureland</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327827</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adventureland-poster.jpg" alt="Adventureland poster" /><br/><br/><a href="https://www.imdb.com/title/tt1091722/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Snack Shack</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327824</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Snack_Shack-poster.jpg" alt="Snack Shack poster" /><br/><br/><a href="https://www.imdb.com/title/tt22004344/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

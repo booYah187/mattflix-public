@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Birthday Party</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328550</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Birthday_Party-poster.jpg" alt="The Birthday Party poster" /><br/><br/><a href="https://www.imdb.com/title/tt33269988/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Kubi</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328520</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kubi-poster.jpg" alt="Kubi poster" /><br/><br/><a href="https://www.imdb.com/title/tt27502365/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Ocean's Twelve</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=326902</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ocean's_Twelve-poster.jpg" alt="Ocean's Twelve poster" /><br/><br/><a href="https://www.imdb.com/title/tt0349903/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ocean's Eleven</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326899</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ocean's_Eleven-poster.jpg" alt="Ocean's Eleven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0240772/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
