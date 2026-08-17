@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Bad Seed</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328569</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bad_Seed-poster.jpg" alt="The Bad Seed poster" /><br/><br/><a href="https://www.imdb.com/title/tt0048977/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Birthday Party</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328550</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Birthday_Party-poster.jpg" alt="The Birthday Party poster" /><br/><br/><a href="https://www.imdb.com/title/tt33269988/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Solo: A Star Wars Story</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327903</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Solo_A_Star_Wars_Story-poster.jpg" alt="Solo: A Star Wars Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt3778644/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Adventureland</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327827</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adventureland-poster.jpg" alt="Adventureland poster" /><br/><br/><a href="https://www.imdb.com/title/tt1091722/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
