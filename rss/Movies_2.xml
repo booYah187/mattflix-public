@@ -6,6 +6,31 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Badlands</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328619</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Badlands-poster.jpg" alt="Badlands poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069762/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Seconds</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328609</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Seconds-poster.jpg" alt="Seconds poster" /><br/><br/><a href="https://www.imdb.com/title/tt0060955/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mud</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328608</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mud-poster.jpg" alt="Mud poster" /><br/><br/><a href="https://www.imdb.com/title/tt1935179/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Skeleton Key</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328583</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Skeleton_Key-poster.jpg" alt="The Skeleton Key poster" /><br/><br/><a href="https://www.imdb.com/title/tt0397101/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>3 Women</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328579</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_Women-poster.jpg" alt="3 Women poster" /><br/><br/><a href="https://www.imdb.com/title/tt0075612/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Bad Seed</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328569</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bad_Seed-poster.jpg" alt="The Bad Seed poster" /><br/><br/><a href="https://www.imdb.com/title/tt0048977/">View on IMDb</a>]]></description>
@@ -104,31 +129,6 @@
       <title>Four Lions</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327987</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Four_Lions-poster.jpg" alt="Four Lions poster" /><br/><br/><a href="https://www.imdb.com/title/tt1341167/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Iceman</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327985</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iceman-poster.jpg" alt="Iceman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0087452/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Evil Dead Burn</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327976</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Evil_Dead_Burn-poster.jpg" alt="Evil Dead Burn poster" /><br/><br/><a href="https://www.imdb.com/title/tt31170389/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rogue One: A Star Wars Story</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327927</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rogue_One_A_Star_Wars_Story-poster.jpg" alt="Rogue One: A Star Wars Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt3748528/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sinners</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327921</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sinners-poster.jpg" alt="Sinners poster" /><br/><br/><a href="https://www.imdb.com/title/tt31193180/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Solo: A Star Wars Story</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327903</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Solo_A_Star_Wars_Story-poster.jpg" alt="Solo: A Star Wars Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt3778644/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
