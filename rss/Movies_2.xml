@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Fantastic Four: First Steps</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328634</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fantastic_Four_First_Steps-poster.jpg" alt="The Fantastic Four: First Steps poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676052/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Badlands</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328619</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Badlands-poster.jpg" alt="Badlands poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069762/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Juniper Tree</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328012</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Juniper_Tree-poster.jpg" alt="The Juniper Tree poster" /><br/><br/><a href="https://www.imdb.com/title/tt0138545/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Four Lions</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327987</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Four_Lions-poster.jpg" alt="Four Lions poster" /><br/><br/><a href="https://www.imdb.com/title/tt1341167/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
