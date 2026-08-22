@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Lucky (2026)</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328643</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lucky_(2026)-poster.jpg" alt="Lucky (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt34866681/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Fantastic Four: First Steps</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328634</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fantastic_Four_First_Steps-poster.jpg" alt="The Fantastic Four: First Steps poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676052/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Journeyman</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327001</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Journeyman-poster.jpg" alt="Journeyman poster" /><br/><br/><a href="https://www.imdb.com/title/tt5314118/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Andre the Giant</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326985</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Andre_the_Giant-poster.jpg" alt="Andre the Giant poster" /><br/><br/><a href="https://www.imdb.com/title/tt6543420/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

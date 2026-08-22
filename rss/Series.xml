@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Lucky (2026)</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328643</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lucky_(2026)-poster.jpg" alt="Lucky (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt34866681/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Twin</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328265</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Twin-poster.jpg" alt="Twin poster" /><br/><br/><a href="https://www.imdb.com/title/tt6710454/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Something Very Bad Is Going To Happen</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=324818</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Something_Very_Bad_Is_Going_To_Happen-poster.jpg" alt="Something Very Bad Is Going To Happen poster" /><br/><br/><a href="https://www.imdb.com/title/tt32937780/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Justified: City Primeval</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324773</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Justified_City_Primeval-poster.jpg" alt="Justified: City Primeval poster" /><br/><br/><a href="https://www.imdb.com/title/tt14263564/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
