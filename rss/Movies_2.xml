@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sugarhouse</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328705</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugarhouse-poster.jpg" alt="Sugarhouse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0847526/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>What Comes Around</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328698</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/What_Comes_Around-poster.jpg" alt="What Comes Around poster" /><br/><br/><a href="https://www.imdb.com/title/tt21389338/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Fantastic Four: First Steps</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328634</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fantastic_Four_First_Steps-poster.jpg" alt="The Fantastic Four: First Steps poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676052/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Deathwatch</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328024</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deathwatch-poster.jpg" alt="Deathwatch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0286306/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sex &amp; Drugs &amp; Rock &amp; Roll</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328020</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sex_&amp;_Drugs_&amp;_Rock_&amp;_Roll-poster.jpg" alt="Sex &amp; Drugs &amp; Rock &amp; Roll poster" /><br/><br/><a href="https://www.imdb.com/title/tt1393020/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Juniper Tree</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328012</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Juniper_Tree-poster.jpg" alt="The Juniper Tree poster" /><br/><br/><a href="https://www.imdb.com/title/tt0138545/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

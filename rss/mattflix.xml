@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Sugarhouse</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328705</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugarhouse-poster.jpg" alt="Sugarhouse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0847526/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>What Comes Around</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328698</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/What_Comes_Around-poster.jpg" alt="What Comes Around poster" /><br/><br/><a href="https://www.imdb.com/title/tt21389338/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Lucky (2026)</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328643</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lucky_(2026)-poster.jpg" alt="Lucky (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt34866681/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Europa Report</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327008</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Europa_Report-poster.jpg" alt="Europa Report poster" /><br/><br/><a href="https://www.imdb.com/title/tt2051879/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Nirvanna the Band the Show the Movie</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327006</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Nirvanna_the_Band_the_Show_the_Movie-poster.jpg" alt="Nirvanna the Band the Show the Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt35522483/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Journeyman</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327001</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Journeyman-poster.jpg" alt="Journeyman poster" /><br/><br/><a href="https://www.imdb.com/title/tt5314118/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
