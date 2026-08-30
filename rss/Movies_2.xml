@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sex, Lies, and Videotape</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328722</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sex,_Lies,_and_Videotape-poster.jpg" alt="Sex, Lies, and Videotape poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098724/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sugarhouse</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328705</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugarhouse-poster.jpg" alt="Sugarhouse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0847526/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Wild Bill</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328025</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wild_Bill-poster.jpg" alt="Wild Bill poster" /><br/><br/><a href="https://www.imdb.com/title/tt1795702/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deathwatch</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328024</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deathwatch-poster.jpg" alt="Deathwatch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0286306/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

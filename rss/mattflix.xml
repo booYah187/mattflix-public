@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Love/Hate</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328736</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Love_Hate-poster.jpg" alt="Love/Hate poster" /><br/><br/><a href="https://www.imdb.com/title/tt1625724/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Westies</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328724</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Westies-poster.jpg" alt="The Westies poster" /><br/><br/><a href="https://www.imdb.com/title/tt31849235/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sex, Lies, and Videotape</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328722</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sex,_Lies,_and_Videotape-poster.jpg" alt="Sex, Lies, and Videotape poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098724/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sugarhouse</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328705</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugarhouse-poster.jpg" alt="Sugarhouse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0847526/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Malibu's Most Wanted</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327021</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Malibu's_Most_Wanted-poster.jpg" alt="Malibu's Most Wanted poster" /><br/><br/><a href="https://www.imdb.com/title/tt0328099/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Starman</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327013</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Starman-poster.jpg" alt="Starman poster" /><br/><br/><a href="https://www.imdb.com/title/tt21220632/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Last Days on Mars</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327011</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Last_Days_on_Mars-poster.jpg" alt="The Last Days on Mars poster" /><br/><br/><a href="https://www.imdb.com/title/tt1709143/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Europa Report</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327008</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Europa_Report-poster.jpg" alt="Europa Report poster" /><br/><br/><a href="https://www.imdb.com/title/tt2051879/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
