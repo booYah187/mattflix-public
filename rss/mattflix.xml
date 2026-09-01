@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Story of Everything</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328797</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Story_of_Everything-poster.jpg" alt="The Story of Everything poster" /><br/><br/><a href="https://www.imdb.com/title/tt13374694/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Love/Hate</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328736</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Love_Hate-poster.jpg" alt="Love/Hate poster" /><br/><br/><a href="https://www.imdb.com/title/tt1625724/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Van Wilder</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327036</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Van_Wilder-poster.jpg" alt="Van Wilder poster" /><br/><br/><a href="https://www.imdb.com/title/tt0283111/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Malibu's Most Wanted</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327021</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Malibu's_Most_Wanted-poster.jpg" alt="Malibu's Most Wanted poster" /><br/><br/><a href="https://www.imdb.com/title/tt0328099/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
