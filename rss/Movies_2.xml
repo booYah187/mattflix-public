@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Calibre</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328849</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Calibre-poster.jpg" alt="Calibre poster" /><br/><br/><a href="https://www.imdb.com/title/tt6218358/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Journey</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328835</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Journey-poster.jpg" alt="The Journey poster" /><br/><br/><a href="https://www.imdb.com/title/tt4826674/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Tournament</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328827</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Tournament-poster.jpg" alt="The Tournament poster" /><br/><br/><a href="https://www.imdb.com/title/tt0471041/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sex, Lies, and Videotape</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328722</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sex,_Lies,_and_Videotape-poster.jpg" alt="Sex, Lies, and Videotape poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098724/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Faults</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328055</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Faults-poster.jpg" alt="Faults poster" /><br/><br/><a href="https://www.imdb.com/title/tt3021360/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Longford</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328042</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Longford-poster.jpg" alt="Longford poster" /><br/><br/><a href="https://www.imdb.com/title/tt0759612/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Thing</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328041</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing-poster.jpg" alt="The Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt0905372/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wild Bill</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328025</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wild_Bill-poster.jpg" alt="Wild Bill poster" /><br/><br/><a href="https://www.imdb.com/title/tt1795702/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
