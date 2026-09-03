@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Zathura: A Space Adventure</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328852</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zathura_A_Space_Adventure-poster.jpg" alt="Zathura: A Space Adventure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0406375/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Calibre</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328849</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Calibre-poster.jpg" alt="Calibre poster" /><br/><br/><a href="https://www.imdb.com/title/tt6218358/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>A Double Life</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327191</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Double_Life-poster.jpg" alt="A Double Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt16152130/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Obsession</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327174</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Obsession-poster.jpg" alt="Obsession poster" /><br/><br/><a href="https://www.imdb.com/title/tt37287335/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

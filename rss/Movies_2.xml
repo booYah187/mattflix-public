@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Zathura: A Space Adventure</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328852</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zathura_A_Space_Adventure-poster.jpg" alt="Zathura: A Space Adventure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0406375/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Calibre</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328849</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Calibre-poster.jpg" alt="Calibre poster" /><br/><br/><a href="https://www.imdb.com/title/tt6218358/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Planes, Trains and Automobiles</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328057</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Planes,_Trains_and_Automobiles-poster.jpg" alt="Planes, Trains and Automobiles poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093748/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Faults</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328055</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Faults-poster.jpg" alt="Faults poster" /><br/><br/><a href="https://www.imdb.com/title/tt3021360/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
