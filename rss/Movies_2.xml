@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Anderson Tapes</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328854</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Anderson_Tapes-poster.jpg" alt="The Anderson Tapes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0066767/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Zathura: A Space Adventure</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328852</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zathura_A_Space_Adventure-poster.jpg" alt="Zathura: A Space Adventure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0406375/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Jackass: Best and Last</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328059</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jackass_Best_and_Last-poster.jpg" alt="Jackass: Best and Last poster" /><br/><br/><a href="https://www.imdb.com/title/tt39316472/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Planes, Trains and Automobiles</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328057</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Planes,_Trains_and_Automobiles-poster.jpg" alt="Planes, Trains and Automobiles poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093748/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

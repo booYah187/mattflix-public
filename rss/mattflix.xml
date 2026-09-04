@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Anderson Tapes</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328854</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Anderson_Tapes-poster.jpg" alt="The Anderson Tapes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0066767/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Zathura: A Space Adventure</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328852</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zathura_A_Space_Adventure-poster.jpg" alt="Zathura: A Space Adventure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0406375/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Hardcore</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327194</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hardcore-poster.jpg" alt="Hardcore poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079271/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Double Life</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327191</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Double_Life-poster.jpg" alt="A Double Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt16152130/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
