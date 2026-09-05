@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>River</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328894</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/River-poster.jpg" alt="River poster" /><br/><br/><a href="https://www.imdb.com/title/tt4258440/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dublin Murders</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328875</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dublin_Murders-poster.jpg" alt="Dublin Murders poster" /><br/><br/><a href="https://www.imdb.com/title/tt7768192/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Love/Hate</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328736</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Love_Hate-poster.jpg" alt="Love/Hate poster" /><br/><br/><a href="https://www.imdb.com/title/tt1625724/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Counterpart</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=325713</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Counterpart-poster.jpg" alt="Counterpart poster" /><br/><br/><a href="https://www.imdb.com/title/tt4643084/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>1899</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=325377</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/1899-poster.jpg" alt="1899 poster" /><br/><br/><a href="https://www.imdb.com/title/tt9319668/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Burn Notice</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=325201</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Burn_Notice-poster.jpg" alt="Burn Notice poster" /><br/><br/><a href="https://www.imdb.com/title/tt0810788/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

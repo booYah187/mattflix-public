@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Death of Robin Hood</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328944</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Death_of_Robin_Hood-poster.jpg" alt="The Death of Robin Hood poster" /><br/><br/><a href="https://www.imdb.com/title/tt32273171/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>River</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328894</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/River-poster.jpg" alt="River poster" /><br/><br/><a href="https://www.imdb.com/title/tt4258440/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dublin Murders</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328875</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dublin_Murders-poster.jpg" alt="Dublin Murders poster" /><br/><br/><a href="https://www.imdb.com/title/tt7768192/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wind River</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328871</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wind_River-poster.jpg" alt="Wind River poster" /><br/><br/><a href="https://www.imdb.com/title/tt5362988/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Anderson Tapes</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328854</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Anderson_Tapes-poster.jpg" alt="The Anderson Tapes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0066767/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Maternal Instinct</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327214</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Maternal_Instinct-poster.jpg" alt="Maternal Instinct poster" /><br/><br/><a href="https://www.imdb.com/title/tt42863533/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Angus</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327213</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Angus-poster.jpg" alt="Angus poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112368/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sinister</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327209</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sinister-poster.jpg" alt="Sinister poster" /><br/><br/><a href="https://www.imdb.com/title/tt1922777/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Identity</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327195</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Identity-poster.jpg" alt="Identity poster" /><br/><br/><a href="https://www.imdb.com/title/tt0309698/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hardcore</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327194</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hardcore-poster.jpg" alt="Hardcore poster" /><br/><br/><a href="https://www.imdb.com/title/tt0079271/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
