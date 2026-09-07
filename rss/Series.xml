@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Temple</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328958</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Temple-poster.jpg" alt="Temple poster" /><br/><br/><a href="https://www.imdb.com/title/tt7736572/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>River</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328894</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/River-poster.jpg" alt="River poster" /><br/><br/><a href="https://www.imdb.com/title/tt4258440/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Dark</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=325816</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dark-poster.jpg" alt="Dark poster" /><br/><br/><a href="https://www.imdb.com/title/tt5753856/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Counterpart</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=325713</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Counterpart-poster.jpg" alt="Counterpart poster" /><br/><br/><a href="https://www.imdb.com/title/tt4643084/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

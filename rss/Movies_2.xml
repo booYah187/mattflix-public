@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Deep Water</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328987</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Water-poster.jpg" alt="Deep Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt2180339/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Clue</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328953</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Clue-poster.jpg" alt="Clue poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088930/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Devil Thumbs a Ride</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328218</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil_Thumbs_a_Ride-poster.jpg" alt="The Devil Thumbs a Ride poster" /><br/><br/><a href="https://www.imdb.com/title/tt0039317/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Miracle Mile</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328213</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_Mile-poster.jpg" alt="Miracle Mile poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097889/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
