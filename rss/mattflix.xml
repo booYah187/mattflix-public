@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Furious</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328991</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Furious-poster.jpg" alt="Furious poster" /><br/><br/><a href="https://www.imdb.com/title/tt36303968/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Deep Water</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328987</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Water-poster.jpg" alt="Deep Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt2180339/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Officer Down</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327249</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Officer_Down-poster.jpg" alt="Officer Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt1925479/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Screamers</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327229</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Screamers-poster.jpg" alt="Screamers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114367/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
