@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Daffy Duck's Quackbusters</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329052</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Daffy_Duck's_Quackbusters-poster.jpg" alt="Daffy Duck's Quackbusters poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094939/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bugs Bunny's 3rd Movie: 1001 Rabbit Tales</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329049</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bugs_Bunny's_3rd_Movie_1001_Rabbit_Tales-poster.jpg" alt="Bugs Bunny's 3rd Movie: 1001 Rabbit Tales poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083701/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Furious</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328991</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Furious-poster.jpg" alt="Furious poster" /><br/><br/><a href="https://www.imdb.com/title/tt36303968/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Withnail &amp; I</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327254</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Withnail_&amp;_I-poster.jpg" alt="Withnail &amp; I poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094336/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dead &amp; Buried</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327253</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_&amp;_Buried-poster.jpg" alt="Dead &amp; Buried poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082242/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Officer Down</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327249</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Officer_Down-poster.jpg" alt="Officer Down poster" /><br/><br/><a href="https://www.imdb.com/title/tt1925479/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

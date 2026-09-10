@@ -6,6 +6,16 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Daffy Duck's Quackbusters</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329052</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Daffy_Duck's_Quackbusters-poster.jpg" alt="Daffy Duck's Quackbusters poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094939/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bugs Bunny's 3rd Movie: 1001 Rabbit Tales</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329049</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bugs_Bunny's_3rd_Movie_1001_Rabbit_Tales-poster.jpg" alt="Bugs Bunny's 3rd Movie: 1001 Rabbit Tales poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083701/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>X-Men: The Animated Series</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328345</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_The_Animated_Series-poster.jpg" alt="X-Men: The Animated Series poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103584/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>GOAT</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=319430</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/GOAT-poster.jpg" alt="GOAT poster" /><br/><br/><a href="https://www.imdb.com/title/tt27613895/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Harry and the Hendersons</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=319262</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Harry_and_the_Hendersons-poster.jpg" alt="Harry and the Hendersons poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093148/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rugrats</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=317002</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rugrats-poster.jpg" alt="Rugrats poster" /><br/><br/><a href="https://www.imdb.com/title/tt0101188/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
