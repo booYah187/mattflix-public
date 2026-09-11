@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Perpetual Grace LTD</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329057</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perpetual_Grace_LTD-poster.jpg" alt="Perpetual Grace LTD poster" /><br/><br/><a href="https://www.imdb.com/title/tt8912384/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Furious</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328991</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Furious-poster.jpg" alt="Furious poster" /><br/><br/><a href="https://www.imdb.com/title/tt36303968/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Penguin</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=326043</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Penguin-poster.jpg" alt="The Penguin poster" /><br/><br/><a href="https://www.imdb.com/title/tt15435876/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Noir</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=325994</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Noir-poster.jpg" alt="Spider-Noir poster" /><br/><br/><a href="https://www.imdb.com/title/tt30460310/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Perpetual Grace LTD</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329057</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perpetual_Grace_LTD-poster.jpg" alt="Perpetual Grace LTD poster" /><br/><br/><a href="https://www.imdb.com/title/tt8912384/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Daffy Duck's Quackbusters</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329052</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Daffy_Duck's_Quackbusters-poster.jpg" alt="Daffy Duck's Quackbusters poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094939/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>National Treasure</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327269</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/National_Treasure-poster.jpg" alt="National Treasure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0368891/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Withnail &amp; I</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327254</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Withnail_&amp;_I-poster.jpg" alt="Withnail &amp; I poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094336/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
