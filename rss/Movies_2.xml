@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The End of Oak Street</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329102</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_End_of_Oak_Street-poster.jpg" alt="The End of Oak Street poster" /><br/><br/><a href="https://www.imdb.com/title/tt27165187/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Deep Water</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328987</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Water-poster.jpg" alt="Deep Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt2180339/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Young Washington</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328225</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Young_Washington-poster.jpg" alt="Young Washington poster" /><br/><br/><a href="https://www.imdb.com/title/tt32104007/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Devil Thumbs a Ride</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328218</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil_Thumbs_a_Ride-poster.jpg" alt="The Devil Thumbs a Ride poster" /><br/><br/><a href="https://www.imdb.com/title/tt0039317/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
