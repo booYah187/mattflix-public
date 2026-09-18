@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Space Jam</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329182</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Space_Jam-poster.jpg" alt="Space Jam poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117705/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Looney Tunes: Back in Action</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329175</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Looney_Tunes_Back_in_Action-poster.jpg" alt="Looney Tunes: Back in Action poster" /><br/><br/><a href="https://www.imdb.com/title/tt0318155/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Frighteners</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329173</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Frighteners-poster.jpg" alt="The Frighteners poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116365/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>The Listeners</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327424</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Listeners-poster.jpg" alt="The Listeners poster" /><br/><br/><a href="https://www.imdb.com/title/tt31490551/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Furious</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327350</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Furious-poster.jpg" alt="The Furious poster" /><br/><br/><a href="https://www.imdb.com/title/tt33311069/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The North Water</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327321</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_North_Water-poster.jpg" alt="The North Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt7660970/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

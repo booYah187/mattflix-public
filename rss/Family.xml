@@ -6,6 +6,16 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Space Jam</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329182</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Space_Jam-poster.jpg" alt="Space Jam poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117705/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Looney Tunes: Back in Action</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329175</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Looney_Tunes_Back_in_Action-poster.jpg" alt="Looney Tunes: Back in Action poster" /><br/><br/><a href="https://www.imdb.com/title/tt0318155/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Daffy Duck's Quackbusters</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329052</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Daffy_Duck's_Quackbusters-poster.jpg" alt="Daffy Duck's Quackbusters poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094939/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Bedtime Stories</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=319798</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bedtime_Stories-poster.jpg" alt="Bedtime Stories poster" /><br/><br/><a href="https://www.imdb.com/title/tt0960731/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hoppers</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=319489</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hoppers-poster.jpg" alt="Hoppers poster" /><br/><br/><a href="https://www.imdb.com/title/tt26443616/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>GOAT</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=319430</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/GOAT-poster.jpg" alt="GOAT poster" /><br/><br/><a href="https://www.imdb.com/title/tt27613895/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
