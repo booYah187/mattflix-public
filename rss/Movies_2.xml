@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Shallow Grave</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329216</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shallow_Grave-poster.jpg" alt="Shallow Grave poster" /><br/><br/><a href="https://www.imdb.com/title/tt0111149/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Frighteners</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329173</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Frighteners-poster.jpg" alt="The Frighteners poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116365/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>3 Women</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328579</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_Women-poster.jpg" alt="3 Women poster" /><br/><br/><a href="https://www.imdb.com/title/tt0075612/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bad Seed</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328569</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bad_Seed-poster.jpg" alt="The Bad Seed poster" /><br/><br/><a href="https://www.imdb.com/title/tt0048977/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

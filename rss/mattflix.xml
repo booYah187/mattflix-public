@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Shallow Grave</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329216</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shallow_Grave-poster.jpg" alt="Shallow Grave poster" /><br/><br/><a href="https://www.imdb.com/title/tt0111149/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mint</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329205</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mint-poster.jpg" alt="Mint poster" /><br/><br/><a href="https://www.imdb.com/title/tt36363511/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Space Jam</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329182</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Space_Jam-poster.jpg" alt="Space Jam poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117705/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Tuner</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327450</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tuner-poster.jpg" alt="Tuner poster" /><br/><br/><a href="https://www.imdb.com/title/tt33296751/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Song Sung Blue</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327447</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Song_Sung_Blue-poster.jpg" alt="Song Sung Blue poster" /><br/><br/><a href="https://www.imdb.com/title/tt30343021/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Listeners</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327424</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Listeners-poster.jpg" alt="The Listeners poster" /><br/><br/><a href="https://www.imdb.com/title/tt31490551/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
