@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Super Troopers 3</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329258</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Super_Troopers_3-poster.jpg" alt="Super Troopers 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt8820258/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Super Troopers 2</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329257</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Super_Troopers_2-poster.jpg" alt="Super Troopers 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0859635/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Shallow Grave</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329216</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shallow_Grave-poster.jpg" alt="Shallow Grave poster" /><br/><br/><a href="https://www.imdb.com/title/tt0111149/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Mud</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328608</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mud-poster.jpg" alt="Mud poster" /><br/><br/><a href="https://www.imdb.com/title/tt1935179/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Skeleton Key</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328583</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Skeleton_Key-poster.jpg" alt="The Skeleton Key poster" /><br/><br/><a href="https://www.imdb.com/title/tt0397101/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>3 Women</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328579</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_Women-poster.jpg" alt="3 Women poster" /><br/><br/><a href="https://www.imdb.com/title/tt0075612/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

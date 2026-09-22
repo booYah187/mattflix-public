@@ -6,6 +6,16 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Mr. Scorsese</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329296</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mr._Scorsese-poster.jpg" alt="Mr. Scorsese poster" /><br/><br/><a href="https://www.imdb.com/title/tt36998986/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>LIGHT &amp; MAGIC</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329225</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/LIGHT_&amp;_MAGIC-poster.jpg" alt="LIGHT &amp; MAGIC poster" /><br/><br/><a href="https://www.imdb.com/title/tt19896784/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Story of Everything</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328797</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Story_of_Everything-poster.jpg" alt="The Story of Everything poster" /><br/><br/><a href="https://www.imdb.com/title/tt13374694/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>The Kid Stays in the Picture</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=323762</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kid_Stays_in_the_Picture-poster.jpg" alt="The Kid Stays in the Picture poster" /><br/><br/><a href="https://www.imdb.com/title/tt0303353/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Superhot: The Spicy World of Pepper People</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=323171</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Superhot_The_Spicy_World_of_Pepper_People-poster.jpg" alt="Superhot: The Spicy World of Pepper People poster" /><br/><br/><a href="https://www.imdb.com/title/tt29740695/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Who Are You, Charlie Brown?</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=322987</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Who_Are_You,_Charlie_Brown_-poster.jpg" alt="Who Are You, Charlie Brown? poster" /><br/><br/><a href="https://www.imdb.com/title/tt14784858/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

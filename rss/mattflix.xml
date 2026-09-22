@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Mr. Scorsese</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329296</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mr._Scorsese-poster.jpg" alt="Mr. Scorsese poster" /><br/><br/><a href="https://www.imdb.com/title/tt36998986/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Super Troopers 3</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329258</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Super_Troopers_3-poster.jpg" alt="Super Troopers 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt8820258/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Super Troopers 2</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329257</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Super_Troopers_2-poster.jpg" alt="Super Troopers 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0859635/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>LIGHT &amp; MAGIC</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329225</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/LIGHT_&amp;_MAGIC-poster.jpg" alt="LIGHT &amp; MAGIC poster" /><br/><br/><a href="https://www.imdb.com/title/tt19896784/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Shallow Grave</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329216</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shallow_Grave-poster.jpg" alt="Shallow Grave poster" /><br/><br/><a href="https://www.imdb.com/title/tt0111149/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>The Shadow in My Eye</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327481</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Shadow_in_My_Eye-poster.jpg" alt="The Shadow in My Eye poster" /><br/><br/><a href="https://www.imdb.com/title/tt9170516/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Zoe</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327471</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zoe-poster.jpg" alt="Zoe poster" /><br/><br/><a href="https://www.imdb.com/title/tt6010628/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cosmos</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327466</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cosmos-poster.jpg" alt="Cosmos poster" /><br/><br/><a href="https://www.imdb.com/title/tt4477292/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Backrooms</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327456</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Backrooms-poster.jpg" alt="Backrooms poster" /><br/><br/><a href="https://www.imdb.com/title/tt26657236/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tuner</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327450</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tuner-poster.jpg" alt="Tuner poster" /><br/><br/><a href="https://www.imdb.com/title/tt33296751/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
