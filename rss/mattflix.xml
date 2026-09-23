@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Cargo</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329369</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cargo-poster.jpg" alt="Cargo poster" /><br/><br/><a href="https://www.imdb.com/title/tt3860916/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dead Souls</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329330</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_Souls-poster.jpg" alt="Dead Souls poster" /><br/><br/><a href="https://www.imdb.com/title/tt34142731/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Idiots</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329324</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Idiots-poster.jpg" alt="Idiots poster" /><br/><br/><a href="https://www.imdb.com/title/tt6628920/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Mr. Scorsese</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329296</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mr._Scorsese-poster.jpg" alt="Mr. Scorsese poster" /><br/><br/><a href="https://www.imdb.com/title/tt36998986/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Star Wars: The Mandalorian and Grogu</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327549</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_The_Mandalorian_and_Grogu-poster.jpg" alt="Star Wars: The Mandalorian and Grogu poster" /><br/><br/><a href="https://www.imdb.com/title/tt30825738/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Fatso</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327545</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fatso-poster.jpg" alt="Fatso poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080724/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Winter of the Crow</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327517</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Winter_of_the_Crow-poster.jpg" alt="Winter of the Crow poster" /><br/><br/><a href="https://www.imdb.com/title/tt30235784/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Shadow in My Eye</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327481</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Shadow_in_My_Eye-poster.jpg" alt="The Shadow in My Eye poster" /><br/><br/><a href="https://www.imdb.com/title/tt9170516/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
