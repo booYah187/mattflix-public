@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Blue Ruin</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329380</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blue_Ruin-poster.jpg" alt="Blue Ruin poster" /><br/><br/><a href="https://www.imdb.com/title/tt2359024/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Paper Moon</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329377</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Paper_Moon-poster.jpg" alt="Paper Moon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0070510/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Cargo</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329369</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cargo-poster.jpg" alt="Cargo poster" /><br/><br/><a href="https://www.imdb.com/title/tt3860916/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Tenet</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327559</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tenet-poster.jpg" alt="Tenet poster" /><br/><br/><a href="https://www.imdb.com/title/tt6723592/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>5lbs of Pressure</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327551</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/5lbs_of_Pressure-poster.jpg" alt="5lbs of Pressure poster" /><br/><br/><a href="https://www.imdb.com/title/tt1524515/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Star Wars: The Mandalorian and Grogu</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327549</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_The_Mandalorian_and_Grogu-poster.jpg" alt="Star Wars: The Mandalorian and Grogu poster" /><br/><br/><a href="https://www.imdb.com/title/tt30825738/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

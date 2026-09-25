@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Blue Ruin</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329380</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blue_Ruin-poster.jpg" alt="Blue Ruin poster" /><br/><br/><a href="https://www.imdb.com/title/tt2359024/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Paper Moon</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329377</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Paper_Moon-poster.jpg" alt="Paper Moon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0070510/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Cargo</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329369</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cargo-poster.jpg" alt="Cargo poster" /><br/><br/><a href="https://www.imdb.com/title/tt3860916/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Sugarhouse</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328705</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugarhouse-poster.jpg" alt="Sugarhouse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0847526/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>What Comes Around</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328698</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/What_Comes_Around-poster.jpg" alt="What Comes Around poster" /><br/><br/><a href="https://www.imdb.com/title/tt21389338/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Fantastic Four: First Steps</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328634</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fantastic_Four_First_Steps-poster.jpg" alt="The Fantastic Four: First Steps poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676052/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
