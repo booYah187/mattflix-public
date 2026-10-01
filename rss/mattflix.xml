@@ -2,8 +2,508 @@
 <rss version="2.0">
   <channel>
     <title>mattflix – Recently Added (All Libraries)</title>
-    <link>https://blacklungindustries.ddns.net/mattflix</link>
+    <link>http://192.168.1.16:8096</link>
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
+    <item>
+      <title>Breaking Away</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329421</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Breaking_Away-poster.jpg" alt="Breaking Away poster" /><br/><br/><a href="https://www.imdb.com/title/tt0078902/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Coyote vs. Acme</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329417</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Coyote_vs._Acme-poster.jpg" alt="Coyote vs. Acme poster" /><br/><br/><a href="https://www.imdb.com/title/tt1756855/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Small Soldiers</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329385</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Small_Soldiers-poster.jpg" alt="Small Soldiers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0122718/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Blue Ruin</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329380</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blue_Ruin-poster.jpg" alt="Blue Ruin poster" /><br/><br/><a href="https://www.imdb.com/title/tt2359024/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Paper Moon</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329377</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Paper_Moon-poster.jpg" alt="Paper Moon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0070510/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cargo</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329369</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cargo-poster.jpg" alt="Cargo poster" /><br/><br/><a href="https://www.imdb.com/title/tt3860916/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dead Souls</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329330</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_Souls-poster.jpg" alt="Dead Souls poster" /><br/><br/><a href="https://www.imdb.com/title/tt34142731/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Idiots</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329324</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Idiots-poster.jpg" alt="Idiots poster" /><br/><br/><a href="https://www.imdb.com/title/tt6628920/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mr. Scorsese</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329296</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mr._Scorsese-poster.jpg" alt="Mr. Scorsese poster" /><br/><br/><a href="https://www.imdb.com/title/tt36998986/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Super Troopers 3</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329258</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Super_Troopers_3-poster.jpg" alt="Super Troopers 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt8820258/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Super Troopers 2</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329257</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Super_Troopers_2-poster.jpg" alt="Super Troopers 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0859635/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>LIGHT &amp; MAGIC</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329225</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/LIGHT_&amp;_MAGIC-poster.jpg" alt="LIGHT &amp; MAGIC poster" /><br/><br/><a href="https://www.imdb.com/title/tt19896784/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Shallow Grave</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329216</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shallow_Grave-poster.jpg" alt="Shallow Grave poster" /><br/><br/><a href="https://www.imdb.com/title/tt0111149/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mint</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329205</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mint-poster.jpg" alt="Mint poster" /><br/><br/><a href="https://www.imdb.com/title/tt36363511/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Space Jam</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329182</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Space_Jam-poster.jpg" alt="Space Jam poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117705/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Looney Tunes: Back in Action</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329175</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Looney_Tunes_Back_in_Action-poster.jpg" alt="Looney Tunes: Back in Action poster" /><br/><br/><a href="https://www.imdb.com/title/tt0318155/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Frighteners</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329173</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Frighteners-poster.jpg" alt="The Frighteners poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116365/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Changeling</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329161</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Changeling-poster.jpg" alt="The Changeling poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080516/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Fallen</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329160</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fallen-poster.jpg" alt="Fallen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119099/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Other People</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329115</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Other_People-poster.jpg" alt="The Other People poster" /><br/><br/><a href="https://www.imdb.com/title/tt32844466/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Rivals of Amziah King</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329114</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rivals_of_Amziah_King-poster.jpg" alt="The Rivals of Amziah King poster" /><br/><br/><a href="https://www.imdb.com/title/tt27706593/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The End of Oak Street</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329102</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_End_of_Oak_Street-poster.jpg" alt="The End of Oak Street poster" /><br/><br/><a href="https://www.imdb.com/title/tt27165187/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Perpetual Grace LTD</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329057</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perpetual_Grace_LTD-poster.jpg" alt="Perpetual Grace LTD poster" /><br/><br/><a href="https://www.imdb.com/title/tt8912384/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Daffy Duck's Quackbusters</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329052</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Daffy_Duck's_Quackbusters-poster.jpg" alt="Daffy Duck's Quackbusters poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094939/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bugs Bunny's 3rd Movie: 1001 Rabbit Tales</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329049</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bugs_Bunny's_3rd_Movie_1001_Rabbit_Tales-poster.jpg" alt="Bugs Bunny's 3rd Movie: 1001 Rabbit Tales poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083701/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Furious</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328991</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Furious-poster.jpg" alt="Furious poster" /><br/><br/><a href="https://www.imdb.com/title/tt36303968/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Deep Water</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328987</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Water-poster.jpg" alt="Deep Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt2180339/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Temple</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328958</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Temple-poster.jpg" alt="Temple poster" /><br/><br/><a href="https://www.imdb.com/title/tt7736572/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Clue</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328953</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Clue-poster.jpg" alt="Clue poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088930/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Death of Robin Hood</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328944</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Death_of_Robin_Hood-poster.jpg" alt="The Death of Robin Hood poster" /><br/><br/><a href="https://www.imdb.com/title/tt32273171/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>River</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328894</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/River-poster.jpg" alt="River poster" /><br/><br/><a href="https://www.imdb.com/title/tt4258440/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dublin Murders</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328875</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dublin_Murders-poster.jpg" alt="Dublin Murders poster" /><br/><br/><a href="https://www.imdb.com/title/tt7768192/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wind River</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328871</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wind_River-poster.jpg" alt="Wind River poster" /><br/><br/><a href="https://www.imdb.com/title/tt5362988/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Anderson Tapes</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328854</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Anderson_Tapes-poster.jpg" alt="The Anderson Tapes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0066767/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Zathura: A Space Adventure</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328852</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zathura_A_Space_Adventure-poster.jpg" alt="Zathura: A Space Adventure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0406375/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Calibre</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328849</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Calibre-poster.jpg" alt="Calibre poster" /><br/><br/><a href="https://www.imdb.com/title/tt6218358/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Journey</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328835</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Journey-poster.jpg" alt="The Journey poster" /><br/><br/><a href="https://www.imdb.com/title/tt4826674/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Tournament</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328827</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Tournament-poster.jpg" alt="The Tournament poster" /><br/><br/><a href="https://www.imdb.com/title/tt0471041/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Story of Everything</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328797</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Story_of_Everything-poster.jpg" alt="The Story of Everything poster" /><br/><br/><a href="https://www.imdb.com/title/tt13374694/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Love/Hate</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328736</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Love_Hate-poster.jpg" alt="Love/Hate poster" /><br/><br/><a href="https://www.imdb.com/title/tt1625724/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Westies</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328724</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Westies-poster.jpg" alt="The Westies poster" /><br/><br/><a href="https://www.imdb.com/title/tt31849235/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sex, Lies, and Videotape</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328722</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sex,_Lies,_and_Videotape-poster.jpg" alt="Sex, Lies, and Videotape poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098724/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sugarhouse</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328705</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugarhouse-poster.jpg" alt="Sugarhouse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0847526/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>What Comes Around</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328698</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/What_Comes_Around-poster.jpg" alt="What Comes Around poster" /><br/><br/><a href="https://www.imdb.com/title/tt21389338/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Lucky (2026)</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328643</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lucky_(2026)-poster.jpg" alt="Lucky (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt34866681/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Fantastic Four: First Steps</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328634</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fantastic_Four_First_Steps-poster.jpg" alt="The Fantastic Four: First Steps poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676052/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Badlands</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328619</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Badlands-poster.jpg" alt="Badlands poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069762/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Seconds</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328609</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Seconds-poster.jpg" alt="Seconds poster" /><br/><br/><a href="https://www.imdb.com/title/tt0060955/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Mud</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328608</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mud-poster.jpg" alt="Mud poster" /><br/><br/><a href="https://www.imdb.com/title/tt1935179/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Skeleton Key</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328583</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Skeleton_Key-poster.jpg" alt="The Skeleton Key poster" /><br/><br/><a href="https://www.imdb.com/title/tt0397101/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>3 Women</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328579</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_Women-poster.jpg" alt="3 Women poster" /><br/><br/><a href="https://www.imdb.com/title/tt0075612/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Bad Seed</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328569</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bad_Seed-poster.jpg" alt="The Bad Seed poster" /><br/><br/><a href="https://www.imdb.com/title/tt0048977/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Birthday Party</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328550</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Birthday_Party-poster.jpg" alt="The Birthday Party poster" /><br/><br/><a href="https://www.imdb.com/title/tt33269988/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Kubi</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328520</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kubi-poster.jpg" alt="Kubi poster" /><br/><br/><a href="https://www.imdb.com/title/tt27502365/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jennifer's Body</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328514</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jennifer's_Body-poster.jpg" alt="Jennifer's Body poster" /><br/><br/><a href="https://www.imdb.com/title/tt1131734/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>X-Men: The Animated Series</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328345</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_The_Animated_Series-poster.jpg" alt="X-Men: The Animated Series poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103584/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Perfect Blue</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328323</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perfect_Blue-poster.jpg" alt="Perfect Blue poster" /><br/><br/><a href="https://www.imdb.com/title/tt0156887/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Kill Team</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328309</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kill_Team-poster.jpg" alt="The Kill Team poster" /><br/><br/><a href="https://www.imdb.com/title/tt2732932/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Twin</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328265</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Twin-poster.jpg" alt="Twin poster" /><br/><br/><a href="https://www.imdb.com/title/tt6710454/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rematch</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328250</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rematch-poster.jpg" alt="Rematch poster" /><br/><br/><a href="https://www.imdb.com/title/tt26741906/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Young Washington</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328225</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Young_Washington-poster.jpg" alt="Young Washington poster" /><br/><br/><a href="https://www.imdb.com/title/tt32104007/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Devil Thumbs a Ride</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328218</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil_Thumbs_a_Ride-poster.jpg" alt="The Devil Thumbs a Ride poster" /><br/><br/><a href="https://www.imdb.com/title/tt0039317/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Miracle Mile</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328213</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_Mile-poster.jpg" alt="Miracle Mile poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097889/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Applesauce</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328155</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Applesauce-poster.jpg" alt="Applesauce poster" /><br/><br/><a href="https://www.imdb.com/title/tt4270878/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Dinner in America</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328136</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dinner_in_America-poster.jpg" alt="Dinner in America poster" /><br/><br/><a href="https://www.imdb.com/title/tt9058654/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jackass: Best and Last</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328059</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jackass_Best_and_Last-poster.jpg" alt="Jackass: Best and Last poster" /><br/><br/><a href="https://www.imdb.com/title/tt39316472/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Planes, Trains and Automobiles</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328057</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Planes,_Trains_and_Automobiles-poster.jpg" alt="Planes, Trains and Automobiles poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093748/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Faults</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328055</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Faults-poster.jpg" alt="Faults poster" /><br/><br/><a href="https://www.imdb.com/title/tt3021360/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Longford</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328042</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Longford-poster.jpg" alt="Longford poster" /><br/><br/><a href="https://www.imdb.com/title/tt0759612/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Thing</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328041</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing-poster.jpg" alt="The Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt0905372/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wild Bill</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328025</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wild_Bill-poster.jpg" alt="Wild Bill poster" /><br/><br/><a href="https://www.imdb.com/title/tt1795702/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Deathwatch</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328024</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deathwatch-poster.jpg" alt="Deathwatch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0286306/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sex &amp; Drugs &amp; Rock &amp; Roll</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328020</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sex_&amp;_Drugs_&amp;_Rock_&amp;_Roll-poster.jpg" alt="Sex &amp; Drugs &amp; Rock &amp; Roll poster" /><br/><br/><a href="https://www.imdb.com/title/tt1393020/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Juniper Tree</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328012</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Juniper_Tree-poster.jpg" alt="The Juniper Tree poster" /><br/><br/><a href="https://www.imdb.com/title/tt0138545/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Richard Pryor: Icon</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327994</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Richard_Pryor_Icon-poster.jpg" alt="Richard Pryor: Icon poster" /><br/><br/><a href="https://www.imdb.com/title/tt4226446/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The World's End: The Legacy of 'Day of the Dead'</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327993</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_World's_End_The_Legacy_of_'Day_of_the_Dead'-poster.jpg" alt="The World's End: The Legacy of 'Day of the Dead' poster" /><br/><br/><a href="https://www.imdb.com/title/tt3276916/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Four Lions</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327987</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Four_Lions-poster.jpg" alt="Four Lions poster" /><br/><br/><a href="https://www.imdb.com/title/tt1341167/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Iceman</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327985</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iceman-poster.jpg" alt="Iceman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0087452/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Evil Dead Burn</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327976</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Evil_Dead_Burn-poster.jpg" alt="Evil Dead Burn poster" /><br/><br/><a href="https://www.imdb.com/title/tt31170389/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Star Wars: Skeleton Crew</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327943</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_Skeleton_Crew-poster.jpg" alt="Star Wars: Skeleton Crew poster" /><br/><br/><a href="https://www.imdb.com/title/tt20600980/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Rogue One: A Star Wars Story</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327927</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rogue_One_A_Star_Wars_Story-poster.jpg" alt="Rogue One: A Star Wars Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt3748528/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sinners</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327921</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sinners-poster.jpg" alt="Sinners poster" /><br/><br/><a href="https://www.imdb.com/title/tt31193180/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Solo: A Star Wars Story</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327903</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Solo_A_Star_Wars_Story-poster.jpg" alt="Solo: A Star Wars Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt3778644/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Obi-Wan Kenobi</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327864</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Obi-Wan_Kenobi-poster.jpg" alt="Obi-Wan Kenobi poster" /><br/><br/><a href="https://www.imdb.com/title/tt8466564/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Acolyte</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327834</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Acolyte-poster.jpg" alt="The Acolyte poster" /><br/><br/><a href="https://www.imdb.com/title/tt12262202/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Adventureland</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327827</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adventureland-poster.jpg" alt="Adventureland poster" /><br/><br/><a href="https://www.imdb.com/title/tt1091722/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Snack Shack</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327824</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Snack_Shack-poster.jpg" alt="Snack Shack poster" /><br/><br/><a href="https://www.imdb.com/title/tt22004344/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cop and ½</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327820</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cop_and_½-poster.jpg" alt="Cop and ½ poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106613/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Carolina Caroline</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327813</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Carolina_Caroline-poster.jpg" alt="Carolina Caroline poster" /><br/><br/><a href="https://www.imdb.com/title/tt33365126/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Cape Fear</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327750</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cape_Fear-poster.jpg" alt="Cape Fear poster" /><br/><br/><a href="https://www.imdb.com/title/tt34675596/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>ANZACS</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327713</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ANZACS-poster.jpg" alt="ANZACS poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088479/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Hamburger Hill</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327706</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hamburger_Hill-poster.jpg" alt="Hamburger Hill poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093137/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Turk 182!</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327705</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Turk_182!-poster.jpg" alt="Turk 182! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090217/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Midwich Cuckoos</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327631</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Midwich_Cuckoos-poster.jpg" alt="The Midwich Cuckoos poster" /><br/><br/><a href="https://www.imdb.com/title/tt14245846/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Disclosure Day</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327628</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Disclosure_Day-poster.jpg" alt="Disclosure Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt15047880/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>My Blue Heaven</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327627</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/My_Blue_Heaven-poster.jpg" alt="My Blue Heaven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0100212/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Great Train Robbery</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327619</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Great_Train_Robbery-poster.jpg" alt="The Great Train Robbery poster" /><br/><br/><a href="https://www.imdb.com/title/tt2763296/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Masters of the Universe</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327612</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Masters_of_the_Universe-poster.jpg" alt="Masters of the Universe poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093507/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Law Abiding Citizen</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327609</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Law_Abiding_Citizen-poster.jpg" alt="Law Abiding Citizen poster" /><br/><br/><a href="https://www.imdb.com/title/tt1197624/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Crocodile Dundee</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327592</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crocodile_Dundee-poster.jpg" alt="Crocodile Dundee poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090555/">View on IMDb</a>]]></description>
+    </item>
   </channel>
 </rss>
