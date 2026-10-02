@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>East of Eden (2026)</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329426</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/East_of_Eden_(2026)-poster.jpg" alt="East of Eden (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt21097264/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Mint</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329205</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mint-poster.jpg" alt="Mint poster" /><br/><br/><a href="https://www.imdb.com/title/tt36363511/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Widow's Bay</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=326912</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Widow's_Bay-poster.jpg" alt="Widow's Bay poster" /><br/><br/><a href="https://www.imdb.com/title/tt33332385/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lie to Me</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326324</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lie_to_Me-poster.jpg" alt="Lie to Me poster" /><br/><br/><a href="https://www.imdb.com/title/tt1235099/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sound of Metal</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329437</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sound_of_Metal-poster.jpg" alt="Sound of Metal poster" /><br/><br/><a href="https://www.imdb.com/title/tt5363618/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Breaking Away</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329421</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Breaking_Away-poster.jpg" alt="Breaking Away poster" /><br/><br/><a href="https://www.imdb.com/title/tt0078902/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Journey</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328835</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Journey-poster.jpg" alt="The Journey poster" /><br/><br/><a href="https://www.imdb.com/title/tt4826674/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Tournament</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328827</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Tournament-poster.jpg" alt="The Tournament poster" /><br/><br/><a href="https://www.imdb.com/title/tt0471041/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
