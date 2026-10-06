@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sing Sing</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329488</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sing_Sing-poster.jpg" alt="Sing Sing poster" /><br/><br/><a href="https://www.imdb.com/title/tt28479262/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Insidious: Out Of The Further</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329441</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Insidious_Out_Of_The_Further-poster.jpg" alt="Insidious: Out Of The Further poster" /><br/><br/><a href="https://www.imdb.com/title/tt32393988/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Spider-Man: Brand New Day</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329440</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_Brand_New_Day-poster.jpg" alt="Spider-Man: Brand New Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt22084616/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sound of Metal</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329437</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sound_of_Metal-poster.jpg" alt="Sound of Metal poster" /><br/><br/><a href="https://www.imdb.com/title/tt5363618/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>The Anderson Tapes</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328854</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Anderson_Tapes-poster.jpg" alt="The Anderson Tapes poster" /><br/><br/><a href="https://www.imdb.com/title/tt0066767/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Zathura: A Space Adventure</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328852</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Zathura_A_Space_Adventure-poster.jpg" alt="Zathura: A Space Adventure poster" /><br/><br/><a href="https://www.imdb.com/title/tt0406375/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Calibre</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328849</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Calibre-poster.jpg" alt="Calibre poster" /><br/><br/><a href="https://www.imdb.com/title/tt6218358/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Journey</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328835</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Journey-poster.jpg" alt="The Journey poster" /><br/><br/><a href="https://www.imdb.com/title/tt4826674/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
