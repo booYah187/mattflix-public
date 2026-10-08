@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Tremors 2: Aftershocks</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329533</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tremors_2_Aftershocks-poster.jpg" alt="Tremors 2: Aftershocks poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114720/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Trick or Treat</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329520</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Trick_or_Treat-poster.jpg" alt="Trick or Treat poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092112/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Let the Right One In</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329504</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Let_the_Right_One_In-poster.jpg" alt="Let the Right One In poster" /><br/><br/><a href="https://www.imdb.com/title/tt1139797/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Box</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329503</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Box-poster.jpg" alt="The Box poster" /><br/><br/><a href="https://www.imdb.com/title/tt0362478/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sing Sing</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329488</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sing_Sing-poster.jpg" alt="Sing Sing poster" /><br/><br/><a href="https://www.imdb.com/title/tt28479262/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>ANZACS</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327713</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ANZACS-poster.jpg" alt="ANZACS poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088479/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hamburger Hill</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327706</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hamburger_Hill-poster.jpg" alt="Hamburger Hill poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093137/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Turk 182!</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327705</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Turk_182!-poster.jpg" alt="Turk 182! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0090217/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Midwich Cuckoos</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327631</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Midwich_Cuckoos-poster.jpg" alt="The Midwich Cuckoos poster" /><br/><br/><a href="https://www.imdb.com/title/tt14245846/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Disclosure Day</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327628</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Disclosure_Day-poster.jpg" alt="Disclosure Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt15047880/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
