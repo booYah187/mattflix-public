@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Minions &amp; Monsters</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329538</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_&amp;_Monsters-poster.jpg" alt="Minions &amp; Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt32890033/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Tremors 2: Aftershocks</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329533</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tremors_2_Aftershocks-poster.jpg" alt="Tremors 2: Aftershocks poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114720/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Cape Fear</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327750</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cape_Fear-poster.jpg" alt="Cape Fear poster" /><br/><br/><a href="https://www.imdb.com/title/tt34675596/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>ANZACS</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327713</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/ANZACS-poster.jpg" alt="ANZACS poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088479/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
