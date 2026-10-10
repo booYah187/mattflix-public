@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Deep Red</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329580</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Red-poster.jpg" alt="Deep Red poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073582/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Christine</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329579</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Christine-poster.jpg" alt="Christine poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085333/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Tenebre</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329568</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tenebre-poster.jpg" alt="Tenebre poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084777/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Below</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329543</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Below-poster.jpg" alt="Below poster" /><br/><br/><a href="https://www.imdb.com/title/tt35934755/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Minions &amp; Monsters</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329538</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_&amp;_Monsters-poster.jpg" alt="Minions &amp; Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt32890033/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Adventureland</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327827</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Adventureland-poster.jpg" alt="Adventureland poster" /><br/><br/><a href="https://www.imdb.com/title/tt1091722/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Snack Shack</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327824</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Snack_Shack-poster.jpg" alt="Snack Shack poster" /><br/><br/><a href="https://www.imdb.com/title/tt22004344/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cop and ½</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327820</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cop_and_½-poster.jpg" alt="Cop and ½ poster" /><br/><br/><a href="https://www.imdb.com/title/tt0106613/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Carolina Caroline</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327813</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Carolina_Caroline-poster.jpg" alt="Carolina Caroline poster" /><br/><br/><a href="https://www.imdb.com/title/tt33365126/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cape Fear</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327750</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cape_Fear-poster.jpg" alt="Cape Fear poster" /><br/><br/><a href="https://www.imdb.com/title/tt34675596/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Below</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329543</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Below-poster.jpg" alt="Below poster" /><br/><br/><a href="https://www.imdb.com/title/tt35934755/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>East of Eden (2026)</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329426</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/East_of_Eden_(2026)-poster.jpg" alt="East of Eden (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt21097264/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Sherlock</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327044</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sherlock-poster.jpg" alt="Sherlock poster" /><br/><br/><a href="https://www.imdb.com/title/tt1475582/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Widow's Bay</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326912</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Widow's_Bay-poster.jpg" alt="Widow's Bay poster" /><br/><br/><a href="https://www.imdb.com/title/tt33332385/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

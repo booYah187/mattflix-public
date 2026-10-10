@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Deep Red</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329580</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Red-poster.jpg" alt="Deep Red poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073582/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Christine</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329579</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Christine-poster.jpg" alt="Christine poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085333/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Tenebre</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329568</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tenebre-poster.jpg" alt="Tenebre poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084777/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Tremors 2: Aftershocks</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329533</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tremors_2_Aftershocks-poster.jpg" alt="Tremors 2: Aftershocks poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114720/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>The Other People</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329115</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Other_People-poster.jpg" alt="The Other People poster" /><br/><br/><a href="https://www.imdb.com/title/tt32844466/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Rivals of Amziah King</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329114</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rivals_of_Amziah_King-poster.jpg" alt="The Rivals of Amziah King poster" /><br/><br/><a href="https://www.imdb.com/title/tt27706593/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The End of Oak Street</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329102</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_End_of_Oak_Street-poster.jpg" alt="The End of Oak Street poster" /><br/><br/><a href="https://www.imdb.com/title/tt27165187/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deep Water</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328987</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Water-poster.jpg" alt="Deep Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt2180339/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
