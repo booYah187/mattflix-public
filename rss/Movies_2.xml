@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Species III</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329635</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species_III-poster.jpg" alt="Species III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0410650/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Species II</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329612</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species_II-poster.jpg" alt="Species II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120841/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Species</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329604</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species-poster.jpg" alt="Species poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114508/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Deep Red</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329580</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Red-poster.jpg" alt="Deep Red poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073582/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>The Frighteners</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329173</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Frighteners-poster.jpg" alt="The Frighteners poster" /><br/><br/><a href="https://www.imdb.com/title/tt0116365/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Changeling</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329161</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Changeling-poster.jpg" alt="The Changeling poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080516/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Fallen</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329160</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fallen-poster.jpg" alt="Fallen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119099/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Other People</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329115</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Other_People-poster.jpg" alt="The Other People poster" /><br/><br/><a href="https://www.imdb.com/title/tt32844466/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
