@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Coraline</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329650</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Coraline-poster.jpg" alt="Coraline poster" /><br/><br/><a href="https://www.imdb.com/title/tt0327597/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>In the Mouth of Madness</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329648</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Mouth_of_Madness-poster.jpg" alt="In the Mouth of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113409/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Species II</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329647</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species_II-poster.jpg" alt="Species II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120841/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Rogue One: A Star Wars Story</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327927</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rogue_One_A_Star_Wars_Story-poster.jpg" alt="Rogue One: A Star Wars Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt3748528/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sinners</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327921</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sinners-poster.jpg" alt="Sinners poster" /><br/><br/><a href="https://www.imdb.com/title/tt31193180/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Solo: A Star Wars Story</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327903</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Solo_A_Star_Wars_Story-poster.jpg" alt="Solo: A Star Wars Story poster" /><br/><br/><a href="https://www.imdb.com/title/tt3778644/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

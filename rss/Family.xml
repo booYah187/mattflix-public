@@ -6,6 +6,11 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Coraline</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329650</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Coraline-poster.jpg" alt="Coraline poster" /><br/><br/><a href="https://www.imdb.com/title/tt0327597/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Minions & Monsters</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329538</link>
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_&_Monsters-poster.jpg" alt="Minions & Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt32890033/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Jumanji</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=321008</link>
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji-poster.jpg" alt="Jumanji poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113497/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Jumanji: Welcome to the Jungle</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=320999</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji_Welcome_to_the_Jungle-poster.jpg" alt="Jumanji: Welcome to the Jungle poster" /><br/><br/><a href="https://www.imdb.com/title/tt2283362/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
