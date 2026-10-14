@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Buddy</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329659</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Buddy-poster.jpg" alt="Buddy poster" /><br/><br/><a href="https://www.imdb.com/title/tt37281055/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sacrifice</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329658</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sacrifice-poster.jpg" alt="Sacrifice poster" /><br/><br/><a href="https://www.imdb.com/title/tt32268992/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>In the Mouth of Madness</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329648</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Mouth_of_Madness-poster.jpg" alt="In the Mouth of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113409/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Super Troopers 3</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329258</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Super_Troopers_3-poster.jpg" alt="Super Troopers 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt8820258/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Super Troopers 2</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329257</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Super_Troopers_2-poster.jpg" alt="Super Troopers 2 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0859635/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Shallow Grave</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329216</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Shallow_Grave-poster.jpg" alt="Shallow Grave poster" /><br/><br/><a href="https://www.imdb.com/title/tt0111149/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
