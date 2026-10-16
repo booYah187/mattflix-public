@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Crystal Lake</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329668</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crystal_Lake-poster.jpg" alt="Crystal Lake poster" /><br/><br/><a href="https://www.imdb.com/title/tt23148340/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Below</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329543</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Below-poster.jpg" alt="Below poster" /><br/><br/><a href="https://www.imdb.com/title/tt35934755/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Midnight Mass</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327281</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Midnight_Mass-poster.jpg" alt="Midnight Mass poster" /><br/><br/><a href="https://www.imdb.com/title/tt10574558/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sherlock</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327044</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sherlock-poster.jpg" alt="Sherlock poster" /><br/><br/><a href="https://www.imdb.com/title/tt1475582/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
