@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Man on Fire</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329761</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Man_on_Fire-poster.jpg" alt="Man on Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt27331527/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Norm: The Tale of Norm Macdonald</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329735</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Norm_The_Tale_of_Norm_Macdonald-poster.jpg" alt="Norm: The Tale of Norm Macdonald poster" /><br/><br/><a href="https://www.imdb.com/title/tt44822485/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Let Us Prey</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329720</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Let_Us_Prey-poster.jpg" alt="Let Us Prey poster" /><br/><br/><a href="https://www.imdb.com/title/tt3148348/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Late Fame</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329719</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Late_Fame-poster.jpg" alt="Late Fame poster" /><br/><br/><a href="https://www.imdb.com/title/tt32298494/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Crystal Lake</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329668</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crystal_Lake-poster.jpg" alt="Crystal Lake poster" /><br/><br/><a href="https://www.imdb.com/title/tt23148340/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>The Juniper Tree</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328012</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Juniper_Tree-poster.jpg" alt="The Juniper Tree poster" /><br/><br/><a href="https://www.imdb.com/title/tt0138545/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Richard Pryor: Icon</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327994</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Richard_Pryor_Icon-poster.jpg" alt="Richard Pryor: Icon poster" /><br/><br/><a href="https://www.imdb.com/title/tt4226446/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The World's End: The Legacy of 'Day of the Dead'</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327993</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_World's_End_The_Legacy_of_'Day_of_the_Dead'-poster.jpg" alt="The World's End: The Legacy of 'Day of the Dead' poster" /><br/><br/><a href="https://www.imdb.com/title/tt3276916/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Four Lions</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327987</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Four_Lions-poster.jpg" alt="Four Lions poster" /><br/><br/><a href="https://www.imdb.com/title/tt1341167/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Iceman</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327985</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Iceman-poster.jpg" alt="Iceman poster" /><br/><br/><a href="https://www.imdb.com/title/tt0087452/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

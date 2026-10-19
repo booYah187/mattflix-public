@@ -6,6 +6,11 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Norm: The Tale of Norm Macdonald</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329735</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Norm_The_Tale_of_Norm_Macdonald-poster.jpg" alt="Norm: The Tale of Norm Macdonald poster" /><br/><br/><a href="https://www.imdb.com/title/tt44822485/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Mr. Scorsese</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329296</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mr._Scorsese-poster.jpg" alt="Mr. Scorsese poster" /><br/><br/><a href="https://www.imdb.com/title/tt36998986/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>How It's Made</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=323770</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/How_It's_Made-poster.jpg" alt="How It's Made poster" /><br/><br/><a href="https://www.imdb.com/title/tt0835010/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Kid Stays in the Picture</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=323762</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kid_Stays_in_the_Picture-poster.jpg" alt="The Kid Stays in the Picture poster" /><br/><br/><a href="https://www.imdb.com/title/tt0303353/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

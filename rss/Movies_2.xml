@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Let Us Prey</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329720</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Let_Us_Prey-poster.jpg" alt="Let Us Prey poster" /><br/><br/><a href="https://www.imdb.com/title/tt3148348/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Late Fame</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329719</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Late_Fame-poster.jpg" alt="Late Fame poster" /><br/><br/><a href="https://www.imdb.com/title/tt32298494/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Buddy</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329659</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Buddy-poster.jpg" alt="Buddy poster" /><br/><br/><a href="https://www.imdb.com/title/tt37281055/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Dead Souls</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329330</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_Souls-poster.jpg" alt="Dead Souls poster" /><br/><br/><a href="https://www.imdb.com/title/tt34142731/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Idiots</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329324</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Idiots-poster.jpg" alt="Idiots poster" /><br/><br/><a href="https://www.imdb.com/title/tt6628920/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Super Troopers 3</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329258</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Super_Troopers_3-poster.jpg" alt="Super Troopers 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt8820258/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
