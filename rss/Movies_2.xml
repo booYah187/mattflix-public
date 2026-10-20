@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bloody Birthday</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329802</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bloody_Birthday-poster.jpg" alt="Bloody Birthday poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082084/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>By Any Means</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329791</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/By_Any_Means-poster.jpg" alt="By Any Means poster" /><br/><br/><a href="https://www.imdb.com/title/tt34379051/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Tenzing</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329789</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tenzing-poster.jpg" alt="Tenzing poster" /><br/><br/><a href="https://www.imdb.com/title/tt6262770/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Let Us Prey</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329720</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Let_Us_Prey-poster.jpg" alt="Let Us Prey poster" /><br/><br/><a href="https://www.imdb.com/title/tt3148348/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Blue Ruin</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329380</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blue_Ruin-poster.jpg" alt="Blue Ruin poster" /><br/><br/><a href="https://www.imdb.com/title/tt2359024/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Paper Moon</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329377</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Paper_Moon-poster.jpg" alt="Paper Moon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0070510/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cargo</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329369</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cargo-poster.jpg" alt="Cargo poster" /><br/><br/><a href="https://www.imdb.com/title/tt3860916/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dead Souls</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329330</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_Souls-poster.jpg" alt="Dead Souls poster" /><br/><br/><a href="https://www.imdb.com/title/tt34142731/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
