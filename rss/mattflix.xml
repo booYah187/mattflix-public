@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Weight</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329858</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Weight-poster.jpg" alt="The Weight poster" /><br/><br/><a href="https://www.imdb.com/title/tt10794054/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Tiny Fugitives</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329835</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tiny_Fugitives-poster.jpg" alt="Tiny Fugitives poster" /><br/><br/><a href="https://www.imdb.com/title/tt32827454/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Musical</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329812</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Musical-poster.jpg" alt="The Musical poster" /><br/><br/><a href="https://www.imdb.com/title/tt37775809/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bloody Birthday</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329802</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bloody_Birthday-poster.jpg" alt="Bloody Birthday poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082084/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Faults</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328055</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Faults-poster.jpg" alt="Faults poster" /><br/><br/><a href="https://www.imdb.com/title/tt3021360/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Longford</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328042</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Longford-poster.jpg" alt="Longford poster" /><br/><br/><a href="https://www.imdb.com/title/tt0759612/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Thing</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328041</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Thing-poster.jpg" alt="The Thing poster" /><br/><br/><a href="https://www.imdb.com/title/tt0905372/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wild Bill</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328025</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wild_Bill-poster.jpg" alt="Wild Bill poster" /><br/><br/><a href="https://www.imdb.com/title/tt1795702/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
