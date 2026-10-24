@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Blair Witch Project</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329984</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Blair_Witch_Project-poster.jpg" alt="The Blair Witch Project poster" /><br/><br/><a href="https://www.imdb.com/title/tt0185937/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Weight</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329858</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Weight-poster.jpg" alt="The Weight poster" /><br/><br/><a href="https://www.imdb.com/title/tt10794054/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Planes, Trains and Automobiles</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328057</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Planes,_Trains_and_Automobiles-poster.jpg" alt="Planes, Trains and Automobiles poster" /><br/><br/><a href="https://www.imdb.com/title/tt0093748/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Faults</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328055</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Faults-poster.jpg" alt="Faults poster" /><br/><br/><a href="https://www.imdb.com/title/tt3021360/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

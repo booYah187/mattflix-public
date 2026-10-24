@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Blair Witch Project</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329984</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Blair_Witch_Project-poster.jpg" alt="The Blair Witch Project poster" /><br/><br/><a href="https://www.imdb.com/title/tt0185937/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Weight</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329858</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Weight-poster.jpg" alt="The Weight poster" /><br/><br/><a href="https://www.imdb.com/title/tt10794054/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Spider-Man: Brand New Day</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329440</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_Brand_New_Day-poster.jpg" alt="Spider-Man: Brand New Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt22084616/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sound of Metal</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329437</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sound_of_Metal-poster.jpg" alt="Sound of Metal poster" /><br/><br/><a href="https://www.imdb.com/title/tt5363618/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
