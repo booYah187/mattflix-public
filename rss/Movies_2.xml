@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>My Bodyguard</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330016</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/My_Bodyguard-poster.jpg" alt="My Bodyguard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0081207/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Blair Witch Project</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329984</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Blair_Witch_Project-poster.jpg" alt="The Blair Witch Project poster" /><br/><br/><a href="https://www.imdb.com/title/tt0185937/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Insidious: Out Of The Further</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329441</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Insidious_Out_Of_The_Further-poster.jpg" alt="Insidious: Out Of The Further poster" /><br/><br/><a href="https://www.imdb.com/title/tt32393988/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Spider-Man: Brand New Day</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329440</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Spider-Man_Brand_New_Day-poster.jpg" alt="Spider-Man: Brand New Day poster" /><br/><br/><a href="https://www.imdb.com/title/tt22084616/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
