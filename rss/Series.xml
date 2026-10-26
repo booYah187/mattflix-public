@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Jericho (2006)</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330021</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jericho_(2006)-poster.jpg" alt="Jericho (2006) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0805663/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Man on Fire</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329761</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Man_on_Fire-poster.jpg" alt="Man on Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt27331527/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The North Water</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327321</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_North_Water-poster.jpg" alt="The North Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt7660970/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Take</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327298</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Take-poster.jpg" alt="The Take poster" /><br/><br/><a href="https://www.imdb.com/title/tt1366321/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
