@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Sleepaway Camp</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330161</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleepaway_Camp-poster.jpg" alt="Sleepaway Camp poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086320/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Night School</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330160</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Night_School-poster.jpg" alt="Night School poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082812/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Devil's Own</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330151</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil's_Own-poster.jpg" alt="The Devil's Own poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118972/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Blood Rage</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330145</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blood_Rage-poster.jpg" alt="Blood Rage poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085253/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Trick or Treat</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329520</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Trick_or_Treat-poster.jpg" alt="Trick or Treat poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092112/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Let the Right One In</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329504</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Let_the_Right_One_In-poster.jpg" alt="Let the Right One In poster" /><br/><br/><a href="https://www.imdb.com/title/tt1139797/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Box</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329503</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Box-poster.jpg" alt="The Box poster" /><br/><br/><a href="https://www.imdb.com/title/tt0362478/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sing Sing</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329488</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sing_Sing-poster.jpg" alt="Sing Sing poster" /><br/><br/><a href="https://www.imdb.com/title/tt28479262/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

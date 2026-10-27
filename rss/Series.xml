@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Dexter: New Blood</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330185</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dexter_New_Blood-poster.jpg" alt="Dexter: New Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt14164730/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Jericho (2006)</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330021</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jericho_(2006)-poster.jpg" alt="Jericho (2006) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0805663/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Listeners</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327424</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Listeners-poster.jpg" alt="The Listeners poster" /><br/><br/><a href="https://www.imdb.com/title/tt31490551/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The North Water</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327321</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_North_Water-poster.jpg" alt="The North Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt7660970/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

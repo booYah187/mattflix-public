@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Dexter: New Blood</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330185</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dexter_New_Blood-poster.jpg" alt="Dexter: New Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt14164730/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sleepaway Camp</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330161</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleepaway_Camp-poster.jpg" alt="Sleepaway Camp poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086320/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Night School</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330160</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Night_School-poster.jpg" alt="Night School poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082812/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Devil's Own</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330151</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil's_Own-poster.jpg" alt="The Devil's Own poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118972/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Blood Rage</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330145</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blood_Rage-poster.jpg" alt="Blood Rage poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085253/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Rematch</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328250</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rematch-poster.jpg" alt="Rematch poster" /><br/><br/><a href="https://www.imdb.com/title/tt26741906/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Young Washington</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328225</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Young_Washington-poster.jpg" alt="Young Washington poster" /><br/><br/><a href="https://www.imdb.com/title/tt32104007/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Devil Thumbs a Ride</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328218</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil_Thumbs_a_Ride-poster.jpg" alt="The Devil Thumbs a Ride poster" /><br/><br/><a href="https://www.imdb.com/title/tt0039317/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Miracle Mile</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328213</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_Mile-poster.jpg" alt="Miracle Mile poster" /><br/><br/><a href="https://www.imdb.com/title/tt0097889/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Applesauce</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328155</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Applesauce-poster.jpg" alt="Applesauce poster" /><br/><br/><a href="https://www.imdb.com/title/tt4270878/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
