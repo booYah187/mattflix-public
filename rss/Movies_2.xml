@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Phantom of the Paradise</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330222</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Phantom_of_the_Paradise-poster.jpg" alt="Phantom of the Paradise poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071994/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Sleepaway Camp</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330161</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleepaway_Camp-poster.jpg" alt="Sleepaway Camp poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086320/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Tremors 2: Aftershocks</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329533</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tremors_2_Aftershocks-poster.jpg" alt="Tremors 2: Aftershocks poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114720/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Trick or Treat</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329520</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Trick_or_Treat-poster.jpg" alt="Trick or Treat poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092112/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

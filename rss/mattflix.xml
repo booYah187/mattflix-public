@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Phantom of the Paradise</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330222</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Phantom_of_the_Paradise-poster.jpg" alt="Phantom of the Paradise poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071994/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Death Valley</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330215</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Death_Valley-poster.jpg" alt="Death Valley poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083805/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Water, Water Every Hare</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330214</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Water,_Water_Every_Hare-poster.jpg" alt="Water, Water Every Hare poster" /><br/><br/><a href="https://www.imdb.com/title/tt0045315/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Hair-Raising Hare</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330213</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hair-Raising_Hare-poster.jpg" alt="Hair-Raising Hare poster" /><br/><br/><a href="https://www.imdb.com/title/tt0038586/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Dexter: New Blood</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330185</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dexter_New_Blood-poster.jpg" alt="Dexter: New Blood poster" /><br/><br/><a href="https://www.imdb.com/title/tt14164730/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>X-Men: The Animated Series</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328345</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_The_Animated_Series-poster.jpg" alt="X-Men: The Animated Series poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103584/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Perfect Blue</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328323</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perfect_Blue-poster.jpg" alt="Perfect Blue poster" /><br/><br/><a href="https://www.imdb.com/title/tt0156887/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Kill Team</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328309</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Kill_Team-poster.jpg" alt="The Kill Team poster" /><br/><br/><a href="https://www.imdb.com/title/tt2732932/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Twin</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328265</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Twin-poster.jpg" alt="Twin poster" /><br/><br/><a href="https://www.imdb.com/title/tt6710454/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rematch</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328250</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rematch-poster.jpg" alt="Rematch poster" /><br/><br/><a href="https://www.imdb.com/title/tt26741906/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

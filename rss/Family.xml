@@ -6,6 +6,16 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Water, Water Every Hare</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330214</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Water,_Water_Every_Hare-poster.jpg" alt="Water, Water Every Hare poster" /><br/><br/><a href="https://www.imdb.com/title/tt0045315/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Hair-Raising Hare</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330213</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hair-Raising_Hare-poster.jpg" alt="Hair-Raising Hare poster" /><br/><br/><a href="https://www.imdb.com/title/tt0038586/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Coraline</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329650</link>
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Coraline-poster.jpg" alt="Coraline poster" /><br/><br/><a href="https://www.imdb.com/title/tt0327597/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>DuckTales</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=322081</link>
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/DuckTales-poster.jpg" alt="DuckTales poster" /><br/><br/><a href="https://www.imdb.com/title/tt0092345/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Batman: The Animated Series</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=322082</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Batman_The_Animated_Series-poster.jpg" alt="Batman: The Animated Series poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103359/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Jumanji</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=321008</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jumanji-poster.jpg" alt="Jumanji poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113497/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
