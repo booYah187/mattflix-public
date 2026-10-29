@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Ghostwatch</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330324</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ghostwatch-poster.jpg" alt="Ghostwatch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0200659/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Kin</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330239</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kin-poster.jpg" alt="Kin poster" /><br/><br/><a href="https://www.imdb.com/title/tt13444408/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Phantom of the Paradise</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330222</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Phantom_of_the_Paradise-poster.jpg" alt="Phantom of the Paradise poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071994/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Kubi</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328520</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kubi-poster.jpg" alt="Kubi poster" /><br/><br/><a href="https://www.imdb.com/title/tt27502365/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Jennifer's Body</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328514</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jennifer's_Body-poster.jpg" alt="Jennifer's Body poster" /><br/><br/><a href="https://www.imdb.com/title/tt1131734/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>X-Men: The Animated Series</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328345</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/X-Men_The_Animated_Series-poster.jpg" alt="X-Men: The Animated Series poster" /><br/><br/><a href="https://www.imdb.com/title/tt0103584/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
