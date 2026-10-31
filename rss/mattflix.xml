@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Brand New Cherry Flavor</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330378</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brand_New_Cherry_Flavor-poster.jpg" alt="Brand New Cherry Flavor poster" /><br/><br/><a href="https://www.imdb.com/title/tt11343600/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Return to Halloweentown</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330366</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Return_to_Halloweentown-poster.jpg" alt="Return to Halloweentown poster" /><br/><br/><a href="https://www.imdb.com/title/tt0816520/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Halloweentown II: Kalabar's Revenge</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330362</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Halloweentown_II_Kalabar's_Revenge-poster.jpg" alt="Halloweentown II: Kalabar's Revenge poster" /><br/><br/><a href="https://www.imdb.com/title/tt0274761/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Halloweentown High</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330335</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Halloweentown_High-poster.jpg" alt="Halloweentown High poster" /><br/><br/><a href="https://www.imdb.com/title/tt0414078/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Halloweentown</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330334</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Halloweentown-poster.jpg" alt="Halloweentown poster" /><br/><br/><a href="https://www.imdb.com/title/tt0173886/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Ghostwatch</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330324</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ghostwatch-poster.jpg" alt="Ghostwatch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0200659/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Mud</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328608</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Mud-poster.jpg" alt="Mud poster" /><br/><br/><a href="https://www.imdb.com/title/tt1935179/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Skeleton Key</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328583</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Skeleton_Key-poster.jpg" alt="The Skeleton Key poster" /><br/><br/><a href="https://www.imdb.com/title/tt0397101/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>3 Women</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328579</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/3_Women-poster.jpg" alt="3 Women poster" /><br/><br/><a href="https://www.imdb.com/title/tt0075612/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Bad Seed</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328569</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Bad_Seed-poster.jpg" alt="The Bad Seed poster" /><br/><br/><a href="https://www.imdb.com/title/tt0048977/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Birthday Party</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328550</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Birthday_Party-poster.jpg" alt="The Birthday Party poster" /><br/><br/><a href="https://www.imdb.com/title/tt33269988/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kubi</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328520</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kubi-poster.jpg" alt="Kubi poster" /><br/><br/><a href="https://www.imdb.com/title/tt27502365/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

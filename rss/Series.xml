@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Brand New Cherry Flavor</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330378</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brand_New_Cherry_Flavor-poster.jpg" alt="Brand New Cherry Flavor poster" /><br/><br/><a href="https://www.imdb.com/title/tt11343600/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Kin</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330239</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kin-poster.jpg" alt="Kin poster" /><br/><br/><a href="https://www.imdb.com/title/tt13444408/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>The Midwich Cuckoos</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327631</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Midwich_Cuckoos-poster.jpg" alt="The Midwich Cuckoos poster" /><br/><br/><a href="https://www.imdb.com/title/tt14245846/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Great Train Robbery</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327619</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Great_Train_Robbery-poster.jpg" alt="The Great Train Robbery poster" /><br/><br/><a href="https://www.imdb.com/title/tt2763296/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
