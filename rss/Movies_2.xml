@@ -6,6 +6,41 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Stalag 17</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330432</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stalag_17-poster.jpg" alt="Stalag 17 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0046359/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Day After Tomorrow</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330444</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Day_After_Tomorrow-poster.jpg" alt="The Day After Tomorrow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0319262/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Your Mother Your Mother Your Mother</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330427</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Your_Mother_Your_Mother_Your_Mother-poster.jpg" alt="Your Mother Your Mother Your Mother poster" /><br/><br/><a href="https://www.imdb.com/title/tt35856037/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bloodstained Ivory</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330420</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bloodstained_Ivory-poster.jpg" alt="Bloodstained Ivory poster" /><br/><br/><a href="https://www.imdb.com/title/tt27172706/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Primetime</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330419</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primetime-poster.jpg" alt="Primetime poster" /><br/><br/><a href="https://www.imdb.com/title/tt34206385/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jamesy Boy</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330411</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jamesy_Boy-poster.jpg" alt="Jamesy Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1673734/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Alita: Battle Angel</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330410</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alita_Battle_Angel-poster.jpg" alt="Alita: Battle Angel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0437086/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Resident Evil</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330399</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Resident_Evil-poster.jpg" alt="Resident Evil poster" /><br/><br/><a href="https://www.imdb.com/title/tt35538033/">View on IMDb</a>]]></description>
@@ -94,41 +129,6 @@
       <title>Buddy</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329659</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Buddy-poster.jpg" alt="Buddy poster" /><br/><br/><a href="https://www.imdb.com/title/tt37281055/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sacrifice</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329658</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sacrifice-poster.jpg" alt="Sacrifice poster" /><br/><br/><a href="https://www.imdb.com/title/tt32268992/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>In the Mouth of Madness</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329648</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Mouth_of_Madness-poster.jpg" alt="In the Mouth of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113409/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Species II</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329647</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species_II-poster.jpg" alt="Species II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120841/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Species III</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329646</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species_III-poster.jpg" alt="Species III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0410650/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Species</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329604</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species-poster.jpg" alt="Species poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114508/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deep Red</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329580</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Red-poster.jpg" alt="Deep Red poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073582/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Christine</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329579</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Christine-poster.jpg" alt="Christine poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085333/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

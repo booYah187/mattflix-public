@@ -6,6 +6,41 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Stalag 17</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330432</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stalag_17-poster.jpg" alt="Stalag 17 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0046359/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Day After Tomorrow</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330444</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Day_After_Tomorrow-poster.jpg" alt="The Day After Tomorrow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0319262/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Your Mother Your Mother Your Mother</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330427</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Your_Mother_Your_Mother_Your_Mother-poster.jpg" alt="Your Mother Your Mother Your Mother poster" /><br/><br/><a href="https://www.imdb.com/title/tt35856037/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Bloodstained Ivory</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330420</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bloodstained_Ivory-poster.jpg" alt="Bloodstained Ivory poster" /><br/><br/><a href="https://www.imdb.com/title/tt27172706/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Primetime</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330419</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primetime-poster.jpg" alt="Primetime poster" /><br/><br/><a href="https://www.imdb.com/title/tt34206385/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Jamesy Boy</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330411</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jamesy_Boy-poster.jpg" alt="Jamesy Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1673734/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Alita: Battle Angel</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330410</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alita_Battle_Angel-poster.jpg" alt="Alita: Battle Angel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0437086/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Resident Evil</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330399</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Resident_Evil-poster.jpg" alt="Resident Evil poster" /><br/><br/><a href="https://www.imdb.com/title/tt35538033/">View on IMDb</a>]]></description>
@@ -469,41 +504,6 @@
       <title>The Westies</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328724</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Westies-poster.jpg" alt="The Westies poster" /><br/><br/><a href="https://www.imdb.com/title/tt31849235/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sex, Lies, and Videotape</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328722</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sex,_Lies,_and_Videotape-poster.jpg" alt="Sex, Lies, and Videotape poster" /><br/><br/><a href="https://www.imdb.com/title/tt0098724/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sugarhouse</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328705</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sugarhouse-poster.jpg" alt="Sugarhouse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0847526/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>What Comes Around</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328698</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/What_Comes_Around-poster.jpg" alt="What Comes Around poster" /><br/><br/><a href="https://www.imdb.com/title/tt21389338/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lucky (2026)</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328643</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lucky_(2026)-poster.jpg" alt="Lucky (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt34866681/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Fantastic Four: First Steps</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328634</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Fantastic_Four_First_Steps-poster.jpg" alt="The Fantastic Four: First Steps poster" /><br/><br/><a href="https://www.imdb.com/title/tt10676052/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Badlands</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328619</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Badlands-poster.jpg" alt="Badlands poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069762/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Seconds</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328609</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Seconds-poster.jpg" alt="Seconds poster" /><br/><br/><a href="https://www.imdb.com/title/tt0060955/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
