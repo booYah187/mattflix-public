@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Great Escape</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330463</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Great_Escape-poster.jpg" alt="The Great Escape poster" /><br/><br/><a href="https://www.imdb.com/title/tt0057115/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Sleuth</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330462</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleuth-poster.jpg" alt="Sleuth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069281/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Stalag 17</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330432</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stalag_17-poster.jpg" alt="Stalag 17 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0046359/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Let Us Prey</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329720</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Let_Us_Prey-poster.jpg" alt="Let Us Prey poster" /><br/><br/><a href="https://www.imdb.com/title/tt3148348/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Late Fame</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329719</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Late_Fame-poster.jpg" alt="Late Fame poster" /><br/><br/><a href="https://www.imdb.com/title/tt32298494/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Buddy</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329659</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Buddy-poster.jpg" alt="Buddy poster" /><br/><br/><a href="https://www.imdb.com/title/tt37281055/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
