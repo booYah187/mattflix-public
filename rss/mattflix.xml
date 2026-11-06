@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Becky</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330558</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Becky-poster.jpg" alt="Becky poster" /><br/><br/><a href="https://www.imdb.com/title/tt10314450/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Winchester</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330554</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Winchester-poster.jpg" alt="Winchester poster" /><br/><br/><a href="https://www.imdb.com/title/tt1072748/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Brothers (2026)</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330489</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brothers_(2026)-poster.jpg" alt="Brothers (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt6773088/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Calibre</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328849</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Calibre-poster.jpg" alt="Calibre poster" /><br/><br/><a href="https://www.imdb.com/title/tt6218358/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Journey</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328835</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Journey-poster.jpg" alt="The Journey poster" /><br/><br/><a href="https://www.imdb.com/title/tt4826674/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Tournament</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328827</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Tournament-poster.jpg" alt="The Tournament poster" /><br/><br/><a href="https://www.imdb.com/title/tt0471041/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Becky</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330558</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Becky-poster.jpg" alt="Becky poster" /><br/><br/><a href="https://www.imdb.com/title/tt10314450/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Winchester</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330554</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Winchester-poster.jpg" alt="Winchester poster" /><br/><br/><a href="https://www.imdb.com/title/tt1072748/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Great Escape</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330463</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Great_Escape-poster.jpg" alt="The Great Escape poster" /><br/><br/><a href="https://www.imdb.com/title/tt0057115/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>By Any Means</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329791</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/By_Any_Means-poster.jpg" alt="By Any Means poster" /><br/><br/><a href="https://www.imdb.com/title/tt34379051/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tenzing</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329789</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tenzing-poster.jpg" alt="Tenzing poster" /><br/><br/><a href="https://www.imdb.com/title/tt6262770/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Let Us Prey</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329720</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Let_Us_Prey-poster.jpg" alt="Let Us Prey poster" /><br/><br/><a href="https://www.imdb.com/title/tt3148348/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
