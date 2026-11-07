@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>A Prayer for the Dying</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330563</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Prayer_for_the_Dying-poster.jpg" alt="A Prayer for the Dying poster" /><br/><br/><a href="https://www.imdb.com/title/tt31183803/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Heart of the Beast</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330562</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Heart_of_the_Beast-poster.jpg" alt="Heart of the Beast poster" /><br/><br/><a href="https://www.imdb.com/title/tt7526136/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Becky</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330558</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Becky-poster.jpg" alt="Becky poster" /><br/><br/><a href="https://www.imdb.com/title/tt10314450/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>The Musical</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329812</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Musical-poster.jpg" alt="The Musical poster" /><br/><br/><a href="https://www.imdb.com/title/tt37775809/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bloody Birthday</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329802</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bloody_Birthday-poster.jpg" alt="Bloody Birthday poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082084/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>By Any Means</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329791</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/By_Any_Means-poster.jpg" alt="By Any Means poster" /><br/><br/><a href="https://www.imdb.com/title/tt34379051/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
