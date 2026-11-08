@@ -6,6 +6,26 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Tragedy Girls</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330582</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tragedy_Girls-poster.jpg" alt="Tragedy Girls poster" /><br/><br/><a href="https://www.imdb.com/title/tt3859272/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Odyssey</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330581</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Odyssey-poster.jpg" alt="The Odyssey poster" /><br/><br/><a href="https://www.imdb.com/title/tt33764258/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Kneecap</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330569</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kneecap-poster.jpg" alt="Kneecap poster" /><br/><br/><a href="https://www.imdb.com/title/tt27367464/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>In the Loop</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330568</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Loop-poster.jpg" alt="In the Loop poster" /><br/><br/><a href="https://www.imdb.com/title/tt1226774/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>SCTV: The Greatest Show You've Never Heard Of</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330567</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/SCTV_The_Greatest_Show_You've_Never_Heard_Of-poster.jpg" alt="SCTV: The Greatest Show You've Never Heard Of poster" /><br/><br/><a href="https://www.imdb.com/title/tt44825373/">View on IMDb</a>]]></description>
@@ -484,26 +504,6 @@
       <title>Clue</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328953</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Clue-poster.jpg" alt="Clue poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088930/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Death of Robin Hood</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328944</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Death_of_Robin_Hood-poster.jpg" alt="The Death of Robin Hood poster" /><br/><br/><a href="https://www.imdb.com/title/tt32273171/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>River</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328894</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/River-poster.jpg" alt="River poster" /><br/><br/><a href="https://www.imdb.com/title/tt4258440/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dublin Murders</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328875</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dublin_Murders-poster.jpg" alt="Dublin Murders poster" /><br/><br/><a href="https://www.imdb.com/title/tt7768192/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Wind River</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328871</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wind_River-poster.jpg" alt="Wind River poster" /><br/><br/><a href="https://www.imdb.com/title/tt5362988/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

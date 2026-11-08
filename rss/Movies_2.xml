@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Tragedy Girls</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330582</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tragedy_Girls-poster.jpg" alt="Tragedy Girls poster" /><br/><br/><a href="https://www.imdb.com/title/tt3859272/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Odyssey</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330581</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Odyssey-poster.jpg" alt="The Odyssey poster" /><br/><br/><a href="https://www.imdb.com/title/tt33764258/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Kneecap</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330569</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kneecap-poster.jpg" alt="Kneecap poster" /><br/><br/><a href="https://www.imdb.com/title/tt27367464/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>In the Loop</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330568</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Loop-poster.jpg" alt="In the Loop poster" /><br/><br/><a href="https://www.imdb.com/title/tt1226774/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>A Prayer for the Dying</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330563</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Prayer_for_the_Dying-poster.jpg" alt="A Prayer for the Dying poster" /><br/><br/><a href="https://www.imdb.com/title/tt31183803/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>My Bodyguard</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330016</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/My_Bodyguard-poster.jpg" alt="My Bodyguard poster" /><br/><br/><a href="https://www.imdb.com/title/tt0081207/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Blair Witch Project</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329984</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Blair_Witch_Project-poster.jpg" alt="The Blair Witch Project poster" /><br/><br/><a href="https://www.imdb.com/title/tt0185937/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Weight</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329858</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Weight-poster.jpg" alt="The Weight poster" /><br/><br/><a href="https://www.imdb.com/title/tt10794054/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tiny Fugitives</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329835</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tiny_Fugitives-poster.jpg" alt="Tiny Fugitives poster" /><br/><br/><a href="https://www.imdb.com/title/tt32827454/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Musical</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329812</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Musical-poster.jpg" alt="The Musical poster" /><br/><br/><a href="https://www.imdb.com/title/tt37775809/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
