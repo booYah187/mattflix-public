@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The 13th Warrior</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330664</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_13th_Warrior-poster.jpg" alt="The 13th Warrior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120657/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Santa Clarita Diet</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330605</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Santa_Clarita_Diet-poster.jpg" alt="Santa Clarita Diet poster" /><br/><br/><a href="https://www.imdb.com/title/tt5580540/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Terror Train</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330599</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Terror_Train-poster.jpg" alt="Terror Train poster" /><br/><br/><a href="https://www.imdb.com/title/tt0081617/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Bugs Bunny's 3rd Movie: 1001 Rabbit Tales</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329049</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bugs_Bunny's_3rd_Movie_1001_Rabbit_Tales-poster.jpg" alt="Bugs Bunny's 3rd Movie: 1001 Rabbit Tales poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083701/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Furious</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328991</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Furious-poster.jpg" alt="Furious poster" /><br/><br/><a href="https://www.imdb.com/title/tt36303968/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deep Water</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328987</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Water-poster.jpg" alt="Deep Water poster" /><br/><br/><a href="https://www.imdb.com/title/tt2180339/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

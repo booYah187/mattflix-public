@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Santa Clarita Diet</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330605</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Santa_Clarita_Diet-poster.jpg" alt="Santa Clarita Diet poster" /><br/><br/><a href="https://www.imdb.com/title/tt5580540/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Brothers (2026)</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330489</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brothers_(2026)-poster.jpg" alt="Brothers (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt6773088/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Cape Fear</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327750</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cape_Fear-poster.jpg" alt="Cape Fear poster" /><br/><br/><a href="https://www.imdb.com/title/tt34675596/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>ANZACS</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327713</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/ANZACS-poster.jpg" alt="ANZACS poster" /><br/><br/><a href="https://www.imdb.com/title/tt0088479/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

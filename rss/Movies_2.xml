@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The 13th Warrior</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330664</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_13th_Warrior-poster.jpg" alt="The 13th Warrior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120657/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Terror Train</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330599</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Terror_Train-poster.jpg" alt="Terror Train poster" /><br/><br/><a href="https://www.imdb.com/title/tt0081617/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Night School</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330160</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Night_School-poster.jpg" alt="Night School poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082812/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Devil's Own</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330151</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Devil's_Own-poster.jpg" alt="The Devil's Own poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118972/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
