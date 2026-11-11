@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Blink</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330860</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blink-poster.jpg" alt="Blink poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109297/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A River Runs Through It</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330859</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_River_Runs_Through_It-poster.jpg" alt="A River Runs Through It poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105265/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Legends of the Fall</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330852</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Legends_of_the_Fall-poster.jpg" alt="Legends of the Fall poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110322/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Other Mommy</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330847</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Other_Mommy-poster.jpg" alt="Other Mommy poster" /><br/><br/><a href="https://www.imdb.com/title/tt36586020/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>American Gladiators</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330673</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/American_Gladiators-poster.jpg" alt="American Gladiators poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096532/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The 13th Warrior</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330664</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_13th_Warrior-poster.jpg" alt="The 13th Warrior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120657/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>The Other People</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329115</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Other_People-poster.jpg" alt="The Other People poster" /><br/><br/><a href="https://www.imdb.com/title/tt32844466/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Rivals of Amziah King</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329114</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Rivals_of_Amziah_King-poster.jpg" alt="The Rivals of Amziah King poster" /><br/><br/><a href="https://www.imdb.com/title/tt27706593/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The End of Oak Street</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329102</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_End_of_Oak_Street-poster.jpg" alt="The End of Oak Street poster" /><br/><br/><a href="https://www.imdb.com/title/tt27165187/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Perpetual Grace LTD</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329057</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Perpetual_Grace_LTD-poster.jpg" alt="Perpetual Grace LTD poster" /><br/><br/><a href="https://www.imdb.com/title/tt8912384/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Daffy Duck's Quackbusters</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329052</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Daffy_Duck's_Quackbusters-poster.jpg" alt="Daffy Duck's Quackbusters poster" /><br/><br/><a href="https://www.imdb.com/title/tt0094939/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bugs Bunny's 3rd Movie: 1001 Rabbit Tales</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329049</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bugs_Bunny's_3rd_Movie_1001_Rabbit_Tales-poster.jpg" alt="Bugs Bunny's 3rd Movie: 1001 Rabbit Tales poster" /><br/><br/><a href="https://www.imdb.com/title/tt0083701/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

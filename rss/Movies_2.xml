@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Blink</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330860</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blink-poster.jpg" alt="Blink poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109297/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>A River Runs Through It</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330859</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_River_Runs_Through_It-poster.jpg" alt="A River Runs Through It poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105265/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Legends of the Fall</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330852</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Legends_of_the_Fall-poster.jpg" alt="Legends of the Fall poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110322/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Other Mommy</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330847</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Other_Mommy-poster.jpg" alt="Other Mommy poster" /><br/><br/><a href="https://www.imdb.com/title/tt36586020/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The 13th Warrior</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330664</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_13th_Warrior-poster.jpg" alt="The 13th Warrior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120657/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Resident Evil</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330399</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Resident_Evil-poster.jpg" alt="Resident Evil poster" /><br/><br/><a href="https://www.imdb.com/title/tt35538033/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Ghostwatch</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330324</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Ghostwatch-poster.jpg" alt="Ghostwatch poster" /><br/><br/><a href="https://www.imdb.com/title/tt0200659/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Phantom of the Paradise</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330222</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Phantom_of_the_Paradise-poster.jpg" alt="Phantom of the Paradise poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071994/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sleepaway Camp</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330161</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleepaway_Camp-poster.jpg" alt="Sleepaway Camp poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086320/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Night School</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330160</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Night_School-poster.jpg" alt="Night School poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082812/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
