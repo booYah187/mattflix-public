@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Bad Apples</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330865</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Apples-poster.jpg" alt="Bad Apples poster" /><br/><br/><a href="https://www.imdb.com/title/tt29714073/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Blink</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330860</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blink-poster.jpg" alt="Blink poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109297/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Fallen</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329160</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fallen-poster.jpg" alt="Fallen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119099/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Other People</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329115</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Other_People-poster.jpg" alt="The Other People poster" /><br/><br/><a href="https://www.imdb.com/title/tt32844466/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

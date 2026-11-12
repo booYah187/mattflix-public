@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Bad Apples</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330865</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Apples-poster.jpg" alt="Bad Apples poster" /><br/><br/><a href="https://www.imdb.com/title/tt29714073/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Blink</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330860</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blink-poster.jpg" alt="Blink poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109297/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Alita: Battle Angel</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330410</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alita_Battle_Angel-poster.jpg" alt="Alita: Battle Angel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0437086/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Resident Evil</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330399</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Resident_Evil-poster.jpg" alt="Resident Evil poster" /><br/><br/><a href="https://www.imdb.com/title/tt35538033/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
