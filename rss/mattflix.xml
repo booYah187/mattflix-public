@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>MobLand</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330907</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/MobLand-poster.jpg" alt="MobLand poster" /><br/><br/><a href="https://www.imdb.com/title/tt31510819/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bad Apples</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330865</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Apples-poster.jpg" alt="Bad Apples poster" /><br/><br/><a href="https://www.imdb.com/title/tt29714073/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>The Changeling</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329161</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Changeling-poster.jpg" alt="The Changeling poster" /><br/><br/><a href="https://www.imdb.com/title/tt0080516/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Fallen</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329160</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fallen-poster.jpg" alt="Fallen poster" /><br/><br/><a href="https://www.imdb.com/title/tt0119099/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

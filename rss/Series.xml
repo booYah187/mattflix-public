@@ -6,6 +6,11 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>MobLand</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330907</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/MobLand-poster.jpg" alt="MobLand poster" /><br/><br/><a href="https://www.imdb.com/title/tt31510819/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>American Gladiators</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330673</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/American_Gladiators-poster.jpg" alt="American Gladiators poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096532/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>Obi-Wan Kenobi</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=327864</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Obi-Wan_Kenobi-poster.jpg" alt="Obi-Wan Kenobi poster" /><br/><br/><a href="https://www.imdb.com/title/tt8466564/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Acolyte</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327834</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Acolyte-poster.jpg" alt="The Acolyte poster" /><br/><br/><a href="https://www.imdb.com/title/tt12262202/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
