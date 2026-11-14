@@ -6,6 +6,36 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Men & Chicken</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331099</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men_&_Chicken-poster.jpg" alt="Men & Chicken poster" /><br/><br/><a href="https://www.imdb.com/title/tt3877674/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Tax Collector</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331058</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Tax_Collector-poster.jpg" alt="The Tax Collector poster" /><br/><br/><a href="https://www.imdb.com/title/tt8461224/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Notorious</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331057</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Notorious-poster.jpg" alt="Notorious poster" /><br/><br/><a href="https://www.imdb.com/title/tt0472198/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Maggie Moore(s)</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331023</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Maggie_Moore(s)-poster.jpg" alt="Maggie Moore(s) poster" /><br/><br/><a href="https://www.imdb.com/title/tt14181816/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Between Two Ferns: The Movie</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330991</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Between_Two_Ferns_The_Movie-poster.jpg" alt="Between Two Ferns: The Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt9398640/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Of Mice and Men</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330963</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Of_Mice_and_Men-poster.jpg" alt="Of Mice and Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105046/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Bad Apples</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330865</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Apples-poster.jpg" alt="Bad Apples poster" /><br/><br/><a href="https://www.imdb.com/title/tt29714073/">View on IMDb</a>]]></description>
@@ -99,36 +129,6 @@
       <title>Stalag 17</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330432</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stalag_17-poster.jpg" alt="Stalag 17 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0046359/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Day After Tomorrow</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330444</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Day_After_Tomorrow-poster.jpg" alt="The Day After Tomorrow poster" /><br/><br/><a href="https://www.imdb.com/title/tt0319262/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Your Mother Your Mother Your Mother</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330427</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Your_Mother_Your_Mother_Your_Mother-poster.jpg" alt="Your Mother Your Mother Your Mother poster" /><br/><br/><a href="https://www.imdb.com/title/tt35856037/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bloodstained Ivory</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330420</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bloodstained_Ivory-poster.jpg" alt="Bloodstained Ivory poster" /><br/><br/><a href="https://www.imdb.com/title/tt27172706/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Primetime</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330419</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Primetime-poster.jpg" alt="Primetime poster" /><br/><br/><a href="https://www.imdb.com/title/tt34206385/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Jamesy Boy</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330411</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Jamesy_Boy-poster.jpg" alt="Jamesy Boy poster" /><br/><br/><a href="https://www.imdb.com/title/tt1673734/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Alita: Battle Angel</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330410</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Alita_Battle_Angel-poster.jpg" alt="Alita: Battle Angel poster" /><br/><br/><a href="https://www.imdb.com/title/tt0437086/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

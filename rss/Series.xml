@@ -6,6 +6,21 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Increasingly Poor Decisions of Todd Margaret</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331073</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Increasingly_Poor_Decisions_of_Todd_Margaret-poster.jpg" alt="The Increasingly Poor Decisions of Todd Margaret poster" /><br/><br/><a href="https://www.imdb.com/title/tt1695989/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Birthday Boys</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331040</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Birthday_Boys-poster.jpg" alt="The Birthday Boys poster" /><br/><br/><a href="https://www.imdb.com/title/tt2764636/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Between Two Ferns with Zach Galifianakis</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330992</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Between_Two_Ferns_with_Zach_Galifianakis-poster.jpg" alt="Between Two Ferns with Zach Galifianakis poster" /><br/><br/><a href="https://www.imdb.com/title/tt1535002/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>MobLand</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330907</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/MobLand-poster.jpg" alt="MobLand poster" /><br/><br/><a href="https://www.imdb.com/title/tt31510819/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Twin</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328265</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Twin-poster.jpg" alt="Twin poster" /><br/><br/><a href="https://www.imdb.com/title/tt6710454/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Rematch</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328250</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Rematch-poster.jpg" alt="Rematch poster" /><br/><br/><a href="https://www.imdb.com/title/tt26741906/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Star Wars: Skeleton Crew</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327943</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Star_Wars_Skeleton_Crew-poster.jpg" alt="Star Wars: Skeleton Crew poster" /><br/><br/><a href="https://www.imdb.com/title/tt20600980/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Obi-Wan Kenobi</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=327864</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Obi-Wan_Kenobi-poster.jpg" alt="Obi-Wan Kenobi poster" /><br/><br/><a href="https://www.imdb.com/title/tt8466564/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

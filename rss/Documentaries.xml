@@ -6,6 +6,16 @@
     <description>Recently added Documentaries from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Dark Wizard</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330971</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Dark_Wizard-poster.jpg" alt="The Dark Wizard poster" /><br/><br/><a href="https://www.imdb.com/title/tt39656291/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Ballad of Lieutenant Dan</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330966</link>
+      <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Ballad_of_Lieutenant_Dan-poster.jpg" alt="The Ballad of Lieutenant Dan poster" /><br/><br/><a href="https://www.imdb.com/title/tt43753986/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>SCTV: The Greatest Show You've Never Heard Of</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330567</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/SCTV_The_Greatest_Show_You've_Never_Heard_Of-poster.jpg" alt="SCTV: The Greatest Show You've Never Heard Of poster" /><br/><br/><a href="https://www.imdb.com/title/tt44825373/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Waking Sleeping Beauty</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=324297</link>
       <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Waking_Sleeping_Beauty-poster.jpg" alt="Waking Sleeping Beauty poster" /><br/><br/><a href="https://www.imdb.com/title/tt1159961/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Hearts of Darkness: A Filmmaker's Apocalypse</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324291</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hearts_of_Darkness_A_Filmmaker's_Apocalypse-poster.jpg" alt="Hearts of Darkness: A Filmmaker's Apocalypse poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102015/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sleeping Dog</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324212</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleeping_Dog-poster.jpg" alt="Sleeping Dog poster" /><br/><br/><a href="https://www.imdb.com/title/tt41157050/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
