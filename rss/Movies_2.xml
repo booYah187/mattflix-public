@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Scary Movie 6</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331128</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scary_Movie_6-poster.jpg" alt="Scary Movie 6 poster" /><br/><br/><a href="https://www.imdb.com/title/tt32093575/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Con Air</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331107</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Con_Air-poster.jpg" alt="Con Air poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118880/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Men & Chicken</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331099</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men_&_Chicken-poster.jpg" alt="Men & Chicken poster" /><br/><br/><a href="https://www.imdb.com/title/tt3877674/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>The Great Escape</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330463</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Great_Escape-poster.jpg" alt="The Great Escape poster" /><br/><br/><a href="https://www.imdb.com/title/tt0057115/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sleuth</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330462</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sleuth-poster.jpg" alt="Sleuth poster" /><br/><br/><a href="https://www.imdb.com/title/tt0069281/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Stalag 17</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330432</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Stalag_17-poster.jpg" alt="Stalag 17 poster" /><br/><br/><a href="https://www.imdb.com/title/tt0046359/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

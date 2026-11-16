@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Scary Movie 6</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331128</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scary_Movie_6-poster.jpg" alt="Scary Movie 6 poster" /><br/><br/><a href="https://www.imdb.com/title/tt32093575/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Con Air</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331107</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Con_Air-poster.jpg" alt="Con Air poster" /><br/><br/><a href="https://www.imdb.com/title/tt0118880/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Men &amp; Chicken</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331099</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men_&amp;_Chicken-poster.jpg" alt="Men &amp; Chicken poster" /><br/><br/><a href="https://www.imdb.com/title/tt3877674/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>Paper Moon</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329377</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Paper_Moon-poster.jpg" alt="Paper Moon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0070510/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Cargo</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329369</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Cargo-poster.jpg" alt="Cargo poster" /><br/><br/><a href="https://www.imdb.com/title/tt3860916/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dead Souls</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329330</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dead_Souls-poster.jpg" alt="Dead Souls poster" /><br/><br/><a href="https://www.imdb.com/title/tt34142731/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
