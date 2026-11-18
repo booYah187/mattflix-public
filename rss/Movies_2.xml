@@ -6,6 +6,21 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Flickering Lights</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331158</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Flickering_Lights-poster.jpg" alt="Flickering Lights poster" /><br/><br/><a href="https://www.imdb.com/title/tt0236027/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Green Butchers</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331143</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Green_Butchers-poster.jpg" alt="The Green Butchers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0342492/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Brothers</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331141</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brothers-poster.jpg" alt="Brothers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0765010/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Scary Movie 6</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331128</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scary_Movie_6-poster.jpg" alt="Scary Movie 6 poster" /><br/><br/><a href="https://www.imdb.com/title/tt32093575/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Heart of the Beast</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330562</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Heart_of_the_Beast-poster.jpg" alt="Heart of the Beast poster" /><br/><br/><a href="https://www.imdb.com/title/tt7526136/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Becky</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330558</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Becky-poster.jpg" alt="Becky poster" /><br/><br/><a href="https://www.imdb.com/title/tt10314450/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Winchester</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330554</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Winchester-poster.jpg" alt="Winchester poster" /><br/><br/><a href="https://www.imdb.com/title/tt1072748/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Great Escape</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330463</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Great_Escape-poster.jpg" alt="The Great Escape poster" /><br/><br/><a href="https://www.imdb.com/title/tt0057115/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

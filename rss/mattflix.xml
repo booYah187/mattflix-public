@@ -6,6 +6,21 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Flickering Lights</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331158</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Flickering_Lights-poster.jpg" alt="Flickering Lights poster" /><br/><br/><a href="https://www.imdb.com/title/tt0236027/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Green Butchers</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331143</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Green_Butchers-poster.jpg" alt="The Green Butchers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0342492/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Brothers</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331141</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Brothers-poster.jpg" alt="Brothers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0765010/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Scary Movie 6</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331128</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Scary_Movie_6-poster.jpg" alt="Scary Movie 6 poster" /><br/><br/><a href="https://www.imdb.com/title/tt32093575/">View on IMDb</a>]]></description>
@@ -489,21 +504,6 @@
       <title>Coyote vs. Acme</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329417</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Coyote_vs._Acme-poster.jpg" alt="Coyote vs. Acme poster" /><br/><br/><a href="https://www.imdb.com/title/tt1756855/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Small Soldiers</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329385</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Small_Soldiers-poster.jpg" alt="Small Soldiers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0122718/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Blue Ruin</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329380</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blue_Ruin-poster.jpg" alt="Blue Ruin poster" /><br/><br/><a href="https://www.imdb.com/title/tt2359024/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Paper Moon</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329377</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Paper_Moon-poster.jpg" alt="Paper Moon poster" /><br/><br/><a href="https://www.imdb.com/title/tt0070510/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
