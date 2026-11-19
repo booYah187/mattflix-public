@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Madden</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331168</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Madden-poster.jpg" alt="Madden poster" /><br/><br/><a href="https://www.imdb.com/title/tt24818230/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Flickering Lights</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331158</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Flickering_Lights-poster.jpg" alt="Flickering Lights poster" /><br/><br/><a href="https://www.imdb.com/title/tt0236027/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>A Prayer for the Dying</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330563</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Prayer_for_the_Dying-poster.jpg" alt="A Prayer for the Dying poster" /><br/><br/><a href="https://www.imdb.com/title/tt31183803/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Heart of the Beast</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330562</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Heart_of_the_Beast-poster.jpg" alt="Heart of the Beast poster" /><br/><br/><a href="https://www.imdb.com/title/tt7526136/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

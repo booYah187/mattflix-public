@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Madden</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331168</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Madden-poster.jpg" alt="Madden poster" /><br/><br/><a href="https://www.imdb.com/title/tt24818230/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Flickering Lights</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331158</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Flickering_Lights-poster.jpg" alt="Flickering Lights poster" /><br/><br/><a href="https://www.imdb.com/title/tt0236027/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>Breaking Away</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329421</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Breaking_Away-poster.jpg" alt="Breaking Away poster" /><br/><br/><a href="https://www.imdb.com/title/tt0078902/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Coyote vs. Acme</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329417</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Coyote_vs._Acme-poster.jpg" alt="Coyote vs. Acme poster" /><br/><br/><a href="https://www.imdb.com/title/tt1756855/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
