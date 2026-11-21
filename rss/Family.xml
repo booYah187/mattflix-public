@@ -6,6 +6,31 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Muppet Christmas Carol</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331486</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Muppet_Christmas_Carol-poster.jpg" alt="The Muppet Christmas Carol poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104940/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Casper</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331419</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Casper-poster.jpg" alt="Casper poster" /><br/><br/><a href="https://www.imdb.com/title/tt0112642/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>How the Grinch Stole Christmas!</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331410</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/How_the_Grinch_Stole_Christmas!-poster.jpg" alt="How the Grinch Stole Christmas! poster" /><br/><br/><a href="https://www.imdb.com/title/tt0060345/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Best Christmas Pageant Ever</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331323</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Best_Christmas_Pageant_Ever-poster.jpg" alt="The Best Christmas Pageant Ever poster" /><br/><br/><a href="https://www.imdb.com/title/tt29768335/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Miracle on 34th Street</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331322</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Miracle_on_34th_Street-poster.jpg" alt="Miracle on 34th Street poster" /><br/><br/><a href="https://www.imdb.com/title/tt0039628/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Return to Halloweentown</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330366</link>
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Return_to_Halloweentown-poster.jpg" alt="Return to Halloweentown poster" /><br/><br/><a href="https://www.imdb.com/title/tt0816520/">View on IMDb</a>]]></description>
@@ -104,31 +129,6 @@
       <title>The Legend of Zelda</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=324639</link>
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Legend_of_Zelda-poster.jpg" alt="The Legend of Zelda poster" /><br/><br/><a href="https://www.imdb.com/title/tt0832330/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Speed Racer</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324638</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Speed_Racer-poster.jpg" alt="Speed Racer poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061300/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Transformers: Prime</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324359</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Transformers_Prime-poster.jpg" alt="Transformers: Prime poster" /><br/><br/><a href="https://www.imdb.com/title/tt1659175/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Transformers</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324358</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Transformers-poster.jpg" alt="The Transformers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0086817/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Little Rascals</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=323652</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Little_Rascals-poster.jpg" alt="The Little Rascals poster" /><br/><br/><a href="https://www.imdb.com/title/tt36591593/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>All Dogs Go to Heaven</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=323578</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/All_Dogs_Go_to_Heaven-poster.jpg" alt="All Dogs Go to Heaven poster" /><br/><br/><a href="https://www.imdb.com/title/tt0096787/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

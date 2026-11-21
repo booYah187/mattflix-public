@@ -6,6 +6,16 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Altruists</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331325</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Altruists-poster.jpg" alt="The Altruists poster" /><br/><br/><a href="https://www.imdb.com/title/tt36786185/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>How to Get to Heaven From Belfast</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331170</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/How_to_Get_to_Heaven_From_Belfast-poster.jpg" alt="How to Get to Heaven From Belfast poster" /><br/><br/><a href="https://www.imdb.com/title/tt31709373/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Increasingly Poor Decisions of Todd Margaret</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331073</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Increasingly_Poor_Decisions_of_Todd_Margaret-poster.jpg" alt="The Increasingly Poor Decisions of Todd Margaret poster" /><br/><br/><a href="https://www.imdb.com/title/tt1695989/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>The Westies</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328724</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Westies-poster.jpg" alt="The Westies poster" /><br/><br/><a href="https://www.imdb.com/title/tt31849235/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Lucky (2026)</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328643</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Lucky_(2026)-poster.jpg" alt="Lucky (2026) poster" /><br/><br/><a href="https://www.imdb.com/title/tt34866681/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Twin</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328265</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Twin-poster.jpg" alt="Twin poster" /><br/><br/><a href="https://www.imdb.com/title/tt6710454/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

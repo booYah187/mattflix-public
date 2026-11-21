@@ -6,6 +6,31 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Ref</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331481</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Ref-poster.jpg" alt="The Ref poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110955/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Black Christmas</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331460</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Christmas-poster.jpg" alt="Black Christmas poster" /><br/><br/><a href="https://www.imdb.com/title/tt0071222/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Men in Black 3</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331446</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men_in_Black_3-poster.jpg" alt="Men in Black 3 poster" /><br/><br/><a href="https://www.imdb.com/title/tt1409024/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Men in Black II</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331427</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Men_in_Black_II-poster.jpg" alt="Men in Black II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120912/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Eyes Wide Shut</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331313</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Eyes_Wide_Shut-poster.jpg" alt="Eyes Wide Shut poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120663/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Madden</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331168</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Madden-poster.jpg" alt="Madden poster" /><br/><br/><a href="https://www.imdb.com/title/tt24818230/">View on IMDb</a>]]></description>
@@ -104,31 +129,6 @@
       <title>Neighborhood Watch</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330593</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Neighborhood_Watch-poster.jpg" alt="Neighborhood Watch poster" /><br/><br/><a href="https://www.imdb.com/title/tt1714918/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tragedy Girls</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330582</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tragedy_Girls-poster.jpg" alt="Tragedy Girls poster" /><br/><br/><a href="https://www.imdb.com/title/tt3859272/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Odyssey</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330581</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Odyssey-poster.jpg" alt="The Odyssey poster" /><br/><br/><a href="https://www.imdb.com/title/tt33764258/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Kneecap</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330569</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Kneecap-poster.jpg" alt="Kneecap poster" /><br/><br/><a href="https://www.imdb.com/title/tt27367464/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>In the Loop</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330568</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Loop-poster.jpg" alt="In the Loop poster" /><br/><br/><a href="https://www.imdb.com/title/tt1226774/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>A Prayer for the Dying</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330563</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_Prayer_for_the_Dying-poster.jpg" alt="A Prayer for the Dying poster" /><br/><br/><a href="https://www.imdb.com/title/tt31183803/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
