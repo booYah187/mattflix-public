@@ -6,6 +6,26 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Motor City</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331540</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Motor_City-poster.jpg" alt="Motor City poster" /><br/><br/><a href="https://www.imdb.com/title/tt2012616/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>There's Something in the Barn</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331537</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/There's_Something_in_the_Barn-poster.jpg" alt="There's Something in the Barn poster" /><br/><br/><a href="https://www.imdb.com/title/tt23060796/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>It's a Wonderful Knife</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331522</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/It's_a_Wonderful_Knife-poster.jpg" alt="It's a Wonderful Knife poster" /><br/><br/><a href="https://www.imdb.com/title/tt27619382/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Family Man</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331494</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Family_Man-poster.jpg" alt="The Family Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0218967/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Ref</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331481</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Ref-poster.jpg" alt="The Ref poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110955/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Legends of the Fall</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330852</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Legends_of_the_Fall-poster.jpg" alt="Legends of the Fall poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110322/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Other Mommy</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330847</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Other_Mommy-poster.jpg" alt="Other Mommy poster" /><br/><br/><a href="https://www.imdb.com/title/tt36586020/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The 13th Warrior</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330664</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_13th_Warrior-poster.jpg" alt="The 13th Warrior poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120657/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Terror Train</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330599</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Terror_Train-poster.jpg" alt="Terror Train poster" /><br/><br/><a href="https://www.imdb.com/title/tt0081617/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Neighborhood Watch</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330593</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Neighborhood_Watch-poster.jpg" alt="Neighborhood Watch poster" /><br/><br/><a href="https://www.imdb.com/title/tt1714918/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

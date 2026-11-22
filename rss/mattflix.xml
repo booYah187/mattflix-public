@@ -6,6 +6,31 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Motor City</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331540</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Motor_City-poster.jpg" alt="Motor City poster" /><br/><br/><a href="https://www.imdb.com/title/tt2012616/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>There's Something in the Barn</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331537</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/There's_Something_in_the_Barn-poster.jpg" alt="There's Something in the Barn poster" /><br/><br/><a href="https://www.imdb.com/title/tt23060796/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>It's a Wonderful Knife</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331522</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/It's_a_Wonderful_Knife-poster.jpg" alt="It's a Wonderful Knife poster" /><br/><br/><a href="https://www.imdb.com/title/tt27619382/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>It's a Wonderful Life</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331499</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/It's_a_Wonderful_Life-poster.jpg" alt="It's a Wonderful Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt0038650/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Family Man</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331494</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Family_Man-poster.jpg" alt="The Family Man poster" /><br/><br/><a href="https://www.imdb.com/title/tt0218967/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Muppet Christmas Carol</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331486</link>
       <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Muppet_Christmas_Carol-poster.jpg" alt="The Muppet Christmas Carol poster" /><br/><br/><a href="https://www.imdb.com/title/tt0104940/">View on IMDb</a>]]></description>
@@ -479,31 +504,6 @@
       <title>Species II</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329647</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species_II-poster.jpg" alt="Species II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120841/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Species III</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329646</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species_III-poster.jpg" alt="Species III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0410650/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Species</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329604</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species-poster.jpg" alt="Species poster" /><br/><br/><a href="https://www.imdb.com/title/tt0114508/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Deep Red</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329580</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Deep_Red-poster.jpg" alt="Deep Red poster" /><br/><br/><a href="https://www.imdb.com/title/tt0073582/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Christine</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329579</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Christine-poster.jpg" alt="Christine poster" /><br/><br/><a href="https://www.imdb.com/title/tt0085333/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tenebre</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329568</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tenebre-poster.jpg" alt="Tenebre poster" /><br/><br/><a href="https://www.imdb.com/title/tt0084777/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
