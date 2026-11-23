@@ -6,6 +6,11 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Fjord</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331556</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fjord-poster.jpg" alt="Fjord poster" /><br/><br/><a href="https://www.imdb.com/title/tt35410859/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Motor City</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331540</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Motor_City-poster.jpg" alt="Motor City poster" /><br/><br/><a href="https://www.imdb.com/title/tt2012616/">View on IMDb</a>]]></description>
@@ -124,11 +129,6 @@
       <title>A River Runs Through It</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330859</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/A_River_Runs_Through_It-poster.jpg" alt="A River Runs Through It poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105265/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Legends of the Fall</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330852</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Legends_of_the_Fall-poster.jpg" alt="Legends of the Fall poster" /><br/><br/><a href="https://www.imdb.com/title/tt0110322/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

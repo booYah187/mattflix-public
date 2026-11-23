@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Fjord</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331556</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fjord-poster.jpg" alt="Fjord poster" /><br/><br/><a href="https://www.imdb.com/title/tt35410859/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Motor City</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331540</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Motor_City-poster.jpg" alt="Motor City poster" /><br/><br/><a href="https://www.imdb.com/title/tt2012616/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>In the Mouth of Madness</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329648</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Mouth_of_Madness-poster.jpg" alt="In the Mouth of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113409/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Species II</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329647</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Species_II-poster.jpg" alt="Species II poster" /><br/><br/><a href="https://www.imdb.com/title/tt0120841/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
