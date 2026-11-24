@@ -6,6 +6,51 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>Tony</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=332049</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tony-poster.jpg" alt="Tony poster" /><br/><br/><a href="https://www.imdb.com/title/tt33095251/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Black Doves</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331985</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Doves-poster.jpg" alt="Black Doves poster" /><br/><br/><a href="https://www.imdb.com/title/tt27995113/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Knick</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331919</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Knick-poster.jpg" alt="The Knick poster" /><br/><br/><a href="https://www.imdb.com/title/tt2937900/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Carrie</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331885</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Carrie-poster.jpg" alt="Carrie poster" /><br/><br/><a href="https://www.imdb.com/title/tt11540908/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Minions &amp; Monsters</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331883</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_&amp;_Monsters-poster.jpg" alt="Minions &amp; Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt32890033/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Minions: The Rise of Gru</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331875</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_The_Rise_of_Gru-poster.jpg" alt="Minions: The Rise of Gru poster" /><br/><br/><a href="https://www.imdb.com/title/tt5113044/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Minions: Holiday Special</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331874</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_Holiday_Special-poster.jpg" alt="Minions: Holiday Special poster" /><br/><br/><a href="https://www.imdb.com/title/tt13457952/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Minions</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331870</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions-poster.jpg" alt="Minions poster" /><br/><br/><a href="https://www.imdb.com/title/tt2293640/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Skins</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331562</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Skins-poster.jpg" alt="Skins poster" /><br/><br/><a href="https://www.imdb.com/title/tt0840196/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Fjord</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331556</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Fjord-poster.jpg" alt="Fjord poster" /><br/><br/><a href="https://www.imdb.com/title/tt35410859/">View on IMDb</a>]]></description>
@@ -459,51 +504,6 @@
       <title>Tenzing</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329789</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tenzing-poster.jpg" alt="Tenzing poster" /><br/><br/><a href="https://www.imdb.com/title/tt6262770/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Man on Fire</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329761</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Man_on_Fire-poster.jpg" alt="Man on Fire poster" /><br/><br/><a href="https://www.imdb.com/title/tt27331527/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Norm: The Tale of Norm Macdonald</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329735</link>
-      <description><![CDATA[Library: Documentaries<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Norm_The_Tale_of_Norm_Macdonald-poster.jpg" alt="Norm: The Tale of Norm Macdonald poster" /><br/><br/><a href="https://www.imdb.com/title/tt44822485/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Let Us Prey</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329720</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Let_Us_Prey-poster.jpg" alt="Let Us Prey poster" /><br/><br/><a href="https://www.imdb.com/title/tt3148348/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Late Fame</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329719</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Late_Fame-poster.jpg" alt="Late Fame poster" /><br/><br/><a href="https://www.imdb.com/title/tt32298494/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Crystal Lake</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329668</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Crystal_Lake-poster.jpg" alt="Crystal Lake poster" /><br/><br/><a href="https://www.imdb.com/title/tt23148340/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Buddy</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329659</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Buddy-poster.jpg" alt="Buddy poster" /><br/><br/><a href="https://www.imdb.com/title/tt37281055/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Sacrifice</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329658</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Sacrifice-poster.jpg" alt="Sacrifice poster" /><br/><br/><a href="https://www.imdb.com/title/tt32268992/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Coraline</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329650</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Coraline-poster.jpg" alt="Coraline poster" /><br/><br/><a href="https://www.imdb.com/title/tt0327597/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>In the Mouth of Madness</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329648</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/In_the_Mouth_of_Madness-poster.jpg" alt="In the Mouth of Madness poster" /><br/><br/><a href="https://www.imdb.com/title/tt0113409/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

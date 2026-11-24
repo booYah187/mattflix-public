@@ -6,6 +6,26 @@
     <description>Recently added Family from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Minions & Monsters</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331883</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_&_Monsters-poster.jpg" alt="Minions & Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt32890033/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Minions: The Rise of Gru</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331875</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_The_Rise_of_Gru-poster.jpg" alt="Minions: The Rise of Gru poster" /><br/><br/><a href="https://www.imdb.com/title/tt5113044/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Minions: Holiday Special</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331874</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_Holiday_Special-poster.jpg" alt="Minions: Holiday Special poster" /><br/><br/><a href="https://www.imdb.com/title/tt13457952/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Minions</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331870</link>
+      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions-poster.jpg" alt="Minions poster" /><br/><br/><a href="https://www.imdb.com/title/tt2293640/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>It's a Wonderful Life</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331499</link>
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/It's_a_Wonderful_Life-poster.jpg" alt="It's a Wonderful Life poster" /><br/><br/><a href="https://www.imdb.com/title/tt0038650/">View on IMDb</a>]]></description>
@@ -71,11 +91,6 @@
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Coraline-poster.jpg" alt="Coraline poster" /><br/><br/><a href="https://www.imdb.com/title/tt0327597/">View on IMDb</a>]]></description>
     </item>
     <item>
-      <title>Minions & Monsters</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329538</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Minions_&_Monsters-poster.jpg" alt="Minions & Monsters poster" /><br/><br/><a href="https://www.imdb.com/title/tt32890033/">View on IMDb</a>]]></description>
-    </item>
-    <item>
       <title>Small Soldiers</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329385</link>
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Small_Soldiers-poster.jpg" alt="Small Soldiers poster" /><br/><br/><a href="https://www.imdb.com/title/tt0122718/">View on IMDb</a>]]></description>
@@ -114,21 +129,6 @@
       <title>Hook</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=326830</link>
       <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Hook-poster.jpg" alt="Hook poster" /><br/><br/><a href="https://www.imdb.com/title/tt0102057/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Matilda</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326616</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Matilda-poster.jpg" alt="Matilda poster" /><br/><br/><a href="https://www.imdb.com/title/tt0117008/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Steven Universe: The Movie</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=326276</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Steven_Universe_The_Movie-poster.jpg" alt="Steven Universe: The Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt10515852/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Ugly Dachshund</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=324854</link>
-      <description><![CDATA[Library: Family<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Ugly_Dachshund-poster.jpg" alt="The Ugly Dachshund poster" /><br/><br/><a href="https://www.imdb.com/title/tt0061135/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

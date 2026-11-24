@@ -6,6 +6,26 @@
     <description>Recently added Series from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>Black Doves</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331985</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Black_Doves-poster.jpg" alt="Black Doves poster" /><br/><br/><a href="https://www.imdb.com/title/tt27995113/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>The Knick</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331919</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Knick-poster.jpg" alt="The Knick poster" /><br/><br/><a href="https://www.imdb.com/title/tt2937900/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Carrie</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331885</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Carrie-poster.jpg" alt="Carrie poster" /><br/><br/><a href="https://www.imdb.com/title/tt11540908/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Skins</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=331562</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Skins-poster.jpg" alt="Skins poster" /><br/><br/><a href="https://www.imdb.com/title/tt0840196/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>The Altruists</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331325</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Altruists-poster.jpg" alt="The Altruists poster" /><br/><br/><a href="https://www.imdb.com/title/tt36786185/">View on IMDb</a>]]></description>
@@ -109,26 +129,6 @@
       <title>Temple</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=328958</link>
       <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Temple-poster.jpg" alt="Temple poster" /><br/><br/><a href="https://www.imdb.com/title/tt7736572/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>River</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328894</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/River-poster.jpg" alt="River poster" /><br/><br/><a href="https://www.imdb.com/title/tt4258440/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Dublin Murders</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328875</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Dublin_Murders-poster.jpg" alt="Dublin Murders poster" /><br/><br/><a href="https://www.imdb.com/title/tt7768192/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Love/Hate</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328736</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Love_Hate-poster.jpg" alt="Love/Hate poster" /><br/><br/><a href="https://www.imdb.com/title/tt1625724/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Westies</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=328724</link>
-      <description><![CDATA[Library: Series<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Westies-poster.jpg" alt="The Westies poster" /><br/><br/><a href="https://www.imdb.com/title/tt31849235/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
