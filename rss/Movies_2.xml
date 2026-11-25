@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>9 (short film)</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=332065</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/9_(short_film)-poster.jpg" alt="9 (short film) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0443424/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Wicker</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=332050</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Wicker-poster.jpg" alt="Wicker poster" /><br/><br/><a href="https://www.imdb.com/title/tt29611136/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Tony</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=332049</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tony-poster.jpg" alt="Tony poster" /><br/><br/><a href="https://www.imdb.com/title/tt33095251/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Of Mice and Men</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=330963</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Of_Mice_and_Men-poster.jpg" alt="Of Mice and Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105046/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bad Apples</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330865</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bad_Apples-poster.jpg" alt="Bad Apples poster" /><br/><br/><a href="https://www.imdb.com/title/tt29714073/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Blink</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330860</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blink-poster.jpg" alt="Blink poster" /><br/><br/><a href="https://www.imdb.com/title/tt0109297/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
