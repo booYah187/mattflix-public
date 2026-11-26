@@ -6,6 +6,11 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The League</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=332067</link>
+      <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_League-poster.jpg" alt="The League poster" /><br/><br/><a href="https://www.imdb.com/title/tt1480684/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>9 (short film)</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=332065</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/9_(short_film)-poster.jpg" alt="9 (short film) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0443424/">View on IMDb</a>]]></description>
@@ -499,11 +504,6 @@
       <title>The Musical</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329812</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Musical-poster.jpg" alt="The Musical poster" /><br/><br/><a href="https://www.imdb.com/title/tt37775809/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Bloody Birthday</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329802</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Bloody_Birthday-poster.jpg" alt="Bloody Birthday poster" /><br/><br/><a href="https://www.imdb.com/title/tt0082084/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
