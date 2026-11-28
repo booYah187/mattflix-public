@@ -6,6 +6,16 @@
     <description>Recently added Movies from mattflix</description>
     <language>en-us</language>
     <item>
+      <title>The Exorcist III</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=332482</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Exorcist_III-poster.jpg" alt="The Exorcist III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099528/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Street Fighter</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=332474</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Street_Fighter-poster.jpg" alt="Street Fighter poster" /><br/><br/><a href="https://www.imdb.com/title/tt27419420/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>9 (short film)</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=332065</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/9_(short_film)-poster.jpg" alt="9 (short film) poster" /><br/><br/><a href="https://www.imdb.com/title/tt0443424/">View on IMDb</a>]]></description>
@@ -119,16 +129,6 @@
       <title>Maggie Moore(s)</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=331023</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Maggie_Moore(s)-poster.jpg" alt="Maggie Moore(s) poster" /><br/><br/><a href="https://www.imdb.com/title/tt14181816/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Between Two Ferns: The Movie</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330991</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Between_Two_Ferns_The_Movie-poster.jpg" alt="Between Two Ferns: The Movie poster" /><br/><br/><a href="https://www.imdb.com/title/tt9398640/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Of Mice and Men</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=330963</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="http://192.168.1 205:8111/mattyj513/mattflix-public/raw/branch/main/rss/posters/Of_Mice_and_Men-poster.jpg" alt="Of Mice and Men poster" /><br/><br/><a href="https://www.imdb.com/title/tt0105046/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>

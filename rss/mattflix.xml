@@ -6,6 +6,16 @@
     <description>100 most recent items across all Emby libraries</description>
     <language>en-us</language>
     <item>
+      <title>The Exorcist III</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=332482</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Exorcist_III-poster.jpg" alt="The Exorcist III poster" /><br/><br/><a href="https://www.imdb.com/title/tt0099528/">View on IMDb</a>]]></description>
+    </item>
+    <item>
+      <title>Street Fighter</title>
+      <link>http://192.168.1.16:8096/web/index.html#!/item?id=332474</link>
+      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Street_Fighter-poster.jpg" alt="Street Fighter poster" /><br/><br/><a href="https://www.imdb.com/title/tt27419420/">View on IMDb</a>]]></description>
+    </item>
+    <item>
       <title>Blade Runner 2099</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=332383</link>
       <description><![CDATA[Library: Series<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Blade_Runner_2099-poster.jpg" alt="Blade Runner 2099 poster" /><br/><br/><a href="https://www.imdb.com/title/tt18224594/">View on IMDb</a>]]></description>
@@ -494,16 +504,6 @@
       <title>The Blair Witch Project</title>
       <link>http://192.168.1.16:8096/web/index.html#!/item?id=329984</link>
       <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Blair_Witch_Project-poster.jpg" alt="The Blair Witch Project poster" /><br/><br/><a href="https://www.imdb.com/title/tt0185937/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>The Weight</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329858</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/The_Weight-poster.jpg" alt="The Weight poster" /><br/><br/><a href="https://www.imdb.com/title/tt10794054/">View on IMDb</a>]]></description>
-    </item>
-    <item>
-      <title>Tiny Fugitives</title>
-      <link>http://192.168.1.16:8096/web/index.html#!/item?id=329835</link>
-      <description><![CDATA[Library: Movies<br/><br/><img src="https://blacklungindustries.ddns.net/gitea/mattyj513/mattflix-public/raw/branch/main/rss/posters/Tiny_Fugitives-poster.jpg" alt="Tiny Fugitives poster" /><br/><br/><a href="https://www.imdb.com/title/tt32827454/">View on IMDb</a>]]></description>
     </item>
   </channel>
 </rss>
